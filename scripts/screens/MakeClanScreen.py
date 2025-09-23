@@ -1895,7 +1895,7 @@ class MakeClanScreen(Screens):
             object_id="@buttonstyles_icon_tab_left",
             manager=MANAGER,
             tool_tip_text="screens.make_clan.season_tooltip",
-            tool_tip_text_kwargs={"season": i18n.t("general.leafbare").capitalize()},
+            tool_tip_text_kwargs={"season": i18n.t("general.leaf-bare").capitalize()},
             anchors={"top_target": self.tabs["leaffall_tab"]},
         )
         # Random background
