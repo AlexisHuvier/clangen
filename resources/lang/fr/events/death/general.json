@@ -888,7 +888,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c saved r_c from a snake but was bitten in the process. The venom killed {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a sauvé r_c d'un serpent mais a été mordu en le faisant. Le venin a tué {PRONOUN\/m_c\/object}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -929,8 +929,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a snake while saving a kit.",
-                "lead_death": "died saving a kit from a snake"
+                "reg_death": "m_c a été tué par un serpent en sauvant un chaton.",
+                "lead_death": "est mort en sauvant un chaton d'un serpent"
             }
         ]
     },
@@ -946,7 +946,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c went missing and was found dead out in the territory.",
+        "event_text": "m_c a disparu et a été retrouvé mort dans le territoire.",
         "m_c": {
             "dies": true
         },
@@ -955,8 +955,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c went missing and was found dead.",
-                "lead_death": "went missing and {VERB\/m_c\/were\/was} found dead"
+                "reg_death": "m_c a disparu et a été retrouvé mort.",
+                "lead_death": "a disparu et {VERB\/m_c\/were\/was} retrouvé mort"
             }
         ]
     },
@@ -972,7 +972,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was found dead near the o_c_n border.",
+        "event_text": "m_c a été retrouvé mort près de la frontière avec o_c_n.",
         "m_c": {
             "not_skill": [
                 "FIGHTER,2"
@@ -984,8 +984,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was found dead near the o_c_n border.",
-                "lead_death": "to mysterious circumstances near the o_c_n border"
+                "reg_death": "m_c a été retrouvé mort près de la frontière avec o_c_n.",
+                "lead_death": "dans des circonstances mystérieuses près de la frontière avec o_c_n"
             }
         ],
         "other_clan": {
@@ -1007,7 +1007,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "o_c_n attempted to break into the camp. m_c and r_c are left cold on the ground in the aftermath.",
+        "event_text": "o_c_n a tenté de pénétrer dans le camp. m_c et r_c sont retrouvés froids sur le sol après l'attaque.",
         "m_c": {
             "dies": true
         },
@@ -1020,8 +1020,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died when o_c_n tried to break into camp.",
-                "lead_death": "tried to defend the Clan from o_c_n",
+                "reg_death": "Ce chat est mort lorsque o_c_n a tenté de pénétrer dans le camp.",
+                "lead_death": "a essayé de défendre le Clan contre o_c_n",
                 "scar": ""
             }
         ],
@@ -1042,7 +1042,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "o_c_n attempted to break into the camp. m_c died defending the nursery, r_c huddled beneath {PRONOUN\/m_c\/poss} cooling body.",
+        "event_text": "o_c_n a tenté de pénétrer dans le camp. m_c est mort en défendant la pouponnière, r_c blotti sous le corps refroidi de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1080,8 +1080,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died defending r_c from o_c_n warriors.",
-                "lead_death": "died defending the nursery"
+                "reg_death": "m_c est mort en défendant r_c contre les guerriers de o_c_n.",
+                "lead_death": "est mort en défendant la pouponnière"
             }
         ],
         "relationships": [
@@ -1128,7 +1128,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c was burnt alive while trying to save r_c from a fire.",
+        "event_text": "m_c a été brûlé vif en essayant de sauver r_c d'un incendie.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1167,8 +1167,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed in a fire while trying to save r_c.",
-                "lead_death": "{VERB\/m_c\/were\/was} burnt alive saving r_c"
+                "reg_death": "m_c a été tué dans un incendie en essayant de sauver r_c.",
+                "lead_death": "{VERB\/m_c\/were\/was} brûlé vif en sauvant r_c"
             }
         ],
         "relationships": [
@@ -1200,7 +1200,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c died after catching greencough.",
+        "event_text": "m_c est mort après avoir attrapé le mal vert.",
         "m_c": {
             "dies": true
         },
@@ -1209,8 +1209,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of greencough.",
-                "lead_death": "died of greencough"
+                "reg_death": "m_c est mort du mal vert.",
+                "lead_death": "mort du mal vert"
             }
         ]
     },
@@ -1226,7 +1226,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c died from infected wounds.",
+        "event_text": "m_c est mort de blessures infectées.",
         "m_c": {
             "age": [
                 "any"
@@ -1241,8 +1241,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from infected wounds.",
-                "lead_death": "died from infected wounds"
+                "reg_death": "m_c est mort de blessures infectées.",
+                "lead_death": "mort de blessures infectées"
             }
         ]
     },
@@ -1258,7 +1258,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c die from eating tainted prey.",
+        "event_text": "m_c et r_c meurent après avoir mangé une proie contaminée.",
         "m_c": {
             "age": [
                 "any"
@@ -1284,8 +1284,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "m_c died from eating tainted prey.",
-                "lead_death": "ate tainted prey"
+                "reg_death": "m_c est mort après avoir mangé une proie contaminée.",
+                "lead_death": "a mangé une proie contaminée"
             }
         ]
     },
@@ -1299,7 +1299,7 @@
         ],
         "tags": [],
         "frequency": 3,
-        "event_text": "m_c fell into the river. r_c drowned alongside m_c while trying to rescue {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c est tombé dans la rivière. r_c s'est noyé en essayant de sauver {PRONOUN\/m_c\/object}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1341,8 +1341,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat drowned alongside a Clanmate.",
-                "lead_death": "drowned alongside a Clanmate"
+                "reg_death": "Ce chat s'est noyé aux côtés d'un camarade de Clan.",
+                "lead_death": "s'est noyé aux côtés d'un camarade de Clan"
             }
         ]
     },
@@ -1356,7 +1356,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c and r_c are killed by a gang of rogues.",
+        "event_text": "m_c et r_c sont tués par une bande de solitaires.",
         "m_c": {
             "age": [
                 "young adult",
@@ -1385,8 +1385,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "m_c was killed by a gang of rogues.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by a gang of rogues"
+                "reg_death": "m_c a été tué par une bande de solitaires.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par une bande de solitaires"
             }
         ]
     },
@@ -1402,7 +1402,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "r_c and m_c die of greencough.",
+        "event_text": "r_c et m_c meurent du mal vert.",
         "m_c": {
             "age": [
                 "any"
@@ -1427,8 +1427,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died of greencough.",
-                "lead_death": "died of greencough"
+                "reg_death": "Ce chat est mort du mal vert.",
+                "lead_death": "mort du mal vert"
             }
         ]
     },
@@ -1444,7 +1444,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "r_c and m_c die of yellowcough.",
+        "event_text": "r_c et m_c meurent du mal jaune.",
         "m_c": {
             "age": [
                 "any"
@@ -1469,8 +1469,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died of yellowcough.",
-                "lead_death": "died of yellowcough"
+                "reg_death": "Ce chat est mort du mal jaune.",
+                "lead_death": "mort du mal jaune"
             }
         ]
     },
@@ -1486,7 +1486,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "A bad case of greencough strikes the Clan, taking r_c and m_c's lives.",
+        "event_text": "Une grave épidémie de mal vert frappe le Clan, emportant la vie de r_c et m_c.",
         "m_c": {
             "age": [
                 "any"
@@ -1511,8 +1511,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died of greencough.",
-                "lead_death": "died of greencough"
+                "reg_death": "Ce chat est mort du mal vert.",
+                "lead_death": "mort du mal vert"
             }
         ]
     },
@@ -1526,7 +1526,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c sneaked out of camp, intending to discover more about {PRONOUN\/m_c\/poss} origins. After a long morning search, c_n found {PRONOUN\/m_c\/poss} cooling body.",
+        "event_text": "m_c s'est faufilé hors du camp, voulant en apprendre plus sur {PRONOUN\/m_c\/poss} origines. Après une longue matinée de recherches, c_n a retrouvé le corps refroidi de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1553,7 +1553,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "Curiosity killed this cat."
+                "reg_death": "La curiosité a tué ce chat."
             }
         ]
     },
@@ -1570,7 +1570,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c sacrificed {PRONOUN\/m_c\/self} for r_c in a battle with o_c_n.",
+        "event_text": "m_c s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille contre o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1593,8 +1593,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c sacrificed {PRONOUN\/m_c\/self} for r_c in battle.",
-                "lead_death": "sacrificed {PRONOUN\/m_c\/self} for r_c in battle."
+                "reg_death": "m_c s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille.",
+                "lead_death": "s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille"
             }
         ],
         "relationships": [
@@ -1633,7 +1633,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c threw {PRONOUN\/m_c\/self} in front of an oncoming attack meant for r_c, taking the deadly blow instead.",
+        "event_text": "m_c s'est jeté{PRONOUN/m_c/suffix_e} devant une attaque destinée à r_c, recevant le coup fatal à sa place.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1656,8 +1656,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c sacrificed {PRONOUN\/m_c\/self} for r_c in battle.",
-                "lead_death": "sacrificed {PRONOUN\/m_c\/self} for r_c in battle."
+                "reg_death": "m_c s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille.",
+                "lead_death": "s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille"
             }
         ],
         "relationships": [
@@ -1696,7 +1696,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c stayed behind and fought a losing battle to give r_c time to escape.",
+        "event_text": "m_c est resté{PRONOUN/m_c/suffix_e} en arrière et a livré une bataille perdue d'avance pour donner à r_c le temps de s'échapper.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1719,8 +1719,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c sacrificed {PRONOUN\/m_c\/self} for r_c in battle.",
-                "lead_death": "sacrificed {PRONOUN\/m_c\/self} for r_c in battle."
+                "reg_death": "m_c s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille.",
+                "lead_death": "s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une bataille"
             }
         ],
         "relationships": [
@@ -1759,7 +1759,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c used {PRONOUN\/m_c\/poss} own body to shield r_c from a surprise o_c_n ambush, even though it meant certain death.",
+        "event_text": "m_c a utilisé son propre corps pour protéger r_c d'une embuscade surprise de o_c_n, même si cela signifiait une mort certaine.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1785,8 +1785,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c sacrificed {PRONOUN\/m_c\/self} for r_c in an ambush.",
-                "lead_death": "sacrificed {PRONOUN\/m_c\/self} for r_c in an ambush."
+                "reg_death": "m_c s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une embuscade.",
+                "lead_death": "s'est sacrifié{PRONOUN/m_c/suffix_e} pour r_c lors d'une embuscade."
             }
         ],
         "relationships": [
@@ -1825,7 +1825,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed while investigating enemy territory.",
+        "event_text": "m_c a été tué en enquêtant sur le territoire ennemi.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1838,7 +1838,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed investigating enemy territory."
+                "reg_death": "m_c a été tué en enquêtant sur le territoire ennemi."
             }
         ],
         "other_clan": {
@@ -1863,7 +1863,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c drowned in a river while trying to escape from a sudden o_c_n attack.",
+        "event_text": "m_c s'est noyé dans une rivière en tentant d'échapper à une attaque soudaine de o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1881,8 +1881,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c drowned in a river attempting to escape an enemy attack.",
-                "lead_death": "drowned in a river attempting to escape an enemy attack."
+                "reg_death": "m_c s'est noyé dans une rivière en tentant d'échapper à une attaque ennemie.",
+                "lead_death": "s'est noyé dans une rivière en tentant d'échapper à une attaque ennemie"
             }
         ],
         "other_clan": {
@@ -1904,7 +1904,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c fell into a pit trap set by o_c_n's warriors.",
+        "event_text": "m_c est tombé dans un piège creusé par les guerriers de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1919,8 +1919,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c fell into a pit trap set by an enemy Clan.",
-                "lead_death": "fell into a pit trap set by an enemy Clan.",
+                "reg_death": "m_c est tombé dans un piège creusé par un Clan ennemi.",
+                "lead_death": "est tombé dans un piège creusé par un Clan ennemi.",
                 "scar": ""
             }
         ],
@@ -1943,7 +1943,7 @@
             "war"
         ],
         "frequency": 3,
-        "event_text": "m_c was hit by a monster while escaping across a Thunderpath from o_c_n warriors.",
+        "event_text": "m_c a été percuté par un monstre en tentant de s'échapper sur le Chemin du Tonnerre des guerriers de o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1958,8 +1958,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was hit by a monster.",
-                "lead_death": "{VERB\/m_c\/were\/was} hit by a monster.",
+                "reg_death": "m_c a été percuté par un monstre.",
+                "lead_death": "{VERB\/m_c\/were\/was} percuté par un monstre.",
                 "scar": ""
             }
         ],
@@ -1985,7 +1985,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c wandered out into the territory and was later found dead, a peaceful expression on {PRONOUN\/m_c\/poss} face.",
+        "event_text": "m_c s'est aventuré dans le territoire et a été retrouvé mort plus tard, une expression paisible sur le visage de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "senior"
@@ -1997,8 +1997,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of old age.",
-                "lead_death": "died of old age"
+                "reg_death": "m_c est mort de vieillesse.",
+                "lead_death": "mort de vieillesse"
             }
         ]
     },
@@ -2017,7 +2017,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was found stiff and curled up in {PRONOUN\/m_c\/poss} nest. It seems {PRONOUN\/m_c\/subject} died in {PRONOUN\/m_c\/poss} sleep.",
+        "event_text": "m_c a été retrouvé froid et recroquevillé dans son nid. Il semble que {PRONOUN\/m_c\/subject} soit mort dans son sommeil.",
         "m_c": {
             "age": [
                 "senior"
@@ -2029,8 +2029,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of old age.",
-                "lead_death": "died of old age"
+                "reg_death": "m_c est mort de vieillesse.",
+                "lead_death": "mort de vieillesse"
             }
         ]
     },
@@ -2049,7 +2049,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c faded more and more as the days went by, until one day, {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} found dead in {PRONOUN\/m_c\/poss} nest.",
+        "event_text": "m_c s'est affaibli de jour en jour, jusqu'à ce qu'un matin, {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} retrouvé mort dans son nid.",
         "m_c": {
             "age": [
                 "senior"
@@ -2061,8 +2061,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of old age.",
-                "lead_death": "died of old age"
+                "reg_death": "m_c est mort de vieillesse.",
+                "lead_death": "mort de vieillesse"
             }
         ]
     },
@@ -2079,7 +2079,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c is suddenly struck by a sharp pain in {PRONOUN\/m_c\/poss} chest. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} found later that day, cold.",
+        "event_text": "m_c est soudainement frappé par une vive douleur à la poitrine. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} retrouvé plus tard dans la journée, froid.",
         "m_c": {
             "age": [
                 "senior"
@@ -2096,7 +2096,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of a heart attack."
+                "reg_death": "m_c est mort d'une crise cardiaque."
             }
         ]
     },
@@ -2115,7 +2115,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c loved each other so much they could not be parted, even by death. c_n found their bodies still wrapped around each other in the morning.",
+        "event_text": "m_c et r_c s'aimaient tant qu'ils ne pouvaient être séparés, même par la mort. c_n a retrouvé leurs corps encore enlacés au matin.",
         "m_c": {
             "age": [
                 "senior"
@@ -2143,8 +2143,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died from old age.",
-                "lead_death": "died from old age."
+                "reg_death": "Ce chat est mort de vieillesse.",
+                "lead_death": "mort de vieillesse"
             }
         ]
     },
@@ -2161,7 +2161,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c met their end to the long claws of a predator. Later, c_n found only {PRONOUN\/m_c\/poss} blood and a foul smell.",
+        "event_text": "m_c a trouvé la mort sous les longues griffes d'un prédateur. Plus tard, c_n n'a retrouvé que le sang de {PRONOUN\/m_c\/poss} et une odeur nauséabonde.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -2176,8 +2176,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by an unknown predator.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by an unknown predator."
+                "reg_death": "m_c a été tué par un prédateur inconnu.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un prédateur inconnu."
             }
         ]
     },
@@ -2194,7 +2194,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was murdered by r_c in cold blood in the hope of taking {PRONOUN\/m_c\/poss} place.",
+        "event_text": "m_c a été assassiné par r_c de sang froid dans l'espoir de prendre la place de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "deputy"
@@ -2229,7 +2229,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was murdered by r_c."
+                "reg_death": "m_c a été assassiné par r_c."
             }
         ],
         "relationships": [
@@ -2285,7 +2285,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was murdered by r_c in cold blood. r_c staged the death as an accident and hopes to take {PRONOUN\/m_c\/poss} place.",
+        "event_text": "m_c a été assassiné par r_c de sang froid. r_c a fait passer la mort pour un accident et espère prendre la place de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "deputy"
@@ -2320,7 +2320,7 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "m_c was secretly murdered by r_c."
+                "reg_death": "m_c a été secrètement assassiné par r_c."
             }
         ],
         "relationships": [
@@ -2378,7 +2378,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "Lured by trickery and deceptive words, m_c was shoved into a ravine by r_c, killing {PRONOUN\/m_c\/object}.",
+        "event_text": "Leurré par la ruse et des paroles trompeuses, m_c a été poussé dans un ravin par r_c, tuant {PRONOUN\/m_c\/object}.",
         "m_c": {
             "status": [
                 "deputy",
@@ -2400,8 +2400,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c {VERB\/m_c\/were\/was} pushed into a ravine by r_c.",
-                "lead_death": "{VERB\/m_c\/were\/was} pushed into a ravine by r_c"
+                "reg_death": "m_c a été poussé dans un ravin par r_c.",
+                "lead_death": "a été poussé dans un ravin par r_c"
             }
         ],
         "relationships": [
@@ -2459,7 +2459,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "r_c tricked m_c into playing on thin ice. {PRONOUN\/r_c\/subject\/CAP} watched closely as m_c disappeared beneath the surface.",
+        "event_text": "r_c a trompé m_c pour jouer sur la glace fine. {PRONOUN\/r_c\/subject\/CAP} a observé attentivement alors que m_c disparaissait sous la surface.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -2498,8 +2498,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was lured onto thin ice by r_c, resulting in {PRONOUN\/m_c\/poss} death.",
-                "lead_death": "{VERB\/m_c\/were\/was} lured onto thin ice by r_c and fell through, becoming trapped underwater"
+                "reg_death": "m_c a été attiré sur la glace fine par r_c, ce qui a causé la mort de {PRONOUN\/m_c\/poss}.",
+                "lead_death": "{VERB\/m_c\/were\/was} attiré sur la glace fine par r_c et est tombé à travers, se retrouvant piégé sous l'eau"
             }
         ],
         "relationships": [
@@ -2555,7 +2555,7 @@
             "all_lives"
         ],
         "frequency": 3,
-        "event_text": "Last c_n heard, m_c and r_c were going out to play. They don't return, and the ice on a nearby pond is cracked.",
+        "event_text": "La dernière fois que c_n a vu m_c et r_c, ils partaient jouer. Ils ne reviennent pas, et la glace d'un étang proche est fissurée.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -2607,8 +2607,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "m_c and r_c went to play on the ice of a frozen pond, not knowing it was too thin.",
-                "lead_death": "fell through thin ice and drowned"
+                "reg_death": "m_c et r_c sont allés jouer sur la glace d'un étang gelé, sans savoir qu'elle était trop fine.",
+                "lead_death": "sont tombés à travers la glace fine et se sont noyés"
             }
         ]
     },
@@ -2625,7 +2625,7 @@
             "all_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c fell into a sinkhole and was never seen again.",
+        "event_text": "m_c est tombé dans un gouffre et n'a jamais été revu.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -2641,8 +2641,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c fell into a sinkhole.",
-                "lead_death": "fell into a sinkhole"
+                "reg_death": "m_c est tombé dans un gouffre.",
+                "lead_death": "est tombé dans un gouffre"
             }
         ]
     },
@@ -2660,7 +2660,7 @@
             "all_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c fell into a hidden burrow and was buried alive.",
+        "event_text": "m_c est tombé dans un terrier caché et a été enterré vivant.",
         "m_c": {
             "dies": true
         },
@@ -2669,8 +2669,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c fell into a hidden burrow.",
-                "lead_death": "{VERB\/m_c\/were\/was} buried alive in a hidden burrow"
+                "reg_death": "m_c est tombé dans un terrier caché.",
+                "lead_death": "{VERB\/m_c\/were\/was} enterré vivant dans un terrier caché"
             }
         ]
     },
@@ -2688,7 +2688,7 @@
             "all_lives"
         ],
         "frequency": 3,
-        "event_text": "m_c was buried alive when a burrow collapsed on {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a été enterré vivant lorsqu'un terrier s'est effondré sur {PRONOUN\/m_c\/object}.",
         "m_c": {
             "dies": true
         },
@@ -2697,8 +2697,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was buried alive when a burrow collapsed.",
-                "lead_death": "{VERB\/m_c\/were\/was} buried alive in a hidden burrow"
+                "reg_death": "m_c a été enterré vivant lorsqu'un terrier s'est effondré.",
+                "lead_death": "{VERB\/m_c\/were\/was} enterré vivant dans un terrier caché"
             }
         ]
     },
@@ -2714,7 +2714,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c died from dehydration and heat stroke.",
+        "event_text": "m_c est mort de déshydratation et d'un coup de chaleur.",
         "m_c": {
             "age": [
                 "any"
@@ -2729,8 +2729,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of dehydration and heat stroke.",
-                "lead_death": "died of dehydration and heat stroke"
+                "reg_death": "m_c est mort de déshydratation et d'un coup de chaleur.",
+                "lead_death": "mort de déshydratation et d'un coup de chaleur"
             }
         ]
     },
@@ -2748,7 +2748,7 @@
             "all_lives"
         ],
         "frequency": 3,
-        "event_text": "m_c froze to death during a harsh snowstorm.",
+        "event_text": "m_c est mort de froid lors d'une violente tempête de neige.",
         "m_c": {
             "dies": true
         },
@@ -2757,8 +2757,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c froze to death.",
-                "lead_death": "froze to death"
+                "reg_death": "m_c est mort de froid.",
+                "lead_death": "mort de froid"
             }
         ]
     },
@@ -2774,7 +2774,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was found dead and cold in the snow.",
+        "event_text": "m_c a été retrouvé mort et froid dans la neige.",
         "m_c": {
             "dies": true
         },
@@ -2783,8 +2783,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c froze to death.",
-                "lead_death": "froze to death"
+                "reg_death": "m_c est mort de froid.",
+                "lead_death": "mort de froid"
             }
         ]
     },
@@ -2800,7 +2800,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was walking on the ice, when it cracked and {PRONOUN\/m_c\/subject} fell in.",
+        "event_text": "m_c marchait sur la glace, quand elle s'est fissurée et {PRONOUN\/m_c\/subject} est tombé dedans.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -2816,8 +2816,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c froze to death after falling through ice.",
-                "lead_death": "fell through thin ice and drowned"
+                "reg_death": "m_c est mort de froid après être tombé à travers la glace.",
+                "lead_death": "est tombé à travers la glace fine et s'est noyé"
             }
         ]
     },
@@ -2838,7 +2838,7 @@
             "all_lives"
         ],
         "frequency": 3,
-        "event_text": "m_c was buried alive in a cramped rabbit burrow by o_c_n warriors.",
+        "event_text": "m_c a été enterré vivant dans un terrier de lapin exigu par des guerriers de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -2856,8 +2856,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c suffocated underground.",
-                "lead_death": "{VERB\/m_c\/were\/was} suffocated underground.",
+                "reg_death": "m_c est mort étouffé sous terre.",
+                "lead_death": "{VERB\/m_c\/were\/was} étouffé sous terre.",
                 "scar": ""
             }
         ],
@@ -2878,7 +2878,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died in a border skirmish against o_c_n.",
+        "event_text": "m_c est mort lors d'une escarmouche à la frontière contre o_c_n.",
         "m_c": {
             "status": [
                 "warrior",
@@ -2895,8 +2895,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died in a border skirmish against o_c_n.",
-                "lead_death": "died in a border skirmish against o_c_n"
+                "reg_death": "m_c est mort lors d'une escarmouche à la frontière contre o_c_n.",
+                "lead_death": "mort lors d'une escarmouche à la frontière contre o_c_n"
             }
         ],
         "other_clan": {
@@ -2920,7 +2920,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "Blinded by blood in the midst of battle, r_c fatally mistakes m_c for a foe.",
+        "event_text": "Aveuglé par le sang au cœur de la bataille, r_c prend m_c pour un ennemi et le tue accidentellement.",
         "m_c": {
             "status": [
                 "warrior",
@@ -2950,8 +2950,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was accidentally killed by r_c in battle.",
-                "lead_death": "{VERB\/m_c\/were\/was} accidentally killed by r_c in battle",
+                "reg_death": "m_c a été accidentellement tué par r_c lors d'une bataille.",
+                "lead_death": "{VERB\/m_c\/were\/was} accidentellement tué par r_c lors d'une bataille",
                 "scar": ""
             }
         ],
@@ -3001,7 +3001,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed while trying to save the medicine cat of o_c_n.",
+        "event_text": "m_c a été tué en essayant de sauver le guérisseur de o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3034,8 +3034,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed while trying to save o_c_n's medicine cat.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed while trying to save o_c_n's medicine cat"
+                "reg_death": "m_c a été tué en essayant de sauver le guérisseur de o_c_n.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué en essayant de sauver le guérisseur de o_c_n"
             }
         ],
         "other_clan": {
@@ -3057,7 +3057,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed by the deputy of o_c_n.",
+        "event_text": "m_c a été tué par le lieutenant de o_c_n.",
         "m_c": {
             "status": [
                 "warrior",
@@ -3074,8 +3074,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by the deputy of o_c_n.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by the deputy of o_c_n"
+                "reg_death": "m_c a été tué par le lieutenant de o_c_n.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par le lieutenant de o_c_n"
             }
         ],
         "other_clan": {
@@ -3096,7 +3096,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed while trying to save the deputy of o_c_n.",
+        "event_text": "m_c a été tué en essayant de sauver le lieutenant de o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3129,8 +3129,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed while trying to save o_c_n's deputy.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed while trying to save o_c_n's deputy"
+                "reg_death": "m_c a été tué en essayant de sauver le lieutenant de o_c_n.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué en essayant de sauver le lieutenant de o_c_n"
             }
         ],
         "other_clan": {
@@ -3151,7 +3151,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed by the leader of o_c_n.",
+        "event_text": "m_c a été tué par le chef de o_c_n.",
         "m_c": {
             "status": [
                 "warrior",
@@ -3168,8 +3168,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by the leader of o_c_n.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by the leader of o_c_n"
+                "reg_death": "m_c a été tué par le chef de o_c_n.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par le chef de o_c_n"
             }
         ],
         "other_clan": {
@@ -3190,7 +3190,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed while trying to save the leader of o_c_n.",
+        "event_text": "m_c a été tué en essayant de sauver le chef de o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3223,8 +3223,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed while trying to save o_c_n's leader.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed while trying to save o_c_n's leader"
+                "reg_death": "m_c a été tué en essayant de sauver le chef de o_c_n.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué en essayant de sauver le chef de o_c_n"
             }
         ],
         "other_clan": {
@@ -3245,7 +3245,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c and r_c are killed in a border skirmish against o_c_n.",
+        "event_text": "m_c et r_c sont tués lors d'une escarmouche à la frontière contre o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3276,8 +3276,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died in a border skirmish against o_c_n.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed in a border skirmish against o_c_n."
+                "reg_death": "Ce chat est mort lors d'une escarmouche à la frontière contre o_c_n.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué lors d'une escarmouche à la frontière contre o_c_n."
             }
         ],
         "other_clan": {
@@ -3303,7 +3303,7 @@
             "no_body"
         ],
         "frequency": 2,
-        "event_text": "m_c was buried alive in an avalanche.",
+        "event_text": "m_c a été enterré vivant dans une avalanche.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3322,8 +3322,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was buried alive in an avalanche.",
-                "lead_death": "{VERB\/m_c\/were\/was} buried alive in an avalanche"
+                "reg_death": "m_c a été enterré vivant dans une avalanche.",
+                "lead_death": "{VERB\/m_c\/were\/was} enterré vivant dans une avalanche"
             }
         ]
     },
@@ -3342,7 +3342,7 @@
             "no_body"
         ],
         "frequency": 2,
-        "event_text": "m_c was buried alive in a landslide.",
+        "event_text": "m_c a été enterré vivant dans un glissement de terrain.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3358,8 +3358,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was buried alive in a landslide.",
-                "lead_death": "{VERB\/m_c\/were\/was} buried alive in a landslide"
+                "reg_death": "m_c a été enterré vivant dans un glissement de terrain.",
+                "lead_death": "{VERB\/m_c\/were\/was} enterré vivant dans un glissement de terrain"
             }
         ]
     },
@@ -3374,7 +3374,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c was buried alive in a mudslide.",
+        "event_text": "m_c a été enterré vivant dans un glissement de boue.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3393,8 +3393,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was buried alive in a mudslide.",
-                "lead_death": "{VERB\/m_c\/were\/was} buried alive in a mudslide"
+                "reg_death": "m_c a été enterré vivant dans un glissement de boue.",
+                "lead_death": "{VERB\/m_c\/were\/was} enterré vivant dans un glissement de boue"
             }
         ]
     },
@@ -3410,7 +3410,7 @@
         ],
         "tags": [],
         "frequency": 3,
-        "event_text": "m_c slipped off a cliff onto the sharp rocks at the bottom.",
+        "event_text": "m_c a glissé d'une falaise sur les rochers pointus en bas.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3432,8 +3432,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c slipped off the edge of a cliff.",
-                "lead_death": "slipped off the edge of a cliff"
+                "reg_death": "m_c a glissé du bord d'une falaise.",
+                "lead_death": "a glissé du bord d'une falaise"
             }
         ]
     },
@@ -3451,7 +3451,7 @@
             "all_lives"
         ],
         "frequency": 3,
-        "event_text": "m_c slipped off a cliff onto the sharp rocks at the bottom and couldn't recover.",
+        "event_text": "m_c a glissé d'une falaise sur les rochers pointus en bas et n'a pas pu se relever.",
         "m_c": {
             "status": [
                 "leader"
@@ -3463,7 +3463,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "slipped off the edge of a cliff"
+                "lead_death": "a glissé du bord d'une falaise"
             }
         ]
     },
@@ -3482,7 +3482,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was pushed off a cliff onto the sharp rocks at the bottom.",
+        "event_text": "m_c a été poussé d'une falaise sur les rochers pointus en bas.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3520,7 +3520,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was pushed off a cliff by r_c."
+                "reg_death": "m_c a été poussé d'une falaise par r_c."
             }
         ],
         "relationships": [
@@ -3577,7 +3577,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c was killed by a falling boulder that o_c_n warriors pushed from a cliff above {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a été tué par un rocher tombant que o_c_n guerriers ont poussé d'une falaise au-dessus de {PRONOUN\/m_c\/object}.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3592,8 +3592,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was crushed by a falling boulder.",
-                "lead_death": "{VERB\/m_c\/were\/was} crushed by a falling boulder",
+                "reg_death": "m_c a été écrasé par un rocher tombant.",
+                "lead_death": "{VERB\/m_c\/were\/was} écrasé par un rocher tombant",
                 "scar": ""
             }
         ],
@@ -3619,7 +3619,7 @@
             "no_body"
         ],
         "frequency": 2,
-        "event_text": "r_c yowled a warning as {PRONOUN\/r_c\/subject} saw a circling shadow, right above m_c. r_c couldn't get there before m_c was carried high into the sky.",
+        "event_text": "r_c poussa un cri d'alerte en voyant une ombre tournoyer juste au-dessus de m_c. r_c n'a pas pu arriver à temps avant que m_c ne soit emporté dans le ciel.",
         "m_c": {
             "age": [
                 "kitten",
@@ -3648,7 +3648,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was grabbed by a hawk, never to be seen again."
+                "reg_death": "m_c a été emporté par une buse, et n'a jamais été revu."
             }
         ]
     },
@@ -3665,7 +3665,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c was killed defending r_c from a hawk.",
+        "event_text": "m_c a été tué en défendant r_c d'une buse.",
         "m_c": {
             "age": [
                 "young adult",
@@ -3705,8 +3705,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died defending r_c from a hawk",
-                "lead_death": "defended r_c from a hawk"
+                "reg_death": "m_c est mort en défendant r_c d'une buse",
+                "lead_death": "a défendu r_c d'une buse"
             }
         ],
         "relationships": [
@@ -3741,7 +3741,7 @@
             "no_body"
         ],
         "frequency": 2,
-        "event_text": "m_c was carried off by an eagle, never to be seen again.",
+        "event_text": "m_c a été emporté par un aigle, et n'a jamais été revu.",
         "m_c": {
             "age": [
                 "kitten",
@@ -3754,7 +3754,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was carried away by an eagle."
+                "reg_death": "m_c a été emporté par un aigle, et n'a jamais été revu."
             }
         ]
     },
@@ -3776,7 +3776,7 @@
             "no_body"
         ],
         "frequency": 3,
-        "event_text": "m_c fell into a river and was swept away by the current, never to be seen again.",
+        "event_text": "m_c est tombé dans une rivière et a été emporté par le courant, sans jamais être revu.",
         "m_c": {
             "age": [
                 "young adult",
@@ -3791,8 +3791,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was swept away by the river.",
-                "lead_death": "{VERB\/m_c\/were\/was} swept away by the river"
+                "reg_death": "m_c a été emporté par la rivière.",
+                "lead_death": "{VERB\/m_c\/were\/was} emporté par la rivière"
             }
         ]
     },
@@ -3808,7 +3808,7 @@
             "no_body"
         ],
         "frequency": 2,
-        "event_text": "m_c was taken by a hawk, never to be seen again.",
+        "event_text": "m_c a été emporté par une buse, et n'a jamais été revu.",
         "m_c": {
             "age": [
                 "kitten",
@@ -3824,7 +3824,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was taken by a hawk."
+                "reg_death": "m_c a été emporté par une buse, et n'a jamais été revu."
             }
         ]
     },
@@ -3838,7 +3838,7 @@
         ],
         "tags": [],
         "frequency": 3,
-        "event_text": "m_c grew weak as the days passed and now walks the stars of Silverpelt.",
+        "event_text": "m_c s'est affaibli au fil des jours et marche désormais parmi les étoiles du Chemin Argenté.",
         "m_c": {
             "age": [
                 "kitten"
@@ -3853,7 +3853,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c failed to thrive."
+                "reg_death": "m_c n'a pas survécu."
             }
         ]
     },
@@ -3871,7 +3871,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c fell into a river and drowned.",
+        "event_text": "m_c est tombé dans une rivière et s'est noyé.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3890,8 +3890,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c fell into the river and drowned.",
-                "lead_death": "fell into the river and drowned"
+                "reg_death": "m_c est tombé dans la rivière et s'est noyé.",
+                "lead_death": "est tombé dans la rivière et s'est noyé"
             }
         ]
     },
@@ -3914,7 +3914,7 @@
             "all_lives"
         ],
         "frequency": 3,
-        "event_text": "m_c fell into a river and drowned.",
+        "event_text": "m_c est tombé dans une rivière et s'est noyé.",
         "r_c": {
             "age": [
                 "adolescent",
@@ -3942,8 +3942,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was thrown into a river by r_c and drowned.",
-                "lead_death": "thrown into a river by r_c and drowned"
+                "reg_death": "m_c a été jeté dans une rivière par r_c et s'est noyé.",
+                "lead_death": "jeté dans une rivière par r_c et s'est noyé"
             }
         ],
         "future_event": [
@@ -3983,7 +3983,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed when {PRONOUN\/m_c\/subject} snuck out of camp.",
+        "event_text": "m_c est mort lorsque {PRONOUN\/m_c\/subject} s'est faufilé hors du camp.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4004,7 +4004,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died when {PRONOUN\/m_c\/subject} snuck out of camp."
+                "reg_death": "m_c est mort lorsque {PRONOUN\/m_c\/subject} s'est faufilé hors du camp."
             }
         ]
     },
@@ -4018,7 +4018,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c died after getting into the herb stores and accidentally eating deathberries.",
+        "event_text": "m_c est mort après être entré dans la réserve d'herbes et avoir accidentellement mangé des baies de la mort.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4038,7 +4038,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died when {PRONOUN\/m_c\/subject} got into the herb stores and ate deathberries."
+                "reg_death": "m_c est mort après être entré dans la réserve d'herbes et avoir accidentellement mangé des baies de la mort."
             }
         ]
     },
@@ -4052,7 +4052,7 @@
         ],
         "tags": [],
         "frequency": 3,
-        "event_text": "m_c was killed in {PRONOUN\/m_c\/poss} sleep by a snake that had snuck into camp.",
+        "event_text": "m_c a été tué dans son sommeil par un serpent qui s'était faufilé dans le camp.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4067,7 +4067,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a snake."
+                "reg_death": "m_c a été tué par un serpent."
             }
         ]
     },
@@ -4084,7 +4084,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c died of kittencough.",
+        "event_text": "m_c est mort de la toux du chaton.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4096,7 +4096,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of kittencough."
+                "reg_death": "m_c est mort de la toux du chaton."
             }
         ]
     },
@@ -4112,7 +4112,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "r_c and m_c die from a bout of kittencough.",
+        "event_text": "r_c et m_c meurent d'une crise de toux du chaton.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4134,7 +4134,7 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died of kittencough."
+                "reg_death": "Ce chat est mort de la toux du chaton."
             }
         ]
     },
@@ -4150,7 +4150,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "Greencough reaches the nursery. r_c and m_c die.",
+        "event_text": "Le mal vert atteint la pouponnière. r_c et m_c meurent.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4172,7 +4172,7 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "This cat died of greencough."
+                "reg_death": "Ce chat est mort du mal vert."
             }
         ]
     },
@@ -4189,7 +4189,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "r_c invited m_c to private battle training. When m_c slipped and hit {PRONOUN\/m_c\/poss} head, {PRONOUN\/m_c\/subject} never woke back up.",
+        "event_text": "r_c a invité m_c à un entraînement privé au combat. Lorsque m_c a glissé et s'est cogné la tête, {PRONOUN\/m_c\/subject} ne s'est jamais réveillé.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4218,7 +4218,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed in battle training with r_c."
+                "reg_death": "m_c a été tué lors d'un entraînement au combat avec r_c."
             }
         ],
         "relationships": [
@@ -4274,7 +4274,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "r_c suggested m_c try some shiny red berries. m_c's excitement faded with {PRONOUN\/m_c\/poss} life.",
+        "event_text": "r_c a suggéré à m_c de goûter à de jolies baies rouges. L'excitation de m_c s'est éteinte avec sa vie.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4300,7 +4300,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c ate deathberries and succumbed to the poison."
+                "reg_death": "m_c a mangé des baies de la mort et a succombé au poison."
             }
         ],
         "relationships": [
@@ -4358,7 +4358,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c sneaked out of camp and misjudged the jump across a stream. r_c watched without concern as {PRONOUN\/m_c\/subject} disappeared under the water.",
+        "event_text": "m_c s'est faufilé hors du camp et a mal évalué le saut au-dessus d'un ruisseau. r_c a regardé sans se soucier alors que {PRONOUN\/m_c\/subject} disparaissait sous l'eau.",
         "m_c": {
             "age": [
                 "kitten"
@@ -4387,7 +4387,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c drowned in a stream while r_c watched."
+                "reg_death": "m_c s'est noyé dans un ruisseau pendant que r_c regardait."
             }
         ],
         "relationships": [
@@ -4439,7 +4439,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "o_c_n warriors broke into the camp and killed m_c after damaging the herb stores.",
+        "event_text": "Des guerriers de o_c_n ont pénétré dans le camp et ont tué m_c après avoir saccagé la réserve d'herbes.",
         "m_c": {
             "age": [
                 "young adult",
@@ -4462,7 +4462,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed when o_c_n warriors broke into camp.",
+                "reg_death": "m_c a été tué lorsque des guerriers de o_c_n ont pénétré dans le camp.",
                 "scar": "",
                 "lead_death": ""
             }
@@ -4496,7 +4496,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "o_c_n warriors broke into the camp and killed m_c after damaging the stockpiled prey.",
+        "event_text": "Des guerriers de o_c_n ont pénétré dans le camp et ont tué m_c après avoir saccagé la réserve de proies.",
         "m_c": {
             "age": [
                 "young adult",
@@ -4516,8 +4516,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed when o_c_n warriors broke into camp.",
-                "lead_death": "when o_c_n warrior broke into camp"
+                "reg_death": "m_c a été tué lorsque des guerriers de o_c_n ont pénétré dans le camp.",
+                "lead_death": "lorsqu'un guerrier de o_c_n a pénétré dans le camp"
             }
         ],
         "other_clan": {
@@ -4545,7 +4545,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was killed by a o_c_n warrior while pulling an injured r_c away from battle.",
+        "event_text": "m_c a été tué par un guerrier de o_c_n en essayant de tirer r_c blessé hors du champ de bataille.",
         "m_c": {
             "status": [
                 "medicine cat apprentice",
@@ -4588,7 +4588,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a o_c_n warrior while trying to aid an injured Clanmate.",
+                "reg_death": "m_c a été tué par un guerrier de o_c_n en essayant de tirer un camarade blessé hors du champ de bataille.",
                 "scar": "",
                 "lead_death": ""
             }
@@ -4628,7 +4628,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c caught greencough while caring for {PRONOUN\/m_c\/poss} patients and couldn't manage to fight it off.",
+        "event_text": "m_c a attrapé le mal vert en soignant ses patients et n'a pas réussi à s'en remettre.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -4651,7 +4651,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of greencough."
+                "reg_death": "m_c est mort du mal vert."
             }
         ]
     },
@@ -4665,7 +4665,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c wandered out into the territory and was later found dead.",
+        "event_text": "m_c s'est aventuré dans le territoire et a été retrouvé mort plus tard.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4682,8 +4682,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died while wandering the territory.",
-                "lead_death": "died while wandering the territory"
+                "reg_death": "m_c est mort en s'aventurant dans le territoire.",
+                "lead_death": "est mort en s'aventurant dans le territoire"
             }
         ]
     },
@@ -4702,7 +4702,7 @@
             "all_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c wandered out into the territory and was later found dead.",
+        "event_text": "m_c s'est aventuré dans le territoire et a été retrouvé mort plus tard.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4730,8 +4730,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was lead out into the territory and killed by r_c.",
-                "lead_death": "were lead away from camp by r_c and killed"
+                "reg_death": "m_c a été attiré hors du territoire et tué par r_c.",
+                "lead_death": "a été attiré loin du camp par r_c et tué"
             }
         ],
         "future_event": [
@@ -4775,7 +4775,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was having a peaceful stroll outside of camp, when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attacked and killed by a fox.",
+        "event_text": "m_c se promenait paisiblement hors du camp, quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attaqué et tué par un renard.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4794,8 +4794,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a fox.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by a fox"
+                "reg_death": "m_c a été tué par un renard.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un renard"
             }
         ]
     },
@@ -4809,7 +4809,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was having a peaceful stroll outside of camp, when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attacked and killed by a badger.",
+        "event_text": "m_c se promenait paisiblement hors du camp, quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attaqué et tué par un blaireau.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4828,8 +4828,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a badger.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by a badger"
+                "reg_death": "m_c a été tué par un blaireau.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un blaireau"
             }
         ]
     },
@@ -4843,7 +4843,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was having a peaceful stroll outside of camp, when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attacked and killed by a dog.",
+        "event_text": "m_c se promenait paisiblement hors du camp, quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attaqué et tué par un chien.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4862,8 +4862,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a dog.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by a dog"
+                "reg_death": "m_c a été tué par un chien.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un chien"
             }
         ]
     },
@@ -4879,7 +4879,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c, already feeling weak, couldn't make it through a case of whitecough.",
+        "event_text": "m_c, déjà affaibli, n'a pas survécu à une attaque de mal blanc.",
         "m_c": {
             "dies": true
         },
@@ -4888,8 +4888,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of whitecough.",
-                "lead_death": "died of whitecough"
+                "reg_death": "m_c est mort du mal blanc.",
+                "lead_death": "mort du mal blanc"
             }
         ]
     },
@@ -4905,7 +4905,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c was too weak to recover from an illness and passed away.",
+        "event_text": "m_c était trop faible pour se remettre d'une maladie et est décédé.",
         "m_c": {
             "dies": true
         },
@@ -4914,8 +4914,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c succumbed to illness.",
-                "lead_death": "succumbed to illness"
+                "reg_death": "m_c a succombé à la maladie.",
+                "lead_death": "a succombé à la maladie"
             }
         ]
     },
@@ -4931,7 +4931,7 @@
             "classic"
         ],
         "frequency": 4,
-        "event_text": "m_c was taken quickly by a case of greencough.",
+        "event_text": "m_c a été emporté rapidement par un cas de mal vert.",
         "m_c": {
             "dies": true
         },
@@ -4940,8 +4940,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of greencough.",
-                "lead_death": "died of greencough"
+                "reg_death": "m_c est mort du mal vert.",
+                "lead_death": "mort du mal vert"
             }
         ]
     },
@@ -4958,7 +4958,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c suffered a heart attack due to the stress of the ongoing war.",
+        "event_text": "m_c a subi une crise cardiaque à cause du stress de la guerre en cours.",
         "m_c": {
             "age": [
                 "senior",
@@ -4972,8 +4972,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of a heart attack due to stress.",
-                "lead_death": "died of a heart attack due to stress",
+                "reg_death": "m_c est mort d'une crise cardiaque due au stress.",
+                "lead_death": "mort d'une crise cardiaque due au stress",
                 "scar": ""
             }
         ]
@@ -4990,7 +4990,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "Lightning struck in camp, killing m_c.",
+        "event_text": "La foudre a frappé le camp, tuant m_c.",
         "m_c": {
             "age": [
                 "kitten",
@@ -5007,8 +5007,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} struck by lightning.",
-                "lead_death": "{VERB\/m_c\/were\/was} struck by lightning"
+                "reg_death": "m_c est mort lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} frappé par la foudre.",
+                "lead_death": "{VERB\/m_c\/were\/was} frappé par la foudre"
             }
         ]
     },
@@ -5027,7 +5027,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was swept away by a flood.",
+        "event_text": "m_c a été emporté par une inondation.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5043,8 +5043,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was swept away by a flood.",
-                "lead_death": "{VERB\/m_c\/were\/was} swept away by a flood"
+                "reg_death": "m_c a été emporté par une inondation.",
+                "lead_death": "{VERB\/m_c\/were\/was} emporté par une inondation"
             }
         ]
     },
@@ -5060,7 +5060,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c fell from the top branches of a tree.",
+        "event_text": "m_c est tombé des plus hautes branches d'un arbre.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5076,8 +5076,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c fell from a tall tree.",
-                "lead_death": "fell from a tall tree"
+                "reg_death": "m_c est tombé des plus hautes branches d'un arbre.",
+                "lead_death": "est tombé des plus hautes branches d'un arbre"
             }
         ]
     },
@@ -5091,7 +5091,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died in a fight with a dog.",
+        "event_text": "m_c est mort lors d'un combat contre un chien.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -5109,8 +5109,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was mauled by a dog.",
-                "lead_death": "{VERB\/m_c\/were\/was} mauled by a dog"
+                "reg_death": "m_c a été mutilé par un chien.",
+                "lead_death": "{VERB\/m_c\/were\/was} mutilé par un chien"
             }
         ]
     },
@@ -5124,7 +5124,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died in a fight with a badger.",
+        "event_text": "m_c est mort lors d'un combat contre un blaireau.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -5142,8 +5142,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a badger.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by a badger"
+                "reg_death": "m_c a été tué par un blaireau.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un blaireau"
             }
         ]
     },
@@ -5157,7 +5157,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died in a fight with a rogue.",
+        "event_text": "m_c est mort lors d'un combat contre un solitaire.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -5175,8 +5175,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed in a fight with a rogue.",
-                "lead_death": "fought a rogue"
+                "reg_death": "m_c est mort lors d'un combat contre un solitaire.",
+                "lead_death": "a combattu un solitaire"
             }
         ]
     },
@@ -5190,7 +5190,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was bitten by a venomous spider.",
+        "event_text": "m_c a été mordu par une araignée venimeuse.",
         "m_c": {
             "dies": true
         },
@@ -5199,8 +5199,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was bitten by a venomous spider.",
-                "lead_death": "{VERB\/m_c\/were\/was} bitten by a venomous spider"
+                "reg_death": "m_c a été mordu par une araignée venimeuse.",
+                "lead_death": "{VERB\/m_c\/were\/was} mordu par une araignée venimeuse"
             }
         ]
     },
@@ -5214,7 +5214,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c ate tainted fresh-kill and died.",
+        "event_text": "m_c a mangé une proie contaminée et est mort.",
         "m_c": {
             "dies": true
         },
@@ -5223,8 +5223,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died after eating tainted fresh-kill.",
-                "lead_death": "ate tainted fresh-kill"
+                "reg_death": "m_c est mort après avoir mangé une proie contaminée.",
+                "lead_death": "a mangé une proie contaminée"
             }
         ]
     },
@@ -5238,7 +5238,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c failed to interpret a warning sign from StarClan and couldn't foresee the circumstances of {PRONOUN\/m_c\/poss} death.",
+        "event_text": "m_c n'a pas su interpréter un avertissement du Clan des Étoiles et n'a pas pu prévoir les circonstances de sa mort.",
         "m_c": {
             "status": [
                 "leader"
@@ -5254,7 +5254,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "failed to interpret a warning from StarClan"
+                "lead_death": "n'a pas su interpréter un avertissement du Clan des Étoiles"
             }
         ]
     },
@@ -5268,7 +5268,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed defending r_c from a dog.",
+        "event_text": "m_c a été tué en défendant r_c d'un chien.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5308,8 +5308,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died defending r_c from a dog",
-                "lead_death": "defended r_c from a dog"
+                "reg_death": "m_c est mort en défendant r_c d'un chien",
+                "lead_death": "a défendu r_c d'un chien"
             }
         ],
         "relationships": [
@@ -5340,7 +5340,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed defending r_c from a badger.",
+        "event_text": "m_c a été tué en défendant r_c d'un blaireau.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5380,8 +5380,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died defending r_c from a badger.",
-                "lead_death": "defended r_c from a badger"
+                "reg_death": "m_c est mort en défendant r_c d'un blaireau.",
+                "lead_death": "a défendu r_c d'un blaireau"
             }
         ],
         "relationships": [
@@ -5412,7 +5412,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed defending r_c from a fox.",
+        "event_text": "m_c a été tué en défendant r_c d'un renard.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5453,8 +5453,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "reg_death": "m_c died defending r_c from a fox.",
-                "lead_death": "defended r_c from a fox"
+                "reg_death": "m_c est mort en défendant r_c d'un renard.",
+                "lead_death": "a défendu r_c d'un renard"
             }
         ],
         "relationships": [
@@ -5485,7 +5485,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died while saving r_c from drowning.",
+        "event_text": "m_c est mort en sauvant r_c de la noyade.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5520,8 +5520,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died saving r_c from drowning.",
-                "lead_death": "saved r_c from drowning"
+                "reg_death": "m_c est mort en sauvant r_c de la noyade.",
+                "lead_death": "a sauvé r_c de la noyade"
             }
         ],
         "relationships": [
@@ -5552,7 +5552,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a monster but was run over in the process.",
+        "event_text": "m_c a sauvé r_c d'un monstre mais a été écrasé dans le processus.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5587,8 +5587,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died saving r_c from a monster.",
-                "lead_death": "saved r_c from a monster"
+                "reg_death": "m_c est mort en sauvant r_c d'un monstre.",
+                "lead_death": "a sauvé r_c d'un monstre"
             }
         ],
         "relationships": [
@@ -5619,7 +5619,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a snake and was bitten in the process. The venom killed {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a sauvé r_c d'un serpent et a été mordu en le faisant. Le venin a tué {PRONOUN\/m_c\/object}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5656,8 +5656,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died saving r_c from a snake.",
-                "lead_death": "saved r_c from a snake"
+                "reg_death": "m_c est mort en sauvant r_c d'un serpent.",
+                "lead_death": "a sauvé r_c d'un serpent"
             }
         ],
         "relationships": [
@@ -5687,7 +5687,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was killed defending the kits during a o_c_n raid.",
+        "event_text": "m_c a été tué en défendant les chatons lors d'un raid de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5720,8 +5720,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died defending the kits from o_c_n warriors",
-                "lead_death": "defended the kits from o_c_n warriors",
+                "reg_death": "m_c est mort en défendant les chatons lors d'un raid de guerriers de o_c_n",
+                "lead_death": "a défendu les chatons contre les guerriers de o_c_n",
                 "scar": ""
             }
         ],
@@ -5742,7 +5742,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed defending r_c from o_c_n warriors.",
+        "event_text": "m_c a été tué en défendant r_c contre les guerriers de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5791,8 +5791,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died defending r_c from o_c_n warriors.",
-                "lead_death": "defended r_c from o_c_n warriors"
+                "reg_death": "m_c est mort en défendant r_c contre les guerriers de o_c_n.",
+                "lead_death": "a défendu r_c contre les guerriers de o_c_n"
             }
         ],
         "relationships": [
@@ -5830,7 +5830,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed by an apprentice from o_c_n.",
+        "event_text": "m_c a été tué par un apprenti de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5849,8 +5849,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a o_c_n apprentice.",
-                "lead_death": "fought an apprentice from o_c_n"
+                "reg_death": "m_c a été tué par un apprenti de o_c_n.",
+                "lead_death": "a combattu un apprenti de o_c_n"
             }
         ],
         "other_clan": {
@@ -5871,7 +5871,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died trying to save a o_c_n apprentice.",
+        "event_text": "m_c est mort en essayant de sauver un apprenti de o_c_n.",
         "m_c": {
             "age": [
                 "young adult",
@@ -5900,8 +5900,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died trying to save an apprentice from o_c_n.",
-                "lead_death": "saved an apprentice from o_c_n"
+                "reg_death": "m_c est mort en essayant de sauver un apprenti de o_c_n.",
+                "lead_death": "a sauvé un apprenti de o_c_n"
             }
         ],
         "other_clan": {
@@ -5927,7 +5927,7 @@
             "some_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c lost some lives to {PRONOUN\/m_c\/poss} old age.",
+        "event_text": "m_c a perdu quelques vies à cause de sa vieillesse.",
         "m_c": {
             "age": [
                 "senior"
@@ -5942,7 +5942,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "succumbed to old age"
+                "lead_death": "a succombé à la vieillesse"
             }
         ]
     },
@@ -5961,7 +5961,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c has lost all of {PRONOUN\/m_c\/poss} remaining lives to old age.",
+        "event_text": "m_c a perdu toutes ses vies restantes à cause de la vieillesse.",
         "m_c": {
             "age": [
                 "senior"
@@ -5976,7 +5976,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "succumbed to old age"
+                "lead_death": "a succombé à la vieillesse"
             }
         ]
     },
@@ -5992,7 +5992,7 @@
             "all_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c was brutally attacked by a rogue, and lost all of {PRONOUN\/m_c\/poss} lives.",
+        "event_text": "m_c a été brutalement attaqué par un solitaire et a perdu toutes ses vies.",
         "m_c": {
             "status": [
                 "leader"
@@ -6007,7 +6007,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} brutally attacked by a rogue"
+                "lead_death": "{VERB\/m_c\/were\/was} brutalement attaqué par un solitaire"
             }
         ]
     },
@@ -6023,7 +6023,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was mauled by dogs and lost all of {PRONOUN\/m_c\/poss} lives.",
+        "event_text": "m_c a été mutilé par des chiens et a perdu toutes ses vies.",
         "m_c": {
             "status": [
                 "leader"
@@ -6038,7 +6038,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} mauled by dogs"
+                "lead_death": "{VERB\/m_c\/were\/was} mutilé par des chiens"
             }
         ]
     },
@@ -6055,7 +6055,7 @@
             "no_body"
         ],
         "frequency": 4,
-        "event_text": "m_c was burnt alive while trying to save {PRONOUN\/m_c\/poss} Clanmates from a fire.",
+        "event_text": "m_c a été brûlé vif en essayant de sauver ses camarades de Clan d'un incendie.",
         "m_c": {
             "status": [
                 "leader"
@@ -6078,7 +6078,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} killed in a fire trying to save {PRONOUN\/m_c\/poss} Clanmates"
+                "lead_death": "{VERB\/m_c\/were\/was} brûlé vif en essayant de sauver ses camarades de Clan d'un incendie"
             }
         ]
     },
@@ -6097,7 +6097,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was brutally murdered by a warrior from o_c_n, who cruelly took all {PRONOUN\/m_c\/poss} lives.",
+        "event_text": "m_c a été brutalement assassiné par un guerrier de o_c_n, qui a cruellement pris toutes les vies de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "leader"
@@ -6112,7 +6112,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} brutally murdered by a warrior from o_c_n"
+                "lead_death": "{VERB\/m_c\/were\/was} brutalement assassiné par un guerrier de o_c_n"
             }
         ],
         "other_clan": {
@@ -6137,7 +6137,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was brutally murdered by the leader of o_c_n, who cruelly took all {PRONOUN\/m_c\/poss} lives.",
+        "event_text": "m_c a été brutalement assassiné par le chef de o_c_n, qui a cruellement pris toutes les vies de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "leader"
@@ -6152,7 +6152,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} brutally murdered by the leader of o_c_n"
+                "lead_death": "{VERB\/m_c\/were\/was} brutalement assassiné par le chef de o_c_n"
             }
         ],
         "other_clan": {
@@ -6177,7 +6177,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was brutally murdered by the deputy of o_c_n, who cruelly took all {PRONOUN\/m_c\/poss} lives.",
+        "event_text": "m_c a été brutalement assassiné par le lieutenant de o_c_n, qui a cruellement pris toutes les vies de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "leader"
@@ -6192,7 +6192,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} brutally murdered by the deputy of o_c_n"
+                "lead_death": "{VERB\/m_c\/were\/was} brutalement assassiné par le lieutenant de o_c_n"
             }
         ],
         "other_clan": {
@@ -6216,7 +6216,7 @@
             "some_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c caught greencough and died more than once, despite the efforts of StarClan.",
+        "event_text": "m_c a attrapé le mal vert et est mort plusieurs fois, malgré les efforts du Clan des Étoiles.",
         "m_c": {
             "status": [
                 "leader"
@@ -6228,7 +6228,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "contracted greencough"
+                "lead_death": "a attrapé le mal vert"
             }
         ]
     },
@@ -6246,7 +6246,7 @@
             "some_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c caught whitecough and died more than once, despite the efforts of StarClan.",
+        "event_text": "m_c a attrapé le mal blanc et est mort plusieurs fois, malgré les efforts du Clan des Étoiles.",
         "m_c": {
             "status": [
                 "leader"
@@ -6258,7 +6258,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "contracted whitecough"
+                "lead_death": "a attrapé le mal blanc"
             }
         ]
     },
@@ -6276,7 +6276,7 @@
             "some_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c caught yellowcough and died more than once, despite the efforts of StarClan.",
+        "event_text": "m_c a attrapé le mal jaune et est mort plusieurs fois, malgré les efforts du Clan des Étoiles.",
         "m_c": {
             "status": [
                 "leader"
@@ -6288,7 +6288,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "contracted yellowcough"
+                "lead_death": "a attrapé le mal jaune"
             }
         ]
     },
@@ -6307,7 +6307,7 @@
             "some_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c lost lives to old age, {PRONOUN\/m_c\/poss} body slowly becoming more and more frail.",
+        "event_text": "m_c a perdu des vies à cause de la vieillesse, son corps devenant de plus en plus frêle.",
         "m_c": {
             "age": [
                 "senior"
@@ -6322,7 +6322,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "died of old age"
+                "lead_death": "est mort de vieillesse"
             }
         ]
     },
@@ -6341,7 +6341,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c collapsed in the midst of camp, losing {PRONOUN\/m_c\/poss} remaining lives to old age.",
+        "event_text": "m_c s'est effondré au milieu du camp, perdant ses dernières vies à cause de la vieillesse.",
         "m_c": {
             "age": [
                 "senior"
@@ -6356,7 +6356,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "died of old age"
+                "lead_death": "est mort de vieillesse"
             }
         ]
     },
@@ -6373,7 +6373,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "One day, the deputy found m_c dead in the leader's den, a life lost to old age.",
+        "event_text": "Un jour, le député a trouvé m_c mort dans la tanière du chef, une vie perdue à cause de la vieillesse.",
         "m_c": {
             "age": [
                 "senior"
@@ -6388,7 +6388,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "died of old age"
+                "lead_death": "est mort de vieillesse"
             }
         ]
     },
@@ -6407,7 +6407,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "One day, m_c is found dead in the leader's den, never to rise again.",
+        "event_text": "Un jour, m_c a été trouvé mort dans la tanière du chef, ne se relevant jamais.",
         "m_c": {
             "age": [
                 "senior"
@@ -6422,7 +6422,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "died of old age"
+                "lead_death": "est mort de vieillesse"
             }
         ]
     },
@@ -6441,7 +6441,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c's remaining lives were taken by old age.",
+        "event_text": "Les dernières vies de m_c ont été emportées par la vieillesse.",
         "m_c": {
             "age": [
                 "senior"
@@ -6456,7 +6456,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "died of old age"
+                "lead_death": "est mort de vieillesse"
             }
         ]
     },
@@ -6475,7 +6475,7 @@
             "low_lives"
         ],
         "frequency": 3,
-        "event_text": "m_c was pushed under a monster by r_c.",
+        "event_text": "m_c a été poussé sous un monstre par r_c.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -6506,8 +6506,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was pushed under a monster by r_c.",
-                "lead_death": "{VERB\/m_c\/were\/was} pushed under a monster by r_c"
+                "reg_death": "m_c a été poussé sous un monstre par r_c.",
+                "lead_death": "{VERB\/m_c\/were\/was} poussé sous un monstre par r_c"
             }
         ],
         "relationships": [
@@ -6565,7 +6565,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c was murdered by r_c in cold blood in order to take {PRONOUN\/m_c\/poss} place.",
+        "event_text": "m_c a été assassiné par r_c dans un acte de sang-froid afin de prendre la place de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "leader"
@@ -6597,7 +6597,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} murdered by r_c"
+                "lead_death": "{VERB\/m_c\/were\/was} assassiné par r_c"
             }
         ],
         "relationships": [
@@ -6654,7 +6654,7 @@
             "mid_lives"
         ],
         "frequency": 4,
-        "event_text": "r_c attempted to murder m_c, but miscalculated how many lives {PRONOUN\/m_c\/subject} had. m_c retaliated with a killing blow.",
+        "event_text": "r_c a tenté d'assassiner m_c, mais a mal calculé le nombre de vies qu'il restait à {PRONOUN\/m_c\/subject}. m_c a riposté avec un coup fatal.",
         "m_c": {
             "status": [
                 "leader"
@@ -6688,13 +6688,13 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} murdered by r_c in an attempt to usurp {PRONOUN\/m_c\/poss} position"
+                "lead_death": "{VERB\/m_c\/were\/was} assassiné par r_c dans une tentative d'usurper la place de {PRONOUN\/m_c\/poss}"
             },
             {
                 "cats": [
                     "r_c"
                 ],
-                "reg_death": "m_c was killed by r_c in self-defense."
+                "reg_death": "m_c a été tué par r_c en légitime défense."
             }
         ],
         "relationships": [
@@ -6752,7 +6752,7 @@
             "all_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c were ambushed by a pack of dogs, but r_c was nowhere to be found when m_c looked for help.",
+        "event_text": "m_c et r_c ont été pris en embuscade par une meute de chiens, mais r_c était introuvable lorsque m_c a cherché de l'aide.",
         "m_c": {
             "status": [
                 "leader"
@@ -6777,7 +6777,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} indirectly murdered by r_c in a fatal dog attack"
+                "lead_death": "{VERB\/m_c\/were\/was} assassiné indirectement par r_c lors d'une attaque mortelle de chiens"
             }
         ],
         "relationships": [
@@ -6841,7 +6841,7 @@
             "kit_manipulated"
         ],
         "frequency": 4,
-        "event_text": "m_c lost a life while saving a kit from drowning. The kit seemed wary of r_c afterwards, but no one notices.",
+        "event_text": "m_c a perdu une vie en sauvant un chaton de la noyade. Le chaton semblait se méfier de r_c par la suite, mais personne ne le remarque.",
         "m_c": {
             "age": [
                 "young adult",
@@ -6898,7 +6898,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "saved a drowning kit that was set up by r_c"
+                "lead_death": "a sauvé un chaton de la noyade, manipulé par r_c"
             }
         ],
         "future_event": [
@@ -6937,7 +6937,7 @@
             "some_lives"
         ],
         "frequency": 4,
-        "event_text": "m_c snuck out of camp to investigate {PRONOUN\/m_c\/poss} origins. {PRONOUN\/m_c\/subject\/CAP} returned in the morning, haggard and haunted.",
+        "event_text": "m_c s'est faufilé hors du camp pour enquêter sur {PRONOUN\/m_c\/poss} origines. {PRONOUN\/m_c\/subject\/CAP} est revenu au matin, hagard et hanté.",
         "m_c": {
             "age": [
                 "young adult"
@@ -6957,7 +6957,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "became a bit too curious"
+                "lead_death": "est devenu un peu trop curieux"
             }
         ]
     },
@@ -6973,7 +6973,7 @@
             "lives_remain"
         ],
         "frequency": 4,
-        "event_text": "o_c_n attempted to break into the camp. m_c died defending the nursery. r_c remained hidden beneath {PRONOUN\/m_c\/poss} body as StarClan brought m_c back to life.",
+        "event_text": "o_c_n a tenté de pénétrer dans le camp. m_c est mort en défendant la pouponnière. r_c est resté caché sous le corps de {PRONOUN\/m_c\/poss} tandis que le Clan des Étoiles ramenait m_c à la vie.",
         "m_c": {
             "age": [
                 "young adult",
@@ -7013,7 +7013,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "defended r_c from o_c_n warriors"
+                "lead_death": "a défendu r_c contre les guerriers de o_c_n"
             }
         ],
         "other_clan": {
@@ -7033,7 +7033,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died in a training accident.",
+        "event_text": "m_c est mort dans un accident d'entraînement.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -7045,7 +7045,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died in a training accident."
+                "reg_death": "m_c est mort dans un accident d'entraînement."
             }
         ]
     },
@@ -7062,7 +7062,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died in a training accident.",
+        "event_text": "m_c est mort dans un accident d'entraînement.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -7085,7 +7085,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was murdered by r_c in a \"training accident.\""
+                "reg_death": "m_c a été assassiné par r_c lors d'un « accident d'entraînement »."
             }
         ]
     },
@@ -7099,7 +7099,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed by o_c_n warriors when {PRONOUN\/m_c\/subject} accidentally wandered over the border.",
+        "event_text": "m_c a été tué par des guerriers de o_c_n lorsque {PRONOUN\/m_c\/subject} a accidentellement franchi la frontière.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -7120,7 +7120,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by o_c_n warriors after accidentally trespassing."
+                "reg_death": "m_c a été tué par des guerriers de o_c_n après avoir accidentellement franchi la frontière."
             }
         ],
         "other_clan": {
@@ -7141,7 +7141,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was killed by o_c_n warriors after deliberately crossing the border.",
+        "event_text": "m_c a été tué par des guerriers de o_c_n après avoir délibérément franchi la frontière.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -7168,7 +7168,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by o_c_n warriors after deliberately trespassing."
+                "reg_death": "m_c a été tué par des guerriers de o_c_n après avoir délibérément franchi la frontière."
             }
         ],
         "other_clan": {
@@ -7192,7 +7192,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c died during battle training with r_c. {PRONOUN\/r_c\/subject\/CAP} exclaimed that it was all an accident.",
+        "event_text": "m_c est mort lors d'un entraînement au combat avec r_c. {PRONOUN\/r_c\/subject\/CAP} a affirmé que c'était un accident.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -7222,7 +7222,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed in battle training with r_c."
+                "reg_death": "m_c est mort lors d'un entraînement au combat avec r_c."
             }
         ],
         "relationships": [
@@ -7273,7 +7273,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c disappeared from the nursery and was later found dead, not far from camp.",
+        "event_text": "m_c a disparu de la pouponnière et a été retrouvé mort, non loin du camp.",
         "m_c": {
             "status": [
                 "kitten"
@@ -7291,7 +7291,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c froze to death."
+                "reg_death": "m_c est mort de froid."
             }
         ]
     },
@@ -7309,7 +7309,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was playing on the ice when it cracked and {PRONOUN\/m_c\/subject} fell in.",
+        "event_text": "m_c jouait sur la glace quand elle s'est fissurée et {PRONOUN\/m_c\/subject} est tombé dedans.",
         "m_c": {
             "status": [
                 "kitten"
@@ -7326,7 +7326,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c froze to death after falling through ice."
+                "reg_death": "m_c est mort de froid après être tombé à travers la glace."
             }
         ]
     },
@@ -7343,7 +7343,7 @@
             "no_body"
         ],
         "frequency": 4,
-        "event_text": "m_c wandered away from camp in the night, never to be seen again.",
+        "event_text": "m_c s'est éloigné du camp pendant la nuit et n'a jamais été revu.",
         "m_c": {
             "status": [
                 "kitten"
@@ -7355,7 +7355,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was eaten by a predator."
+                "reg_death": "m_c a été dévoré par un prédateur."
             }
         ]
     },
@@ -7371,7 +7371,7 @@
             "no_body"
         ],
         "frequency": 4,
-        "event_text": "m_c vanished from camp after sneaking out. The search parties find nothing but blood.",
+        "event_text": "m_c a disparu du camp après s'être faufilé dehors. Les patrouilles de recherche ne trouvent rien d'autre que du sang.",
         "m_c": {
             "status": [
                 "kitten"
@@ -7383,7 +7383,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was eaten by a predator."
+                "reg_death": "m_c a été dévoré par un prédateur."
             }
         ]
     },
@@ -7400,7 +7400,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "m_c was found within a few fox-lengths of camp after sneaking out, cold and covered in bite-marks. The scent of rat hung heavy in the air.",
+        "event_text": "m_c a été retrouvé à quelques queues de renard du camp après s'être faufilé dehors, froid et couvert de traces de morsures. Une forte odeur de rat flottait dans l'air.",
         "m_c": {
             "status": [
                 "kitten"
@@ -7412,7 +7412,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a rat."
+                "reg_death": "m_c a été tué par un rat."
             }
         ]
     },
@@ -7431,7 +7431,7 @@
             "no_body"
         ],
         "frequency": 4,
-        "event_text": "m_c boasted about how ready {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} for apprentice-ship. {PRONOUN\/m_c\/subject\/CAP} snuck away to prove it and the Clan finds only blood and raccoon-scent in the morning.",
+        "event_text": "m_c se vantait d'être prêt à devenir apprenti. {PRONOUN\/m_c\/subject\/CAP} s'est faufilé dehors pour le prouver, et le Clan ne retrouve que du sang et une odeur de raton laveur au matin.",
         "m_c": {
             "status": [
                 "kitten"
@@ -7443,7 +7443,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was eaten by a raccoon."
+                "reg_death": "m_c a été dévoré par un raton laveur."
             }
         ]
     },
@@ -7462,14 +7462,14 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "multi_cat drown after the camp becomes flooded.",
+        "event_text": "multi_cat se noient après que le camp ait été inondé.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c drowned when the camp flooded.",
-                "lead_death": "drowned during a camp flood"
+                "reg_death": "m_c s'est noyé lorsque le camp a été inondé.",
+                "lead_death": "s'est noyé lors d'une inondation du camp"
             }
         ]
     },
@@ -7489,14 +7489,14 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "multi_cat are killed after a fire rages through the camp.",
+        "event_text": "multi_cat meurent après qu'un incendie ait ravagé le camp.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c died in a fire that raged through camp.",
-                "lead_death": "died during a fire"
+                "reg_death": "m_c est mort dans un incendie qui a ravagé le camp.",
+                "lead_death": "est mort lors d'un incendie"
             }
         ]
     },
@@ -7513,7 +7513,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "multi_cat are killed in an ambush by a group of rogues.",
+        "event_text": "multi_cat sont tués lors d'une embuscade par un groupe de solitaires.",
         "m_c": {
             "status": [
                 "leader",
@@ -7527,8 +7527,8 @@
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c was killed by a rogue ambush.",
-                "lead_death": "died to a rogue ambush"
+                "reg_death": "m_c a été tué lors d'une embuscade de solitaires.",
+                "lead_death": "est mort lors d'une embuscade de solitaires"
             }
         ]
     },
@@ -7545,7 +7545,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "multi_cat are killed in a badger attack.",
+        "event_text": "multi_cat sont tués lors d'une attaque de blaireaux.",
         "m_c": {
             "status": [
                 "leader",
@@ -7559,8 +7559,8 @@
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c was killed in a badger attack.",
-                "lead_death": "died to a badger"
+                "reg_death": "m_c a été tué lors d'une attaque de blaireaux.",
+                "lead_death": "est mort lors d'une attaque de blaireaux"
             }
         ]
     },
@@ -7577,14 +7577,14 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "multi_cat freeze during a snowstorm.",
+        "event_text": "multi_cat gèlent lors d'une tempête de neige.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c died in a snowstorm.",
-                "lead_death": "froze in a snowstorm"
+                "reg_death": "m_c est mort lors d'une tempête de neige.",
+                "lead_death": "a gelé lors d'une tempête de neige"
             }
         ]
     },
@@ -7601,14 +7601,14 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "multi_cat die after the water dries up from a drought.",
+        "event_text": "multi_cat meurent après que l'eau ait disparu à cause d'une sécheresse.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c died to a drought.",
-                "lead_death": "died during a drought"
+                "reg_death": "m_c est mort à cause d'une sécheresse.",
+                "lead_death": "est mort lors d'une sécheresse"
             }
         ]
     },
@@ -7627,14 +7627,14 @@
             "classic"
         ],
         "frequency": 2,
-        "event_text": "multi_cat die to a greencough outbreak.",
+        "event_text": "multi_cat meurent lors d'une épidémie de mal vert.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c died from greencough.",
-                "lead_death": "died to greencough"
+                "reg_death": "m_c est mort du mal vert.",
+                "lead_death": "mort du mal vert"
             }
         ]
     },
@@ -7653,14 +7653,14 @@
             "classic"
         ],
         "frequency": 2,
-        "event_text": "multi_cat starve when no prey can be found.",
+        "event_text": "multi_cat meurent de faim lorsque aucune proie ne peut être trouvée.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c starved.",
-                "lead_death": "starved"
+                "reg_death": "m_c est mort de faim.",
+                "lead_death": "est mort de faim"
             }
         ]
     },
@@ -7679,14 +7679,14 @@
             "classic"
         ],
         "frequency": 2,
-        "event_text": "multi_cat eat tainted fresh-kill and die.",
+        "event_text": "multi_cat mangent une proie contaminée et meurent.",
         "history": [
             {
                 "cats": [
                     "multi_cat"
                 ],
-                "reg_death": "m_c died from tainted fresh-kill.",
-                "lead_death": "died to tainted fresh-kill"
+                "reg_death": "m_c est mort après avoir mangé une proie contaminée.",
+                "lead_death": "est mort après avoir mangé une proie contaminée"
             }
         ]
     },
@@ -7705,7 +7705,7 @@
             "lost"
         ],
         "frequency": 2,
-        "event_text": "multi_cat are taken away by Twolegs.",
+        "event_text": "multi_cat sont emmenés par des Bipèdes.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -7724,7 +7724,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was killed when a fox followed fresh-kill scent into camp. Not even the fresh-kill pile was left untouched.",
+        "event_text": "m_c a été tué lorsqu'un renard a suivi l'odeur du tas de proies jusque dans le camp. Même le tas de proies n'a pas été épargné.",
         "m_c": {
             "status": [
                 "any"
@@ -7736,8 +7736,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was killed by a fox that snuck into camp.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by a fox that snuck into camp"
+                "reg_death": "m_c a été tué par un renard qui s'est faufilé dans le camp.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un renard qui s'est faufilé dans le camp"
             }
         ],
         "supplies": [
@@ -7759,7 +7759,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c found a horde of rats lured by the fresh-kill pile. r_c helped {PRONOUN\/m_c\/object} fight, but m_c did not survive.",
+        "event_text": "m_c a trouvé une horde de rats attirés par le tas de proies. r_c a aidé {PRONOUN\/m_c\/object} à se battre, mais m_c n'a pas survécu.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -7794,9 +7794,9 @@
                     "m_c",
                     "r_c"
                 ],
-                "scar": "{VERB\/m_c\/were\/was} hurt while defending the fresh-kill pile from rats.",
-                "reg_death": "m_c was killed by rats while defending the fresh-kill pile.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by rats while defending the fresh-kill pile"
+                "scar": "{VERB\/m_c\/were\/was} blessé en défendant le tas de proies contre des rats.",
+                "reg_death": "m_c a été tué par des rats en défendant le tas de proies.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par des rats en défendant le tas de proies"
             }
         ],
         "supplies": [
@@ -7823,7 +7823,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "r_c claimed the haze of battle and blood lust were the reason {PRONOUN\/r_c\/subject} killed m_c.",
+        "event_text": "r_c a affirmé que la confusion de la bataille et la soif de sang étaient la raison pour laquelle {PRONOUN\/r_c\/subject} a tué m_c.",
         "m_c": {
             "status": [
                 "warrior",
@@ -7850,8 +7850,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died after r_c killed {PRONOUN\/m_c\/object} during a battle with o_c_n.",
-                "lead_death": "died after r_c killed {PRONOUN\/m_c\/object} during a battle with o_c_n"
+                "reg_death": "m_c est mort après que r_c ait tué {PRONOUN\/m_c\/object} lors d'une bataille contre o_c_n.",
+                "lead_death": "est mort après que r_c ait tué {PRONOUN\/m_c\/object} lors d'une bataille contre o_c_n"
             }
         ],
         "relationships": [
@@ -7913,7 +7913,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "r_c stood back and watched as the o_c_n deputy killed m_c.",
+        "event_text": "r_c est resté en arrière et a regardé le lieutenant de o_c_n tuer m_c.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -7939,8 +7939,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died when the o_c_n deputy killed {PRONOUN\/m_c\/object} in battle, r_c allowed {PRONOUN\/m_c\/poss} death to happen.",
-                "lead_death": "died when the o_c_n deputy attacked {PRONOUN\/m_c\/object} and r_c took no action"
+                "reg_death": "m_c est mort lorsque le lieutenant de o_c_n a tué {PRONOUN\/m_c\/object} lors d'une bataille, r_c a laissé la mort de {PRONOUN\/m_c\/poss} se produire.",
+                "lead_death": "est mort lorsque le lieutenant de o_c_n a attaqué {PRONOUN\/m_c\/object} et que r_c n'a rien fait"
             }
         ],
         "other_clan": {
@@ -7989,7 +7989,7 @@
             "low_lives"
         ],
         "frequency": 4,
-        "event_text": "r_c watched as m_c struggled in a Twoleg trap, waiting till {PRONOUN\/m_c\/subject} stopped moving before leaving the area.",
+        "event_text": "r_c a observé m_c se débattre dans un piège de Bipèdes, attendant que {PRONOUN\/m_c\/subject} cesse de bouger avant de quitter les lieux.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -8026,8 +8026,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died when r_c lured {PRONOUN\/m_c\/object} into a Twoleg trap.",
-                "lead_death": "{VERB\/m_c\/were\/was} lured by r_c into a Twoleg trap"
+                "reg_death": "m_c est mort lorsque r_c a attiré {PRONOUN\/m_c\/object} dans un piège de Bipèdes.",
+                "lead_death": "{VERB\/m_c\/were\/was} attiré par r_c dans un piège de Bipèdes"
             }
         ],
         "future_event": [
@@ -8070,7 +8070,7 @@
             "low_lives"
         ],
         "frequency": 4,
-        "event_text": "r_c hissed {PRONOUN\/r_c\/poss} grievances into m_c's ear as {PRONOUN\/r_c\/subject} killed {PRONOUN\/m_c\/object}.",
+        "event_text": "r_c a craché ses griefs à l'oreille de m_c alors que {PRONOUN\/r_c\/subject} tuait {PRONOUN\/m_c\/object}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -8102,8 +8102,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c was murdered by r_c.",
-                "lead_death": "{VERB\/m_c\/were\/was} murdered by r_c"
+                "reg_death": "m_c a été assassiné par r_c.",
+                "lead_death": "{VERB\/m_c\/were\/was} assassiné par r_c"
             }
         ],
         "future_event": [
@@ -8145,7 +8145,7 @@
             "lives_remain"
         ],
         "frequency": 4,
-        "event_text": "A warning from StarClan gave m_c enough knowledge to survive r_c's attack. r_c could not say the same.",
+        "event_text": "Un avertissement du Clan des Étoiles a donné à m_c assez de connaissances pour survivre à l'attaque de r_c. r_c n'a pas eu cette chance.",
         "m_c": {
             "status": [
                 "leader"
@@ -8173,13 +8173,13 @@
                 "cats": [
                     "m_c"
                 ],
-                "lead_death": "{VERB\/m_c\/were\/was} murdered by r_c"
+                "lead_death": "{VERB\/m_c\/were\/was} assassiné par r_c"
             },
             {
                 "cats": [
                     "r_c"
                 ],
-                "reg_death": "r_c died after launching a failed assassination attempt on the Clan's leader."
+                "reg_death": "r_c est mort après avoir tenté en vain d'assassiner le chef du Clan."
             }
         ],
         "future_event": [
