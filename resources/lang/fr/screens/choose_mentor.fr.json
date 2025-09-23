@@ -1,0 +1,28 @@
+{
+    "fr": {
+        "heading": "Choisissez un nouveau mentor pour m_c",
+        "info": "Si un apprenti a 6 lunes et que son mentor est changé, il ne sera pas listé comme ancien apprenti sur le profil de son ancien mentor. Les apprentis sans mentor en auront un automatiquement assigné la lune suivante. Le mentor d’un apprenti peut influencer son caractère et ses compétences plus tard dans sa vie.\nChoisissez vos mentors avec soin.",
+        "current_mentor": {
+            "zero": "m_c n'a pas de mentor",
+            "one": "Le mentor actuel de m_c est r_c"
+        },
+        "set_mentor": "Confirmer le mentor",
+        "unset_mentor": "Retirer le mentor",
+        "current_mentor_warning": "Mentor actuel sélectionné",
+        "no_mentor_warning": "<font color=#FF0000>Aucun mentor sélectionné<\/font>",
+        "no_current_apprentices": "Aucun apprenti actuel",
+        "no_current_apprentices_tooltip": "Afficher uniquement les mentors sans apprenti actuel",
+        "no_former_apprentices": "Aucun ancien apprenti",
+        "no_former_apprentices_tooltip": "Afficher uniquement les mentors n’ayant jamais eu d’apprenti",
+        "former_apps": {
+            "zero": "",
+            "one": "\n%{count} ancien apprenti",
+            "many": "\n%{count} anciens apprentis"
+        },
+        "current_apps": {
+            "zero": "",
+            "one": "\n%{count} apprenti actuel",
+            "many": "\n%{count} apprentis actuels"
+        }
+    }
+}

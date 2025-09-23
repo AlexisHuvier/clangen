@@ -1,0 +1,31 @@
+{
+    "fr": {
+        "0": {
+            "subject": "iel",
+            "object": "lui",
+            "poss": "son",
+            "inposs": "le sien",
+            "self": "soi-même",
+            "conju": 1,
+            "gender": 0
+        },
+        "1": {
+            "subject": "il",
+            "object": "lui",
+            "poss": "son",
+            "inposs": "le sien",
+            "self": "lui-même",
+            "conju": 2,
+            "gender": 1
+        },
+        "2": {
+            "subject": "elle",
+            "object": "elle",
+            "poss": "sa",
+            "inposs": "la sienne",
+            "self": "elle-même",
+            "conju": 2,
+            "gender": 2
+        }
+    }
+}

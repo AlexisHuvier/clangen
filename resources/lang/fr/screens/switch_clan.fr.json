@@ -1,0 +1,8 @@
+{
+    "fr": {
+        "current_clan": {
+            "zero": "Aucun Clan n'est actuellement chargé.",
+            "one": "Le Clan actuellement chargé est %{clan}Clan\n(id : %{clan_id})."
+        }
+    }
+}

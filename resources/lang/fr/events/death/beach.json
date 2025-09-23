@@ -1,0 +1,701 @@
+[
+    {
+        "event_id": "bch_death_drown_any1",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [
+            "no_body",
+            "all_lives"
+        ],
+        "frequency": 2,
+        "event_text": "m_c a été emporté par la mer et n'a jamais été revu.",
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été emporté par la mer.",
+                "lead_death": "{VERB\/m_c\/were\/was} emporté(e) par la mer"
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_poison_any1",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [],
+        "frequency": 2,
+        "event_text": "m_c a été empoisonné par une créature marine et est mort.",
+        "m_c": {
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été tué par une créature marine venimeuse.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué(e) par une créature marine venimeuse"
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_drown_any2",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [
+            "no_body",
+            "all_lives"
+        ],
+        "frequency": 3,
+        "event_text": "m_c a été emporté par la mer en essayant de sauver r_c de la noyade.",
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "trait": [
+                "bold",
+                "ambitious",
+                "compassionate",
+                "daring",
+                "confident",
+                "fierce",
+                "loyal",
+                "loving",
+                "responsible"
+            ],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "any"
+            ],
+            "status": [
+                "any"
+            ]
+        },
+        "injury": [
+            {
+                "cats": [
+                    "r_c"
+                ],
+                "injuries": [
+                    "water in their lungs",
+                    "shock"
+                ]
+            }
+        ],
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été emporté par la mer en essayant de sauver r_c.",
+                "lead_death": "{VERB\/m_c\/were\/was} emporté(e) par la mer en essayant de sauver r_c"
+            }
+        ],
+        "relationships": [
+            {
+                "cats_from": [
+                    "r_c"
+                ],
+                "cats_to": [
+                    "m_c"
+                ],
+                "values": [
+                    "like",
+                    "trust",
+                    "respect"
+                ],
+                "amount": 15
+            },
+            {
+                "cats_from": [
+                    "r_c"
+                ],
+                "cats_to": [
+                    "m_c"
+                ],
+                "values": [
+                    "like"
+                ],
+                "amount": 15
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_abyss_any1",
+        "location": [
+            "beach:camp3"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [
+            "no_body"
+        ],
+        "frequency": 1,
+        "event_text": "Lorsque m_c est tombé dans l'eau, quelque chose de grand et d'invisible a entraîné {PRONOUN\/m_c\/object} sous les vagues.",
+        "m_c": {
+            "age": [
+                "adolescent",
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été emporté par une créature marine.",
+                "lead_death": "{VERB\/m_c\/were\/was} emporté(e) par une créature marine"
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_drown_any3",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "war"
+        ],
+        "tags": [],
+        "frequency": 3,
+        "event_text": "m_c s'est noyé après avoir été poussé vers la mer par des guerriers o_c_n.",
+        "m_c": {
+            "status": [
+                "apprentice",
+                "warrior",
+                "leader",
+                "deputy",
+                "mediator",
+                "mediator apprentice",
+                "medicine cat",
+                "medicine cat apprentice"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été poussé vers la mer par des guerriers ennemis.",
+                "lead_death": "{VERB\/m_c\/were\/was} poussé(e) vers la mer par des guerriers ennemis"
+            }
+        ],
+        "other_clan": {
+            "current_rep": [
+                "hostile"
+            ],
+            "changed": -3
+        }
+    },
+    {
+        "event_id": "bch_death_heat_multiapp1",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "greenleaf"
+        ],
+        "tags": [
+            "classic"
+        ],
+        "frequency": 2,
+        "event_text": "m_c est mort d'épuisement et de déshydratation par négligence.",
+        "m_c": {
+            "age": [
+                "adolescent"
+            ],
+            "status": [
+                "apprentice"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a succombé à la déshydratation et à la surchauffe."
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_heat_multiapp3",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "greenleaf"
+        ],
+        "tags": [],
+        "frequency": 2,
+        "event_text": "r_c a découvert le corps sans vie de m_c. Il semble que {PRONOUN\/m_c\/subject} soit mort de déshydratation et d'épuisement dû à la chaleur.",
+        "m_c": {
+            "age": [
+                "adolescent"
+            ],
+            "status": [
+                "apprentice"
+            ],
+            "relationship_status": [],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult"
+            ],
+            "status": [
+                "any"
+            ]
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c est mort de déshydratation et d'épuisement dû à la chaleur."
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_heat_multiapp4",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "greenleaf"
+        ],
+        "tags": [],
+        "frequency": 2,
+        "event_text": "m_c a mal jugé la météo et a succombé à la chaleur intense de la journée.",
+        "m_c": {
+            "age": [
+                "adolescent"
+            ],
+            "status": [
+                "apprentice"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a succombé à la déshydratation et à l'épuisement dû à la chaleur."
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_heat_multiapp6",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "greenleaf"
+        ],
+        "tags": [],
+        "frequency": 2,
+        "event_text": "r_c a été surpris de tomber sur le corps sans vie de m_c. Il semble que {PRONOUN\/m_c\/subject} soit mort à cause de la chaleur.",
+        "m_c": {
+            "age": [
+                "adolescent"
+            ],
+            "status": [
+                "apprentice"
+            ],
+            "relationship_status": [],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult"
+            ],
+            "status": [
+                "any"
+            ]
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a succombé à la déshydratation et à l'épuisement dû à la chaleur."
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_murder_cliffdrop1",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "murder"
+        ],
+        "tags": [
+            "all_lives",
+            "no_body"
+        ],
+        "frequency": 4,
+        "event_text": "m_c a été poussé d'une falaise dans les vagues remplies de rochers en contrebas. r_c est resté au bord jusqu'à ce que le corps disparaisse sous les vagues.",
+        "m_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "relationship_status": [],
+            "trait": [
+                "adventurous",
+                "daring",
+                "bold",
+                "childish",
+                "confident",
+                "playful"
+            ],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult"
+            ],
+            "status": [
+                "any"
+            ],
+            "skill": [
+                "HUNTER,2",
+                "CLEVER,2",
+                "SENSE,2",
+                "INSIGHTFUL,1"
+            ],
+            "trait": [
+                "bloodthirsty",
+                "ambitious",
+                "bold",
+                "careful",
+                "calm",
+                "cold",
+                "fierce",
+                "insecure",
+                "nervous",
+                "responsible",
+                "sneaky",
+                "strict",
+                "vengeful",
+                "wise"
+            ]
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c est mort lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} poussé(e) d'une falaise par r_c",
+                "lead_death": "{VERB\/m_c\/were\/was} poussé(e) d'une falaise par r_c"
+            }
+        ],
+        "relationships": [
+            {
+                "cats_from": [
+                    "m_c"
+                ],
+                "cats_to": [
+                    "r_c"
+                ],
+                "mutual": true,
+                "values": [
+                    "trust",
+                    "like"
+                ],
+                "amount": -25
+            }
+        ],
+        "future_event": [
+            {
+                "event_type": "misc",
+                "pool": {
+                    "sub_type": [
+                        "murder_reveal"
+                    ]
+                },
+                "moon_delay": [
+                    1,
+                    24
+                ],
+                "involved_cats": {
+                    "m_c": "r_c",
+                    "mur_c": "m_c",
+                    "r_c": {
+                        "age": [
+                            "any"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_murder_cliffdrop2",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "murder"
+        ],
+        "tags": [
+            "all_lives",
+            "no_body"
+        ],
+        "frequency": 4,
+        "event_text": "m_c a été poussé d'une falaise dans les vagues remplies de rochers en contrebas. r_c insiste que c'était un accident et que m_c a glissé sur des pierres instables.",
+        "m_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult",
+                "senior"
+            ],
+            "trait": [
+                "adventurous",
+                "daring",
+                "bold",
+                "childish",
+                "confident",
+                "playful"
+            ],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "adult",
+                "young adult",
+                "senior adult"
+            ],
+            "status": [
+                "any"
+            ],
+            "skill": [
+                "HUNTER,2",
+                "CLEVER,2",
+                "SENSE,2",
+                "INSIGHTFUL,1"
+            ],
+            "trait": [
+                "bloodthirsty",
+                "ambitious",
+                "bold",
+                "careful",
+                "calm",
+                "cold",
+                "fierce",
+                "insecure",
+                "nervous",
+                "responsible",
+                "sneaky",
+                "strict",
+                "vengeful",
+                "wise"
+            ]
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c est mort lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} poussé(e) d'une falaise par r_c",
+                "lead_death": "{VERB\/m_c\/were\/was} poussé(e) d'une falaise par r_c"
+            }
+        ],
+        "relationships": [
+            {
+                "cats_from": [
+                    "m_c"
+                ],
+                "cats_to": [
+                    "r_c"
+                ],
+                "mutual": true,
+                "values": [
+                    "trust",
+                    "like"
+                ],
+                "amount": -25
+            }
+        ],
+        "future_event": [
+            {
+                "event_type": "misc",
+                "pool": {
+                    "sub_type": [
+                        "murder_reveal"
+                    ]
+                },
+                "moon_delay": [
+                    1,
+                    24
+                ],
+                "involved_cats": {
+                    "m_c": "r_c",
+                    "mur_c": "m_c",
+                    "r_c": {
+                        "age": [
+                            "any"
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "event_id": "bch_death_murder_anyleader1",
+        "location": [
+            "beach"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "murder"
+        ],
+        "tags": [
+            "all_lives",
+            "no_body"
+        ],
+        "frequency": 4,
+        "event_text": "Distrait par d'autres préoccupations, m_c a oublié la marée. {PRONOUN\/m_c\/subject\/CAP} est mort piégé entre les vagues et les falaises pendant que r_c regardait.",
+        "m_c": {
+            "status": [
+                "leader"
+            ],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "young adult",
+                "adult",
+                "senior adult"
+            ],
+            "status": [
+                "any"
+            ],
+            "skill": [
+                "HUNTER,2",
+                "CLEVER,2",
+                "SENSE,2",
+                "SPEAKER,2"
+            ],
+            "trait": [
+                "ambitious",
+                "bold",
+                "careful",
+                "calm",
+                "cold",
+                "confident",
+                "daring",
+                "lonesome",
+                "shameless",
+                "sneaky",
+                "strange",
+                "vengeful",
+                "wise"
+            ]
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "lead_death": "{VERB\/m_c\/were\/was} piégé(e) par la marée par r_c"
+            }
+        ],
+        "relationships": [
+            {
+                "cats_from": [
+                    "m_c"
+                ],
+                "cats_to": [
+                    "r_c"
+                ],
+                "mutual": true,
+                "values": [
+                    "trust",
+                    "like"
+                ],
+                "amount": -25
+            }
+        ],
+        "future_event": [
+            {
+                "event_type": "misc",
+                "pool": {
+                    "sub_type": [
+                        "murder_reveal"
+                    ]
+                },
+                "moon_delay": [
+                    1,
+                    24
+                ],
+                "involved_cats": {
+                    "m_c": "r_c",
+                    "mur_c": "m_c",
+                    "r_c": {
+                        "age": [
+                            "any"
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+]

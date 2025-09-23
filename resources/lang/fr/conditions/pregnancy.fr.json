@@ -1,0 +1,17 @@
+{
+    "fr": {
+        "kit_amount": {
+            "one": "un seul chaton",
+            "many": "une portée de %{count} chatons"
+        },
+        "pregnant_secret": "%{name} a ramené un %{insert} au camp, mais a refusé de parler de son origine.",
+        "leader_kitting_death": "est décédé peu après la mise bas",
+        "leader_kitting_death_severe": "est décédé après une mise bas difficile",
+        "kitting_death": "%{name} est décédé pendant la mise bas.",
+        "kitting_death_severe": "%{name} est décédé après une mise bas difficile.",
+        "half_blood_kitting_thought": {
+            "one": "Est heureux que {PRONOUN\/m_c\/poss} chaton soit sain et sauf",
+            "many": "Est heureux que {PRONOUN\/m_c\/poss} chatons soient sains et saufs"
+        }
+    }
+}

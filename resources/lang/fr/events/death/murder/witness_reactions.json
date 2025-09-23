@@ -1,0 +1,46 @@
+{
+    "high_lawful": {
+        "will_not_reveal": {
+            "general": [],
+            "friends": [
+                "[witness] semble horrifié en découvrant [murderer] debout au-dessus de [victim]. Bien que la douleur soit visible dans ses yeux, il accepte de garder le silence."
+            ],
+            "parent": [
+                "[witness] sent tous les poils de son dos se hérisser en croisant le regard de son petit. Les oreilles plaquées contre la tête, il sait qu'il ne peut rien dire à personne."
+            ],
+            "child": [],
+            "sibling": []
+        },
+        "will_reveal": {
+            "general": [],
+            "friends": [
+                "[witness] n'arrive pas à croire ce qu'il voit. Il recule lentement, prenant soin de ne pas se faire remarquer par [murderer]."
+            ],
+            "parent": [],
+            "child": [],
+            "sibling": []
+        }
+    },
+    "low_lawful": {
+        "will_not_reveal": {
+            "general": [],
+            "friends": [
+                "[witness] semble horrifié en découvrant [murderer] debout au-dessus de [victim]. Bien que la douleur soit visible dans ses yeux, il accepte de garder le silence."
+            ],
+            "parent": [
+                "[witness] sent tous les poils de son dos se hérisser en croisant le regard de son petit. Les oreilles plaquées contre la tête, il sait qu'il ne peut rien dire à personne."
+            ],
+            "child": [],
+            "sibling": []
+        },
+        "will_reveal": {
+            "general": [],
+            "friends": [
+                "[witness] n'arrive pas à croire ce qu'il voit. Il recule lentement, prenant soin de ne pas se faire remarquer par [murderer]."
+            ],
+            "parent": [],
+            "child": [],
+            "sibling": []
+        }
+    }
+}

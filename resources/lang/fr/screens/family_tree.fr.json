@@ -1,0 +1,18 @@
+{
+    "fr": {
+        "heading": "Arbre généalogique de %{name}",
+        "lineage": "Affichage de la lignée de %{name}",
+        "no_cats": "Aucun",
+        "parents": "parents",
+        "siblings": "frères et sœurs",
+        "siblings_mates": "partenaires des frères et sœurs",
+        "siblings_kits": "petits des frères et sœurs",
+        "parents_siblings": "frères et sœurs des parents",
+        "cousins": "cousins",
+        "grandparents": "grands-parents",
+        "mates": "partenaires",
+        "kits": "petits",
+        "kits_mates": "partenaires des petits",
+        "grandkits": "petits-enfants"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "fr": {
+        "promote_leader": "promouvoir en chef",
+        "blurb_leader": "%{name} est le <b>chef<\/b> du Clan %{clan}. La garde de tous les chats du Clan leur a été confiée par le Clan des Étoiles. Le chef est la plus haute autorité du Clan. Il organise les assemblées, choisit les mentors des apprentis et nomme les nouveaux guerriers. Pour les aider à protéger le Clan, le Clan des Étoiles leur a donné neuf vies. Leur nom se termine généralement par \"étoile\".",
+        "promote_deputy": "promouvoir en lieutenant",
+        "blurb_deputy": "%{name} est le <b>lieutenant<\/b> du Clan %{clan}. Le lieutenant est le second, juste après le chef. Il conseille le chef et organise les patrouilles quotidiennes, en plus de ses tâches de guerrier. En général, le lieutenant est choisi par le chef actuel. Selon le Code du Guerrier, tous les lieutenants doivent avoir entraîné au moins un apprenti avant leur nomination. Le lieutenant succède au chef en cas de décès ou de retraite.",
+        "switch_warrior": "devenir guerrier",
+        "blurb_warrior": "%{name} est un <b>guerrier<\/b>. Les guerriers sont des chats adultes qui nourrissent et protègent leur Clan. Ils sont formés à la chasse et au combat, ainsi qu’aux règles du Code du Guerrier. Les guerriers sont essentiels à la survie du Clan et en constituent la majorité.",
+        "retire": "prendre sa retraite",
+        "blurb_elder": "%{name} est un <b>ancien<\/b>. Il a servi son Clan pendant de nombreuses lunes et mérite maintenant du repos. Les anciens sont essentiels pour transmettre les traditions orales du Clan. Parfois, les chats prennent leur retraite à cause d’un handicap ou d’une blessure. Quelle que soit la raison, les anciens sont très respectés et mangent toujours avant les guerriers et les guérisseurs.",
+        "switch_medicine_cat": "devenir guérisseur",
+        "blurb_medicine_cat": "%{name} est un <b>guérisseur<\/b>. Les guérisseurs soignent les blessures et maladies grâce aux plantes. Contrairement aux guerriers, ils ne sont pas obligés de chasser ou de combattre. Ils ont aussi un lien spécial avec le Clan des Étoiles et, à chaque demi-lune, se rendent au lieu sacré du Clan pour communiquer avec lui.",
+        "switch_mediator": "devenir médiateur",
+        "blurb_mediator": "%{name} est un <b>médiateur<\/b>. Les médiateurs ne sont généralement pas obligés de chasser ou de combattre. Ils sont chargés de régler les conflits entre membres du Clan et entre Clans. Certains sont formés dès l’apprentissage, d’autres choisissent ce rôle plus tard.",
+        "switch_app": "devenir apprenti guerrier",
+        "blurb_apprentice": "%{name} est un <b>apprenti<\/b>, en formation pour devenir guerrier. Les chatons deviennent apprentis à six lunes et apprennent à chasser et combattre pour leur Clan. Un guerrier est généralement chargé de leur formation. Pour forger leur caractère, les apprentis reçoivent souvent les tâches les plus ingrates. Leur nom finit habituellement par \"-patte\", symbole de leur chemin vers l’âge adulte.",
+        "switch_medcat_app": "devenir apprenti guérisseur",
+        "blurb_medcat_app": "%{name} est un <b>apprenti guérisseur<\/b>, en formation pour devenir guérisseur. Les chatons deviennent apprentis guérisseurs à six lunes et apprennent à soigner leurs camarades et à communiquer avec le Clan des Étoiles. Ils sont choisis pour leur intérêt pour la guérison ou leur lien avec le Clan des Étoiles. Leur nom finit habituellement par \"-patte\", symbole de leur chemin vers l’âge adulte.",
+        "switch_mediator_app": "devenir apprenti médiateur",
+        "blurb_mediator_app": "%{name} est un <b>apprenti médiateur<\/b>, en formation pour devenir médiateur. Les médiateurs règlent les conflits au sein du Clan et entre Clans. Les apprentis médiateurs sont souvent choisis pour leur esprit vif et leur personnalité posée. Leur nom finit habituellement par \"-patte\", symbole de leur chemin vers l’âge adulte.",
+        "blurb_kitten": "%{name} est un <b>chaton<\/b>. Tous les chats de moins de six lunes sont des chatons. Ils ne peuvent pas quitter le camp pour leur sécurité. Même s’ils n’ont pas de rôle officiel, ils apprennent les légendes et traditions du Clan. Ils sont protégés par tous et mangent toujours en premier. Leur nom finit généralement par \"-kit\".",
+        "blurb_newborn": "%{name} est un <b>nouveau-né<\/b>. Tous les chats de moins de six lunes sont des chatons. Ils ne peuvent pas quitter le camp pour leur sécurité. Même s’ils n’ont pas de rôle officiel, ils apprennent les légendes et traditions du Clan. Ils sont protégés par tous et mangent toujours en premier. Leur nom finit généralement par \"-kit\".",
+        "blurb_unknown": "%{name} a un rang inconnu. On dirait qu’il veut suivre sa propre voie !"
+    }
+}

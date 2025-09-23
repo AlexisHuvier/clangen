@@ -1,0 +1,217 @@
+{
+    "general": {
+        "body": [
+            "r_c se penche sur le corps de {PRONOUN\/r_c\/poss} bien-aimé(e), hurlant {PRONOUN\/r_c\/poss} désespoir dans la fourrure de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/sit\/sits} veille près du corps, souhaitant que {PRONOUN\/r_c\/subject} puisse se réveiller de ce cauchemar.",
+            "r_c fixe m_c d’un regard vide, le monde s’effaçant alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/try\/tries} de comprendre la mort de {PRONOUN\/m_c\/poss}. Toutes les choses qu’ils ne feront jamais ensemble, les endroits que r_c voulait montrer à {PRONOUN\/m_c\/object}, la vie qu’ils auraient pu vivre côte à côte, tout a disparu en un instant.",
+            "r_c est inconsolable à l’annonce de la mort de m_c, hurlant {PRONOUN\/r_c\/poss} chagrin vers les étoiles alors que ses camarades tentent de soutenir et réconforter {PRONOUN\/r_c\/object}.",
+            "r_c secoue la tête, refusant de croire la nouvelle de la mort de m_c jusqu’à ce que {PRONOUN\/r_c\/subject} {VERB\/r_c\/see\/sees} le corps de m_c.",
+            "La tristesse envahit r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/gaze\/gazes} le corps de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/don't\/doesn't} sait pas comment {PRONOUN\/r_c\/subject} va continuer sans son amour.",
+            "r_c reste à la veille de m_c longtemps après que le reste du Clan soit retourné dans ses nids.",
+            "r_c ne peut pas imaginer continuer à vivre sans m_c.",
+            "r_c presse {PRONOUN\/r_c\/poss} museau contre la fourrure de m_c une dernière fois, souhaitant avoir une autre chance de dire à m_c combien {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} aimé(e).",
+            "Le monde semble vide sans m_c. r_c lutte pendant la veille.",
+            "r_c prend un moment de silence à la veille de m_c pour dire adieu à {PRONOUN\/r_c\/poss} amour.",
+            "r_c parle longuement à la veille de m_c, racontant tous leurs bons souvenirs et les qualités qui ont fait aimer {PRONOUN\/m_c\/object} à r_c.",
+            "La vie sans m_c semble impossible à r_c - comment quelqu’un qui comptait autant pour {PRONOUN\/r_c\/object} a-t-il pu être emporté si facilement ?",
+            "r_c regarde le corps de m_c avec incrédulité. Il n’a jamais pensé que {PRONOUN\/m_c\/subject} pourrait mourir en premier. La pensée était trop douloureuse à imaginer.",
+            "r_c parle sans cesse à la veille de m_c, désespéré(e) de s’assurer que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} soit rappelé(e) et aimé(e) même dans la mort.",
+            "r_c n’arrive presque pas à prononcer un mot à la veille de m_c. C’est trop douloureux.",
+            "Le monde semble incroyablement cruel à r_c, maintenant. Sans m_c, quel est le sens ?",
+            "r_c ferme les yeux et essaie d’imaginer m_c comme {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dans la vie, heureux(se) et en bonne santé."
+        ],
+        "no_body": [
+            "Même si {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} que c’est irréaliste, au fond, r_c prie le Clan des Étoiles pour que m_c ne soit pas vraiment parti(e).",
+            "r_c est inconsolable à l’annonce de la mort de m_c, hurlant {PRONOUN\/r_c\/poss} chagrin vers les étoiles alors que ses camarades tentent de soutenir et réconforter {PRONOUN\/r_c\/object}.",
+            "r_c reste à la veille de m_c longtemps après que le reste du Clan soit retourné dans ses nids.",
+            "r_c ne peut pas imaginer continuer à vivre sans m_c.",
+            "Le monde semble vide sans m_c. r_c lutte pendant la veille.",
+            "r_c prend un moment de silence à la veille de m_c pour dire adieu à {PRONOUN\/r_c\/poss} amour.",
+            "r_c parle longuement à la veille de m_c, racontant tous leurs bons souvenirs et les qualités qui ont fait aimer {PRONOUN\/m_c\/object} à r_c.",
+            "La vie sans m_c semble impossible à r_c - comment quelqu’un qui comptait autant pour {PRONOUN\/r_c\/object} a-t-il pu être emporté si facilement ?",
+            "r_c parle sans cesse à la veille de m_c, désespéré(e) de s’assurer que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} soit rappelé(e) et aimé(e) même dans la mort.",
+            "r_c n’arrive presque pas à prononcer un mot à la veille de m_c. C’est trop douloureux.",
+            "Le monde semble incroyablement cruel à r_c, maintenant. Sans m_c, quel est le sens ?",
+            "r_c ferme les yeux et essaie d’imaginer m_c comme {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dans la vie, heureux(se) et en bonne santé."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": [
+            "Maybe m_c didn't really die. Maybe {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} just finally fed up with r_c and decided to leave. r_c stays in {PRONOUN\/r_c\/poss} nest, numb and terrified."
+        ]
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [
+            "r_c can't believe m_c is dead. r_c though they had their whole lives ahead of them, to grow up, become mates. But instead, m_c was taken away. r_c waits until everyone else has gone ahead of {PRONOUN\/r_c\/object}, before approaching m_c's body. r_c wails, why did StarClan have to take m_c now?"
+        ],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}

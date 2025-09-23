@@ -1,0 +1,32 @@
+{
+    "fr": {
+        "help_tooltip": "Votre Clan attrapera une certaine quantité de proies à chaque saut temporel, mais les patrouilles de chasse réussies sont la source principale de gibier frais. Vous pouvez voir ce qui a été consommé et attrapé dans le journal ci-dessous ! Le gibier frais ne peut pas être stocké indéfiniment : après quatre lunes, il pourrira et sera jeté. Les chats de moins de 3 lunes ayant un parent (reine) pour s'occuper d'eux n'ont pas besoin de nourriture.<br><br>Nourrir le Clan est très important, donc les chats seront nourris avant tout changement de rang. Survolez la pile avec votre souris pour voir la quantité actuelle et nécessaire de proies pour votre Clan !",
+        "feed_all_hungry": "Nourrir tous les affamés",
+        "feed_one": "Nourrir un",
+        "feed_max": "Nourrir au maximum",
+        "nutrition_title": "Aperçu de la nutrition",
+        "log_title": "Journal du gibier frais",
+        "tactic_title": "Tactique d'alimentation",
+        "cats_tab": " Chats",
+        "log_tab": " Journal",
+        "tactic_tab": "Tactiques",
+        "hungry_tab": "Affamés",
+        "satisfied_tab": "Satisfaits",
+        "nutrition_text": "nutrition : %{nutrition_text}",
+        "cant_work_hunger": "\n(en raison de la faim)",
+        "prey_amount_info": "Jusqu'à %{warrior_amount} guerriers peuvent être nourris avec cette quantité de proies.",
+        "prey_amount_none": "La pile de gibier frais est vide, le Clan a désespérément besoin de proies !",
+        "prey_amount_very_low": "La pile de gibier frais ne peut même pas nourrir la moitié du Clan. Des patrouilles de chasse doivent être organisées immédiatement.",
+        "prey_amount_low": "Seule la moitié du Clan peut être nourrie actuellement. Des patrouilles de chasse doivent être organisées.",
+        "prey_amount_average": "Chaque bouche du Clan peut être nourrie, mais un peu plus de proies ne ferait pas de mal.",
+        "prey_amount_high": "La pile de gibier frais déborde et le Clan peut festoyer !",
+        "prey_amount_very_high": "StarClan a béni le Clan avec une abondance de proies et le chef remercie Silverpelt.",
+        "freshkill_pile_tooltip": "<b>Quantité actuelle :<\/b> %{current_prey_amount}<br><b>Quantité nécessaire :<\/b> %{needed_amount}",
+        "additional_prey_text": "<b>Ordre de statut + quantité nécessaire :<\/b>",
+        "condition_increase_text": "%{number}. %{status} - %{prey}",
+        "prey_count": {
+            "one": "%{count} pièce",
+            "many": "%{count} pièces"
+        }
+    }
+}

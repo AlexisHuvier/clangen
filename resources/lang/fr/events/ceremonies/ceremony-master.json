@@ -1,0 +1,307 @@
+{
+    "app_0": [
+        [
+            "apprentice",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a atteint l'âge de six lunes et est devenu(e) apprenti(e)."
+    ],
+    "app_1": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a atteint l'âge de six lunes et est devenu(e) apprenti(e), avec (mentor) comme mentor {PRONOUN\/m_c\/poss}."
+    ],
+    "app_2": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le nouvel(le) apprenti(e) m_c touche le museau de son nouveau mentor, (mentor)."
+    ],
+    "app_3": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "careful",
+            "insecure",
+            "nervous",
+            "gloomy"
+        ],
+        "m_c touche prudemment le museau de son nouveau mentor (mentor), semblant intimidé(e) et nerveux(se)."
+    ],
+    "app_4": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "ambitious",
+            "bloodthirsty",
+            "bold",
+            "daring",
+            "confident",
+            "fierce",
+            "arrogant",
+            "competitive",
+            "cunning",
+            "sincere",
+            "flamboyant"
+        ],
+        "m_c touche le museau de son nouveau mentor (mentor) avec enthousiasme, impatient(e) de commencer l'entraînement."
+    ],
+    "app_5": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious",
+            "confident",
+            "arrogant",
+            "competitive",
+            "cunning",
+            "sincere",
+            "flamboyant"
+        ],
+        "m_c s'avance fièrement vers son nouveau mentor, très fier(e) et heureux(se) d'être apprenti(e) de (mentor)."
+    ],
+    "app_6": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "bold",
+            "daring",
+            "charismatic",
+            "childish",
+            "fierce",
+            "playful",
+            "strange",
+            "troublesome",
+            "oblivious",
+            "flamboyant"
+        ],
+        "Dans son empressement, m_c heurte le museau de (mentor) si fort que (mentor) recule de surprise. m_c s'excuse timidement et les deux rient ensemble."
+    ],
+    "app_7": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "insecure",
+            "nervous",
+            "thoughtful",
+            "gloomy"
+        ],
+        "(mentor) voit que m_c est nerveux(se) et lui murmure un encouragement discret lors du contact des museaux, promettant d'être un bon mentor pour {PRONOUN\/m_c\/object}."
+    ],
+    "app_8": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "cold",
+            "insecure",
+            "lonesome",
+            "strange",
+            "nervous",
+            "insecure",
+            "compassionate",
+            "thoughtful",
+            "gloomy"
+        ],
+        "m_c touche le museau de (mentor), se demandant si c'est vraiment le bon chemin pour {PRONOUN\/m_c\/object}."
+    ],
+    "app_9": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "calm",
+            "cold",
+            "sneaky",
+            "strict",
+            "wise",
+            "cunning"
+        ],
+        "m_c reste calme en touchant le museau de (mentor), mais sa queue qui frétille trahit son excitation."
+    ],
+    "app_10": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "bold",
+            "daring",
+            "childish",
+            "confident",
+            "loyal",
+            "righteous",
+            "arrogant",
+            "competitive",
+            "sincere",
+            "flamboyant"
+        ],
+        "m_c ne tient pas en place en bondissant pour toucher le museau de (mentor), jurant qu'il/elle sera le meilleur guerrier que le Clan ait jamais vu."
+    ],
+    "app_11": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "calm",
+            "careful",
+            "cold",
+            "compassionate",
+            "sneaky",
+            "strict",
+            "vengeful",
+            "wise",
+            "cunning"
+        ],
+        "m_c se redresse alors qu'il/elle est appelé(e) pour devenir apprenti(e). Même en essayant de paraître calme, m_c tremble un peu en touchant le museau de (mentor)."
+    ],
+    "app_12": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "ambitious",
+            "shameless",
+            "troublesome",
+            "arrogant",
+            "competitive",
+            "grumpy",
+            "oblivious",
+            "flamboyant",
+            "rebellious"
+        ],
+        "À peine m_c a-t-il/elle touché le museau de (mentor) que {PRONOUN\/m_c\/subject} commence à demander quand il/elle pourra explorer le territoire."
+    ],
+    "app_13": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "bold",
+            "daring",
+            "childish",
+            "playful",
+            "shameless",
+            "strange",
+            "troublesome",
+            "arrogant",
+            "competitive",
+            "flamboyant",
+            "rebellious"
+        ],
+        "m_c s'agite impatiemment à côté de (mentor) en attendant la fin de la réunion. Enfin apprenti(e) ! {PRONOUN\/m_c\/subject\/CAP} veut se dépêcher, sortir et partir à l'aventure !"
+    ],
+    "app_14": [
+        [
+            "apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le nouvel(le) apprenti(e) m_c aurait aimé avoir quelqu'un pour le/la guider."
+    ],
+    "app_15": [
+        [
+            "apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c n'est pas sûr(e) de pouvoir s'entraîner seul(e), mais essaiera quand même."
+    ],
+    "app_16": [
+        [
+            "apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c est frustré(e) de ne pas avoir de mentor."
+    ],
+    "app_17": [
+        [
+            "apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c ne sait pas quoi faire sans les conseils d'un mentor."
+    ],
+    "app_18": [
+        [
+            "apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c se demande s'il/elle pourra s'en sortir sans mentor."
+    ]
+}

@@ -1,0 +1,59 @@
+[
+    {
+        "event_id": "mtn_death_bury_multicamp1",
+        "location": [
+            "mountainous:camp1"
+        ],
+        "season": [
+            "leaf-fall",
+            "leaf-bare"
+        ],
+        "tags": [
+            "all_lives",
+            "no_body"
+        ],
+        "frequency": 1,
+        "event_text": "m_c a été enterré vivant lorsqu'une avalanche a frappé le camp.",
+        "m_c": {
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été enterré vivant lors d'une avalanche.",
+                "lead_death": "{VERB\/m_c\/were\/was} enterré vivant lors d'une avalanche"
+            }
+        ]
+    },
+    {
+        "event_id": "gen_death_weasel_death",
+        "location": [
+            "mountainous:camp4"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [],
+        "tags": [
+            "clan:kitten"
+        ],
+        "frequency": 2,
+        "event_text": "m_c s'est faufilé hors du camp et s'est perdu dans les tunnels étranges et anguleux, il ne restait rien à retrouver sauf du sang et une odeur de belette.",
+        "m_c": {
+            "age": [
+                "kitten"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été dévoré par une belette des montagnes lorsque {PRONOUN\/m_c\/subject} a essayé de s'échapper du camp."
+            }
+        ]
+    }
+]

@@ -1,0 +1,189 @@
+{
+    "lost a leg": {
+        "an infected wound": [
+            "La blessure où la patte de m_c était autrefois est infectée. r_c applique une pâte pendant que m_c serre {PRONOUN\/m_c\/poss} dents et essaie de ne pas hurler.",
+            "La blessure où la patte de m_c était autrefois est infectée.",
+            "Perdre la patte était déjà difficile, mais maintenant m_c sent comme du feu dans ses veines. Quelque chose ne va vraiment pas avec {PRONOUN\/m_c\/poss} blessure."
+        ],
+        "phantom pain": [
+            "m_c se rend chez r_c dans la tanière du guérisseur - {PRONOUN\/m_c\/subject} jurerait que {PRONOUN\/m_c\/poss} orteils sont crispés et douloureux, mais c'est sur le membre que {PRONOUN\/m_c\/subject} n'a plus.",
+            "Gémissant, m_c s'allonge au soleil pendant qu'un ami masse la blessure de {PRONOUN\/m_c\/poss} patte manquante. {PRONOUN\/m_c\/subject\/CAP} ne comprend pas comment quelque chose qui n'est plus là peut faire si mal.",
+            "m_c plante {PRONOUN\/m_c\/poss} griffes dans une branche, espérant que déchirer quelque chose le distraira de la douleur fulgurante venant de la patte que {PRONOUN\/m_c\/subject} n'a même plus."
+        ],
+        "sore": [
+            "Bien que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} se soit bien adapté à la vie avec une patte en moins, marcher sur trois pattes fatigue m_c et le rend douloureux partout. r_c propose des exercices pour soulager la douleur, ce qui n'aide pas l'humeur de m_c.",
+            "m_c ne dort pas bien et se sent meurtri et sensible du côté où {PRONOUN\/m_c\/poss} membre était autrefois.",
+            "Les muscles de la blessure de m_c ne semblent pas comprendre qu'ils ne sont plus reliés à rien - m_c ronronne de gratitude quand un camarade aide à les masser."
+        ]
+    },
+    "born without a leg": {
+        "sore": [
+            "m_c se rend chez r_c avec habitude, demandant de l'aide pour dormir la nuit - {PRONOUN\/m_c\/poss} membre manquant lui cause un peu de douleur de ce côté.",
+            "m_c a toujours vécu avec seulement trois pattes, mais cela ne veut pas dire que {PRONOUN\/m_c\/subject} ne ressent jamais la fatigue de bouger d'une façon inhabituelle. Les activités de ce mois ont rendu {PRONOUN\/m_c\/object} particulièrement douloureux."
+        ],
+        "joint pain": [
+            "m_c passe la matinée avec r_c, qui applique une pâte sur {PRONOUN\/m_c\/poss} articulations pour réduire la douleur.",
+            "Les articulations de m_c souffrent à cause de {PRONOUN\/m_c\/poss} patte manquante. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} bouge plus lentement ce mois-ci."
+        ]
+    },
+    "weak leg": {
+        "sore": [
+            "r_c remarque que m_c boite de l'autre côté du camp et lui donne des exercices pour renforcer {PRONOUN\/m_c\/poss} patte faible et réduire la douleur.",
+            "La mauvaise patte de m_c est particulièrement douloureuse ce mois-ci."
+        ],
+        "joint pain": [
+            "m_c vient voir r_c car {PRONOUN\/m_c\/poss} patte faible semble prête à céder sous la douleur dans ses articulations.",
+            "{PRONOUN\/m_c\/subject\/CAP} a dû mal poser sa patte ou autre chose - les articulations de la patte faible de m_c sont enflammées et douloureuses."
+        ]
+    },
+    "twisted leg": {
+        "sore": [
+            "Voyant que m_c se lève lentement le matin, r_c lui apporte des herbes contre la douleur pour {PRONOUN\/m_c\/poss} patte tordue.",
+            "m_c a du mal à rester joyeux avec la douleur de {PRONOUN\/m_c\/poss} patte tordue."
+        ],
+        "joint pain": [
+            "m_c fait lentement ses étirements matinaux, se rappelant la promesse de r_c que cela aidera la douleur dans {PRONOUN\/m_c\/poss} articulations.",
+            "m_c veut juste rester immobile et se reposer, attendant que la douleur articulaire dans {PRONOUN\/m_c\/poss} patte tordue diminue."
+        ]
+    },
+    "lost their tail": {
+        "an infected wound": [
+            "r_c traîne m_c dans la tanière du guérisseur pour appliquer une pommade malgré les protestations de m_c - {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} commence à sentir l'infection dans la blessure de la queue.",
+            "La blessure où la queue de m_c était autrefois est infectée."
+        ],
+        "phantom pain": [
+            "r_c ne peut pas donner de réponses à m_c - {PRONOUN\/m_c\/poss} queue est partie, mais la douleur reste.",
+            "m_c ne comprend pas comment un appendice absent peut démanger autant, mais cela le rend fou."
+        ]
+    },
+    "paralyzed": {
+        "an infected wound": [
+            "r_c amène m_c dans la tanière du guérisseur et commence à chercher - une odeur d'infection vient de {PRONOUN\/m_c\/object}, mais m_c n'a rien remarqué.",
+            "Il semble que m_c ait une égratignure sur une partie de {PRONOUN\/m_c\/poss} corps que {PRONOUN\/m_c\/subject} ne sent pas. La blessure est passée inaperçue jusqu'à ce que l'odeur d'infection apparaisse."
+        ],
+        "joint pain": [
+            "r_c ordonne à m_c de rester immobile pour laisser {PRONOUN\/m_c\/poss} articulations récupérer - c'est le seul moyen de soulager la douleur articulaire dans {PRONOUN\/m_c\/poss} moitié avant.",
+            "L'effort de se déplacer dans le camp a laissé les articulations de m_c douloureuses et endolories."
+        ],
+        "sore": [
+            "m_c observe, curieux. {PRONOUN\/m_c\/subject\/CAP} ne sent pas les spasmes dans {PRONOUN\/m_c\/poss} moitié paralysée, mais r_c s'inquiète quand même et masse les muscles.",
+            "Malgré tous les efforts de {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} pour renforcer {PRONOUN\/m_c\/poss} moitié avant, aujourd'hui m_c est douloureux et inconfortable à cause de l'effort pour se déplacer."
+        ],
+        "torn pelt": [
+            "m_c lèche l'égratignure sur {PRONOUN\/m_c\/poss} pelage avec soin. {PRONOUN\/m_c\/subject\/CAP} ne peut pas la sentir, mais {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} a été averti du risque d'infection par r_c.",
+            "Le sol rugueux du camp a déchiré le pelage de m_c alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/move\/moves} dans le camp."
+        ]
+    },
+    "raspy lungs": {
+        "whitecough": [
+            "Les pires craintes de r_c se réalisent : le mal blanc a infecté m_c à cause de ses poumons affaiblis.",
+            "Les poumons faibles de m_c le font tousser et siffler ce mois-ci, incapable de résister à la maladie."
+        ]
+    },
+    "wasting disease": {
+        "running nose": [
+            "r_c donne à m_c des herbes dégoûtantes avec {PRONOUN\/m_c\/poss} repas, inquiet pour {PRONOUN\/m_c\/poss} nez qui coule. m_c pense que {PRONOUN\/r_c\/subject} devrait plutôt s'inquiéter de son appétit !",
+            "Le nez de m_c coule sans arrêt depuis tout le mois."
+        ],
+        "yellowcough": [
+            "Si seulement {PRONOUN\/r_c\/subject} avait du pulmonaire... r_c fouille les réserves d'herbes, désespéré de trouver un moyen d'aider m_c contre le mal jaune.",
+            "m_c est faible et fiévreux, à peine cohérent... il semble que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} le mal jaune."
+        ],
+        "redcough": [
+            "r_c commence discrètement à rendre m_c confortable... ou du moins aussi confortable que possible en toussant du sang.",
+            "m_c crache du sang, {PRONOUN\/m_c\/poss} corps s'affaiblit de plus en plus. {PRONOUN\/m_c\/subject\/CAP} ne tiendra peut-être pas longtemps."
+        ]
+    },
+    "one bad eye": {
+        "failing eyesight": [
+            "m_c se cogne contre un rocher du côté de son mauvais œil. r_c le prend à part. Doucement, {PRONOUN\/r_c\/subject} {VERB\/r_c\/tell\/tells} à m_c que sa mauvaise vue empire.",
+            "m_c a remarqué que sa vision devient de plus en plus floue."
+        ]
+    },
+    "failing eyesight": {
+        "blind": [
+            "La vision de m_c semble se rétrécir et s'assombrir chaque jour. Maintenant, il ne distingue plus que la lumière et l'ombre, il n'y a plus rien que r_c puisse faire pour {PRONOUN\/m_c\/object}.",
+            "La vue de m_c n'a fait qu'empirer. Maintenant, elle semble avoir disparu complètement."
+        ]
+    },
+    "partial hearing loss": {
+        "deaf": [
+            "r_c écoute m_c expliquer qu'il ne semble plus entendre les détails du monde.",
+            "m_c réalise un jour que les bruits autour de {PRONOUN\/m_c\/object} ne sont plus juste faibles, mais quasiment silencieux. Il semble que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} ait perdu trop d'audition."
+        ]
+    },
+    "constant joint pain": {
+        "joint pain": [
+            "Somnolent, m_c remercie r_c pour le soulagement. Cela fait des lunes que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} n'a pas pu bien dormir sans cette douleur intense.",
+            "La douleur articulaire de m_c est pire que d'habitude ce mois-ci, {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} {PRONOUN\/m_c\/self} à peine capable de sortir de son nid."
+        ]
+    },
+    "seizure prone": {
+        "seizure": [
+            "r_c repère la crise et amène m_c à son nid, où il est toujours moins perturbant de se réveiller.",
+            "m_c est épuisé et stressé, à la fois cause et conséquence de sa crise."
+        ],
+        "severe headache": [
+            "Les crises de m_c lui laissent de terribles maux de tête ces derniers temps.",
+            "La dernière crise de m_c a laissé des séquelles - {PRONOUN\/m_c\/poss} tête lui fait très mal."
+        ]
+    },
+    "allergies": {
+        "running nose": [
+            "r_c soupire en voyant m_c venir vers {PRONOUN\/r_c\/object} et prépare son mélange habituel d'herbes, espérant que la réaction allergique de m_c s'estompe bientôt.",
+            "C'est la saison des allergies ! m_c éternue et renifle tout le mois."
+        ]
+    },
+    "recurring shock": {
+        "constant nightmares": [
+            "r_c reste avec m_c, écoute ses soucis et lui apporte du réconfort. m_c a passé un mois difficile, hanté par des cauchemars constants.",
+            "Hanté par les souvenirs de son passé, m_c dort si peu ce mois-ci que {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} {PRONOUN\/m_c\/self} incapable de fonctionner."
+        ]
+    },
+    "lasting grief": {
+        "grief stricken": [
+            "r_c se serre contre m_c et ronronne pour le réconforter autant que possible. m_c reste immobile et fixe, les yeux remplis d'une profonde tristesse.",
+            "m_c quitte le camp en colère, la tristesse qui monte dans sa gorge semble l'étouffer. m_c trouve injuste que cette douleur ne disparaisse pas.",
+            "m_c respire profondément, essayant de ne pas se laisser submerger par la vague de tristesse, mais c'est difficile et ça ne part jamais vraiment.",
+            "m_c se réveille brusquement et manque de hurler sous la vague de tristesse qui le frappe. La journée commence mal."
+        ],
+        "absent": [
+            "m_c n'est plus le même depuis la veillée.",
+            "m_c semble toujours vivre dans un brouillard."
+        ]
+    },
+    "persistent headaches": {
+        "headache": [
+            "Les maux de tête de m_c l'ont particulièrement tourmenté ce mois-ci, à tel point que r_c manque de son mélange antidouleur, ayant tout utilisé pour aider m_c.",
+            "m_c grogne alors qu'une nouvelle vague de douleur le frappe. C'est intermittent ; les herbes aident, mais avoir autant de maux de tête devient agaçant."
+        ],
+        "severe headache": [
+            "r_c voit m_c se diriger vers la tanière du guérisseur, grimaçant à chaque pas. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/duck\/ducks} à l'intérieur pour préparer un nid dans le coin le plus sombre et le plus calme.",
+            "m_c se réveille avec une douleur lancinante à la tête et une forte sensibilité à la lumière. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/curl\/curls} dans son nid, les yeux fermés et les oreilles plaquées. Impossible de travailler aujourd'hui."
+        ]
+    },
+    "absent": {
+        "joint pain": [
+            "Les articulations de m_c lui font mal ces derniers temps. {PRONOUN\/m_c\/object\/CAP} a dû marcher plus que {PRONOUN\/m_c\/object} ne le pensait.",
+            "m_c bouge moins aujourd'hui, marmonnant qu'il est endolori."
+        ],
+        "torn pelt": [
+            "m_c ne sait pas d'où viennent ces égratignures, mais elles sont bien là.",
+            "m_c a accidentellement déchiré son pelage en se promenant dans le territoire."
+        ]
+    },
+    "strange lump": {
+        "seizure": [
+            "m_c a eu une crise récemment. r_c dit que la grosseur a changé d'aspect.",
+            "Personne ne s'attendait à ce que m_c ait une crise sans prévenir. r_c craint que ce soit à cause de {PRONOUN\/m_c\/poss} grosseur."
+        ],
+        "paralysis": [
+            "m_c s'est réveillé et a réalisé qu'il ne peut plus bouger ses pattes...",
+            "m_c signale des picotements étranges et une faiblesse sévère dans ses pattes."
+        ],
+        "redcough": [
+            "m_c a commencé à cracher du sang. Le Clan a déjà vu ça - cette grosseur était du poison.",
+            "r_c se prépare au pire quand m_c attrape enfin le mal rouge. Ce n'est plus qu'une question de lunes."
+        ]
+    }
+}

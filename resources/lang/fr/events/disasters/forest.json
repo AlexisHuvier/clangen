@@ -1,0 +1,524 @@
+[
+    {
+        "event": "Great Blizzard",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Leaf-bare"
+        ],
+        "tags": [],
+        "priority": "primary",
+        "duration": 2,
+        "rarity": "uncommon",
+        "trigger_events": [
+            "Les premiers flocons de neige tombent délicatement dans la lumière jaunâtre, certains des plus jeunes chats de c_n les poursuivent en jouant. En moins d'un jour, aucun chat ne voit plus loin que ses moustaches, la forêt est ensevelie sous une tempête de neige."
+        ],
+        "progress_events": {
+            "moon1": [
+                "La neige semble ne jamais finir, les nuits et les jours sont de la même teinte morne de blanc. Tout ce que c_n peut faire, c'est se sortir de leurs nids chaque matin."
+            ]
+        },
+        "conclusion_events": [
+            "La lumière éclatante du soleil brille sur la neige blanche et immobile. La tempête de neige est terminée, bien que la mauvaise saison continue."
+        ],
+        "secondary_disasters": [
+            {
+                "disaster": "Barren Land",
+                "triggers_during": "during",
+                "chance": 5,
+                "trigger_events": [
+                    "La neige a caché toutes les plantes et les sentiers, tout ce dont c_n dépendait. Les herbes, les meilleurs endroits pour ramasser de la mousse, les plus belles collections de toiles d’araignée, tout a été enseveli sous des flocons blancs et glacés."
+                ]
+            },
+            {
+                "disaster": "Famine",
+                "triggers_during": "during",
+                "chance": 5,
+                "trigger_events": [
+                    "Aucun chat ne peut sentir l'odeur de proie au-delà de la neige. Il pourrait y avoir des souris juste sous leurs pattes, mais aucun guerrier de c_n ne peut les suivre, et ceux qui ont la chance d'en voir une glissent plus souvent qu'autrement."
+                ]
+            },
+            {
+                "disaster": "Terrible Cold",
+                "triggers_during": "during",
+                "chance": 5,
+                "trigger_events": [
+                    "Tout chat avec un pelage fin semble incapable de se réchauffer avec toute la neige qui tombe dans la forêt. Les éternuements et la toux réveillent de nombreux chats dans le silence étouffé de la tempête de neige."
+                ]
+            }
+        ],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Drought",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Greenleaf"
+        ],
+        "tags": [],
+        "priority": "primary",
+        "duration": 3,
+        "rarity": "uncommon",
+        "trigger_events": [
+            "lead_name gratte la terre du bout de la patte, la griffant pour montrer à dep_name et med_name. Il y a un manque alarmant d'humidité, le sol est poussiéreux et sec. Il est peut-être temps de déclarer cette chaleur une sécheresse et de commencer à planifier pour l'avenir.",
+            "med_name met lead_name à part. Ils ont remarqué que certaines des herbes qui poussent dans les coins marécageux de la forêt de c_n commencent à se flétrir sous cette chaleur.",
+            "Les feuilles des arbres se fanent et pendent, lourdes de l'épuisement que la chaleur apporte. Au camp, les chats se prélassent à l'ombre, attendant impatiemment la fraîcheur de la nuit et la possibilité de chasser. Il n'a pas plu de toute la lune."
+        ],
+        "progress_events": {
+            "moon1": [
+                "Même les arbres semblent desséchés. Les chats de c_n transportent de la mousse entre le camp et leur source d'eau, ramenant le précieux liquide à leurs plus jeunes et plus vieux camarades. Mais des murmures de mécontentement se font entendre : que feront-ils si leur eau s'assèche ?",
+                "Les proies que les chats rapportent au tas de gibier commencent à sembler faibles. Difficile de dire ce qui les affaiblit le plus : la chaleur ou la difficulté à trouver de l'eau.",
+                "med_name sent le craquement de la litière de feuilles si sèche qu'elle se brise sous ses pas. Ils ravalent leur inquiétude : la sécheresse ne peut être combattue par les guerriers du Clan, mais med_name peut remplir la tanière du guérisseur de remèdes contre les coups de chaleur et l'épuisement."
+            ],
+            "moon2": [
+                "La sécheresse continue. Les chats de c_n halètent à l'ombre, trop chauds pour bouger, leurs langues sèches et collantes.",
+                "Même la nuit n'apporte plus de fraîcheur. Aucun chat ne peut dormir, la puissance de la chaleur leur ôtant même le soulagement du repos.",
+                "Les nombreux ruisseaux et cours d'eau de la forêt ne murmurent plus. Aucun chat ne sait s'ils reviendront un jour.",
+                "lead_name regarde son Clan, blotti dans le maigre répit offert par l'ombre de leurs tanières. Comment combattre un ennemi comme la chaleur ? Cette sécheresse ronge le cœur de la forêt comme une maladie."
+            ]
+        },
+        "conclusion_events": [
+            "Les chats de c_n lèvent leurs visages vers le ciel, se rassemblant dans la clairière au cœur du camp, frémissant de joie alors que la pluie trempe leurs pelages et résonne sur le sol durci par la sécheresse. Avec l'eau, la vie revient dans la forêt.",
+            "L'ombre de la canopée, si souvent leur seule protection contre la chaleur qui hante leurs bois, abrite maintenant c_n d'un autre ciel. La pluie tambourine sur les feuilles au-dessus d'eux alors que les chats inclinent la tête en remerciement. StarClan a entendu leurs prières, et la sécheresse est terminée.",
+            "lead_name regarde les nuages se rassembler, tremblant d'anticipation et d'espoir. Lorsque le ciel s'ouvre, la terre absorbe l'eau, aussi assoiffée que le Clan qui lève la tête vers les étoiles et laisse la pluie vivifiante remplir leurs gorges."
+        ],
+        "secondary_disasters": [
+            {
+                "disaster": "Barren Land",
+                "triggers_during": "during",
+                "chance": 1,
+                "trigger_events": [
+                    "Ce n'est une surprise pour personne que les bois perdent leurs plantes, le sous-bois s'affaisse et se flétrit alors que la sécheresse fait des ravages.",
+                    "med_name s'y attendait, mais c'est tout de même un coup dur de voir ce qui devrait être la saison idéale pour la cueillette des herbes se transformer en une recherche désespérée de feuilles fanées et poussiéreuses.",
+                    "La terre, souffrant sous la chaleur de la sécheresse, ne peut tout simplement pas soutenir la vie végétale normale qui devrait pousser sous la canopée de la forêt."
+                ]
+            },
+            {
+                "disaster": "Famine",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "dep_name soupire en organisant une nouvelle patrouille de chasse. Ils ne peuvent pas réparer la sécheresse qui éloigne et tue les proies de c_n, tout ce qu'ils peuvent faire, c'est envoyer plus de guerriers et espérer que l'habileté des chasseurs de c_n pourra tenir la famine à distance.",
+                    "c_n devrait grossir grâce aux fruits de la saison, ou au moins grâce aux proies qui ont mangé ces fruits. Mais la sécheresse n'apporte que de la poussière et de maigres trouvailles.",
+                    "La forêt est silencieuse – silencieuse comme au cœur de l'hiver. Mais cette fois, c'est la chaleur qui en est la cause, pas le froid. Comment c_n va-t-il s'en sortir, alors que cela devrait être une saison d'abondance ?"
+                ]
+            },
+            {
+                "disaster": "Wildfire",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "Au cœur de la forêt, dans un lit de feuilles sèches et poussiéreuses, un éclat de verre capte la lumière brûlante du soleil, et la litière commence à se consumer. Un incendie naît, sifflant et crépitant, se répandant dans les bois desséchés par la sécheresse pour devenir un brasier immense et incontrôlable.",
+                    "Alors que la sécheresse traque c_n, le feu suit ses traces. Aucun chat ne sait comment il est né, mais le Clan se disperse devant lui, rassemblant les plus vulnérables et courant, courant pour leur vie alors que la mort rouge et lumineuse les chasse, les bois de leur foyer tombant en proie aux mâchoires de l'incendie.",
+                    "La fumée atteint c_n en premier – mais le feu est juste derrière. Leur forêt, sèche comme du bois d'allumette et poussiéreuse, force c_n à fuir devant les flammes, se réfugiant vers les dernières sources d'eau du bois, les guerriers attrapant et tirant ceux qui commencent à rester en arrière."
+                ]
+            }
+        ],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Wildfire",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Greenleaf",
+            "Leaf-fall"
+        ],
+        "tags": [],
+        "priority": "both",
+        "duration": 5,
+        "rarity": "uncommon",
+        "trigger_events": [
+            "La fumée s'élève dans le ciel alors que le crépitement lointain du feu annonce un sombre destin. Un incendie fait rage dans la forêt.",
+            "c_n frissonne alors que la forêt rugit, les dents brûlantes du feu déchirant leurs bois bien-aimés.",
+            "Rien ne pourrait égaler cela, ni le rugissement des monstres ou des tigres ou des lions. Le hurlement grinçant du feu traverse la forêt, dispersant tout devant sa destruction flamboyante."
+        ],
+        "progress_events": {
+            "moon1": [
+                "Dans les suites de l'incendie, la forêt reste calme et silencieuse, mais le Clan sait que la vie retrouvera son chemin.",
+                "La brume de fumée recouvre chaque vue, chaque odeur, chaque son. Jusqu'à ce qu'elle se dissipe, il sera impossible de savoir ce que c_n a perdu – ou ce qu'ils ont sauvé.",
+                "Le sol semble brûlant sous les pattes, anormal et inquiétant. Rayés de suie, les chats de c_n se regardent avec de grands yeux, choqués dans le silence."
+            ],
+            "moon2": [
+                "La terreur du feu persiste dans le cœur et l'esprit de c_n. Certains se réveillent la nuit, revivant leur fuite dans leurs rêves, d'autres ne peuvent pas dormir du tout.",
+                "Bien que le monde semble définitivement noirci, sur les branches calcinées d'un pin, de nouvelles aiguilles se déploient.",
+                "Tout n'est que suie. Elle s'infiltre dans chaque gorgée d'eau bénie, chaque bouchée de gibier, chaque souffle d'air alors que les guerriers tentent de chasser dans ce nouveau monde exposé et brut."
+            ],
+            "moon3": [
+                "Jamais un chat n'aurait pensé être aussi reconnaissant pour les mauvaises herbes, mais voir la vie renaître sur le territoire de c_n est une joie particulière.",
+                "Alors que la forêt envoie de nouveaux bourgeons, c'est difficile pour ceux qui ont perdu quelque chose. Leur territoire avance après l'incendie, mais eux n'y arrivent pas.",
+                "Les arbres envoient de nouvelles branches pour se mêler à leurs troncs tachés de suie et calcinés."
+            ],
+            "moon4": [
+                "Le chant des oiseaux - c_n en a été privé si longtemps. Avec la forêt qui reprend vie, leur tant attendu chœur de l'aube est revenu.",
+                "C'est étrange, mais leur boue a changé de couleur, redevenant de la terre au lieu de la suie ! Toujours aussi pénible à retirer des pelages.",
+                "La croissance de la forêt n'a jamais été autant célébrée par c_n, mais après la dévastation de l'incendie, le retour du vert est ressenti comme une victoire."
+            ]
+        },
+        "conclusion_events": [
+            "Enfin, la forêt semble presque normale. Le feu n'est plus qu'une cicatrice et un souvenir.",
+            "Il n'y a pas de moment précis. Mais d'une façon ou d'une autre, pas à pas, c_n et leur territoire se sont remis de l'incendie qui a ravagé leurs bois.",
+            "C'est étrange de penser à l'incendie comme à quelque chose de désormais lointain, d'imaginer les chatons en entendre parler dans la pouponnière ou les anciens le raconter comme une histoire de leur jeunesse. Mais c'est ainsi, n'est-ce pas ? La vie continue."
+        ],
+        "secondary_disasters": [
+            {
+                "disaster": "Famine",
+                "triggers_during": "start",
+                "chance": 5,
+                "trigger_events": [
+                    "Les proies qui remplissaient autrefois la forêt ont disparu, effrayées ou tuées par l'incendie. Une famine s'annonce pour l'avenir.",
+                    "Encore une fois, les patrouilles de chasse reviennent bredouilles. Avec le sous-bois disparu et les arbres brûlés et calcinés, comment les chats de c_n peuvent-ils trouver assez de gibier pour survivre ?",
+                    "Les côtes des chats commencent à se voir sous leur pelage. La forêt, normalement la grande protectrice de c_n, n'offre plus beaucoup de proies ou de vie après l'incendie."
+                ]
+            },
+            {
+                "disaster": "Camp Destruction",
+                "triggers_during": "start",
+                "chance": 10,
+                "trigger_events": [
+                    "Le feu a ravagé le camp, détruisant les tanières soigneusement construites et brûlant le tas de gibier et les herbes. Le Clan doit reconstruire ou partir.",
+                    "Se tenir dans le camp après que le feu se soit éteint est dévastateur. Le paysage est méconnaissable, comme un squelette d’un ami familier. Est-ce que c_n peut le réparer ? Devrait-il même essayer ?",
+                    "Que peut faire c_n, quand il ne reste rien ? Leur foyer a disparu, dévoré par les flammes, et le Clan hésite, incertain. Doivent-ils reconstruire, ou partir ?"
+                ]
+            },
+            {
+                "disaster": "Barren Land",
+                "triggers_during": "start",
+                "chance": 5,
+                "trigger_events": [
+                    "La terre est laissée stérile une fois que l'incendie a balayé la forêt, il ne reste plus une seule plante verte à voir. Les herbes seront sûrement difficiles à trouver.",
+                    "Rien n'a échappé aux mâchoires des flammes, et la forêt a été dépouillée de son manteau vert.",
+                    "Même la litière de feuilles n'a pas survécu au feu. Au lieu de plantes, d'herbes et de sous-bois, la forêt n'offre plus que de la suie."
+                ]
+            }
+        ],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Terrible Cold",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Leaf-fall",
+            "Leaf-bare"
+        ],
+        "tags": [],
+        "priority": "both",
+        "duration": 2,
+        "rarity": "uncommon",
+        "trigger_events": [
+            "L'air a des griffes plus acérées que n'importe quel guerrier ennemi. Même le soleil levant ne peut l'adoucir, ne faisant que faire scintiller la nouvelle terre gelée d'une beauté sombre. Un terrible froid est arrivé, et la maladie suivra bientôt.",
+            "Respirer fait mal, l'air glacé comme des poignards dans leurs poumons. Le Clan se blottit dans ses tanières, se serrant les uns contre les autres en piles frissonnantes. Ce terrible froid passera, se disent-ils, il ne durera pas pour toujours.",
+            "La forêt pleure. La fourrure de lead_name se hérisse d'alarme, essayant de rester calme et d'éviter la panique alors que le terrible froid fait craquer et gémir les arbres."
+        ],
+        "progress_events": {
+            "moon1": [
+                "Les plus jeunes chats ont oublié la chaleur de la saison des feuilles vertes, certains croient qu'ils ne se réchaufferont jamais, et les plus âgés souffrent encore plus du froid à cause de leurs souvenirs des jours chauds. Jeunes et vieux se serrent les uns contre les autres pour se réchauffer, et espèrent malgré le froid de ces longues nuits.",
+                "Le froid semble interminable. Même le vent n'ose pas le troubler, l'air si immobile qu'il semble pouvoir couper. Les nez sont cachés sous les queues et les pattes sont bien enfouies alors que le Clan fait tout pour éviter de geler.",
+                "Des murmures commencent à se répandre dans le camp, des rumeurs sur ce qu'ils ont pu faire pour que le Clan des Étoiles leur tourne le dos et gèle c_n dans une immobilité sans fin."
+            ]
+        },
+        "conclusion_events": [
+            "Le soleil se lève un jour, des éclats de glace arc-en-ciel scintillant sur le sol comme tant de jours auparavant, mais au fil de la journée... Ils fondent et se transforment en boue. Même si tout le monde se salit vite, la lumière du soleil est si agréable sur la fourrure de chaque chat que personne ne se plaint trop entre leurs ronronnements.",
+            "Quand le Clan sort de ses tanières et découvre que le monde n'est plus gelé, ils sont presque choqués par le changement. Il faisait si froid depuis si longtemps qu'ils avaient oublié la chaleur.",
+            "Alors que le froid desserre son emprise sur leurs gorges, la forêt de c_n pleure de soulagement, les arbres suintent de la sève de leurs troncs abîmés."
+        ],
+        "secondary_disasters": [],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Floods",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Newleaf"
+        ],
+        "tags": [],
+        "priority": "both",
+        "duration": 3,
+        "rarity": "uncommon",
+        "trigger_events": [
+            "lead_name vérifie les petits ruisseaux de fonte de neige qui traversent la forêt avec une inquiétude croissante. Ils sont bien plus hauts que d'habitude à ce moment de nouvelle-feuille, et si cela continue, les bois seront inondés.",
+            "c_n se blottit dans ses tanières, misérable et trempé. Les ronces et la canopée de la forêt, encore fines et en bourgeons, ont toutes deux cédé sous la pluie lourde et constante. Il n'y a aucun bruit dans la forêt, il n'y en a pas eu depuis des jours, chaque pas de proie ou chant d'oiseau est éclipsé par la chute régulière de l'eau.",
+            "Le sol, qui n'a pas encore retrouvé sa toison verte après la mauvaise saison, est maintenant détrempé et boueux, plus de la boue que du sol forestier. Un ruisseau s'est formé en plein centre du camp, là où devrait se trouver le tas de gibier – mais il n'y a pas eu beaucoup de gibier, pas avec la pluie qui trempe les patrouilles de chasse jusqu'à la peau."
+        ],
+        "progress_events": {
+            "moon1": [
+                "lead_name avance dans les sous-bois de la forêt, concentré sur ses pattes. Le chemin est si familier qu'il pourrait le parcourir les yeux fermés, mais le traverser avec de l'eau jusqu'aux hanches dans la forêt inondée est une autre histoire.",
+                "Alors que les eaux montent, c_n se réfugie dans les arbres. Là, au moins, ils peuvent chasser, utilisant des compétences normalement réservées à la poursuite juste pour se déplacer dans leur territoire. Ils ne peuvent pas être les seuls à avoir été chassés dans la canopée par les inondations – sûrement leurs proies sont là aussi, quelque part."
+            ],
+            "moon2": [
+                "Il semble que le monde ne sera plus jamais sec. Bien que les eaux aient baissé, les chats pataugent encore dans les flaques et les rivières grondent toujours, une menace constante."
+            ]
+        },
+        "conclusion_events": [
+            "Au fil des jours, la forêt sèche lentement de plus en plus. Finalement, la boue a disparu et le Clan peut enfin se sentir propre et en sécurité à nouveau."
+        ],
+        "secondary_disasters": [
+            {
+                "disaster": "Barren Land",
+                "triggers_during": "during",
+                "chance": 1,
+                "trigger_events": [
+                    "La crue traverse la forêt et laisse derrière elle un chaos boueux et mourant. Les herbes dont le Clan dépend seront rares après cela."
+                ]
+            },
+            {
+                "disaster": "Famine",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "Alors que le Clan tente de trouver de la nourriture, il réalise que la crue n'a laissé aucune proie vivante derrière elle. Les animaux de la forêt se sont soit enfuis, soit noyés, et leurs cadavres flottants ne sont guère sûrs à manger."
+                ]
+            }
+        ],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Twoleg Invasion",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Greenleaf"
+        ],
+        "tags": [],
+        "priority": "both",
+        "duration": 2,
+        "rarity": "common",
+        "trigger_events": [
+            "Des Bipèdes ont été aperçus partout autour du territoire de c_n, rampant dans et hors de nids colorés apparus de nulle part, effrayant toutes les proies et piétinant toutes les plantes de la zone. Certains Bipèdes ont même du feu ! Des patrouilles devront être organisées pour les surveiller."
+        ],
+        "progress_events": {
+            "moon1": [
+            "L'abondance de Bipèdes dans la région ne semble pas diminuer, peu importe le nombre de jours qui passent. Des objets de couleurs étranges ont été trouvés là où les Bipèdes sont passés, et certains ont laissé couler des liquides bizarres dans le sol, répandant des odeurs étranges qui persistent."
+            ]
+        },
+        "conclusion_events": [
+            "Le dernier Bipède est parti hier, laissant derrière lui des objets étranges, mais heureusement emportant les grandes choses effrayantes avec lui. Il semble que, pour l'instant, la vie puisse reprendre son cours normal."
+        ],
+        "secondary_disasters": [
+            {
+                "disaster": "Wildfire",
+                "triggers_during": "end",
+                "chance": 0,
+                "trigger_events": [
+                    "Un Bipède a été vu en train de jouer avec du feu, semblant apprécier ce dangereux jouet comme un chaton avec une boule de mousse et, tout comme un chaton, il en a perdu le contrôle. La forêt est trop sèche en saison des feuilles vertes pour arrêter le feu, et il se propage rapidement, les chats de c_n ne pouvant que fuir avec le reste des animaux de la forêt.",
+                    "Les Bipèdes semblent aimer se rassembler autour de grands feux, au grand effroi du Clan. Bien que les feux semblent être éteints avant le départ des Bipèdes, il n'est pas surprenant que certaines braises persistent et que la forêt commence à s'embraser."
+                ]
+            },
+            {
+                "disaster": "Prey Sickness",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "Les objets que les Bipèdes apportent sentent si attirant, mais les chats de c_n les évitent autant que possible. Ce n'est que lorsque les premiers chats commencent à tomber malades qu'ils réalisent que les proies dont ils dépendent pour se nourrir n'ont peut-être pas fait de même."
+                ]
+            }
+        ],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Prey Sickness",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Newleaf",
+            "Greenleaf",
+            "Leaf-fall",
+            "Leaf-bare"
+        ],
+        "tags": [],
+        "priority": "both",
+        "duration": 2,
+        "rarity": "uncommon",
+        "trigger_events": [
+            "Les objets que les Bipèdes apportent sentent si attirant, mais les chats de c_n les évitent autant que possible. Ce n'est que lorsque les premiers chats commencent à tomber malades qu'ils réalisent que les proies dont ils dépendent pour se nourrir n'ont peut-être pas fait de même.",
+            "Les proies ont été faciles à attraper ces derniers temps, bien que même les prises les plus fraîches semblent un peu... étranges. La tanière du guérisseur est plus occupée que d'habitude, et les maux de ventre sont maintenant très courants."
+        ],
+        "progress_events": {
+            "moon1": [
+                "Il y a quelque chose qui ne va pas avec les proies de la forêt. Peu importe à quel point les guerriers essaient d'attraper des proies saines, le gibier frais provoque toujours des maux de ventre ou pire, et tout ce qui sent même un peu mauvais est emporté et enterré, loin, très loin des bouches affamées."
+            ]
+        },
+        "conclusion_events": [
+            "Le gibier frais a un goût un peu meilleur, un peu plus vif, comme s'il était plus propre. Bien que le Clan soit peut-être un peu plus maigre qu'avant, il semble qu'ils puissent maintenant manger tout ce qu'ils attrapent à nouveau - s'ils arrivent à en attraper !"
+        ],
+        "secondary_disasters": [],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Horrible Storms",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Newleaf",
+            "Greenleaf",
+            "Leaf-fall"
+        ],
+        "tags": [],
+        "priority": "both",
+        "duration": 2,
+        "rarity": "common",
+        "trigger_events": [
+            "Le vent commence à hurler à travers les arbres comme si le monde lui-même partait en guerre contre c_n. Dans les traces du vent arrivent les nuages sombres et la pluie, la colère du ciel éclatant avec des grondements tonitruants, la foudre faisant dresser les poils de chaque chat."
+        ],
+        "progress_events": {
+            "moon1": [
+                "Les tempêtes continuent de secouer la forêt, les arbres craquent tout autour, certains perdent des branches, d'autres tombent. De gros grêlons tombent parfois du ciel, forçant chaque chat à courir vers la tanière la plus proche, et l'imprévisibilité rend la chasse difficile."
+            ]
+        },
+        "conclusion_events": [
+            "Le ciel n'est plus en guerre contre c_n. Les hurlements du vent et de la pluie se sont apaisés en un doux ronronnement, avant de disparaître complètement, ne laissant que les conséquences derrière lui. Le chant des oiseaux résonne à nouveau dans les arbres de la forêt."
+        ],
+        "secondary_disasters": [
+            {
+                "disaster": "Floods",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "Le ciel a apporté avec lui des rivières gonflées qui débordent de leurs rives. L'eau coule librement sans chemin, et chaque chat doit planter ses griffes dans le sol pour ne pas être emporté."
+                ]
+            },
+            {
+                "disaster": "Wildfire",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "Avec toute cette pluie, il devrait être impossible qu'un feu se déclare, mais le ciel ne se soucie pas de ce qui est possible. La foudre déchire le ciel, comme un coup de griffe venu d'en haut, frappant le sommet d'un vieil arbre, le fendant en deux et l'enflammant si fort que même la pluie ne peut l'éteindre. Le feu se propage rapidement."
+                ]
+            },
+            {
+                "disaster": "Famine",
+                "triggers_during": "during",
+                "chance": 0,
+                "trigger_events": [
+                    "Le monde semble avoir été lessivé par le ciel, aucune proie n'est à trouver sur le territoire de c_n, et chaque terrier qu'ils trouvent n'est rempli que d'eau. Des jours maigres s'annoncent."
+                ]
+            }
+        ],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Famine",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Newleaf",
+            "Greenleaf",
+            "Leaf-fall",
+            "Leaf-bare"
+        ],
+        "tags": [],
+        "priority": "secondary",
+        "duration": 3,
+        "rarity": null,
+        "trigger_events": [],
+        "progress_events": {
+            "moon1": [
+                "Le Clan chasse et fouille pour trouver le moindre indice de nourriture possible, mais ils n'en trouvent jamais assez.",
+                "Alors que la famine traque le Clan, aucune de leurs propres chasses ne semble suffisante pour la chasser de leurs pattes.",
+                "Chaque chat du Clan semble un peu plus triste, un peu plus sérieux alors que la situation se révèle à tous. Ils doivent essayer de trouver plus de proies, avant qu'il ne soit trop tard."
+            ],
+            "moon2": [
+                "c_n a commencé à errer au-delà de ses frontières pour trouver des proies. Même si ce n'est pas autant qu'ils l'espéraient, chaque prise est considérée comme une bénédiction du Clan des Étoiles, même si certaines proies sentent un Clan rival. Personne ne pose de questions si cela signifie ne pas avoir faim.",
+                "Chaque morceau, chaque prise, chaque pièce rapportée au Clan, tout cela a tant d'importance. Avec des proies si rares, chaque bouchée est cruciale.",
+                "Jamais auparavant les prières murmurées au Clan des Étoiles sur chaque prise n'ont semblé aussi sincères. Tout ce que les chats du Clan peuvent faire avec la faim qui les poursuit, c'est leur possible. Le reste est entre les pattes des étoiles."
+            ]
+        },
+        "conclusion_events": [
+            "Les proies sont revenues dans la forêt, la famine est enfin terminée.",
+            "Bien que les proies aient recommencé à courir, certains guerriers semblent toujours considérer chaque bond raté comme une blessure de griffe. C'est une mentalité difficile à perdre.",
+            "La forêt bourdonne à nouveau de vie, et lentement le Clan aussi, rattrapant les temps difficiles avec des blagues, des partages de langues et en se prélassant ensemble au soleil éclatant."
+        ],
+        "secondary_disasters": [],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Barren Land",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Newleaf",
+            "Greenleaf",
+            "Leaf-fall",
+            "Leaf-bare"
+        ],
+        "tags": [],
+        "priority": "secondary",
+        "duration": 3,
+        "rarity": null,
+        "trigger_events": [],
+        "progress_events": {
+            "moon1": [
+                "Alors que les réserves d'herbes diminuent, les réactions sont partagées. Ceux qui rejettent l'aide des remèdes paradent, indifférents, mais les esprits les plus sages commencent déjà à s'inquiéter.",
+                "Lorsque les patrouilles de cueillette d'herbes reviennent, épuisées et bredouilles, le Clan commence à surveiller la croissance des plantes de la forêt avec inquiétude.",
+                "Les herbes repousseront sûrement bientôt. Ou le Clan trouvera de la puissance dans leurs racines. Ou un autre Clan viendra en aide. Sûrement."
+            ],
+            "moon2": [
+                "Chercher des herbes est normalement plus facile que chasser des proies vivantes, mais avec les plantes qui se flétrissent et meurent, c_n ne peut rien faire.",
+                "Ils vont bientôt commencer à perdre des chats, si la forêt ne retrouve pas sa toison verte. Les perdre à cause de blessures qu'ils auraient normalement survécu, à des maladies qu'ils auraient dû être assez forts pour combattre, des morts injustes, inutiles, imméritées.",
+                "Jamais c_n n'aurait pensé envier les Bipèdes et leur capacité à faire pousser des plantes à volonté. Certains donneraient leur pelage pour pouvoir le faire en ce moment, alors que la forêt continue de les abandonner."
+            ]
+        },
+        "conclusion_events": [
+            "Il y a une telle paix, un tel soulagement profond, dans les feuilles qui poussent. c_n a vécu si longtemps entouré de bois mourants que la nouvelle croissance attire une foule pour l'admirer.",
+            "Le vert revient dans la forêt de c_n, en une croissance emmêlée qui grimpe le long des troncs, en un vert profond et plein qui rappelle les flétris à la vie, en nouveaux bourgeons et petites pousses. La terre n'est plus stérile.",
+            "Enfin, les réserves d'herbes ne sont plus au centre des commérages de c_n, et redeviennent seulement la préoccupation des experts qui les utilisent. La forêt, si longtemps flétrie, retrouve son abondance d'autrefois."
+        ],
+        "secondary_disasters": [],
+        "collateral_damage": {}
+    },
+    {
+        "event": "Camp Destruction",
+        "camp": [
+            "any"
+        ],
+        "season": [
+            "Newleaf",
+            "Greenleaf",
+            "Leaf-fall",
+            "Leaf-bare"
+        ],
+        "tags": [],
+        "priority": "secondary",
+        "duration": 3,
+        "rarity": null,
+        "trigger_events": [],
+        "progress_events": {
+            "moon1": [
+                "C'est à la fois épuisant et déchirant de démolir les restes abîmés de ce qui était autrefois un foyer sûr et entier. Mais c_n serre les dents et pousse des cris d'encouragement à ses camarades. Rien ne les chassera de la forêt, et ils sont déterminés à en faire à nouveau leur maison.",
+                "Alors que dep_name arrache brutalement le dos brisé de la pouponnière, retirant les ronces qui n'ont pas su la protéger, quelque chose tombe avec elles. Des plumes des nids de chatons soigneusement fabriqués et choisis, survivantes bouleversantes de la dévastation de c_n.",
+                "lead_name observe le camp, plein de ses chats qui traînent les débris de leur vie vers la place de la saleté, et se demande si rester ici était la bonne décision. Comment tout pourrait-il redevenir comme avant ? Comment un chat pourrait-il se sentir en sécurité ici à nouveau, sur un sol censé être leur plus grand et plus sûr abri ?",
+                "lead_name annonce ses plans avec assurance, ce qu'il faut faire pour réparer le camp. Mais il ne peut pas regarder pendant que les ruines de la tanière des apprentis sont démolies et emportées. Peut-être est-ce une faiblesse. Mais il ne peut pas regarder.",
+                "Alors que c_n s'active frénétiquement, dep_name est appelé. L'un des plus anciens chats de c_n refuse d'abandonner son nid, même brisé et détruit. Impossible de le convaincre, et finalement dep_name doit le lui prendre, malgré ses protestations. Il aura un nouveau nid, meilleur, parfait dans leur foyer reconstruit, promet dep_name. Mais ce n'est pas suffisant. dep_name ne peut pas réparer cela.",
+                "Pour reconstruire leur camp et leur vie brisés, le Clan doit nettoyer les décombres de leur ancien foyer. Mais c'est une sorte de deuil à vivre, la perte de leur maison, de leur sécurité, de leur innocence."
+            ],
+            "moon2": [
+                "Raides d'avoir dormi dans un tas désordonné de camarades, c_n attaque néanmoins la tâche à venir avec détermination, apportant de nouvelles ronces, tressant de nouveaux murs et arrachant de la fourrure sur le gibier frais pour garnir leurs nouveaux nids.",
+                "Le camp commence à reprendre forme, et dep_name est rassuré par les discussions animées qu'il doit arbitrer entre les guerriers qui revendiquent des places de nid.",
+                "Ils peuvent le faire. c_n se relèvera plus fort, mieux préparé, ils tireront des leçons de ce qui s'est passé et veilleront à ce que rien ne puisse plus jamais leur prendre leur foyer. Alors que les ronces sont apportées pour les murs du camp qui se relèvent, l'espoir renaît à l'horizon."
+            ]
+        },
+        "conclusion_events": [
+                "Les murs et les tanières du camp sont si différents maintenant, les chemins d'enfance qui étaient si rassurants ont tous changé, mais même avec la légère douleur de la nostalgie perdue, leur foyer est, pour l'instant, à nouveau sûr et entier. Ce qui était laissera place à ce qui est maintenant, et même si les choses ont changé, les ronronnements et les miaulements de c_n feront toujours de ce lieu un foyer.",
+                "Alors que la lumière du soleil est à nouveau filtrée par la sécurité des ronces et des buissons, le camp commence à redevenir un foyer. Pas le même, non, mais peut-être que ce n'est pas nécessaire.",
+                "En sortant de sa tanière, lead_name bâille, inondant son nez de l'odeur de la forêt et du Clan, à nouveau mêlées dans le mélange particulier d'un camp en bonne santé.",
+                "Les plus anciens de c_n se plaignent encore des changements, mais dep_name ne pense pas qu'ils soient vraiment sérieux désormais. Le camp, bien que nouveau, recommence à ressembler à un foyer.",
+                "Cela prendra du temps, lead_name le sait. Il faudra de nombreuses lunes avant qu'il puisse traverser ce nouveau camp les yeux bandés et guidé par l'odeur comme il le faisait dans son ancienne version, et rien ne pourra ramener le foyer de sa jeunesse. Mais ceci peut être un foyer, et maintenant, quand il le regarde, tout ce qu'il ressent, c'est l'amour du Clan qui l'a reconstruit.",
+                "med_name s'affaire dans la réserve d'herbes. Il aime le nouveau système, mais il n'a pas la familiarité de l'ancien. Pourtant, c'est ainsi, et n'est-ce pas ce que ressent tout c_n, d'une certaine façon ? Leur nouveau camp est un travail d'amour et d'effort, mais il est normal de regretter ce qui était avant."
+        ],
+        "secondary_disasters": [],
+        "collateral_damage": {}
+    }
+]

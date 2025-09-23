@@ -1,0 +1,223 @@
+{
+    "broken jaw": {
+        "crooked jaw": [
+            "Malgré tous les efforts de r_c, la mâchoire de m_c guérit de travers. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} juste content·e qu'elle guérisse tout court.",
+            "r_c dit à m_c que sa mâchoire ne sera plus jamais bien alignée, mais guérir d'une mâchoire cassée est déjà un miracle.",
+            "m_c sent la douleur de sa mâchoire cassée diminuer, mais ses dents ne s'emboîtent plus comme avant.",
+            "m_c peut enfin mâcher sans douleur, mais il semble que sa mâchoire restera définitivement de travers.",
+            "Même si m_c est soulagé·e que sa mâchoire soit enfin guérie, c'est frustrant qu'elle soit désormais tordue."
+        ]
+    },
+    "broken bone": {
+        "weak leg": [
+            "m_c a été impatient·e - r_c a remarqué que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} pas été très assidu·e avec ses exercices de renforcement. Malheureusement, cela a des conséquences : l'os cassé guéri a laissé une patte affaiblie.",
+            "r_c examine la patte de m_c et annonce que même si tout semble guéri, la faiblesse ressentie est probablement une séquelle permanente.",
+            "m_c marche sur ses quatre pattes pour la première fois depuis longtemps, en grimaçant. {PRONOUN\/m_c\/poss\/CAP} os cassé guéri a clairement laissé la patte plus faible, mais c'est gérable selon {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s}.",
+            "m_c ne peut plus courir aussi longtemps ou aussi vite qu'avant, mais {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} content·e que sa patte ait guéri tout de même."
+        ],
+        "twisted leg": [
+            "r_c observe la patte de m_c. Il serait possible de la casser à nouveau, mais elle restera probablement toujours tordue. r_c préfère la laisser guérir ainsi.",
+            "Les dégâts à la patte de m_c étaient trop importants. Même si elle a guéri, r_c annonce qu'elle restera toujours tordue.",
+            "{PRONOUN\/m_c\/poss\/CAP} os cassé a guéri de travers, mais m_c est juste heureux·se d'être enfin débarrassé·e de l'ennui de la convalescence.",
+            "<i>Tordu vaut mieux que perdu</i>, dit m_c à {PRONOUN\/m_c\/self}. Les pattes cassées peuvent être mortelles - m_c a de la chance d'être encore en vie."
+        ]
+    },
+    "mangled leg": {
+        "lost a leg": [
+            "La patte est trop abîmée - r_c soupire et prépare les graines de pavot pour endormir m_c avant l'amputation.",
+            "Quand m_c se réveille de son sommeil induit par le pavot, r_c lui annonce que sa patte a dû être retirée.",
+            "m_c se réveille avec une patte en moins, et c'est à la fois bouleversant et un soulagement. {PRONOUN\/m_c\/poss\/CAP} patte était si abîmée - et m_c souffrait tellement - que c'est peut-être mieux ainsi. Mais cela reste une perte.",
+            "Les dégâts à la patte de m_c étaient trop importants. {PRONOUN\/m_c\/poss\/CAP} patte a dû être retirée pour espérer guérir.",
+            "m_c a guéri de sa patte mutilée, mais la patte a dû être complètement retirée."
+        ],
+        "weak leg": [
+            "r_c dit à m_c qu'il faudra accepter que la patte si abîmée restera toujours plus faible. Au moins {PRONOUN\/m_c\/subject} la garde... mais c'est une maigre consolation pour m_c, qui se sentait si proche d'une guérison parfaite.",
+            "r_c explique à m_c que la faiblesse ressentie dans sa patte sera probablement toujours présente, conséquence des dégâts graves.",
+            "m_c se tient fièrement sur une patte qui fonctionne à peine moins bien qu'avant. Elle restera toujours plus faible que les autres, mais guérir une patte aussi blessée est déjà un exploit.",
+            "m_c boite dans le camp, heureux·se d'être debout, même si la nouvelle boiterie est sûrement permanente."
+        ],
+        "twisted leg": [
+            "m_c dit à r_c que ça va, et {PRONOUN\/m_c\/subject} {VERB\/m_c\/know\/knows} que r_c a fait de son mieux. {PRONOUN\/m_c\/poss\/CAP} patte était trop mutilée - guérir ainsi est un miracle, même si elle est tordue.",
+            "La patte de m_c a guéri, mais r_c doit expliquer qu'elle restera toujours tordue et inconfortable à marcher. Parfois, les plantes ne peuvent pas tout réparer.",
+            "{PRONOUN\/m_c\/poss\/CAP} membre tordu frustre constamment m_c, mais m_c se dit que ça aurait pu être pire. Au moins {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} encore là pour s'en agacer.",
+            "m_c doit tenir sa patte guérie mais tordue près de son corps en sautillant dans le camp. {PRONOUN\/m_c\/subject\/CAP} a survécu à sa blessure, mais la patte ne portera plus jamais son poids correctement."
+        ]
+    },
+    "dislocated joint": {
+        "constant joint pain": [
+            "On dirait que l'articulation autrefois déboîtée de m_c n'est plus jamais la même. r_c est compréhensif·ve, mais prépare m_c à l'idée que ce soit permanent.",
+            "r_c explique à m_c qu'une articulation déboîtée peut avoir des conséquences définitives. La douleur ressentie pourrait être permanente.",
+            "m_c a besoin de soulagement plus souvent ces jours-ci, l'articulation déboîtée lui causant des soucis."
+        ]
+    },
+    "mangled tail": {
+        "lost their tail": [
+            "r_c aide m_c à enterrer sa queue en silence, espérant que ce rituel lui apporte un peu de paix après ce traumatisme.",
+            "Quand m_c se réveille, r_c doit lui expliquer qu'il a retiré sa queue en dernier recours. Les dégâts étaient trop importants.",
+            "C'est acceptable, se dit m_c. Une queue n'est pas la pire chose à perdre, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} va s'en sortir ! Mais {PRONOUN\/m_c\/subject} ressent toujours son absence, peu importe ses efforts pour l'oublier.",
+            "m_c a guéri de sa queue mutilée, mais malheureusement la queue elle-même est perdue."
+        ]
+    },
+    "torn ear": {
+        "partial hearing loss": [
+            "r_c poursuit le test, mais il est clair que l'ouïe de m_c n'est plus ce qu'elle était - probablement à cause de la blessure à l'oreille.",
+            "r_c informe m_c que même si son oreille a guéri, il y a eu des dégâts irréversibles. m_c aura du mal à entendre de cette oreille pour le reste de sa vie.",
+            "m_c réalise que ce n'est pas le camp qui est plus calme - {PRONOUN\/m_c\/subject} n'entend simplement plus aussi bien qu'avant."
+        ]
+    },
+    "frostbite": {
+        "lost a leg": [
+            "m_c ne veut pas regarder sa patte. {PRONOUN\/m_c\/subject\/CAP} ne la sent plus du tout et elle commence à sentir mauvais - chair morte évidente. r_c dit qu'il vaut mieux la retirer avant que ça empire, et m_c est d'accord.",
+            "r_c annonce à m_c que la gelure est trop grave. La patte devra être complètement retirée.",
+            "m_c s'est réveillé·e avec une patte en moins. C'est plutôt un soulagement. {PRONOUN\/m_c\/poss\/CAP} chair gelée était déjà morte de toute façon."
+        ],
+        "lost their tail": [
+            "m_c soupire tristement quand r_c propose de retirer sa queue. La chair est noircie par la gelure et évidemment morte - il n'y a aucun intérêt à la garder. m_c accepte.",
+            "La queue de m_c ne bouge presque plus. r_c annonce que la gelure est trop avancée : pour survivre, il faudra retirer la queue.",
+            "La queue de m_c est enfin partie. C'est presque un soulagement. La chair gelée était déjà morte, donc {PRONOUN\/m_c\/subject} n'a pas hésité à la retirer avant qu'elle ne tombe toute seule."
+        ],
+        "partial hearing loss": [
+            "r_c annonce à m_c que la gelure a trop atteint son oreille ; {PRONOUN\/m_c\/poss} audition est définitivement abîmée.",
+            "m_c se concentre pour essayer d'entendre les chuchotements de r_c, mais c'est à peine audible. r_c secoue la tête et dit plus fort que l'ouïe de m_c a bien été endommagée par la gelure.",
+            "Depuis que ses oreilles ont gelé, m_c a du mal à entendre clairement."
+        ],
+        "deaf": [
+            "r_c fait de son mieux pour communiquer à m_c par des signaux de queue rudimentaires que son audition est définitivement perdue, la gelure ayant tout abîmé.",
+            "m_c regarde r_c parler à un autre chat dans la tanière du guérisseur, jetant parfois un regard vers {PRONOUN\/m_c\/object}. m_c n'entend rien du tout. En vérité, m_c n'entend plus rien. La gelure était plus grave que {PRONOUN\/m_c\/subject} ne le pensait.",
+            "m_c observe le Clan vaquer à ses occupations et essaie de s'habituer au silence total. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/know\/knows}, instinctivement, que son audition ne reviendra jamais. La gelure a dû abîmer quelque chose au fond de ses oreilles."
+        ]
+    },
+    "water in their lungs": {
+        "raspy lungs": [
+            "r_c place des herbes parfumées sous le nez de m_c, espérant que l'odeur aidera la voix rauque que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} depuis qu'il a inhalé toute cette eau. Malheureusement, il semble que cette gêne ne partira jamais.",
+            "Les dégâts aux poumons de m_c sont permanents - r_c donne des instructions strictes pour éviter tout effort excessif.",
+            "Depuis que {PRONOUN\/m_c\/subject} a failli se noyer, les poumons de m_c ne sont plus comme avant."
+        ]
+    },
+    "severe burn": {
+        "lost their tail": [
+            "m_c fait une blague faible et mauvaise sur sa queue qui sent la nourriture de Bipèdes. Doucement, r_c annonce que la chair brûlée devra être retirée.",
+            "La queue de m_c a été presque entièrement prise par le feu. r_c dit à m_c qu'il vaut mieux retirer ce qu'il en reste.",
+            "La queue brûlée de m_c ne ressemblait plus à une vraie partie de son corps, sauf pour la douleur. m_c est presque soulagé·e de s'en débarrasser. Presque."
+        ],
+        "lost a leg": [
+            "Alors que m_c dort sous l'effet du pavot, r_c se prépare à la tâche difficile de retirer la patte brûlée avant que l'infection ne se propage.",
+            "r_c annonce à m_c que la brûlure a rendu sa patte presque inutilisable. Il vaut mieux la retirer complètement.",
+            "L'absence de la patte de m_c est bien moins douloureuse que les brûlures. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/feel\/feels} presque coupable, mais c'est tellement mieux que c'est impossible de ne pas être soulagé·e."
+        ],
+        "one bad eye": [
+            "r_c retire les toiles d'araignée du visage de m_c et retient une grimace. L'œil est irrécupérable... et la peau ne repoussera jamais.",
+            "m_c est juste content·e d'avoir survécu à la brûlure, même si {PRONOUN\/m_c\/subject} ne peut s'empêcher d'être en colère contre sa vision désormais très limitée."
+        ]
+    },
+    "lingering shock": {
+        "recurring shock": [
+            "m_c exige de savoir quand {PRONOUN\/m_c\/subject} cessera de se figer de peur à cause de souvenirs. r_c n'a pas de réponse mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/comfort\/comforts} son camarade, disant que se forcer à aller bien ne fait que blesser m_c.",
+            "r_c dit à m_c qu'il n'y a pas de moyen d'arrêter les rêves ou les souvenirs, seulement du pavot pour dormir. Peut-être que les souvenirs s'estomperont avec le temps.",
+            "m_c sursaute, puis réalise que ce n'était qu'une feuille dans le vent. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/feel\/feels} épuisé·e, ses souvenirs comme un piège qui surgit à chaque fois que {PRONOUN\/m_c\/subject} {VERB\/m_c\/relax\/relaxes}."
+        ],
+        "absent": [
+            "m_c n'est jamais vraiment revenu·e après le choc.",
+            "m_c ne répond plus à r_c, qui finit par accepter que m_c ne reviendra jamais vraiment."
+        ]
+    },
+    "head damage": {
+        "failing eyesight": [
+            "m_c dit à r_c que sa vision devient de plus en plus floue chaque jour. r_c s'inquiète.",
+            "r_c teste la vue de m_c un jour, lui demandant de suivre sa queue des yeux. m_c a du mal - r_c lui dit que c'est peut-être une séquelle permanente de la blessure à la tête.",
+            "m_c semble de plus en plus désorienté·e, même si la blessure à la tête semble guérie. Sa vision est floue et double maintenant. {PRONOUN\/m_c\/subject\/CAP} devra s'adapter."
+        ],
+        "one bad eye": [
+            "m_c attend quelques jours avant d'en parler à r_c, espérant que sa vision reviendra. Ce n'est pas le cas, et {PRONOUN\/m_c\/subject} finit par avouer à r_c qu'il·elle ne voit plus d'un œil depuis le choc à la tête.",
+            "m_c commence à s'entraîner à se déplacer dans le camp, essayant de s'habituer au manque de perception de la profondeur causé par la perte de vision."
+        ],
+        "blind": [
+            "Le choc à la tête a rendu m_c aveugle. r_c annonce à m_c que sa vision ne reviendra jamais. Quelque chose dans ses yeux a été abîmé par le coup.",
+            "m_c ne voit plus clairement depuis le choc à la tête, et cela empire chaque jour. Finalement, r_c annonce à m_c qu'il·elle devient aveugle.",
+            "m_c se déplace dans le camp, essayant d'apprendre le plan des lieux. Il semble que la blessure à la tête ait rendu m_c aveugle... et la vision ne revient pas."
+        ],
+        "constantly dizzy": [
+            "m_c titube dans la tanière du guérisseur, essayant de marcher droit comme r_c l'a demandé. r_c annonce que la perte d'équilibre pourrait être une séquelle permanente de la blessure à la tête.",
+            "m_c doit se concentrer pour rester debout. La perte d'équilibre est très frustrante. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/surmise\/surmises} que c'est sûrement à cause de la blessure à la tête.",
+            "Bien que la blessure à la tête soit guérie, m_c se sent comme un chaton sur ses pattes en titubant dans la tanière du guérisseur. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/sigh\/sighs} et {VERB\/m_c\/accept\/accepts} que son équilibre ne sera plus jamais le même."
+        ],
+        "partial hearing loss": [
+            "m_c dit à r_c qu'il·elle pense que son audition s'est dégradée. r_c examine m_c et confirme : l'audition baisse et c'est sûrement à cause de la blessure à la tête.",
+            "m_c tend l'oreille pour entendre son camarade parler. Depuis la blessure à la tête, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} du mal à entendre le monde autour de {PRONOUN\/m_c\/object}."
+        ],
+        "persistent headaches": [
+            "m_c se plaint à r_c d'être tourmenté·e par de terribles maux de tête depuis la blessure à la tête. r_c admet tristement que cela pourrait durer.",
+            "m_c accepte à contrecœur que les horribles maux de tête pourraient être une séquelle permanente de la blessure à la tête."
+        ],
+        "absent": [
+            "m_c n'est plus le·la même depuis la blessure à la tête. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/seem\/seems} vivre dans un brouillard.",
+            "r_c doit répéter le nom de m_c plusieurs fois pour attirer son attention, inquiet·e pour la blessure à la tête.",
+            "m_c a du mal à se souvenir où est sa litière. r_c le remarque - m_c s'efface depuis la blessure à la tête.",
+            "m_c s'est perdu·e trop de fois dans le camp. r_c veut garder m_c au camp plus longtemps."
+        ]
+    },
+    "damaged eyes": {
+        "blind": [
+            "Quand r_c annonce à m_c que sa vision ne reviendra jamais, m_c veut hurler. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/manage\/manages} à se retenir jusqu'à être seul·e.",
+            "m_c s'y attendait, mais {PRONOUN\/m_c\/subject} est quand même déçu·e quand r_c annonce que la vision est définitivement perdue. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/don't\/doesn't} veut pas se laisser abattre. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/have\/has} des projets et {PRONOUN\/m_c\/subject} compte bien les réaliser.",
+            "Finalement, m_c accepte la vérité. {PRONOUN\/m_c\/poss\/CAP} vision ne reviendra jamais. C'est la vie maintenant, dans ce brouillard d'ombres et de formes."
+        ],
+        "one bad eye": [
+            "r_c annonce doucement à m_c qu'il·elle ne reverra jamais de cet œil. Mais cela ne doit pas l'empêcher d'avancer ! {PRONOUN\/m_c\/subject\/CAP} a encore un œil valide et compte bien en profiter.",
+            "m_c grogne quand r_c annonce que la perte de vision est définitive. C'est injuste de perdre la moitié de sa vue.",
+            "m_c ne se laissera pas abattre, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} déterminé·e à s'adapter à sa nouvelle vision et à continuer sa vie."
+        ],
+        "failing eyesight": [
+            "r_c dit à m_c qu'il·elle a de la chance d'avoir récupéré un peu de vue. Espérons que cela ne se dégrade pas plus.",
+            "m_c sort de la tanière du guérisseur et manque de rentrer dans un autre chat - ce qui ne fait qu'augmenter sa frustration d'apprendre que sa vue ne s'améliorera pas.",
+            "m_c ferme les yeux puis les rouvre, essayant d'évaluer à quel point sa vue est mauvaise désormais."
+        ]
+    },
+    "rat bite": {
+        "weak leg": [
+            "La morsure de rat de m_c a guéri, mais r_c annonce que des dégâts permanents subsistent et que la patte ne sera plus jamais comme avant.",
+            "m_c se plaint à r_c que sa patte semble plus faible depuis l'attaque du rat. r_c lui dit que c'est probablement une séquelle définitive.",
+            "Depuis que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} mordu·e par ce rat, la patte blessée est plus faible que les autres. La plaie a guéri, mais quelque chose de plus profond ne guérira jamais."
+        ]
+    },
+    "bite-wound": {
+        "weak leg": [
+            "r_c annonce à m_c que sa blessure par morsure a laissé sa patte définitivement affaiblie.",
+            "m_c découvre qu'il·elle boite, même après avoir guéri de la morsure. r_c lui dit que c'est sûrement permanent.",
+            "m_c boite dans le camp, totalement guéri·e de la morsure mais marqué·e à vie."
+        ],
+        "one bad eye": [
+            "r_c retire le bandage du visage de m_c et soupire en voyant la cicatrice. {PRONOUN\/r_c\/subject\/CAP} annonce à m_c que son œil ne sera plus jamais comme avant.",
+            "m_c se recroqueville dans sa litière et ferme fort les yeux, faisant semblant que l'obscurité d'un côté n'est que temporaire. {PRONOUN\/m_c\/subject\/CAP} sait ce que r_c lui a dit. L'obscurité est définitive.",
+            "m_c sursaute quand un autre chat arrive du mauvais côté. {PRONOUN\/m_c\/subject\/CAP} se rappelle qu'il·elle doit s'habituer à ça. {PRONOUN\/m_c\/subject\/CAP} sait que son œil est définitivement abîmé."
+        ]
+    },
+    "claw-wound": {
+        "weak leg": [
+            "r_c annonce à m_c que sa blessure par griffure a laissé sa patte définitivement affaiblie.",
+            "m_c découvre qu'il·elle boite, même après avoir guéri de la griffure. r_c lui dit que c'est sûrement permanent.",
+            "m_c boite dans le camp, totalement guéri·e de la griffure mais marqué·e à vie."
+        ]
+    },
+    "broken back": {
+        "paralyzed": [
+            "r_c est doux·ce en annonçant la nouvelle, mais m_c s'y attendait déjà. {PRONOUN\/m_c\/subject\/CAP} ne marchera plus jamais.",
+            "m_c essaie de cacher sa déception. Logiquement, {PRONOUN\/m_c\/subject} savait que c'était inévitable. Émotionnellement, {PRONOUN\/m_c\/subject} n'arrive pas à accepter de ne plus jamais marcher.",
+            "m_c continue ses exercices avec espoir, mais pour l'instant {PRONOUN\/m_c\/subject} {VERB\/m_c\/know\/knows} que cette paralysie est sa nouvelle réalité."
+        ]
+    },
+    "severe headache": {
+        "absent": [
+            "Les maux de tête de m_c empirent. {PRONOUN\/m_c\/subject\/CAP} n'arrive presque plus à penser.",
+            "r_c ne sait pas pourquoi m_c a soudainement décliné, mais c'est arrivé - et r_c ne sait pas si cela peut être réparé.",
+            "m_c a de plus en plus de mal à se souvenir de ce qu'il·elle faisait. r_c craint le pire."
+        ]
+    },
+    "a festering wound": {
+        "strange lump": [
+            "Une grosseur est apparue sous la blessure de m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/aren't\/isn't} sûr·e que ce soit bon signe.",
+            "m_c se plaint de ne pas bien dormir, ce qui amène r_c à découvrir une grosseur étrange sous la blessure.",
+            "m_c refuse que r_c voie la nouvelle grosseur apparue sur son corps."
+        ]
+    }
+}

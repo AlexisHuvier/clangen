@@ -1,0 +1,196 @@
+{
+    "general": {
+        "body": [
+            "r_c fixe le corps de {PRONOUN\/r_c\/poss} frère ou sœur, m_c, et ne peut penser qu'au temps passé ensemble, et à tout le temps qu'ils ont maintenant perdu.",
+            "r_c se sent engourdi face à la nouvelle de la mort de m_c. Comment {PRONOUN\/r_c\/subject} pourrait-il marcher dans un monde sans {PRONOUN\/r_c\/poss} frère ou sœur à {PRONOUN\/r_c\/poss} côté ?",
+            "Un monde sans m_c à {PRONOUN\/r_c\/poss} côté semble froid et vide pour r_c, comment la vie peut-elle continuer comme si de rien n'était ?",
+            "r_c a la nausée. La dernière fois que {PRONOUN\/r_c\/subject} a vu m_c, {PRONOUN\/r_c\/subject} s'est disputé avec {PRONOUN\/m_c\/object}, et maintenant tout ce que r_c peut faire est de demander pardon et espérer que m_c regarde depuis le Clan des Étoiles.",
+            "La voix de r_c tremble alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/talk\/talks} de {PRONOUN\/r_c\/poss} frère ou sœur, essayant de finir le récit et de retourner à son deuil devant le corps de m_c. Mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/want\/wants} que la veillée de m_c soit belle, pour montrer que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} aimé."
+        ],
+        "no_body": [
+            "r_c se sent engourdi face à la nouvelle de la mort de m_c. Comment {PRONOUN\/r_c\/subject} pourrait-il marcher dans un monde sans {PRONOUN\/r_c\/poss} frère ou sœur à {PRONOUN\/r_c\/poss} côté ?",
+            "Un monde sans m_c à {PRONOUN\/r_c\/poss} côté semble froid et vide pour r_c, comment la vie peut-elle continuer comme si de rien n'était ?",
+            "r_c a la nausée. La dernière fois que {PRONOUN\/r_c\/subject} a vu m_c, {PRONOUN\/r_c\/subject} s'est disputé avec {PRONOUN\/m_c\/object}, et maintenant tout ce que r_c peut faire est de demander pardon et espérer que m_c regarde depuis le Clan des Étoiles."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "claw-wound": [
+        "m_c est mort d'une blessure de griffe."
+    ],
+    "bite-wound": [
+        "m_c est mort d'une morsure."
+    ],
+    "cat bite": [
+        "m_c est mort d'une morsure de chat."
+    ],
+    "beak bite": [
+        "m_c est mort d'une morsure de bec."
+    ],
+    "snake bite": [
+        "m_c est mort d'une morsure de serpent."
+    ],
+    "rat bite": [
+        "m_c est mort d'une morsure de rat."
+    ],
+    "blood loss": [
+        "m_c est mort d'une perte de sang."
+    ],
+    "broken jaw": [
+        "m_c est mort d'une mâchoire brisée."
+    ],
+    "broken bone": [
+        "m_c est mort d'un os cassé."
+    ],
+    "mangled leg": [
+        "m_c est mort d'une patte mutilée."
+    ],
+    "mangled tail": [
+        "m_c est mort d'une queue mutilée."
+    ],
+    "frostbite": [
+        "m_c est mort d'engelures."
+    ],
+    "water in their lungs": [
+        "m_c est mort à cause de l'eau dans les poumons de {PRONOUN\/m_c\/poss}."
+    ],
+    "burn": [
+        "m_c est mort de ses brûlures."
+    ],
+    "severe burn": [
+        "m_c est mort de ses brûlures graves."
+    ],
+    "shock": [
+        "m_c est mort de choc."
+    ],
+    "shivering": [
+        "m_c a eu trop froid et est mort."
+    ],
+    "dehydrated": [
+        "m_c est mort de déshydratation."
+    ],
+    "head damage": [
+        "m_c est mort de blessures à la tête."
+    ],
+    "damaged eyes": [
+        "Les yeux de m_c étaient trop abîmés et {PRONOUN\/m_c\/subject} est mort."
+    ],
+    "quilled by a porcupine": [
+        "m_c est mort de ses blessures après avoir été piqué par un porc-épic."
+    ],
+    "poisoned": [
+        "m_c est mort du poison dans le corps de {PRONOUN\/m_c\/poss}."
+    ],
+    "broken back": [
+        "m_c n'a pas survécu à son dos brisé."
+    ],
+    "bee sting": [
+        "m_c est mort d'une piqûre d'abeille.",
+        "m_c a eu une réaction horrible à sa piqûre d'abeille. Les chats ne meurent généralement pas d'une piqûre, mais cette fois c'était différent."
+    ]
+}

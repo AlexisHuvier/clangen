@@ -1,0 +1,82 @@
+{
+    "born without a leg": [
+        "m_c miaule, se blottissant contre {PRONOUN\/m_c\/poss} parent alors qu'ils attendent anxieusement le verdict. r_c est confiant que l'absence d'une patte ne ralentira pas {PRONOUN\/m_c\/object}. La nouvelle famille reste soudée, soulagée et ronronnante.",
+        "Il est immédiatement clair que m_c mettra plus de temps à trouver {PRONOUN\/m_c\/poss} appuis - {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} est né sans une des pattes habituelles."
+    ],
+    "weak leg": [
+        "Alors que m_c trottine dans la pouponnière, r_c observe et le parent de m_c attend avec suspense. Enfin, r_c hoche la tête et confirme qu'une des pattes de m_c ne se développe pas aussi vite que les autres.",
+        "m_c tombe toujours du même côté. Finalement, il est évident qu'une des pattes de ce côté n'est pas aussi forte que les autres."
+    ],
+    "twisted leg": [
+        "r_c examine m_c pendant que {PRONOUN\/m_c\/poss} parent le tient par la peau du cou, vérifiant une patte qui se tord à mesure que le chaton grandit.",
+        "Quand m_c essaie de marcher, {PRONOUN\/m_c\/subject} {VERB\/m_c\/seem\/seems} plus lent que ses frères et sœurs. Une inspection rapide révèle qu'une de ses pattes est tordue et déformée, mais {PRONOUN\/m_c\/subject} devrait trouver {PRONOUN\/m_c\/poss} équilibre dans la vie."
+    ],
+    "born without a tail": [
+        "m_c est en bonne santé, confirme r_c, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/haven't\/hasn't} simplement pas de queue.",
+        "m_c est duveteux, plein de cris et de désir de lait, mais {PRONOUN\/m_c\/subject} ne pourra jamais fouetter {PRONOUN\/m_c\/poss} queue comme les autres chatons, étant né sans."
+    ],
+    "paralyzed": [
+        "r_c rassure le parent de m_c, très inquiet - leur chaton ne marchera jamais, mais il est toujours possible pour {PRONOUN\/m_c\/object} d'avoir une vie heureuse et saine.",
+        "Il est immédiatement clair que m_c ne sent pas ses pattes arrière dès la naissance, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/seem\/seems} tout de même être une boule de poils heureuse."
+    ],
+    "raspy lungs": [
+        "m_c a du mal à suivre pendant les jeux. r_c écoute sa poitrine et diagnostique des poumons râpeux.",
+        "En grandissant, {PRONOUN\/m_c\/subject} {VERB\/m_c\/seem\/seems} incapable de ne pas ronfler et haleter bruyamment, jusqu'à ce qu'il soit clair que ses poumons sont plus faibles que la normale."
+    ],
+    "wasting disease": [
+        "r_c a été appelé par le parent inquiet de m_c. Malheureusement, cette inquiétude était justifiée, car m_c semble avoir la maladie de dépérissement.",
+        "m_c paraît plus faible ces derniers temps, incapable de jouer autant ou d'explorer aussi loin.",
+        "m_c est un chaton maladif et le Clan craint qu'il ne survive pas à l'enfance. Même si {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}, cette maladie pourrait ne jamais le quitter."
+    ],
+    "blind": [
+        "m_c n'a jamais eu de mal à se déplacer, mais un jour {PRONOUN\/m_c\/subject} {VERB\/m_c\/ask\/asks} une étrange question sur comment quelqu'un savait qu'un autre dormait de l'autre côté du camp, et r_c réalise que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} est aveugle.",
+        "m_c s'intègre parfaitement au début, mais en grandissant et en ouvrant les yeux, il devient clair que pour m_c, il n'y a aucune différence entre avoir les yeux ouverts ou fermés."
+    ],
+    "one bad eye": [
+        "En voyant m_c trébucher sur quelque chose à sa droite, r_c l'emmène à la tanière du guérisseur, où il devient évident que cet œil ne fonctionne pas normalement.",
+        "m_c est devenu doué pour ne pas se laisser surprendre par ce qui arrive de son mauvais côté, sauf qu'il s'avère que ce n'est pas une expérience universelle pour un chaton."
+    ],
+    "failing eyesight": [
+        "Quand m_c se plaint de l'obscurité récente, r_c vérifie sa vue - pour découvrir qu'elle est presque perdue.",
+        "m_c ne comprend pas comment les autres voient si loin - et est triste de découvrir que sa vue décline."
+    ],
+    "partial hearing loss": [
+        "r_c est appelé pour évaluer l'ouïe de m_c. Bien qu'elle soit encore présente, m_c n'entend clairement pas bien.",
+        "m_c demande sans cesse aux autres de répéter, jusqu'à ce qu'il soit évident que quelque chose ne va pas avec son audition."
+    ],
+    "deaf": [
+        "Quand la plupart des chatons apprennent à parler, m_c semble en retard. r_c est appelé, et {PRONOUN\/r_c\/subject} {VERB\/r_c\/report\/reports} que même si m_c vivra normalement, il semble que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} n'a jamais pu entendre.",
+        "m_c n'est pas gêné d'être sourd, bien que le Clan semble vouloir le réconforter quand tout le monde découvre que c'est la raison de ses difficultés à parler."
+    ],
+    "constant joint pain": [
+        "Le parent inquiet de m_c appelle r_c après des semaines de douleurs constantes. r_c peut soulager la douleur, mais il est possible que cela reste dans la vie de m_c.",
+        "m_c refuse encore une fois de sortir jouer, ses articulations gonflées et douloureuses. Il devient clair que ce n'est pas un cas isolé, et m_c pourrait avoir besoin d'aide."
+    ],
+    "seizure prone": [
+        "r_c réveille doucement m_c. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} a eu une crise et {VERB\/m_c\/are\/is} dans la tanière du guérisseur le temps que {PRONOUN\/m_c\/subject} {VERB\/m_c\/recover\/recovers}, explique r_c. Cela pourrait se reproduire... et m_c doit s'y préparer.",
+        "Au milieu du camp, juste au moment où {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} allait bondir, m_c tombe au sol et commence à trembler, une crise secouant son petit corps."
+    ],
+    "allergies": [
+        "m_c éternue encore, son parent affolé criant au mal blanc, mais r_c calme tout le monde. Ce ne sont que des allergies, et {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} les herbes qu'il faut.",
+        "En plein jeu, m_c éternue si fort qu'il tombe. Encore. Cela devient vraiment une habitude."
+    ],
+    "persistent headaches": [
+        "r_c remarque avec inquiétude que chaque fois que m_c ouvre les yeux, {PRONOUN\/m_c\/subject} {VERB\/m_c\/mewl\/mewls} sans cesse et essaie de se cacher dans les coins sombres de la tanière du guérisseur. r_c soupçonne que m_c souffre de maux de tête chroniques.",
+        "Plutôt que de sortir jouer au soleil avec ses frères et sœurs, m_c préfère rester seul dans l'obscurité et le calme de la tanière du guérisseur, sa tête trop douloureuse pour bouger."
+    ],
+    "crooked jaw": [
+        "La mâchoire de m_c n'a jamais semblé se fermer correctement, et {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} ne s'en remet pas.",
+        "m_c a toujours eu du mal à téter, mais la raison ne devient vraiment évidente que maintenant."
+    ],
+    "strange lump": [
+        "m_c a développé une nouvelle grosseur sur son corps. Cela n'a pas l'air bon.",
+        "r_c ne sait pas d'où vient cette grosseur sur le corps de m_c, mais m_c doute que ce soit une bonne nouvelle.",
+        "m_c se plaint de ne pas pouvoir bien dormir, ce qui amène r_c à trouver une étrange grosseur sur {PRONOUN\/m_c\/object}. Ce n'est pas une bonne nouvelle.",
+        "m_c ne laisse pas r_c voir la nouvelle grosseur apparue sur son corps."
+    ],
+    "absent": [
+        "m_c devient de plus en plus oublieux ces derniers temps. {PRONOUN\/m_c\/subject\/CAP} commence à s'effacer.",
+        "r_c doit répéter le nom de m_c plusieurs fois pour attirer son attention, inquiet du temps que m_c met à répondre.",
+        "m_c a du mal à se souvenir où est son nid. r_c le remarque - m_c s'efface rapidement."
+    ]
+}

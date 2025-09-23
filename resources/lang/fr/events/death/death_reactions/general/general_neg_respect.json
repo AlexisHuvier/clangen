@@ -1,0 +1,211 @@
+{
+    "general": {
+        "body": [
+            "r_c observe la veillée organisée pour m_c depuis l'écart, sans vraiment savoir ce que {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels} à propos de la mort de {PRONOUN\/m_c\/poss}.",
+            "r_c en voulait à m_c pour ce que {PRONOUN\/r_c\/subject} ne pouvait pas avoir, mais voir le corps de m_c allongé dans la clairière pendant que le Clan veille sur {PRONOUN\/m_c\/object} rend sa jalousie mesquine et stupide.",
+            "r_c a toujours été jaloux de m_c, mais ne voudrait jamais prendre la place de {PRONOUN\/m_c\/poss} maintenant, en regardant le Clan veiller sur {PRONOUN\/m_c\/object}.",
+            "r_c écoute les histoires racontées pendant la veillée de m_c, puis s'éclipse vers {PRONOUN\/r_c\/poss} nid. {PRONOUN\/r_c\/subject\/CAP} ne supporte pas d'entendre tout le monde vanter un chat aussi inutile.",
+            "m_c n'était vraiment pas si exceptionnel, mais c'est fou combien de chats veulent l'oublier maintenant que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort, et r_c n'a aucune envie d'entendre ça.",
+            "À la veillée de m_c, r_c souffle d'agacement en réalisant que c'est juste une excuse de plus pour que tout le monde parle de combien {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} était génial... ou plutôt, {VERB\/m_c\/were\/was} l'était.",
+            "r_c regarde le corps inerte de m_c, partagé. Contre qui r_c va-t-il se mesurer maintenant ? Leur rivalité était amère, mais elle motivait aussi r_c.",
+            "r_c est soulagé lorsqu'un membre du Clan mentionne ce qui est arrivé à m_c. Au moins, plus personne ne les comparera et ne trouvera r_c inférieur.",
+            "r_c se sent malade de jalousie en voyant les proches de m_c pleurer {PRONOUN\/m_c\/object}. Est-ce que quelqu'un s'inquiéterait autant si {PRONOUN\/r_c\/subject} mourait ?",
+            "r_c détestait m_c pour ce que {PRONOUN\/m_c\/subject} avait et que r_c n'avait pas. Maintenant que m_c n'est plus là, peut-être que r_c pourra enfin vivre la vie que {PRONOUN\/r_c\/subject} {VERB\/r_c\/want\/wants}.",
+            "r_c fulmine à l'écart pendant que ses camarades de Clan font la queue à la veillée de m_c pour louer {PRONOUN\/m_c\/object}.",
+            "Avec m_c parti, r_c a l'impression de pouvoir enfin respirer.",
+            "r_c sent que {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} passé tellement de temps dans l'ombre de m_c, que maintenant que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort, r_c peut sentir le soleil sur {PRONOUN\/r_c\/poss} pelage."
+        ],
+        "no_body": [
+            "r_c observe la veillée organisée pour m_c depuis l'écart, sans vraiment savoir ce que {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels} à propos de la mort de {PRONOUN\/m_c\/poss}.",
+            "r_c a toujours été jaloux de m_c, mais ne voudrait jamais prendre la place de {PRONOUN\/m_c\/poss} maintenant, en regardant le Clan veiller sur {PRONOUN\/m_c\/object}.",
+            "r_c écoute les histoires racontées pendant la veillée de m_c, puis s'éclipse vers {PRONOUN\/r_c\/poss} nid. {PRONOUN\/r_c\/subject\/CAP} ne supporte pas d'entendre tout le monde vanter un chat aussi inutile.",
+            "m_c n'était vraiment pas si exceptionnel, mais c'est fou combien de chats veulent l'oublier maintenant que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort, et r_c n'a aucune envie d'entendre ça.",
+            "r_c est soulagé lorsqu'un membre du Clan mentionne ce qui est arrivé à m_c. Au moins, plus personne ne les comparera et ne trouvera r_c inférieur.",
+            "r_c se sent malade de jalousie en voyant les proches de m_c pleurer {PRONOUN\/m_c\/object}. Est-ce que quelqu'un s'inquiéterait autant si {PRONOUN\/r_c\/subject} mourait ?",
+            "r_c détestait m_c pour ce que {PRONOUN\/m_c\/subject} avait et que r_c n'avait pas. Maintenant que m_c n'est plus là, peut-être que r_c pourra enfin vivre la vie que {PRONOUN\/r_c\/subject} {VERB\/r_c\/want\/wants}.",
+            "r_c fulmine à l'écart pendant que ses camarades de Clan font la queue à la veillée de m_c pour louer {PRONOUN\/m_c\/object}.",
+            "Avec m_c parti, r_c a l'impression de pouvoir enfin respirer.",
+            "r_c sent que {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} passé tellement de temps dans l'ombre de m_c, que maintenant que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort, r_c peut sentir le soleil sur {PRONOUN\/r_c\/poss} pelage."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}

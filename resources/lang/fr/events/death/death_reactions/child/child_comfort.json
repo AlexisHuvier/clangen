@@ -1,0 +1,196 @@
+{
+    "general": {
+        "body": [
+            "r_c sanglote et enfouit son museau dans la fourrure de m_c, cherchant une dernière fois cette odeur réconfortante. {PRONOUN\/r_c\/subject\/CAP} ne sent que le romarin et le thym entourant le corps de {PRONOUN\/m_c\/poss}.",
+            "Le monde semble un peu plus sombre, un peu plus petit, un peu moins sûr pour r_c, sans m_c pour veiller sur {PRONOUN\/r_c\/object}.",
+            "r_c parle doucement lors de la veillée de m_c, expliquant que {PRONOUN\/r_c\/subject} ne s'est jamais senti aussi en sécurité et aimé qu'avec m_c. c_n se rassemble pour réconforter r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/trail\/trails} s'éloigne, perdu.",
+            "r_c essaie de comprendre que m_c ne pourra plus jamais enlacer sa queue avec la sienne, reposer sa tête contre celle de r_c, ou frotter sa fourrure contre {PRONOUN\/r_c\/inposs}... mais c'est impensable.",
+            "r_c ne peut rester à la veillée de m_c que quelques battements de cœur - c'est trop douloureux de voir le chat qui lui apportait le plus de réconfort, étendu sur le sol.",
+            "r_c a toujours ressenti tant de sérénité et de joie en présence de m_c, et quand {PRONOUN\/r_c\/subject} {VERB\/r_c\/see\/sees} le corps de {PRONOUN\/m_c\/poss} inerte au sol, r_c ne peut retenir un sanglot.",
+            "La voix de r_c tremble à la veillée de m_c, essayant de raconter un souvenir où {PRONOUN\/r_c\/poss} parent soutenait {PRONOUN\/r_c\/object}. Pendant le discours, {PRONOUN\/r_c\/subject} {VERB\/r_c\/realize\/realizes} que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} attend inconsciemment que m_c le réconforte - et cela fait encore plus craquer r_c."
+        ],
+        "no_body": [
+            "Le monde semble un peu plus sombre, un peu plus petit, un peu moins sûr pour r_c, sans m_c pour veiller sur {PRONOUN\/r_c\/object}.",
+            "r_c parle doucement lors de la veillée de m_c, expliquant que {PRONOUN\/r_c\/subject} ne s'est jamais senti aussi en sécurité et aimé qu'avec m_c. c_n se rassemble pour réconforter r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/trail\/trails} s'éloigne, perdu.",
+            "r_c essaie de comprendre que m_c ne pourra plus jamais enlacer sa queue avec la sienne, reposer sa tête contre celle de r_c, ou frotter sa fourrure contre {PRONOUN\/r_c\/inposs}... mais c'est impensable.",
+            "r_c a le cœur brisé non seulement parce que {PRONOUN\/r_c\/poss} parent bien-aimé est parti, mais aussi parce que r_c ne peut pas toucher son nez à la fourrure de {PRONOUN\/m_c\/poss} ni respirer une dernière fois l'odeur de {PRONOUN\/r_c\/poss} parent.",
+            "r_c prie pour qu'un jour, c_n retrouve le corps de m_c et permette à r_c de voir une dernière fois {PRONOUN\/r_c\/poss} parent et de lui dire au revoir comme il faut."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}

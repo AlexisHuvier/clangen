@@ -1,0 +1,28 @@
+{
+    "fr": {
+        "help_tooltip": "Les guérisseurs de c_n récolteront des herbes à chaque saut temporel et lors des patrouilles auxquelles ils participent. Vous pouvez voir ce qui a été récolté dans le journal ci-dessous ! Les guérisseurs donneront ces herbes aux chats blessés ou malades qui en ont besoin, les aidant à guérir plus rapidement.<br><br>Passez la souris sur l'image de la tanière de guérison pour voir quelles herbes possède votre Clan !",
+        "hurt_sick_title": "Chats blessés & malades",
+        "hurt_sick_label": " Chats",
+        "log_title": "Journal de la tanière de guérison",
+        "log_label": " Journal",
+        "in_den": "dans la tanière",
+        "out_den": "hors de la tanière",
+        "minor": "mineur",
+        "meds_cover": {
+            "one": "m_c peut s'occuper d'un Clan jusqu'à %{clansize} membres, y compris {PRONOUN\/m_c\/self}.",
+            "many": "Les guérisseurs de c_n peuvent s'occuper d'un Clan jusqu'à %{clansize} membres, y compris eux-mêmes."
+        },
+        "expiration": "Il a été découvert que certaines réserves de %{herbs} étaient trop vieilles pour être encore utiles.",
+        "better_storage": "%{name} a fait un excellent travail de stockage des herbes ce mois-ci, %{herbs} se conserveront plus longtemps.",
+        "gather_success": "%{name} a récolté %{herbs} ce mois-ci.",
+        "gather_fail": "%{name} n'a récolté aucune herbe ce mois-ci.",
+        "herb_used": "m_c a reçu %{herb} comme traitement pour : %{condition}. %{effect}",
+        "mortality_down": "{PRONOUN\/m_c\/subject\/CAP} sera moins susceptible de mourir.",
+        "duration_down": "{PRONOUN\/m_c\/subject\/CAP} guérira plus vite.",
+        "risks_down": "Les risques associés à la condition de {PRONOUN\/m_c\/poss} sont réduits.",
+        "focus": "Grâce à la concentration supplémentaire du Clan, les herbes suivantes ont été récoltées : %{herbs}.",
+        "blood_loss": "Des herbes ont été utilisées pour stopper la perte de sang de %{name}.",
+        "loss_event": "Le Clan a perdu %{herbs}.",
+        "gain_event": "Le Clan a gagné %{herbs}."
+    }
+}

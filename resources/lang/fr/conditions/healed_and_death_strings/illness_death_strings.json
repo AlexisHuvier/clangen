@@ -1,0 +1,71 @@
+{
+    "seizure": [
+        "m_c est mort d'une crise.",
+        "m_c est décédé pendant une crise."
+    ],
+    "diarrhea": [
+        "m_c est mort de déshydratation causée par la diarrhée.",
+        "Le corps de m_c n'a pas pu supporter les exigences de sa maladie et {PRONOUN\/m_c\/subject} est décédé.",
+        "La diarrhée n'est pas une blague, et l'extrême déshydratation qu'elle a causée a tué m_c."
+    ],
+    "greencough": [
+        "m_c est mort du mal vert.",
+        "m_c a été tué par le mal vert.",
+        "Le mal vert a tué m_c.",
+        "Le mal vert a pris la vie de m_c."
+    ],
+    "kittencough": [
+        "m_c est mort du mal des chatons.",
+        "m_c a été tué par le mal des chatons.",
+        "Le mal des chatons a tué m_c.",
+        "Le mal des chatons a pris la vie de m_c."
+    ],
+    "an infected wound": [
+        "m_c est mort d'une infection.",
+        "m_c a succombé à une infection.",
+        "m_c a été tué par sa blessure infectée.",
+        "L'infection de m_c a trop progressé et l'a laissé froid dans son nid."
+    ],
+    "carrionplace disease": [
+        "m_c est mort de la maladie du charnier.",
+        "La maladie du charnier a tué m_c."
+    ],
+    "redcough": [
+        "m_c est mort du mal rouge.",
+        "Le mal rouge a finalement pris m_c.",
+        "Le mal rouge a tué m_c."
+    ],
+    "whitecough": [
+        "m_c est mort du mal blanc.",
+        "Le mal blanc a tué m_c.",
+        "m_c a été tué par le mal blanc.",
+        "Le mal blanc n'a pas eu besoin de progresser davantage : il était déjà assez fort pour tuer m_c."
+    ],
+    "yellowcough": [
+        "m_c est mort du mal jaune.",
+        "Le mal jaune a tué m_c.",
+        "m_c a été tué par le mal jaune.",
+        "Le mal jaune a pris la vie de m_c."
+    ],
+    "a festering wound": [
+        "m_c est mort d'une blessure purulente.",
+        "Une blessure purulente a tué m_c.",
+        "La blessure purulente de m_c a finalement tué {PRONOUN\/m_c\/object}."
+    ],
+    "heat stroke": [
+        "m_c est mort d'un coup de chaleur.",
+        "Le coup de chaleur de m_c a tué {PRONOUN\/m_c\/object}."
+    ],
+    "starving": [
+        "m_c est mort de faim.",
+        "m_c n'a pas pu continuer et s'est effondré de faim.",
+        "La faim a tué m_c.",
+        "Le corps de m_c ne pouvait plus continuer sans nourriture, et {PRONOUN\/m_c\/subject} ne s'est jamais réveillé de son sommeil.",
+        "m_c a finalement succombé à la faim.",
+        "Faible et épuisé par le manque de nourriture, m_c est mort de faim."
+    ],
+    "tick fever": [
+        "m_c est mort de la fièvre des tiques.",
+        "m_c n'a pas survécu, et le Clan se rappelle durement l'importance d'enlever chaque tique."
+    ]
+}

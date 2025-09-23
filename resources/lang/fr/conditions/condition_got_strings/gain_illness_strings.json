@@ -1,0 +1,49 @@
+{
+    "running nose": [
+        "m_c s'est réveillé avec le nez qui coule.",
+        "m_c n'arrête pas de renifler.",
+        "m_c a le nez qui coule."
+    ],
+    "stomachache": [
+        "m_c a mal au ventre.",
+        "m_c a le ventre dérangé toute la journée."
+    ],
+    "fleas:": [
+        "m_c semble avoir attrapé des puces.",
+        "m_c se gratte et se démange toute la journée, il semble que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} des puces."
+    ],
+    "heat exhaustion": [
+        "m_c est resté trop longtemps au soleil, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} attrapé un coup de chaleur."
+    ],
+    "heat stroke": [
+        "m_c est resté trop longtemps au soleil, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} eu une insolation."
+    ],
+    "kittencough": [
+        "m_c a attrapé la toux des chatons.",
+        "m_c est malade avec la toux des chatons."
+    ],
+    "whitecough": [
+        "m_c a attrapé la toux blanche.",
+        "m_c est malade avec la toux blanche."
+    ],
+    "greencough": [
+        "m_c a attrapé la toux verte.",
+        "m_c est malade avec la toux verte."
+    ],
+    "yellowcough": [
+        "m_c a attrapé la toux jaune.",
+        "m_c est malade avec la toux jaune."
+    ],
+    "malnourished": [
+        "m_c est devenu mal nourri.",
+        "Le manque de proies fraîches a rendu m_c mal nourri."
+    ],
+    "starving": [
+        "m_c meurt de faim."
+    ],
+    "tick illness": [
+        "r_c s'inquiète pour m_c, cherchant des têtes de tiques qu'un apprenti aurait pu laisser, mais {PRONOUN\/r_c\/subject} ne trouve qu'une éruption caractéristique. m_c sait ce que cela signifie : la maladie des tiques.",
+        "Le cœur de m_c se serre alors que {PRONOUN\/m_c\/poss} pelage commence à tomber. Les apprentis ont dû manquer une tique - r_c confirme que c'est la maladie des tiques.",
+        "m_c se plaint d'une nouvelle éruption, se tait quand r_c trouve une tête de tique. {PRONOUN\/m_c\/subject\/CAP} a la maladie des tiques."
+    ]
+}

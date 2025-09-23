@@ -1,0 +1,16 @@
+{
+    "fr": {
+        "heading": "Changer le genre de %{name}",
+        "description": "<br>Vous pouvez choisir n'importe quel genre ! L'identité de genre n'affecte pas le jeu.",
+        "add_pronouns": "Ajouter de nouveaux pronoms",
+        "current_pronouns": "Pronoms actuels",
+        "saved_pronouns": "Pronoms enregistrés",
+        "demo": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} un(e) {ADJ\/m_c\/cat\/tom\/she-cat}.<br>Tout le monde a vu {PRONOUN\/m_c\/object}.<br>{PRONOUN\/m_c\/poss\/CAP} patte a glissé.<br>Cette tanière est {PRONOUN\/m_c\/inposs}.<br>m_c chasse par {PRONOUN\/m_c\/self}.",
+        "identity_changed_confirmation": "Identité de genre modifiée !",
+        "conju0": "singulier",
+        "conju1": "pluriel",
+        "gender0": "neutre",
+        "gender1": "masculin",
+        "gender2": "féminin"
+    }
+}

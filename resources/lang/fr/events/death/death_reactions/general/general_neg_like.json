@@ -1,0 +1,227 @@
+{
+    "general": {
+        "body": [
+            "Personne ne veut admettre une chose aussi terrible à voix haute, mais m_c ne manquera à aucun membre du Clan. r_c passe devant la veillée organisée pour {PRONOUN\/m_c\/object}, l'ignorant délibérément.",
+            "r_c s'approche de la clairière où repose le corps froid et sans vie de m_c. Au lieu de montrer de la sympathie ou du chagrin, r_c maudit son camarade tombé, souhaitant que {PRONOUN\/m_c\/subject} rejoigne la Forêt Sombre où {PRONOUN\/m_c\/subject} {VERB\/m_c\/belong\/belongs}.",
+            "r_c passe devant la veillée de m_c. {PRONOUN\/r_c\/subject\/CAP} ne pleurera pas la disparition de m_c.",
+            "Franchement, tout le monde se portera mieux sans m_c, et r_c ne comprend pas pourquoi les autres sont si bouleversés.",
+            "Autant {PRONOUN\/r_c\/subject} détestait m_c, la vue du corps de {PRONOUN\/m_c\/poss} remplit quand même r_c d'effroi.",
+            "Oui, {PRONOUN\/r_c\/subject} détestait m_c, mais m_c était d'abord et avant tout un camarade de Clan, et r_c incline respectueusement la tête à la veillée.",
+            "r_c passe la veillée de m_c à faire semblant d'être triste tout en rêvant d'une vie sans ce cœur de renard.",
+            "r_c essaie de trouver quelque chose de gentil à dire sur {PRONOUN\/m_c\/object} à la veillée de m_c, mais ne trouve rien.",
+            "r_c ne prend même pas la peine de venir à la veillée de m_c.",
+            "r_c agit étrangement distant à la veillée de m_c.",
+            "Tout le monde savait que r_c détestait m_c. Personne n'est surpris quand {PRONOUN\/r_c\/subject} fait à peine acte de présence à la veillée.",
+            "r_c pleure m_c comme le reste de c_n, mais dans les jours qui suivent, {PRONOUN\/r_c\/subject} {VERB\/r_c\/bounce\/bounces} se remet facilement de la perte.",
+            "r_c regarde le corps de m_c et ne ressent que du mépris. Bon débarras.",
+            "r_c est partagé face à la mort de m_c. Après tout, m_c a fait beaucoup de choses terribles, mais {PRONOUN\/m_c\/subject} a aussi fait une grande chose pour c_n : {PRONOUN\/m_c\/subject} est mort.",
+            "r_c cligne des yeux devant un camarade qui tente de lui présenter ses condoléances après la mort de m_c. Pourquoi r_c s'en soucierait-il ? Ce pelage de blaireau peut pourrir.",
+            "r_c ne vient pas à la veillée de m_c. La meilleure chose que {PRONOUN\/r_c\/subject} puisse dire sur m_c, c'est que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort.",
+            "r_c reste à la veillée de m_c juste le temps minimum pour avoir l'air un peu désolé que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort.",
+            "Lorsque la nouvelle de la mort de m_c se répand dans c_n, r_c se demande à voix haute pourquoi cela intéresserait qui que ce soit.",
+            "Un sentiment de soulagement envahit r_c, sachant que m_c est enfin mort et parti.",
+            "Après la veillée de m_c, r_c se glisse dans son nid pour la meilleure nuit de sommeil de sa vie.",
+            "r_c se sent coupable quand un camarade lui annonce la mort de m_c, mais oublie vite. Tout c_n devrait être heureux d'être débarrassé de ce cervelle de souris.",
+            "En fait, r_c est juste surpris que m_c ait mis autant de temps à se faire tuer."
+        ],
+        "no_body": [
+            "Personne ne veut admettre une chose aussi terrible à voix haute, mais m_c ne manquera à aucun membre du Clan. r_c passe devant la veillée organisée pour {PRONOUN\/m_c\/object}, l'ignorant délibérément.",
+            "r_c passe devant la veillée de m_c. {PRONOUN\/r_c\/subject\/CAP} ne pleurera pas la disparition de m_c.",
+            "Franchement, tout le monde se portera mieux sans m_c, et r_c ne comprend pas pourquoi les autres sont si bouleversés.",
+            "Oui, {PRONOUN\/r_c\/subject} détestait m_c, mais m_c était d'abord et avant tout un camarade de Clan, et r_c incline respectueusement la tête à la veillée.",
+            "r_c passe la veillée de m_c à faire semblant d'être triste tout en rêvant d'une vie sans ce cœur de renard.",
+            "r_c essaie de trouver quelque chose de gentil à dire sur {PRONOUN\/m_c\/object} à la veillée de m_c, mais ne trouve rien.",
+            "r_c ne prend même pas la peine de venir à la veillée de m_c.",
+            "r_c agit étrangement distant à la veillée de m_c.",
+            "Tout le monde savait que r_c détestait m_c. Personne n'est surpris quand {PRONOUN\/r_c\/subject} fait à peine acte de présence à la veillée.",
+            "r_c pleure m_c comme le reste de c_n, mais dans les jours qui suivent, {PRONOUN\/r_c\/subject} {VERB\/r_c\/bounce\/bounces} se remet facilement de la perte.",
+            "r_c est partagé face à la mort de m_c. Après tout, m_c a fait beaucoup de choses terribles, mais {PRONOUN\/m_c\/subject} a aussi fait une grande chose pour c_n : {PRONOUN\/m_c\/subject} est mort.",
+            "r_c ne vient pas à la veillée de m_c. La meilleure chose que {PRONOUN\/r_c\/subject} puisse dire sur m_c, c'est qu'au moins {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mort.",
+            "r_c se demande ce qu'est devenu le corps de m_c et espère que les vers le mangent. Au moins, m_c sera enfin utile à quelque chose.",
+            "Lorsque la nouvelle de la mort de m_c se répand dans c_n, r_c se demande à voix haute pourquoi cela intéresserait qui que ce soit.",
+            "Un sentiment de soulagement envahit r_c, sachant que m_c est enfin mort et parti.",
+            "r_c se sent coupable quand un camarade lui annonce la mort de m_c, mais oublie vite. Tout c_n devrait être heureux d'être débarrassé de ce cervelle de souris.",
+            "En fait, r_c est juste surpris que m_c ait mis autant de temps à se faire tuer."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}

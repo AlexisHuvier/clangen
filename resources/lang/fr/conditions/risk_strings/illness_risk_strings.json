@@ -1,0 +1,80 @@
+{
+    "greencough": {
+        "yellowcough": [
+            "Il doit y avoir une solution - si r_c essaie assez fort, sûrement {PRONOUN\/r_c\/subject} peut encore sauver m_c du yellowcough auquel {PRONOUN\/m_c\/poss} greencough a évolué.",
+            "m_c est assis misérablement dans la tanière du guérisseur, toussant si fort que {PRONOUN\/m_c\/subject} a du mal à respirer. Le pronostic est sombre car {PRONOUN\/m_c\/poss} greencough a évolué en yellowcough."
+        ]
+    },
+    "kittencough": {
+        "whitecough": [
+            "r_c dit discrètement au parent de m_c que {PRONOUN\/r_c\/subject} {VERB\/r_c\/need\/needs} de déplacer m_c dans la tanière du guérisseur. Le kittencough de m_c a évolué en whitecough.",
+            "m_c tousse faiblement, se demandant pourquoi ça ne s'améliore pas - et pourquoi {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} doit être dans la tanière du guérisseur qui sent mauvais maintenant."
+        ]
+    },
+    "an infected wound": {
+        "a festering wound": [
+            "L'odeur d'infection s'est intensifiée et aggravée. r_c marmonne à propos de différentes herbes pendant que m_c regarde {PRONOUN\/r_c\/object} changer encore une fois une compresse qui ne fonctionnera probablement pas.",
+            "m_c jure que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} a nettoyé la blessure, mais {PRONOUN\/m_c\/poss} blessure commence à s'infecter comme une proie oubliée depuis une semaine."
+        ]
+    },
+    "running nose": {
+        "whitecough": [
+            "r_c emmène m_c dans la tanière du guérisseur, où le whitecough que {PRONOUN\/m_c\/poss} nez qui coule a provoqué peut être surveillé plus facilement.",
+            "m_c se rend chez le guérisseur, inquiet que {PRONOUN\/m_c\/poss} nez qui coule ne fasse qu'empirer."
+        ]
+    },
+    "whitecough": {
+        "greencough": [
+            "r_c fouille dans {PRONOUN\/r_c\/poss} réserves d'herbes. Le whitecough de m_c a évolué en greencough, ce qui inquiète beaucoup r_c.",
+            "m_c tousse, ayant l'impression que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} crache la moitié de {PRONOUN\/m_c\/poss} poumons. C'est bien pire que le whitecough."
+        ]
+    },
+    "yellowcough": {
+        "redcough": [
+            "r_c remarque des taches de sang sur la litière où m_c a toussé et retient un cri de désespoir. Si {PRONOUN\/m_c\/poss} yellowcough a évolué en redcough, c'est pratiquement une condamnation à mort.",
+            "m_c va s'en sortir. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} en est sûr. {PRONOUN\/m_c\/poss\/CAP} poumons ne font presque plus mal, et s'il y a du sang dans {PRONOUN\/m_c\/poss} bouche après une quinte de toux, et alors ?"
+        ]
+    },
+    "heat exhaustion": {
+        "heat stroke": [
+            "r_c presse la mousse humide sur le front de m_c pendant que {PRONOUN\/m_c\/subject} {VERB\/m_c\/lie\/lies} complètement épuisé et haletant. Ce n'est plus juste de l'épuisement dû à la chaleur, m_c aura besoin de temps pour se remettre de ce coup de chaleur.",
+            "m_c se roule, étourdi, dans {PRONOUN\/m_c\/poss} nid, cherchant un endroit plus frais. {PRONOUN\/m_c\/poss\/CAP} épuisement est bien plus qu'une petite fatigue et {PRONOUN\/m_c\/poss} cerveau confus reconnaît les signes d'un vrai coup de chaleur."
+        ]
+    },
+    "stomachache": {
+        "diarrhea": [
+            "Gêné, m_c annonce à r_c que {PRONOUN\/m_c\/poss} mal de ventre a maintenant des conséquences à l'autre bout de {PRONOUN\/m_c\/poss} système digestif. r_c, aussi peu dégoûté que tous les guérisseurs, dit à m_c qu'il est très important que {PRONOUN\/m_c\/subject} {VERB\/m_c\/keep\/keeps} boive de l'eau, car la diarrhée va lui en faire perdre rapidement.",
+            "m_c passe maintenant plus de temps à la litière qu'au camp, car {PRONOUN\/m_c\/poss} mal de ventre a évolué en diarrhée."
+        ]
+    },
+    "diarrhea": {
+        "dehydrated": [
+            "La diarrhée a épuisé m_c, et r_c se bat pour garder {PRONOUN\/m_c\/object} hydraté.",
+            "m_c se sent vidé et sec à cause de ses problèmes digestifs."
+        ]
+    },
+    "fleas": {
+        "torn pelt": [
+            "m_c s'est gratté sans cesse à cause des puces qui infestent {PRONOUN\/m_c\/poss} pelage. r_c gronde {PRONOUN\/m_c\/object} pendant que {PRONOUN\/r_c\/subject} {VERB\/r_c\/clean\/cleans} doucement les zones à vif du pelage de m_c.",
+            "m_c se gratte encore et encore, frustré par {PRONOUN\/m_c\/poss} puces. Le grattage constant commence à abîmer {PRONOUN\/m_c\/poss} pelage, laissant des plaques de peau à vif.",
+            "Le grattage constant des puces par m_c a déchiré {PRONOUN\/m_c\/poss} pelage.",
+            "m_c ne peut s'empêcher de se gratter à cause de {PRONOUN\/m_c\/poss} puces et a laissé des endroits à vif sur {PRONOUN\/m_c\/poss} pelage.",
+            "Des plaques sans poils apparaissent sur le pelage de m_c alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/scratch\/scratches} et {VERB\/m_c\/scratch\/scratches} à cause de {PRONOUN\/m_c\/poss} puces."
+        ]
+    },
+    "grief stricken": {
+        "lasting grief": [
+            "m_c regarde fixement le mur de la tanière du guérisseur, ignorant r_c à côté de {PRONOUN\/m_c\/object}. r_c soupire et s'assoit à côté de {PRONOUN\/m_c\/object}, espérant que {PRONOUN\/r_c\/poss} présence pourra apporter un peu de réconfort.",
+            "m_c se blottit dans {PRONOUN\/m_c\/poss} nid, insensible aux autres chats près de {PRONOUN\/m_c\/object}. Il y a un vide dans le cœur de {PRONOUN\/m_c\/poss} maintenant que {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} ne pourra jamais être comblé.",
+            "m_c quitte le camp, ne voulant rien d'autre que fuir les regards pleins de pitié de {PRONOUN\/m_c\/poss} camarades de Clan.",
+            "m_c souhaite désespérément entendre la voix de {PRONOUN\/m_c\/poss} être cher à nouveau, voir son visage et sentir son odeur. La réalité donne envie à m_c de hurler vers le ciel.",
+            "m_c réalise un jour que ce chagrin ne partira jamais - {PRONOUN\/m_c\/subject} devra juste apprendre à vivre avec. Il n'y a rien d'autre à faire."
+        ],
+        "constant nightmares": [
+            "m_c va chez le guérisseur, espérant que r_c lui donnera des graines de pavot pour atténuer les cauchemars qui hantent {PRONOUN\/m_c\/object}.",
+            "m_c se réveille d'un autre cauchemar, ayant l'impression que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} est hanté par le fantôme de celui que {PRONOUN\/m_c\/subject} {VERB\/m_c\/grieve\/grieves}.",
+            "m_c se réveille en hurlant, ses rêves hantés par des visions de {PRONOUN\/m_c\/poss} être cher décédé.",
+            "m_c sursaute et quitte immédiatement la tanière pour s'aérer la tête, espérant que l'air frais de la nuit aidera {PRONOUN\/m_c\/object} à gérer la tristesse et les souvenirs."
+        ]
+    }
+}

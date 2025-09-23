@@ -1,0 +1,60 @@
+{
+    "fr": {
+        "random_patrol": "patrouille aléatoire",
+        "training": "entraînement",
+        "hunting": "chasse",
+        "border": "frontière",
+        "herb_gathering": "cueillette d'herbes",
+        "choose_cats_info": "Choisissez jusqu'à six chats pour partir en patrouille.\nLes petites patrouilles permettent aux chats de gagner plus d'expérience, mais les grandes patrouilles sont plus sûres.",
+        "able_cats_label": "chats disponibles",
+        "patrol_label": "patrouille",
+        "select": "sélectionner",
+        "unavailable": "indisponible",
+        "skills_traits_label": "compétences & traits",
+        "remove_all_label": "tout retirer",
+        "go_on_patrol": "partir en patrouille",
+        "current_prey": "proies actuelles : %{prey}",
+        "needed_prey": "proies nécessaires : %{prey}",
+        "label_patrol_info": "chef de patrouille : %{leader}\nmembres de la patrouille : %{members}\ncompétences de la patrouille : %{skills}\ntraits de la patrouille : %{traits}",
+        "current_patrol_info": "compétences actuelles de la patrouille : %{skills}\ntraits actuels de la patrouille : %{traits}",
+        "proceed": "continuer",
+        "dont_proceed": "ne pas continuer",
+        "antagonize": "antagoniser",
+        "patrol_again": "patrouiller à nouveau",
+        "back_to_clan": "retour au clan",
+        "dead_outsider": {
+            "one": "Le fantôme de %{cats} erre désormais.",
+            "many": "Les fantômes de %{cats} errent désormais."
+        },
+        "met_outsider": "La patrouille a rencontré %{cats}.",
+        "new_outsider": "%{cats} a rejoint le Clan.",
+        "lost_cats": {
+            "one": "%{cats} a été perdu.",
+            "many": "%{cats} ont été perdus."
+        },
+        "outsider_rep_improved": "La réputation de votre Clan envers les étrangers s'est améliorée.",
+        "outsider_rep_neutral": "La réputation de votre Clan envers les étrangers est inchangée.",
+        "outsider_rep_worsened": "La réputation de votre Clan envers les étrangers s'est détériorée.",
+        "clan_rep_improved": "Les relations avec %{clan} se sont améliorées.",
+        "clan_rep_neutral": "Les relations avec %{clan} sont inchangées.",
+        "clan_rep_worsened": "Les relations avec %{clan} se sont détériorées.",
+        "herbs_gathered": {
+            "zero": "Malgré les recherches, aucune herbe n'a été trouvée.",
+            "one": "%{herbs} a été récoltée.",
+            "many": "%{herbs} ont été récoltées."
+        },
+        "herb_log": {
+            "one": "%{herbs} a été récoltée lors de la patrouille.",
+            "many": "%{herbs} ont été récoltées lors de la patrouille."
+        },
+        "prey_log": {
+            "one": "%{count} proie a été attrapée lors d'une patrouille.",
+            "many": "%{count} proies ont été attrapées lors d'une patrouille."
+        },
+        "prey_very_small": "Une très petite quantité de proies est rapportée au camp.",
+        "prey_small": "Une petite quantité de proies est rapportée au camp.",
+        "prey_medium": "Une quantité moyenne de proies est rapportée au camp.",
+        "prey_large": "Une grande quantité de proies est rapportée au camp.",
+        "prey_huge": "Une énorme quantité de proies est rapportée au camp."
+    }
+}

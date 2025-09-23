@@ -1,0 +1,15 @@
+{
+    "fr": {
+        "current_mate": "partenaire actuel",
+        "prev_mate": "ancien partenaire",
+        "parent_of_inter": "parent de %{name}",
+        "second_parent": "second parent : %{name}",
+        "blood_parent": {
+            "one": "parent biologique : %{name}",
+            "many": "parents biologiques : %{name}"
+        },
+        "mate_of_inter": "partenaire de %{name}",
+        "littermates": "frères et sœurs de portée",
+        "child_of_inter": "enfant de %{name}"
+    }
+}

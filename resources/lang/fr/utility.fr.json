@@ -1,0 +1,20 @@
+{
+    "fr": {
+        "items": {
+            "zero": "",
+            "one": "%{item1}",
+            "many": "%{item1} et %{item2}"
+        },
+        "exclamation": "%{text} !",
+        "question": "%{text} ?",
+        "first": "premier",
+        "second": "deuxième",
+        "third": "troisième",
+        "fourth": "quatrième",
+        "fifth": "cinquième",
+        "sixth": "sixième",
+        "seventh": "septième",
+        "eighth": "huitième",
+        "indefinite": "un(e) %{text}"
+    }
+}

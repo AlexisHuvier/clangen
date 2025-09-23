@@ -1,0 +1,12 @@
+{
+    "fr": {
+        "general": "paramètres généraux",
+        "general_info": "Modifier les paramètres généraux spécifiques au Clan",
+        "relation": "paramètres de relation",
+        "relation_info": "Modifier les paramètres du Clan concernant les relations entre chats",
+        "role": "paramètres de rôle",
+        "role_info": "Modifier les paramètres du Clan concernant les rôles des chats",
+        "stats": "statistiques du clan",
+        "stats_text": "Chats vivants du Clan : %{living}\nChats du Clan des Étoiles : %{starclan}\nChats de la Forêt Sombre : %{darkforest}\nChats à résidence inconnue : %{unknownresidence}\nChats guérisseurs : %{medcats}\nApprentis guérisseurs : %{medcatapps}\nGuerriers : %{warriors}\nApprentis guerriers : %{apps}\nMédiateurs : %{mediators}\nApprentis médiateurs : %{mediatorapps}\nAnciens : %{elders}\nChatons et nouveau-nés : %{kits}\nChats disparus : %{faded}"
+    }
+}

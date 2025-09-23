@@ -1,0 +1,10 @@
+{
+    "forest_camp1": {
+        "multi_cat": "Au cours de la dernière lune, o_n_g ont rejoint le Clan des Étoiles. c_n pleure leur perte, et leurs amis et familles partagent les meilleurs, et parfois les pires, souvenirs de leur vie dans des histoires racontées autour du cercle des endeuillés, tandis que les anciens les portent vers leur dernière demeure, creusée pour eux dans la forêt.",
+        "single_cat": "Au cours de la dernière lune, o_n_g a rejoint les rangs du Clan des Étoiles. c_n pleure cette perte, et amis et famille partagent les meilleurs, et parfois les pires, souvenirs de la vie de leur proche dans des histoires racontées autour du cercle des endeuillés. Les anciens portent le corps vers sa dernière demeure, sachant que l'esprit de o_n_g est en sécurité parmi les étoiles."
+    },
+    "forest_camp2": {
+        "multi_cat": "Au cours de la dernière lune, o_n_g sont décédés et ont tous reçu l'adieu traditionnel de c_n. Tous les adultes portaient les parfums cérémoniels de c_n, extraits de la sève, des feuilles et de l'écorce de leur foyer forestier, et o_n_g ont été lavés, un par un, jusqu'à ce que leur pelage soit propre, sans odeur et aussi doux et duveteux que le jour de leur naissance. Le Clan les a enterrés sous des couches de terre et de litière de la pouponnière, laissant leurs corps dans les nids les plus doux alors que leurs âmes rejoignent le Clan des Étoiles.",
+        "single_cat": "Au cours de la dernière lune, o_n_g est décédé et a reçu l'adieu traditionnel de c_n. Tous les adultes en deuil portaient les parfums cérémoniels de c_n, extraits de la sève, des feuilles et de l'écorce de leur foyer forestier, et le pelage de o_n_g a été lavé jusqu'à ce qu'il soit propre, sans odeur et aussi doux et duveteux qu'un chaton nouveau-né. Le Clan enterre son camarade sous des couches de terre et de litière de la pouponnière, couvrant le corps dans le nid le plus doux alors que l'âme de o_n_g rejoint le Clan des Étoiles."
+    }
+}

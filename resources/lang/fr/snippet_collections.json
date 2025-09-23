@@ -1,0 +1,1648 @@
+{
+    "comment": [
+        "ajoutez de nouveaux extraits à la liste appropriée :",
+        "la liste de prophétie peut avoir des concepts plus flous et oniriques",
+        "la liste des présages doit être plus physique, étrange et significative, mais ancrée dans la réalité",
+        "la liste des rêves doit se concentrer sur les émotions plutôt que sur des événements précis",
+        "la liste clair (clairvoyance) doit se concentrer sur des ressentis flous de choses déjà arrivées ou qui pourraient arriver",
+        "assurez-vous de mettre votre extrait dans la catégorie 'sens' appropriée (si la liste a des catégories de sens).",
+        "les listes générales contiennent les extraits qui conviennent à tous les biomes",
+        "les listes à l'intérieur des listes regroupent les extraits similaires",
+        "les extraits regroupés dans une même liste sont suffisamment proches pour qu'on ne veuille pas qu'ils apparaissent ensemble dans un même événement",
+        "donc un seul extrait sera choisi dans cette liste pour être ajouté au pool d'extraits potentiels"
+    ],
+    "prophecy_list": {
+        "sight": {
+            "general": [
+                [
+                    "du sang qui s'accumule au sol",
+                    "du sang qui goutte d'une feuille"
+                ],
+                [
+                    "griffes déployées",
+                    "la patte d'un chat sans griffes"
+                ],
+                [
+                    "dents menaçantes",
+                    "dents ensanglantées"
+                ],
+                [
+                    "une plume d'oiseau"
+                ],
+                [
+                    "pelage doux"
+                ],
+                [
+                    "rayon de soleil sur une plante"
+                ],
+                [
+                    "pluie battante",
+                    "tempêtes sans fin",
+                    "une averse sous le soleil"
+                ],
+                [
+                    "grêle frappant le sol"
+                ],
+                [
+                    "neige qui tombe doucement",
+                    "une tempête de neige déchaînée"
+                ],
+                [
+                    "vent qui hurle"
+                ],
+                [
+                    "soleil éclatant",
+                    "le soleil",
+                    "le soleil caché par une grande ombre",
+                    "un loup dévorant le soleil",
+                    "un chat arrachant le soleil du ciel",
+                    "un lapin volant le soleil",
+                    "la silhouette d'un guerrier cachant le soleil"
+                ],
+                [
+                    "lumière aveuglante",
+                    "une traînée de lumière traversant le camp"
+                ],
+                [
+                    "chaleur brûlante"
+                ],
+                [
+                    "nuages sombres",
+                    "un nuage rouge sang",
+                    "nuages qui roulent",
+                    "nuages couvrant le ciel",
+                    "un rayon de lune unique à travers les nuages"
+                ],
+                [
+                    "feu qui se propage",
+                    "feu engloutissant un chat",
+                    "feu couvrant le camp",
+                    "feu piégé dans la pierre",
+                    "le camp en flammes",
+                    "un animal bondissant hors des flammes"
+                ],
+                [
+                    "eau qui inonde",
+                    "eau qui coule vers le haut"
+                ],
+                [
+                    "boue éclaboussée sur les rochers"
+                ],
+                [
+                    "rochers qui tombent"
+                ],
+                [
+                    "la terre qui se déchire",
+                    "un puits profond dans le sol",
+                    "un grand trou qui s'ouvre dans la terre",
+                    "le sol qui se déchire"
+                ],
+                [
+                    "une tombe fraîchement creusée",
+                    "une tombe menaçante"
+                ],
+                [
+                    "les pétales d'une fleur qui tombent",
+                    "pétales flottant dans la brise",
+                    "une fleur à laquelle il manque un pétale"
+                ],
+                [
+                    "miel qui coule",
+                    "une alvéole dégoulinante"
+                ],
+                [
+                    "gel qui s'étend",
+                    "un matin givré",
+                    "le camp recouvert de givre"
+                ],
+                [
+                    "arbres qui tombent"
+                ],
+                [
+                    "une rivière asséchée qui coule encore",
+                    "une mare claire",
+                    "une mare qui ondule",
+                    "une mare avec quelque chose juste sous la surface",
+                    "des traces de griffes sur une flaque immobile",
+                    "un arc-en-ciel sur l'eau"
+                ],
+                [
+                    "baies mortelles",
+                    "herbes fanées",
+                    "herbes abondantes"
+                ],
+                [
+                    "la lune",
+                    "un merle noir cachant la lune",
+                    "une lune sanglante"
+                ],
+                [
+                    "les étoiles",
+                    "les étoiles qui tombent du ciel",
+                    "Silverpelt qui disparaît lentement",
+                    "des dizaines de nouvelles étoiles",
+                    "étoiles scintillantes"
+                ],
+                [
+                    "pattes gelées"
+                ],
+                [
+                    "un brouillard impénétrable",
+                    "un brouillard étouffant"
+                ],
+                [
+                    "une obscurité oppressante",
+                    "obscurité sans fin",
+                    "une nuit noire comme une panthère",
+                    "obscurité malgré le soleil éclatant"
+                ],
+                [
+                    "la tanière des apprentis",
+                    "la tanière du chef",
+                    "la pouponnière",
+                    "la tanière des guerriers",
+                    "la tanière des anciens"
+                ],
+                [
+                    "un lac profond"
+                ],
+                [
+                    "un serpent qui se mord la queue"
+                ],
+                [
+                    "une paire d'yeux fantomatiques"
+                ],
+                [
+                    "deux empreintes de pattes qui se chevauchent"
+                ],
+                [
+                    "un collier de Bipède brisé"
+                ],
+                [
+                    "les yeux brillants d'un monstre"
+                ],
+                [
+                    "arbres squelettiques contre le ciel"
+                ],
+                [
+                    "tanières de Bipèdes abandonnées",
+                    "tanières de Bipèdes qui s'étendent"
+                ],
+                [
+                    "une peau de Bipède en lambeaux"
+                ],
+                [
+                    "le reflet d'un lion",
+                    "le reflet d'un tigre"
+                ],
+                [
+                    "une brindille qui brûle aux deux extrémités"
+                ],
+                [
+                    "le sourire d'un loup"
+                ],
+                [
+                    "un objet perdu enfin retrouvé",
+                    "une possession disparue enfin retrouvée"
+                ],
+                [
+                    "une silhouette à la voix du Clan des Étoiles"
+                ],
+                [
+                    "un chat pas encore né"
+                ],
+                [
+                    "un chat presque oublié"
+                ],
+                [
+                    "un chat couvert de sang"
+                ],
+                [
+                    "un chat debout à côté d'un Bipède"
+                ],
+                [
+                    "pierres qui se dissolvent dans l'eau"
+                ]
+            ],
+            "forest": [
+                [
+                    "la forêt qui se replie sur elle-même"
+                ]
+            ],
+            "plains": [
+                [
+                    "un champ trempé de sang"
+                ]
+            ],
+            "beach": [
+                [
+                    "une mer étrangement immobile"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "les montagnes qui s'effondrent"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "un champ de boue sans fin"
+                ]
+            ],
+            "desert": [
+                [
+                    "le squelette d'une bête disparue"
+                ]
+            ]
+        },
+        "sound": {
+            "general": [
+                [
+                    "grognements qui résonnent",
+                    "le grognement d'un ami",
+                    "les grognements d'un ennemi",
+                    "grognements venant de l'obscurité",
+                    "sifflements",
+                    "le sifflement d'un ami",
+                    "le sifflement d'un ennemi"
+                ],
+                [
+                    "cris plaintifs"
+                ],
+                [
+                    "une voix tonitruante"
+                ],
+                [
+                    "le miaulement d'un chaton",
+                    "le miaulement d'un nouveau-né",
+                    "le cri des chatons"
+                ],
+                [
+                    "le son d'aboiements"
+                ],
+                [
+                    "hurlements au loin",
+                    "un hurlement lointain de douleur",
+                    "chats qui hurlent à la lune"
+                ],
+                [
+                    "un monstre rugissant"
+                ],
+                [
+                    "le ronronnement d'un ami",
+                    "le ronronnement d'un ennemi",
+                    "le ronronnement d'une mère",
+                    "un ronronnement grondant"
+                ],
+                [
+                    "le couinement d'une proie tuée",
+                    "le cri d'une proie mourante"
+                ],
+                [
+                    "un chant d'oiseau",
+                    "chant d'oiseau un matin clair"
+                ],
+                [
+                    "vagues qui s'écrasent",
+                    "le rugissement des vagues au loin"
+                ],
+                [
+                    "bruits de bataille",
+                    "cris de chats qui se battent"
+                ],
+                [
+                    "le bruit d'une rivière qui coule"
+                ],
+                [
+                    "{PRONOUN/cat_tag/poss} propre voix qui répond à {PRONOUN/cat_tag/object}"
+                ],
+                [
+                    "le bruit de la glace qui craque"
+                ],
+                [
+                    "le bruit d'un battement de cœur"
+                ],
+                [
+                    "un message murmuré",
+                    "murmures d'espoir depuis longtemps passé"
+                ],
+                [
+                    "une promesse mourante"
+                ],
+                [
+                    "les derniers mots d'un chat"
+                ]
+            ],
+            "forest": [
+                [
+                    "le fracas sans fin des arbres"
+                ]
+            ],
+            "plains": [
+                [
+                    "le bruissement de l'herbe dans le vent"
+                ],
+                [
+                    "le tambourinement d'un pic"
+                ]
+            ],
+            "beach": [
+                [
+                    "le fracas des vagues sur le rivage"
+                ],
+                [
+                    "le cri d'une mouette"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "le vent qui siffle sur les sommets"
+                ],
+                [
+                    "le rugissement d'un cougar"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "le coassement sans fin des grenouilles"
+                ],
+                [
+                    "le bruit de la boue qui s'enfonce"
+                ]
+            ],
+            "desert": [
+                [
+                    "le bruit d'un serpent qui frétille",
+                    "le sifflement d'un serpent"
+                ],
+                [
+                    "le bruit d'une tempête de poussière"
+                ]
+            ]
+        },
+        "smell": {
+            "general": [
+                [
+                    "l'odeur de la tanière du guérisseur"
+                ],
+                [
+                    "l'odeur de menthe à chat"
+                ],
+                [
+                    "l'odeur d'un autre Clan"
+                ],
+                [
+                    "l'odeur de quelqu'un mort depuis longtemps"
+                ],
+                [
+                    "l'odeur de la maladie"
+                ],
+                [
+                    "l'odeur des herbes de voyage"
+                ],
+                [
+                    "des traces de pas qui ne sentent aucun chat"
+                ],
+                [
+                    "l'odeur du lait loin de la pouponnière"
+                ]
+            ],
+            "forest": [
+                [
+                    "l'odeur du bois en décomposition"
+                ],
+                [
+                    "l'odeur de l'écorce"
+                ]
+            ],
+            "plains": [
+                [
+                    "l'odeur de mille fleurs"
+                ],
+                [
+                    "l'odeur de l'herbe fraîche"
+                ]
+            ],
+            "beach": [
+                [
+                    "l'odeur de l'air salé"
+                ],
+                [
+                    "l'odeur de poisson pourri"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "l'odeur de roches humides"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "la puanteur du chou puant"
+                ],
+                [
+                    "l'odeur de la boue"
+                ],
+                [
+                    "l'odeur des roseaux"
+                ]
+            ],
+            "desert": [
+                [
+                    "l'odeur d'une carcasse"
+                ],
+                [
+                    "l'odeur d'un cactus en fleur"
+                ]
+            ]
+        },
+        "emotional": {
+            "general": [
+                [
+                    "l'excitation d'un apprenti",
+                    "la vigueur d'un apprenti",
+                    "la naïveté d'un apprenti"
+                ],
+                [
+                    "la force d'un guerrier",
+                    "la détermination d'un guerrier",
+                    "la loyauté d'un guerrier"
+                ],
+                [
+                    "la douleur des os d'un ancien",
+                    "la sagesse d'un ancien"
+                ],
+                [
+                    "la sensation de tomber"
+                ],
+                [
+                    "la légèreté du vol"
+                ],
+                [
+                    "une promesse à moitié oubliée"
+                ],
+                [
+                    "un sentiment de présage",
+                    "une angoisse de mauvais augure"
+                ],
+                [
+                    "l'étreinte d'une famille"
+                ],
+                [
+                    "la douleur des blessures"
+                ]
+            ],
+            "forest": [
+                [
+                    "le frisson de courir entre les arbres"
+                ]
+            ],
+            "plains": [
+                [
+                    "la liberté des vastes plaines"
+                ]
+            ],
+            "beach": [
+                [
+                    "la colère de l'océan"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "l'émerveillement des montagnes"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "la sécurité des marais"
+                ]
+            ],
+            "desert": [
+                [
+                    "le vide du désert"
+                ]
+            ]
+        },
+        "touch": {
+            "general": [
+                [
+                    "le frôlement d'un pelage contre {PRONOUN/cat_tag/poss} propre pelage"
+                ],
+                [
+                    "le contact d'un mentor sur le front d'un apprenti"
+                ],
+                [
+                    "une queue qui s'entrelace avec {PRONOUN/cat_tag/poss} propre queue"
+                ],
+                [
+                    "la chaleur d'un parent"
+                ],
+                [
+                    "l'humidité de la pluie"
+                ],
+                [
+                    "la solidité de la pierre sous les pattes"
+                ]
+            ],
+            "forest": [
+                [
+                    "les griffures sur l'écorce"
+                ]
+            ],
+            "plains": [
+                [
+                    "le chatouillement de l'herbe"
+                ]
+            ],
+            "beach": [
+                [
+                    "les embruns de l'eau"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "le vent qui ébouriffe {PRONOUN/cat_tag/poss} pelage"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "la douceur de la boue sous les pattes"
+                ]
+            ],
+            "desert": [
+                [
+                    "la sécheresse de l'air"
+                ]
+            ]
+        }
+    },
+    "omen_list": {
+        "sight": {
+            "general": [
+                [
+                    "une feuille à cinq pointes",
+                    "une feuille en forme d'étoile",
+                    "une feuille étrangement déchirée"
+                ],
+                [
+                    "une pierre en deux moitiés parfaitement ajustées",
+                    "une pierre avec des éclats brillants",
+                    "une pierre avec des motifs étranges",
+                    "une pierre scintillante"
+                ],
+                [
+                    "un tas étrange de poils doux",
+                    "une touffe de poils de renard",
+                    "une touffe de poils de blaireau",
+                    "un bout de poil brûlé"
+                ],
+                [
+                    "un éclat de verre"
+                ],
+                [
+                    "baies mortelles flétries"
+                ],
+                [
+                    "un nuage de forme étrange",
+                    "un nuage en forme de chat"
+                ],
+                [
+                    "une plume brillante",
+                    "une plume de forme étrange",
+                    "une plume cassée",
+                    "plumes en lambeaux"
+                ],
+                [
+                    "la dent d'un grand prédateur",
+                    "la griffe d'un grand prédateur",
+                    "une vieille griffe ensanglantée"
+                ],
+                [
+                    "la serre d'un aigle",
+                    "la serre d'un faucon"
+                ],
+                [
+                    "un morceau de proie fraîche déjà pourri"
+                ],
+                [
+                    "une vipère à deux têtes",
+                    "un serpent mort se mordant la queue",
+                    "une mue de serpent parfaitement intacte"
+                ],
+                [
+                    "un insecte lumineux tombé au sol"
+                ],
+                [
+                    "une empreinte de patte rouge sur la roche"
+                ],
+                [
+                    "herbes détruites",
+                    "herbes fanées"
+                ],
+                [
+                    "œuf d'oiseau cassé",
+                    "œuf d'oiseau parfaitement intact mais creux"
+                ],
+                [
+                    "un collier déchiré"
+                ],
+                [
+                    "les os d'une proie fraîche",
+                    "un crâne de souris fendu",
+                    "un crâne de lapin fendu"
+                ],
+                [
+                    "une carapace de scarabée brillante"
+                ],
+                [
+                    "un papillon de nuit vert"
+                ],
+                [
+                    "un campagnol émacié",
+                    "un lapin émacié",
+                    "une souris émaciée"
+                ],
+                [
+                    "un mille-pattes sans tête"
+                ],
+                [
+                    "un dard d'abeille abandonné"
+                ],
+                [
+                    "une moustache tombée"
+                ]
+            ],
+            "forest": [
+                [
+                    "un écureuil à la mâchoire tordue",
+                    "un rat mourant"
+                ],
+                [
+                    "un gland fendu",
+                    "une noix parfaite",
+                    "une énorme plaque d'écorce",
+                    "une pomme de pin brûlée"
+                ],
+                [
+                    "une branche qui semble entière mais se sépare au moindre toucher",
+                    "un bâton complètement pourri"
+                ]
+            ],
+            "plains": [
+                [
+                    "une parcelle d'herbe mourante",
+                    "herbe flétrie",
+                    "une seule tige d'herbe brûlée",
+                    "herbe qui pousse"
+                ],
+                [
+                    "un nuage d'orage imposant",
+                    "le vaste ciel bleu clair",
+                    "l'horizon plat qui scintille au loin"
+                ],
+                [
+                    "un écureuil à la mâchoire tordue",
+                    "un lapin blanc",
+                    "un lapin blanc tacheté"
+                ]
+            ],
+            "beach": [
+                [
+                    "un poisson à trois yeux"
+                ],
+                [
+                    "un roseau miraculeusement en feu"
+                ],
+                [
+                    "un coquillage brillant aux couleurs de l'eau"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "un écureuil à la mâchoire tordue"
+                ],
+                [
+                    "un vautour à une seule aile"
+                ],
+                [
+                    "un nuage sombre qui s'élève sans fin"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "un poisson à trois yeux"
+                ],
+                [
+                    "un roseau miraculeusement en feu"
+                ],
+                [
+                    "un coquillage brillant aux couleurs de l'eau"
+                ]
+            ],
+            "desert": [
+                [
+                    "un lézard sans queue"
+                ],
+                [
+                    "un cactus sans épines"
+                ],
+                [
+                    "un scarabée à sept pattes"
+                ]
+            ]
+        },
+        "sound": {
+            "general": [
+                [
+                    "un murmure porté par le vent"
+                ],
+                [
+                    "le son d'un chat qui n'est plus là"
+                ]
+            ],
+            "forest": [
+                [
+                    "le hululement d'une chouette"
+                ],
+                [
+                    "la chute d'un arbre",
+                    "le craquement d'un arbre qui tombe"
+                ]
+            ],
+            "plains": [
+                [
+                    "le bruissement du vent dans l'herbe",
+                    "le hurlement du vent sur une plaine vide"
+                ],
+                [
+                    "le cri d'une buse",
+                    "le cri strident d'un aigle"
+                ]
+            ],
+            "beach": [
+                [
+                    "le cri d'une mouette"
+                ],
+                [
+                    "le bruit des crabes innombrables"
+                ],
+                [
+                    "le fracas des vagues"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "le cri d'une buse",
+                    "le cri strident d'un aigle"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "le chœur de mille grenouilles"
+                ]
+            ],
+            "desert": [
+                [
+                    "le tonnerre de la pluie sur la terre aride"
+                ]
+            ]
+        },
+        "smell": {
+            "general": [
+                [
+                    "l'odeur du lait de reine avarié"
+                ],
+                [
+                    "l'odeur d'un chat mort depuis longtemps"
+                ],
+                [
+                    "l'odeur étouffante des monstres"
+                ]
+            ],
+            "forest": [
+                [
+                    "l'odeur forte de la sève de pin dans l'air"
+                ]
+            ],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        },
+        "emotional": {
+            "general": [
+                [
+                    "un sentiment de terreur omniprésent",
+                    "la terreur de ce qui va arriver"
+                ],
+                [
+                    "la sensation de fourmis rampant dans le pelage",
+                    "la traînée d'une griffe dans le pelage"
+                ],
+                [
+                    "l'empreinte de crocs sur la peau",
+                    "la pénétration de crocs dans la peau"
+                ],
+                [
+                    "la sensation d'un observateur caché",
+                    "le sentiment oppressant de regards invisibles",
+                    "le picotement dangereux d'un regard"
+                ],
+                [
+                    "le calme qui précède le désastre"
+                ],
+                [
+                    "le silence avant la tempête"
+                ],
+                [
+                    "le froid du vent"
+                ],
+                [
+                    "la chaleur du soleil sur le pelage"
+                ],
+                [
+                    "le poids d'actions inconnues"
+                ],
+                [
+                    "la chaleur du feu",
+                    "la colère du feu",
+                    "la rage du feu"
+                ],
+                [
+                    "la ruse d'un renard",
+                    "la force d'un lion",
+                    "l'intelligence d'un corbeau",
+                    "la sournoiserie d'un serpent",
+                    "la voix d'un aigle"
+                ]
+            ],
+            "forest": [
+                [
+                    "la douceur des feuilles"
+                ],
+                [
+                    "la viscosité de la sève"
+                ],
+                [
+                    "la grâce d'un cerf"
+                ]
+            ],
+            "plains": [
+                [
+                    "la douceur de l'herbe"
+                ],
+                [
+                    "l'agilité d'un lapin"
+                ]
+            ],
+            "beach": [
+                [
+                    "la puissance des vagues"
+                ],
+                [
+                    "la discrétion d'une pieuvre"
+                ]
+            ],
+            "mountainous": [
+                [
+                    "l'immensité des montagnes"
+                ],
+                [
+                    "la peur de marcher le long des falaises"
+                ]
+            ],
+            "wetlands": [
+                [
+                    "l'enfoncement dans les sables mouvants"
+                ],
+                [
+                    "la beauté d'un héron"
+                ]
+            ],
+            "desert": [
+                [
+                    "la chaleur écrasante du soleil"
+                ],
+                [
+                    "l'appréhension d'une tempête à venir"
+                ]
+            ]
+        },
+        "touch": {
+            "general": [
+                [
+                    "le vent sifflant près d'une griffe levée dans la colère"
+                ],
+                [
+                    "la douleur de la fatigue alors que les yeux se ferment pour toujours"
+                ],
+                [
+                    "un froid sans fin qui s'insinue dans {PRONOUN/cat_tag/poss} os"
+                ],
+                [
+                    "la terre qui tremble sous les pattes"
+                ]
+            ],
+            "forest": [
+                [
+                    "la rugosité de l'écorce sous les pattes"
+                ]
+            ],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        }
+    },
+    "dream_list": [
+        [
+            "faim",
+            "affamé",
+            "gloutonnerie",
+            "faim vorace"
+        ],
+        [
+            "froid",
+            "chaleur",
+            "chaud",
+            "brûlure",
+            "gelé"
+        ],
+        [
+            "solitude",
+            "apathie",
+            "engourdissement"
+        ],
+        [
+            "irritation",
+            "exaspération",
+            "agacement",
+            "aggravation",
+            "agitation",
+            "vexation",
+            "colère"
+        ],
+        [
+            "envie",
+            "besoin",
+            "désir",
+            "aspiration",
+            "craving"
+        ],
+        [
+            "perte",
+            "chagrin",
+            "douleur du cœur",
+            "mélancolie",
+            "dépression"
+        ],
+        [
+            "un béguin",
+            "amour",
+            "romance",
+            "désir amoureux"
+        ],
+        [
+            "haine",
+            "détestation",
+            "mépris",
+            "malveillance"
+        ],
+        [
+            "admiration",
+            "respect",
+            "estime",
+            "révérence",
+            "idolâtrie"
+        ],
+        [
+            "désapprobation",
+            "mépris",
+            "déplaisir",
+            "condamnation",
+            "dégoût",
+            "blâme",
+            "rabaissement",
+            "reproche"
+        ],
+        [
+            "ambition",
+            "volonté",
+            "détermination",
+            "motivation",
+            "aspiration",
+            "affirmation de soi"
+        ],
+        [
+            "assurance",
+            "confiance",
+            "confiance en soi",
+            "fierté",
+            "estime de soi"
+        ],
+        [
+            "avidité",
+            "appétit",
+            "possessivité",
+            "convoitise"
+        ],
+        [
+            "envie",
+            "jalousie",
+            "rancune"
+        ],
+        [
+            "fierté parentale",
+            "fierté maternelle",
+            "fierté paternelle",
+            "inquiétude parentale",
+            "inquiétude maternelle",
+            "inquiétude paternelle"
+        ],
+        [
+            "altruisme",
+            "générosité",
+            "bienveillance"
+        ],
+        [
+            "calme",
+            "paix",
+            "sérénité",
+            "tranquillité"
+        ],
+        [
+            "anxiété",
+            "nervosité",
+            "inquiétude"
+        ],
+        [
+            "bonheur",
+            "joie",
+            "satisfaction",
+            "allégresse"
+        ],
+        [
+            "contentement",
+            "relaxation",
+            "béatitude",
+            "plaisir ronronnant",
+            "délice"
+        ],
+        [
+            "douleur",
+            "blessure",
+            "angoisse",
+            "agonie",
+            "souffrance",
+            "tourment"
+        ],
+        [
+            "inconfort",
+            "piqûre",
+            "douleur sourde",
+            "courbature",
+            "élancement"
+        ],
+        [
+            "pensées vengeresses",
+            "vengeance",
+            "représailles",
+            "rétorsion",
+            "châtiment",
+            "revanche"
+        ],
+        [
+            "accomplissement",
+            "triomphe",
+            "victoire",
+            "réalisation",
+            "épanouissement",
+            "succès"
+        ],
+        [
+            "tristesse",
+            "désespoir",
+            "misère",
+            "morosité",
+            "malheur"
+        ],
+        [
+            "tourmente",
+            "agitation",
+            "tension",
+            "bouleversement",
+            "turbulence",
+            "malaise"
+        ],
+        [
+            "horreur",
+            "terreur",
+            "peur",
+            "pressentiment",
+            "effroi"
+        ],
+        [
+            "danger",
+            "risque",
+            "péril",
+            "menace",
+            "mise en danger"
+        ],
+        [
+            "intuition",
+            "prémonition",
+            "perception aiguë",
+            "préscience"
+        ],
+        [
+            "soif de sang",
+            "sanglant",
+            "barbarie",
+            "cruauté",
+            "impitoyabilité",
+            "malveillance"
+        ],
+        [
+            "espoir",
+            "optimisme",
+            "souhaiter sur une étoile"
+        ],
+        [
+            "foi",
+            "piété",
+            "dévotion",
+            "ferveur",
+            "pieux"
+        ],
+        [
+            "loyauté",
+            "fidélité",
+            "confiance",
+            "dévouement"
+        ],
+        [
+            "amour",
+            "soin",
+            "compassion",
+            "chérir",
+            "affection"
+        ],
+        [
+            "curiosité",
+            "esprit curieux",
+            "émerveillement",
+            "questionnement",
+            "indiscrétion"
+        ],
+        [
+            "inspiration",
+            "une idée",
+            "une impulsion"
+        ],
+        [
+            "espièglerie",
+            "malice",
+            "vivacité",
+            "énergie espiègle",
+            "esprit fripon",
+            "gaieté de chaton"
+        ],
+        [
+            "excitation",
+            "frisson",
+            "vivifié",
+            "surprise",
+            "exaltation"
+        ],
+        [
+            "secret",
+            "dissimulation",
+            "discrétion",
+            "subterfuge",
+            "tromperie"
+        ],
+        [
+            "culpabilité",
+            "honte",
+            "chagrin"
+        ],
+        [
+            "médisance",
+            "petite malveillance",
+            "amertume",
+            "âpreté"
+        ],
+        [
+            "regret",
+            "remords",
+            "complicité",
+            "responsabilité"
+        ],
+        [
+            "concentration",
+            "attention",
+            "obsession"
+        ],
+        [
+            "désespoir",
+            "détresse"
+        ]
+    ],
+    "clair_list": {
+        "comment_clair": [
+            "lorsque la clair_list est appelée, elle tirera également la dream_list avec elle, car les éléments de la dream_list sont",
+            "appropriés pour la clair_list mais les éléments de la clair_list ne sont pas tous appropriés pour la dream_list"
+        ],
+        "sound": {
+            "general": [
+                [
+                    "le grondement de nombreuses pattes sur le sol"
+                ],
+                [
+                    "les échos d'une conversation passée",
+                    "les échos d'une dispute passée"
+                ],
+                [
+                    "des murmures d'un acte lointain",
+                    "des murmures d'un secret perdu depuis longtemps"
+                ],
+                [
+                    "une trahison portée par le vent"
+                ],
+                [
+                    "le crépitement d'une branche brûlante"
+                ],
+                [
+                    "le murmure de voix qui s'éteignent rapidement"
+                ],
+                [
+                    "le bruit d'ailes dans le vent"
+                ],
+                [
+                    "les sons d'une dispute animée"
+                ],
+                [
+                    "des pas presque silencieux"
+                ],
+                [
+                    "les doux bruits de chatons qui tètent"
+                ],
+                [
+                    "un éclat de rire"
+                ],
+                [
+                    "des hurlements lointains de chagrin"
+                ]
+            ],
+            "forest": [],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        },
+        "smell": {
+            "general": [
+                [
+                    "l'odeur de nourriture de chat domestique"
+                ],
+                [
+                    "une étrange odeur acide"
+                ],
+                [
+                    "l'odeur de terre chauffée par le soleil"
+                ],
+                [
+                    "l'odeur de la pluie"
+                ]
+            ],
+            "forest": [],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        },
+        "emotional": {
+            "general": [
+                [
+                    "du sang versé lors d'une bataille",
+                    "une bataille d'autrefois",
+                    "la terreur d'un champ de bataille"
+                ],
+                [
+                    "une guerre gagnée",
+                    "une bataille perdue"
+                ],
+                [
+                    "un vieux rendez-vous",
+                    "une rencontre amicale",
+                    "une trêve entre ennemis"
+                ],
+                [
+                    "le dernier souffle d'un chat"
+                ],
+                [
+                    "une promesse tenue",
+                    "une promesse à moitié oubliée",
+                    "une promesse déjà brisée",
+                    "une promesse pas encore faite"
+                ],
+                [
+                    "une histoire à moitié oubliée"
+                ],
+                [
+                    "l'excitation d'un apprenti",
+                    "la vigueur d'un apprenti",
+                    "la naïveté d'un apprenti"
+                ],
+                [
+                    "la force d'un guerrier",
+                    "la détermination d'un guerrier",
+                    "la loyauté d'un guerrier"
+                ],
+                [
+                    "la douleur des os d'un ancien",
+                    "la sagesse d'un ancien"
+                ],
+                [
+                    "noyade"
+                ],
+                [
+                    "un chagrin persistant",
+                    "l'impact vif du chagrin"
+                ],
+                [
+                    "l'innocence d'un nouveau-né",
+                    "la perte de l'innocence"
+                ],
+                [
+                    "un souvenir qui s'efface",
+                    "un souvenir qui disparaît",
+                    "un souvenir perdu depuis longtemps"
+                ],
+                [
+                    "oublier quelque chose d'important",
+                    "oublier un secret autrefois précieux"
+                ],
+                [
+                    "désirer quelque chose qui manque maintenant",
+                    "aspirer à une possession perdue depuis longtemps"
+                ],
+                [
+                    "haine envers un ami cher"
+                ],
+                [
+                    "connaître un secret qui ne pourra jamais être révélé"
+                ],
+                [
+                    "une vérité non crue",
+                    "une vérité cachée",
+                    "une vérité jamais révélée"
+                ],
+                [
+                    "une faiblesse dans {PRONOUN/cat_tag/poss} pattes"
+                ],
+                [
+                    "un ventre si vide que {PRONOUN/cat_tag/subject} {VERB/cat_tag/feel/feels} nauséeux"
+                ],
+                [
+                    "un foyer qui n'accueille plus",
+                    "un foyer perdu depuis longtemps",
+                    "un foyer autrefois oublié"
+                ],
+                [
+                    "corruption suintante"
+                ]
+            ],
+            "forest": [],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        },
+        "touch": {
+            "general": [
+                [
+                    "un air immobile comme la mort",
+                    "la chaleur d'un feu invisible"
+                ],
+                [
+                    "pierres qui tremblent"
+                ],
+                [
+                    "tomber dans les airs",
+                    "voler dans les airs"
+                ],
+                [
+                    "la chaleur d'un parent",
+                    "l'étreinte d'une famille",
+                    "la chaleur de la famille dans l'obscurité avant que les yeux d'un chaton ne s'ouvrent"
+                ],
+                [
+                    "queues qui s'entrelacent",
+                    "la glisse de la fourrure mouillée",
+                    "des dents claquant contre la fourrure",
+                    "griffes contre une peau"
+                ],
+                [
+                    "le contact d'un mentor sur le front d'un apprenti"
+                ],
+                [
+                    "glisser sur une terre boueuse malgré le sol sec",
+                    "s'enfoncer dans la terre boueuse"
+                ],
+                [
+                    "pattes humides d'eau",
+                    "pattes humides de sang",
+                    "pattes lourdes de sang"
+                ],
+                [
+                    "la poussée violente d'un autre chat"
+                ],
+                [
+                    "aiguiser ses griffes contre la pierre"
+                ],
+                [
+                    "le vent fouettant la fourrure"
+                ]
+            ],
+            "forest": [],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        },
+        "taste": {
+            "general": [
+                [
+                    "le goût amer des graines de pavot",
+                    "le goût d'herbes amères",
+                    "le goût du sang dans l'air"
+                ],
+                [
+                    "le goût persistant du fer sur la langue"
+                ],
+                [
+                    "le goût volatil des baies"
+                ]
+            ],
+            "forest": [],
+            "plains": [],
+            "beach": [],
+            "mountainous": [],
+            "wetlands": [],
+            "desert": []
+        }
+    },
+    "story_list": {
+        "comment_story": [
+            "la liste générale ne doit pas contenir de snippets du type 'le chat qui ___', car on ne veut pas en avoir plus d'un dans un événement",
+            "ajoutez uniquement les snippets 'le chat qui ___' dans les listes de biomes, vous pouvez en ajouter un à plusieurs biomes si vous pensez qu'il convient"
+        ],
+        "general": [
+            [
+                "Le Renard Voleur"
+            ],
+            [
+                "Le Lapin Tenace",
+                "Le Prince Lapin"
+            ],
+            [
+                "Le Roi Lièvre",
+                "La Sorcière Lièvre"
+            ],
+            [
+                "La Promesse du Lion",
+                "Comment le Tigre a eu ses Rayures",
+                "Les Taches du Léopard",
+                "Les Griffes du Cougar"
+            ],
+            [
+                "Le Lieu Sans Étoiles",
+                "Les Étoiles de Silverpelt"
+            ],
+            [
+                "Le Grand Chasseur de Queues"
+            ],
+            [
+                "Le Trou dans le Ciel"
+            ],
+            [
+                "L'Oiseau qui a perdu ses ailes"
+            ]
+        ],
+        "forest": [
+            [
+                "Le Chat qui est devenu un Porc-épic",
+                "Le Chat qui a porté le Soleil",
+                "Le Chat qui a grandi en Chêne",
+                "Le Chat Saule",
+                "Le Blaireau qui a lié amitié avec un Chat",
+                "Les Chats faits de Lumière",
+                "Les Chats faits d'Ombre"
+            ],
+            [
+                "Les Vieilles Forêts des Ancêtres",
+                "L'Origine de la Forêt",
+                "La Première Graine",
+                "L'Écureuil qui a planté la Forêt"
+            ],
+            [
+                "Les Insectes Étoiles"
+            ],
+            [
+                "Le Lieu où le Soleil se noie"
+            ]
+        ],
+        "plains": [
+            [
+                "Le Chat qui a creusé un tunnel à travers le monde",
+                "Le Chasseur Aveugle qui a sauvé le Clan",
+                "Le Chat sans chanson",
+                "Le Chat qui a porté le Soleil",
+                "Le Chat fait de Terre",
+                "Les Chats faits de Lumière",
+                "Le Grand Chat-Ver",
+                "Les Chats faits d'Ombre"
+            ],
+            [
+                "Les Bêtes de Tonnerre"
+            ],
+            [
+                "Comment les Grandes Tours du Ciel sont apparues"
+            ],
+            [
+                "Les Arbres de Métal des Bipèdes"
+            ],
+            [
+                "Le Mensonge de la Belette"
+            ],
+            [
+                "Le Lieu où le Soleil se noie"
+            ]
+        ],
+        "beach": [
+            [
+                "Le Chat Maudit",
+                "Le Chat qui a porté le Soleil",
+                "Le Chat qui a nagé par-dessus la mer",
+                "Le Poisson qui est devenu un Chat",
+                "Le Chat qui a parlé aux Poissons",
+                "Les Chats faits d'Ombre"
+            ],
+            [
+                "L'Adieu du Dauphin"
+            ],
+            [
+                "Le Signe des Morts"
+            ],
+            [
+                "Les Larmes de l'Océan",
+                "Le Ciel qui pleure"
+            ],
+            [
+                "Le Coquillage Chantant"
+            ],
+            [
+                "Les Sables Mouvants"
+            ],
+            [
+                "Les Fantômes de la Mer",
+                "Le Fantôme piégé dans une mare"
+            ]
+        ],
+        "mountainous": [
+            [
+                "L'Aigle qui est devenu un Chat",
+                "La Chatte qui a échangé sa voix",
+                "Le Chat qui a volé",
+                "Le Chat qui a porté le Soleil",
+                "Les Chats faits de Lumière",
+                "Le Chat qui a déplacé les Montagnes",
+                "Les Chats faits d'Ombre"
+            ],
+            [
+                "L'Ombre de la Montagne"
+            ],
+            [
+                "La Plume du Colibri"
+            ],
+            [
+                "La Trahison des Corbeaux"
+            ],
+            [
+                "Le Ciel Dansant"
+            ],
+            [
+                "Le Lieu où le Soleil se noie"
+            ]
+        ],
+        "wetlands": [],
+        "desert": []
+    }
+}

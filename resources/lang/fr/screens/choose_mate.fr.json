@@ -1,0 +1,17 @@
+{
+    "fr": {
+        "heading": "Choisissez un partenaire pour %{name}",
+        "info": "Si un chat a des partenaires, il leur sera fidèle et n’aura des chatons qu’avec eux (sauf si les aventures sont activées). Les partenaires potentiels sont listés ci-dessous ! Les lignes reliant les deux chats peuvent donner une idée de leur compatibilité, et tout sentiment romantique existant sera indiqué par de petits cœurs.",
+        "potential": "Partenaires potentiels",
+        "current": "Partenaires",
+        "offspring": "Descendance",
+        "with_selected_cat": "Descendance avec le chat sélectionné",
+        "no_mates": "Aucun partenaire",
+        "can_have_kits": "Peut avoir des chatons biologiques",
+        "no_kits_pair": "m_c n’a pas de descendance avec r_c.",
+        "no_kits_single": "m_c n’a pas de descendance.",
+        "no_kit_warning": "Ce couple ne peut pas avoir de chatons biologiques.",
+        "set_mate": "C’est officiel !",
+        "unset_mate": "Séparer"
+    }
+}

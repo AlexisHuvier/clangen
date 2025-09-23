@@ -1,0 +1,32 @@
+{
+    "fr": {
+        "thought": "Prrrp ! Vous ne devriez pas voir ceci ! Signalez-le comme un bug.",
+        "rickroll": "Jamais je n'abandonnerai r_c, jamais je ne laisserai tomber {PRONOUN\/r_c\/object}, jamais je ne fuirai et n'abandonnerai {PRONOUN\/r_c\/object}.",
+        "interaction": "Ceci est une interaction par défaut ! ID : %{id} avec les chats (m_c), (r_c)",
+        "ceremony_honor": "travail acharné",
+        "focus_text": "Ceci ne devrait pas apparaître ; signalez-le comme un bug (fonction focus).",
+        "illness_get_event": "m_c a attrapé %{illness}.",
+        "illness_death_event": "m_c a été tué par {PRONOUN\/m_c\/poss} maladie.",
+        "illness_death_history": "m_c est mort d'une maladie.",
+        "illness_death_history_leader": "mort d'une maladie",
+        "injury_death_event": "m_c a été tué par {PRONOUN\/m_c\/poss} blessures.",
+        "injury_death_history": "m_c est mort d'une blessure.",
+        "injury_death_history_leader": "mort d'une blessure",
+        "injury_healed_event": "La blessure %{injury} de m_c est guérie.",
+        "permanent_condition_from_injury_event": "Après la guérison de la blessure %{injury} de m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} maintenant %{condition}.",
+        "complications_death_event": "m_c est mort de complications causées par %{condition}.",
+        "complications_death_event_leader": "m_c a perdu une vie à cause de %{condition}.",
+        "complications_death_history": "m_c est mort de complications causées par %{condition}.",
+        "complications_death_history_leader": "mort de complications causées par %{condition}",
+        "warn_no_leader": "c_n n'a pas de chef !",
+        "warn_no_deputy": "c_n n'a pas de lieutenant !",
+        "deputy_event": "m_c devient lieutenant.",
+        "warn_low_freshkill": "c_n n'a pas assez de proies pour la prochaine lune !",
+        "warn_low_medcats": "c_n n'a pas assez de guérisseurs en bonne santé ! Les chats seront malades ou blessés plus longtemps et risquent davantage de mourir.",
+        "warn_no_medcats": "c_n n'a pas de guérisseur !",
+        "event_dead_outsider": "Le fantôme de m_c erre désormais.",
+        "event_met_outsider": "Le Clan a rencontré m_c.",
+        "patrol_regular_death": "m_c est mort en patrouille.",
+        "relationship_log": "Ces chats ont récemment interagi."
+    }
+}

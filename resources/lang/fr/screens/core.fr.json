@@ -1,0 +1,19 @@
+{
+    "fr": {
+        "events": "Événements",
+        "camp": "Camp",
+        "cat_list": "Liste des chats",
+        "patrol": "Patrouille",
+        "allegiances": "Allégeances",
+        "settings": "Paramètres",
+        "dens": "Tanières",
+        "warriors_den": "Tanière des guerriers",
+        "leader_den": "Tanière du chef",
+        "medicine_cat_den": "Tanière du guérisseur",
+        "elders_den": "Tanière des anciens",
+        "nursery": "Pouponnière",
+        "clearing": "Clairière",
+        "apprentices_den": "Tanière des apprentis",
+        "dev_watermark": "Version Dev : %{ver}"
+    }
+}

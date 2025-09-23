@@ -1,0 +1,31 @@
+{
+    "fr": {
+        "permanent condition": "condition permanente",
+        "crooked jaw": "mâchoire tordue",
+        "lost a leg": "a perdu une patte",
+        "born without a leg": "né sans une patte",
+        "weak leg": "patte faible",
+        "twisted leg": "patte tordue",
+        "lost their tail": "a perdu sa queue",
+        "born without a tail": "né sans queue",
+        "paralyzed": "paralysé",
+        "raspy lungs": "poumons râpeux",
+        "wasting disease": "maladie débilitante",
+        "blind": "aveugle",
+        "one bad eye": "un œil abîmé",
+        "failing eyesight": "vue défaillante",
+        "partial hearing loss": "perte auditive partielle",
+        "deaf": "sourd",
+        "constant joint pain": "douleur articulaire constante",
+        "joint pain": "douleur articulaire",
+        "seizure prone": "sujet aux crises",
+        "allergies": "allergies",
+        "constantly dizzy": "constamment étourdi",
+        "recurring shock": "choc récurrent",
+        "lasting grief": "chagrin persistant",
+        "strange lump": "bosse étrange",
+        "absent": "absent",
+        "persistent headaches": "maux de tête persistants",
+        "unknown_condition_risk_given": "La condition de m_c s'est aggravée."
+    }
+}

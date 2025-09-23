@@ -1,0 +1,196 @@
+{
+    "general": {
+        "body": [
+            "r_c a toujours idolâtré m_c et a modelé sa vision de ce que signifie être un vrai et bon chat du clan sur m_c. Sans {PRONOUN/m_c/object}, r_c a l'impression d'être perdu.",
+            "r_c ne s'était jamais rendu compte à quel point {PRONOUN/r_c/subject} avait placé m_c sur un piédestal, mais maintenant que {PRONOUN/r_c/poss} parent est parti, r_c a l'impression que son monde s'effondre autour de {PRONOUN/r_c/poss} oreilles.",
+            "r_c regarde avec incrédulité le corps de {PRONOUN/r_c/poss} parent. Comment le clan peut-il continuer sans m_c ? {PRONOUN/m_c/subject/CAP} {VERB/m_c/were/was} la base solide sur laquelle le clan reposait, dans l'esprit de r_c - et maintenant cette base s'est effondrée.",
+            "r_c presse son museau contre le corps froid de m_c, retenant ses sanglots. Toute la vivacité et la force que r_c admirait chez {PRONOUN/r_c/poss} parent ont disparu, ne laissant qu'une coquille.",
+            "r_c admirait profondément m_c - comme parent, mais aussi comme camarade de clan et enseignant. Cette perte touche r_c au plus profond de {PRONOUN/r_c/poss} être.",
+            "En regardant le corps de {PRONOUN/r_c/poss} parent, r_c est trop bouleversé pour parler. Comment {PRONOUN/r_c/subject} pourra-t-il continuer sans m_c ? Comment le clan survivra-t-il sans {PRONOUN/m_c/object} ?",
+            "r_c se serre contre le flanc froid de m_c et répète encore et encore à {PRONOUN/m_c/object} combien {PRONOUN/m_c/subject} {VERB/m_c/are/is} aimé et précieux, et à quel point {PRONOUN/r_c/subject} {VERB/r_c/look/looks} admire {PRONOUN/m_c/object}. Savoir que m_c ne peut plus entendre r_c brise le cœur de {PRONOUN/r_c/poss}.",
+            "r_c pleure profondément m_c, sachant que {PRONOUN/r_c/subject} n'aura peut-être jamais la chance de dire à {PRONOUN/r_c/subject} parent à quel point {PRONOUN/m_c/subject} a eu un impact sur la vie de {PRONOUN/r_c/poss}."
+        ],
+        "no_body": [
+            "r_c a toujours idolâtré m_c et a modelé sa vision de ce que signifie être un vrai et bon chat du clan sur m_c. Sans {PRONOUN/m_c/object}, r_c a l'impression d'être perdu.",
+            "r_c ne s'était jamais rendu compte à quel point {PRONOUN/r_c/subject} avait placé m_c sur un piédestal, mais maintenant que {PRONOUN/r_c/poss} parent est parti, r_c a l'impression que son monde s'effondre autour de {PRONOUN/r_c/poss} oreilles.",
+            "r_c admirait profondément m_c - comme parent, mais aussi comme camarade de clan et enseignant. Cette perte touche r_c au plus profond de {PRONOUN/r_c/poss} être.",
+            "r_c pleure profondément m_c, sachant que {PRONOUN/r_c/subject} n'aura peut-être jamais la chance de dire à {PRONOUN/r_c/subject} parent à quel point {PRONOUN/m_c/subject} a eu un impact sur la vie de {PRONOUN/r_c/poss}."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}

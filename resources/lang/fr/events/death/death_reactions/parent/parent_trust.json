@@ -1,0 +1,152 @@
+{
+    "general": {
+        "body": [
+            "r_c savait que c_n serait entre de bonnes pattes après la mort de {PRONOUN\/r_c\/poss}, avec des chats comme m_c pour le guider. {PRONOUN\/r_c\/subject\/CAP} n'aurait jamais pensé que {PRONOUN\/r_c\/poss} petit serait parti avant {PRONOUN\/r_c\/object}.",
+            "r_c est bouleversé par la mort de m_c. {PRONOUN\/m_c\/subject\/CAP} n'était pas seulement {PRONOUN\/r_c\/poss} petit, {PRONOUN\/m_c\/subject} était aussi une source de force et d'inspiration pour {PRONOUN\/r_c\/object}.",
+            "r_c se tient au-dessus du corps affaissé de m_c, incapable de respirer ou de parler. Comment {PRONOUN\/r_c\/poss} petit brillant et capable a-t-il pu partir si tôt ?",
+            "r_c parle lors de la veillée de m_c, la voix nouée par les souvenirs de s'être occupé de {PRONOUN\/m_c\/object}, et par les moments où m_c a pris soin de {PRONOUN\/r_c\/object} aussi.",
+            "r_c frotte son museau contre le corps de m_c une dernière fois avant que c_n ne l'enterre. Tous les souvenirs, toutes les réussites et succès de m_c défilent devant les yeux de r_c, puis disparaissent.",
+            "Il y avait tant de bonté, tant de sagesse au-delà des lunes de {PRONOUN\/m_c\/poss}, dans le petit bien-aimé de {PRONOUN\/r_c\/poss}. Ce n'est pas juste que m_c soit parti si tôt, et r_c est trop bouleversé pour parler à la veillée."
+        ],
+        "no_body": [
+            "r_c savait que c_n serait entre de bonnes pattes après la mort de {PRONOUN\/r_c\/poss}, avec des chats comme m_c pour le guider. {PRONOUN\/r_c\/subject\/CAP} n'aurait jamais pensé que {PRONOUN\/r_c\/poss} petit serait parti avant {PRONOUN\/r_c\/object}.",
+            "r_c est bouleversé par la mort de m_c. {PRONOUN\/m_c\/subject\/CAP} n'était pas seulement {PRONOUN\/r_c\/poss} petit, {PRONOUN\/m_c\/subject} était aussi une source de force et d'inspiration pour {PRONOUN\/r_c\/object}.",
+            "r_c parle lors de la veillée de m_c, la voix nouée par les souvenirs de s'être occupé de {PRONOUN\/m_c\/object}, et par les moments où m_c a pris soin de {PRONOUN\/r_c\/object} aussi.",
+            "Il y avait tant de bonté, tant de sagesse au-delà des lunes de {PRONOUN\/m_c\/poss}, dans le petit bien-aimé de {PRONOUN\/r_c\/poss}. Ce n'est pas juste que m_c soit parti si tôt, et r_c est trop bouleversé pour parler à la veillée.",
+            "r_c gardait espoir que m_c puisse revenir contre toute attente, mais lors de la veillée de {PRONOUN\/m_c\/poss}, {PRONOUN\/r_c\/subject} s'effondre en larmes, réalisant que {PRONOUN\/r_c\/poss} petit ne reviendra jamais.",
+            "r_c espère que, où que soit m_c maintenant, {PRONOUN\/m_c\/subject} sait à quel point r_c est fier de {PRONOUN\/m_c\/object}, et à quel point {PRONOUN\/m_c\/subject} est aimé."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

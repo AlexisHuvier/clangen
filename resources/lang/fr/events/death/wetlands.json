@@ -1,0 +1,61 @@
+[
+    {
+        "event_id": "wtlnd_death_any_quicksand",
+        "location": [
+            "wetlands"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [],
+        "weight": 10,
+        "event_text": "m_c s'est retrouvé coincé dans des sables mouvants et n'a pas été retrouvé à temps.",
+        "m_c": {
+            "status": [
+                "apprentice",
+                "warrior",
+                "deputy",
+                "leader"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c est mort après s'être retrouvé piégé dans des sables mouvants.",
+                "lead_death": "{VERB\/m_c\/were\/was} piégé dans des sables mouvants."
+            }
+        ]
+    },
+    {
+        "event_id": "wtlnd_death_app_cottonmouth",
+        "location": [
+            "wetlands"
+        ],
+        "season": [
+            "greenleaf",
+            "newleaf",
+            "leaf-fall"
+        ],
+        "tags": [],
+        "weight": 20,
+        "event_text": "m_c a été tué par un serpent à la bouche remarquablement blanche.",
+        "m_c": {
+            "status": [
+                "apprentice"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été tué par un serpent à la bouche remarquablement blanche.",
+                "lead_death": "{VERB\/m_c\/were\/was} tué par un serpent à la bouche remarquablement blanche."
+            }
+        ]
+    }
+]

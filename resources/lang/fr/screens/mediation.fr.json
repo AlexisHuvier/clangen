@@ -1,0 +1,23 @@
+{
+    "fr": {
+        "allow_romantic": "Autoriser le romantisme",
+        "allow_romantic_tooltip": "Autoriser les effets sur l'intérêt romantique, si possible.",
+        "mediate": "Médiation",
+        "sabotage": "Saboter",
+        "cat_feelings": "~~Sentiments de %{name}~~",
+        "cant_work": "Ce médiateur ne peut pas travailler cette lune.",
+        "already_worked": "Ce médiateur a déjà travaillé cette lune.",
+        "pair_already_mediated": "Ce duo a déjà été médié cette lune.",
+        "sabotage_failed": "Sabotage échoué !",
+        "mediate_failed": "Médiation échouée !",
+        "romance": "Intérêt romantique",
+        "like": "Aimer",
+        "respect": "Respect",
+        "comfort": "Confort",
+        "trust": "Confiance",
+        "output_increase": "%{trait} augmenté.",
+        "output_decrease": "%{trait} diminué.",
+        "output_sabotage_failed": "Sabotage échoué !\n",
+        "output_mediate_failed": "Médiation échouée !\n"
+    }
+}

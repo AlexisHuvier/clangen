@@ -1,0 +1,24 @@
+{
+    "fr": {
+        "seizure": "crise d'épilepsie",
+        "diarrhea": "diarrhée",
+        "fleas": "puces",
+        "running nose": "nez qui coule",
+        "kittencough": "toux du chaton",
+        "whitecough": "toux blanche",
+        "yellowcough": "toux jaune",
+        "greencough": "toux verte",
+        "redcough": "toux rouge",
+        "an infected wound": "une blessure infectée",
+        "a festering wound": "une blessure purulente",
+        "carrionplace disease": "maladie du charnier",
+        "heat stroke": "coup de chaleur",
+        "heat exhaustion": "épuisement dû à la chaleur",
+        "stomachache": "mal de ventre",
+        "constant nightmares": "cauchemars constants",
+        "grief stricken": "accablé de chagrin",
+        "malnourished": "mal nourri",
+        "starving": "affamé",
+        "tick fever": "fièvre des tiques"
+    }
+}

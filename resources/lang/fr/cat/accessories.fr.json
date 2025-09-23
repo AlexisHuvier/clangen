@@ -1,0 +1,363 @@
+{
+    "fr": {
+        "INFO": [
+            "zero should be what you'd like to display on the cat profile",
+            "one and many will be used on events"
+        ],
+        "MAPLE LEAF": {
+            "zero": "feuille d'érable",
+            "many": "feuilles d'érable",
+            "one": "feuille d'érable"
+        },
+        "HOLLY": {
+            "zero": "houx",
+            "many": "houx",
+            "one": "houx"
+        },
+        "BLUE BERRIES": {
+            "zero": "baies bleues",
+            "many": "baies bleues",
+            "one": "baie bleue"
+        },
+        "FORGET ME NOTS": {
+            "zero": "fleurs de myosotis",
+            "many": "fleurs de myosotis",
+            "one": "fleur de myosotis"
+        },
+        "RYE STALK": {
+            "zero": "tige de seigle",
+            "many": "tiges de seigle",
+            "one": "tige de seigle"
+        },
+        "LAUREL": {
+            "zero": "laurier",
+            "many": "lauriers",
+            "one": "laurier"
+        },
+        "BLUEBELLS": {
+            "zero": "jacinthes",
+            "many": "jacinthes",
+            "one": "jacinthes"
+        },
+        "NETTLE": {
+            "zero": "ortie",
+            "many": "orties",
+            "one": "ortie"
+        },
+        "POPPY": {
+            "zero": "pavot",
+            "many": "pavots",
+            "one": "pavot"
+        },
+        "LAVENDER": {
+            "zero": "lavande",
+            "many": "fleurs de lavande",
+            "one": "lavande"
+        },
+        "HERBS": {
+            "zero": "pelage couvert d'herbes",
+            "many": "herbes",
+            "one": "bouquet d'herbes"
+        },
+        "PETALS": {
+            "zero": "pelage couvert de pétales",
+            "many": "pétales",
+            "one": "bouquet de pétales"
+        },
+        "WISTERIA": {
+            "zero": "glycine",
+            "many": "glycines",
+            "one": "glycine"
+        },
+        "ROSE MALLOW": {
+            "zero": "rose trémière",
+            "many": "roses trémières",
+            "one": "rose trémière"
+        },
+        "PICKLEWEED": {
+            "zero": "salicorne",
+            "many": "salicornes",
+            "one": "salicorne"
+        },
+        "GOLDEN CREEPING JENNY": {
+            "zero": "lierre doré",
+            "many": "lierre doré",
+            "one": "lierre doré"
+        },
+        "DESERT WILLOW": {
+            "zero": "saule du désert",
+            "many": "saules du désert",
+            "one": "saule du désert"
+        },
+        "CACTUS FLOWER": {
+            "zero": "fleur de cactus",
+            "many": "fleurs de cactus",
+            "one": "fleur de cactus"
+        },
+        "PRAIRIE FIRE": {
+            "zero": "castilleja",
+            "many": "castillejas",
+            "one": "castilleja"
+        },
+        "VERBENA EAR": {
+            "zero": "verveine",
+            "many": "verveines",
+            "one": "verveine"
+        },
+        "VERBENA PELT": {
+            "zero": "pelage couvert de verveine",
+            "many": "verveines",
+            "one": "quelques verveines"
+        },
+        "DRY HERBS": {
+            "zero": "pelage couvert d'herbes",
+            "many": "herbes sèches",
+            "one": "bouquet d'herbes sèches"
+        },
+        "DRY CATMINT": {
+            "zero": "menthe à chat séchée",
+            "many": "menthes à chat séchées",
+            "one": "menthe à chat séchée"
+        },
+        "DRY NETTLES": {
+            "zero": "orties séchées",
+            "many": "orties sèches",
+            "one": "ortie séchée"
+        },
+        "DRY LAURELS": {
+            "zero": "lauriers séchés",
+            "many": "lauriers sèches",
+            "one": "laurier séché"
+        },
+        "OAK LEAVES": {
+            "zero": "feuilles de chêne",
+            "many": "feuilles de chêne",
+            "one": "feuille de chêne"
+        },
+        "CATMINT": {
+            "zero": "menthe à chat",
+            "many": "menthes à chat",
+            "one": "menthe à chat"
+        },
+        "MAPLE SEED": {
+            "zero": "graine d'érable",
+            "many": "graines d'érable",
+            "one": "graine d'érable"
+        },
+        "JUNIPER": {
+            "zero": "genévrier",
+            "many": "genévriers",
+            "one": "genévrier"
+        },
+        "RED FEATHERS": {
+            "zero": "plumes de cardinal",
+            "many": "plumes de cardinal",
+            "one": "plume de cardinal"
+        },
+        "BLUE FEATHERS": {
+            "zero": "plumes de corbeau",
+            "many": "plumes de corbeau",
+            "one": "plume de corbeau"
+        },
+        "JAY FEATHERS": {
+            "zero": "plumes de geai",
+            "many": "plumes de geai",
+            "one": "plume de geai"
+        },
+        "MOTH WINGS": {
+            "zero": "ailes de papillon de nuit",
+            "many": "ailes de papillon de nuit",
+            "one": "aile de papillon de nuit"
+        },
+        "CICADA WINGS": {
+            "zero": "ailes de cicadelle",
+            "many": "ailes de cicadelle",
+            "one": "aile de cicadelle"
+        },
+        "ORANGE POPPY": {
+            "zero": "pavot orange",
+            "many": "pavots orange",
+            "one": "pavot orange"
+        },
+        "CYAN POPPY": {
+            "zero": "pavot cyan",
+            "many": "pavots cyan",
+            "one": "pavot cyan"
+        },
+        "WHITE POPPY": {
+            "zero": "pavot blanc",
+            "many": "pavots blancs",
+            "one": "pavot blanc"
+        },
+        "PINK POPPY": {
+            "zero": "pavot rose",
+            "many": "pavots roses",
+            "one": "pavot rose"
+        },
+        "CLOVER": {
+            "zero": "queue de trèfle",
+            "many": "trèfles",
+            "one": "bouquet de trèfles"
+        },
+        "DAISY": {
+            "zero": "queue de marguerite",
+            "many": "marguerites",
+            "one": "bouquet de marguerites"
+        },
+        "LILY OF THE VALLEY": {
+            "zero": "muguet",
+            "many": "muguets",
+            "one": "muguet"
+        },
+        "HEATHER": {
+            "zero": "bruyère",
+            "many": "bruyères",
+            "one": "bruyère"
+        },
+        "SNAPDRAGON": {
+            "zero": "muflier",
+            "many": "mufliers",
+            "one": "muflier"
+        },
+        "GORSE": {
+            "zero": "fleurs de gorse",
+            "many": "fleurs de gorse",
+            "one": "fleur de gorse"
+        },
+        "BULB WHITE": {
+            "zero": "bulbe de fleur blanche",
+            "many": "bulbes de fleurs blanches",
+            "one": "bulbe de fleur blanche"
+        },
+        "BULB YELLOW": {
+            "zero": "bulbe de fleur jaune",
+            "many": "bulbes de fleurs jaunes",
+            "one": "bulbe de fleur jaune"
+        },
+        "BULB ORANGE": {
+            "zero": "bulbe de fleur orange",
+            "many": "bulbes de fleurs oranges",
+            "one": "bulbe de fleur orange"
+        },
+        "BULB PINK": {
+            "zero": "bulbe de fleur rose",
+            "many": "bulbes de fleurs roses",
+            "one": "bulbe de fleur rose"
+        },
+        "BULB BLUE": {
+            "zero": "bulbe de fleur bleue",
+            "many": "bulbes de fleurs bleues",
+            "one": "bulbe de fleur bleue"
+        },
+        "RASPBERRY": {
+            "zero": "framboises",
+            "many": "framboises",
+            "one": "framboise"
+        },
+        "CATTAIL": {
+            "zero": "roseau",
+            "many": "roseaux",
+            "one": "roseau"
+        },
+        "GULL FEATHERS": {
+            "zero": "plumes de goéland",
+            "many": "plumes de goéland",
+            "one": "plume de goéland"
+        },
+        "SPARROW FEATHERS": {
+            "zero": "plumes de moineau",
+            "many": "plumes de moineau",
+            "one": "plume de moineau"
+        },
+        "ROSY MOTH WINGS": {
+            "zero": "ailes de la teigne rosée",
+            "many": "ailes de la teigne rosée",
+            "one": "aile de la teigne rosée"
+        },
+        "MORPHO BUTTERFLY": {
+            "zero": "ailes de morpho",
+            "many": "ailes de morpho",
+            "one": "aile de morpho"
+        },
+        "MONARCH BUTTERFLY": {
+            "zero": "ailes de papillon monarque",
+            "many": "ailes de papillon monarque",
+            "one": "aile de papillon monarque"
+        },
+        "BLACK CICADA": {
+            "zero": "ailes de cigale noire",
+            "many": "ailes de cigale noire",
+            "one": "aile de cigale noire"
+        },
+        "ROAD RUNNER FEATHER": {
+            "zero": "plume de coureur des routes",
+            "many": "plumes de coureur des routes",
+            "one": "plume de coureur des routes"
+        },
+        "BOW": {
+            "zero": "noeud",
+            "many": "noeuds",
+            "one": "noeud"
+        },
+        "BOW_FOIL": {
+            "zero": "nœud en papier d'aluminium",
+            "many": "nœuds en papier d'aluminium",
+            "one": "nœud en papier d'aluminium"
+        },
+        "BOW_GRADIENT": {
+            "zero": "nœud dégradé coloré",
+            "many": "nœuds dégradés colorés",
+            "one": "nœud dégradé coloré"
+        },
+        "LEATHER": {
+            "zero": "collier en cuir",
+            "many": "colliers en cuir",
+            "one": "collier en cuir"
+        },
+        "LEATHER_SPIKE": {
+            "zero": "collier en cuir clouté",
+            "many": "colliers en cuir cloutés",
+            "one": "collier en cuir clouté"
+        },
+        "LEATHER_GRADIENT": {
+            "zero": "collier en cuir dégradé coloré",
+            "many": "colliers en cuir dégradés colorés",
+            "one": "collier en cuir dégradé coloré"
+        },
+        "LEATHER_BELL": {
+            "zero": "collier en cuir à clochettes",
+            "many": "colliers en cuir à clochettes",
+            "one": "collier en cuir à clochettes"
+        },
+        "LEATHER_BELL_SPIKE": {
+            "zero": "collier en cuir clouté avec clochette",
+            "many": "colliers en cuir cloutés avec clochettes",
+            "one": "collier en cuir clouté avec clochette"
+        },
+        "LEATHER_BELL_GRADIENT": {
+            "zero": "collier en cuir à clochettes dégradé coloré",
+            "many": "colliers en cuir à clochettes dégradés colorés",
+            "one": "collier en cuir à clochettes dégradé coloré"
+        },
+        "NYLON": {
+            "zero": "collier en nylon",
+            "many": "colliers en nylon",
+            "one": "collier en nylon"
+        },
+        "NYLON_GRADIENT": {
+            "zero": "collier en nylon dégradé coloré",
+            "many": "colliers en nylon dégradés colorés",
+            "one": "collier en nylon dégradé coloré"
+        },
+        "NYLON_BELL": {
+            "zero": "collier en nylon à clochettes",
+            "many": "colliers en nylon à clochettes",
+            "one": "collier en nylon à clochettes"
+        },
+        "NYLON_BELL_GRADIENT": {
+            "zero": "collier en nylon à clochettes dégradé coloré",
+            "many": "colliers en nylon à clochettes dégradés colorés",
+            "one": "collier en nylon à clochettes dégradé coloré"
+        }
+    }
+}

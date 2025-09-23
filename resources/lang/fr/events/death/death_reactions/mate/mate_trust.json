@@ -1,0 +1,152 @@
+{
+    "general": {
+        "body": [
+            "Aucun chat ne sera jamais ce que m_c était pour r_c. {PRONOUN\/m_c\/subject\/CAP} représentait quelque chose pour {PRONOUN\/r_c\/object} que {PRONOUN\/r_c\/subject} ne pourra jamais exprimer avec des mots.",
+            "r_c veille sur le corps de m_c, incapable de parler du chat qui comptait tant pour {PRONOUN\/r_c\/object}. Aucun chat n'inspirait plus de confiance à r_c.",
+            "m_c était le pilier de r_c, traversant les courants tumultueux de la vie. r_c ne sait pas à qui ou à quoi {PRONOUN\/r_c\/subject} s'accrochera sans {PRONOUN\/r_c\/poss} compagnon.",
+            "r_c est submergé par le chagrin, debout devant le corps immobile de m_c. {PRONOUN\/r_c\/poss\/CAP} compagnon était la présence la plus stable dans la vie de {PRONOUN\/r_c\/poss}, et maintenant {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} parti.",
+            "Il y avait tant de choses que r_c ne pouvait confier qu'à m_c. Maintenant, sans {PRONOUN\/r_c\/poss} compagnon, r_c n'a aucune idée de ce que {PRONOUN\/r_c\/subject} va faire.",
+            "r_c reste plus longtemps que n'importe quel autre chat à la veillée de m_c, le museau enfoui dans la fourrure froide du chat sur lequel {PRONOUN\/r_c\/subject} comptait tant."
+        ],
+        "no_body": [
+            "Aucun chat ne sera jamais ce que m_c était pour r_c. {PRONOUN\/m_c\/subject\/CAP} représentait quelque chose pour {PRONOUN\/r_c\/object} que {PRONOUN\/r_c\/subject} ne pourra jamais exprimer avec des mots.",
+            "r_c veille sur le corps de m_c, incapable de parler du chat qui comptait tant pour {PRONOUN\/r_c\/object}. Aucun chat n'inspirait plus de confiance à r_c.",
+            "m_c était le pilier de r_c, traversant les courants tumultueux de la vie. r_c ne sait pas à qui ou à quoi {PRONOUN\/r_c\/subject} s'accrochera sans {PRONOUN\/r_c\/poss} compagnon.",
+            "r_c est submergé par le chagrin lors de la veillée de m_c. {PRONOUN\/r_c\/poss\/CAP} compagnon était la présence la plus stable dans la vie de {PRONOUN\/r_c\/poss}, et maintenant {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} parti.",
+            "Il y avait tant de choses que r_c ne pouvait confier qu'à m_c. Maintenant, sans {PRONOUN\/r_c\/poss} compagnon, r_c n'a aucune idée de ce que {PRONOUN\/r_c\/subject} va faire.",
+            "r_c ne supporte pas la veillée de m_c. En l'absence de corps, {PRONOUN\/r_c\/subject} {VERB\/r_c\/convince\/convinces} {PRONOUN\/r_c\/self} que m_c reviendra un jour auprès de {PRONOUN\/r_c\/object}, comme {PRONOUN\/m_c\/subject} l'a toujours promis."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

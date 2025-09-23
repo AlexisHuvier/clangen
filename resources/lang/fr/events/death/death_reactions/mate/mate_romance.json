@@ -1,0 +1,169 @@
+{
+    "general": {
+        "body": [
+            "r_c se penche sur le corps de {PRONOUN\/r_c\/poss} compagnon, hurlant {PRONOUN\/r_c\/poss} désespoir dans la fourrure de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/sit\/sits} veille près du corps, espérant se réveiller de ce cauchemar.",
+            "Alors que le Clan veille m_c, r_c refuse même de quitter {PRONOUN\/r_c\/poss} nid, refuse de manger, de boire ou de parler, comme si ignorer le monde pouvait ramener {PRONOUN\/m_c\/object}.",
+            "Sûrement, sûrement le monde ne peut pas continuer, sûrement le soleil ne se lèvera pas et les saisons ne tourneront plus, pas maintenant que m_c est mort. r_c ne sait pas comment continuer sans {PRONOUN\/m_c\/object}.",
+            "r_c est allongé près de m_c alors que le Clan veille {PRONOUN\/m_c\/object}. {PRONOUN\/r_c\/poss\/CAP} monde s'est terminé avec m_c.",
+            "Tant de souvenirs heureux, envolés en un instant. r_c enfouit {PRONOUN\/r_c\/poss} museau dans la fourrure froide de m_c, promettant à {PRONOUN\/r_c\/self} de ne jamais oublier la chaleur de l'odeur de m_c.",
+            "r_c n'arrive pas à croire que le corps raide devant {PRONOUN\/r_c\/object} était autrefois {PRONOUN\/r_c\/poss} compagnon, m_c. À tout moment, {PRONOUN\/r_c\/subject} {VERB\/r_c\/expect\/expects} que m_c ouvre les yeux et rit ; mais cela n'arrive jamais. Le monde semble tellement plus sombre maintenant."
+        ],
+        "no_body": [
+            "Sûrement, sûrement le monde ne peut pas continuer, sûrement le soleil ne se lèvera pas et les saisons ne tourneront plus, pas maintenant que m_c est parti. r_c ne sait pas comment continuer sans {PRONOUN\/m_c\/object}. r_c ne voulait pas croire que {PRONOUN\/r_c\/poss} compagnon est vraiment mort.",
+            "Alors que le Clan veille m_c, r_c refuse même de quitter {PRONOUN\/r_c\/poss} nid, refuse de manger, de boire ou de parler, comme si ignorer le monde pouvait ramener {PRONOUN\/m_c\/object}.",
+            "Même si {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} que c'est irréaliste, au fond, r_c prie le Clan des Étoiles pour que m_c ne soit pas vraiment parti. Comment {PRONOUN\/r_c\/subject} pourrait vivre si {PRONOUN\/r_c\/poss} compagnon était mort ?",
+            "r_c se sent perdu sans le corps de m_c pour veiller. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/stare\/stares} Silverpelt toute la nuit, cherchant à voir si une nouvelle étoile brille dans le ciel et refusant de bouger jusqu'à l'aube.",
+            "Le nid de r_c paraît si grand et vide sans le corps de m_c à côté de {PRONOUN\/r_c\/inposs}. {PRONOUN\/r_c\/subject\/CAP} dort à peine, entouré par l'odeur de m_c et l'air froid de la nuit."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [
+            "r_c made not a single noise, but refused to leave m_c's body the entire vigil. With one last lick over the fur, r_c walks away, leaving camp for the day. Nobody bothers r_c as {PRONOUN\/r_c\/subject} {VERB\/r_c\/grieve\/grieves} for {PRONOUN\/r_c\/poss} mate."
+        ],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [
+            "Nobody in the Clan could doubt r_c's love for m_c when {PRONOUN\/r_c\/poss} wails echo throughout the camp as {PRONOUN\/r_c\/subject} {VERB\/r_c\/collapse\/collapses} next to {PRONOUN\/r_c\/poss} former love.",
+            "r_c doesn't show {PRONOUN\/r_c\/poss} emotions often, but when m_c's body is returned to camp, {PRONOUN\/r_c\/subject} can't suppress a shriek of grief. The cats around {PRONOUN\/r_c\/object} give {PRONOUN\/r_c\/object} space as {PRONOUN\/r_c\/subject} {VERB\/r_c\/collapse\/collapses} next to {PRONOUN\/r_c\/poss} former love."
+        ],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [
+            "Although r_c's grief at the loss of {PRONOUN\/r_c\/poss} mate is overwhelming, {PRONOUN\/r_c\/subject} {VERB\/r_c\/make\/makes} sure to tend to {PRONOUN\/r_c\/poss} Clanmates before indulging in {PRONOUN\/r_c\/poss} own mourning. Seeing m_c's body, it's all {PRONOUN\/r_c\/subject} can do not to collapse, but caring for the cats around {PRONOUN\/r_c\/object} has always brought {PRONOUN\/r_c\/object} comfort in times of need."
+        ],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": [
+            "m_c had always promised to stay by r_c's side when they became mates. But with no body, it was hard to keep out the doubts. Maybe m_c didn't really die. Maybe {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} just finally fed up with r_c and decided to leave. r_c stays in {PRONOUN\/r_c\/poss} nest, numb and terrified."
+        ]
+    },
+    "lonesome": {
+        "body": [
+            "r_c doesn't want to trouble {PRONOUN\/r_c\/poss} Clanmates with {PRONOUN\/r_c\/poss} grief. Everyone is hurting after m_c's death. r_c waits until {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} alone, then sits a silent vigil under Silverpelt, holding back {PRONOUN\/r_c\/poss} wails.",
+            "r_c had thought that {PRONOUN\/r_c\/subject} would never feel alone again after m_c entered {PRONOUN\/r_c\/poss} life. Now, staring at m_c's lifeless body, r_c doesn't know what {PRONOUN\/r_c\/subject}'ll do, how {PRONOUN\/r_c\/subject}'ll ever go on from here.",
+            "r_c's Clanmates make sure to spend extra time with {PRONOUN\/r_c\/object} in the days following m_c's death, sharing their fresh-kill and tongues. One night, r_c even finds extra moss lining {PRONOUN\/r_c\/poss} bed. Maybe {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} not as alone as {PRONOUN\/r_c\/subject} always thought {PRONOUN\/r_c\/subject} {VERB\/r_c\/were\/was}."
+        ],
+        "no_body": [
+            "If only r_c had proof that m_c was really dead... with no body, the void left by m_c's absence is so much harder to bear. r_c sits motionless in {PRONOUN\/r_c\/poss} nest, staring at the camp entrance and waiting, hoping, for a familiar face to appear."
+        ]
+    },
+    "loving": {
+        "body": [
+            "When m_c's body is returned to camp, r_c can't help but break down in caterwauls. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/press\/presses} {PRONOUN\/r_c\/poss} muzzle into m_c's icy pelt, shivering with grief.",
+            "Despite feeling like {PRONOUN\/r_c\/poss} heart has been torn in two, r_c gently places m_c's favorite nest decorations next to {PRONOUN\/m_c\/poss} still body, so that it looks like {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} not dead, but simply in a deep and peaceful sleep."
+        ],
+        "no_body": [
+            "Even with no body, r_c is determined to never fall in love with another cat again. m_c was {PRONOUN\/r_c\/poss} one true love, and maybe, just maybe, {PRONOUN\/m_c\/subject} will return someday."
+        ]
+    },
+    "loyal": {
+        "body": [
+            "Even with the body before them, r_c can't accept that m_c is gone. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/vow\/vows} to never fall in love with anyone else until {PRONOUN\/r_c\/subject} can reunite with m_c in StarClan."
+        ],
+        "no_body": [
+            "Even with no body, r_c is determined to never fall in love with another cat again. Maybe, just maybe, m_c will return someday."
+        ]
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [
+            "r_c doesn't want to trouble {PRONOUN\/r_c\/poss} Clanmates with {PRONOUN\/r_c\/poss} grief. Everyone is hurting after m_c's death. r_c waits until {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} alone, then sits a silent vigil under Silverpelt, holding back {PRONOUN\/r_c\/poss} wails."
+        ],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [
+            "r_c wants to tear the world apart. Looking down at m_c's lifeless body, r_c digs {PRONOUN\/r_c\/poss} claws into the ground and grits {PRONOUN\/r_c\/poss} teeth, vowing to {PRONOUN\/r_c\/self} to avenge {PRONOUN\/r_c\/poss} lost love in any way possible."
+        ],
+        "no_body": [
+            "The world is so much colder now without m_c in it. r_c stares up at the sky, yowling {PRONOUN\/r_c\/poss} fury at StarClan for taking away {PRONOUN\/r_c\/poss} love. No matter what, and wherever {PRONOUN\/r_c\/subject} {VERB\/r_c\/go\/goes}, {PRONOUN\/r_c\/subject} will never stop searching for m_c."
+        ]
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

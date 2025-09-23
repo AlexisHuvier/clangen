@@ -1,0 +1,10 @@
+{
+    "fr": {
+        "content_warning": "Avertissement : Ce jeu contient des représentations modérées de gore, de violence typique de l'univers et de maltraitance animale.",
+        "tooltip_twitter": "Découvrez notre Twitter !",
+        "tooltip_tumblr": "Découvrez notre Tumblr !",
+        "tooltip_discord": "Rejoignez notre Discord !",
+        "error_text": "Une erreur est survenue lors du chargement du jeu : %{error}%{traceback}",
+        "error_gethelp": "Veuillez rejoindre le serveur Discord et demander de l'aide technique. Nous serons heureux de vous aider ! Merci d'inclure le message d'erreur et la trace ci-dessous (si disponible).<br><a href=\"https:\/\/discord.gg\/clangen\">Discord<\/a>"
+    }
+}

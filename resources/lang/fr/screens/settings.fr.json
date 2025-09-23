@@ -1,0 +1,16 @@
+{
+    "fr": {
+        "general": "paramètres généraux",
+        "general_info": "Modifiez ici les paramètres généraux de votre jeu.\nPlus de paramètres sont disponibles dans la page des paramètres de votre Clan.",
+        "audio": "paramètres audio",
+        "audio_info": "Modifiez ici les paramètres audio du jeu.",
+        "music_volume": "Volume de la musique :",
+        "sfx_volume": "Volume des effets sonores :",
+        "info": "infos",
+        "language": "langue",
+        "language_info": "Changez la langue du jeu ici. Ceci est actuellement en cours de développement.",
+        "lang_english": "anglais",
+        "lang_spanish": "espagnol",
+        "lang_german": "allemand"
+    }
+}

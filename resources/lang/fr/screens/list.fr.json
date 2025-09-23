@@ -1,0 +1,18 @@
+{
+    "fr": {
+        "favorite_hide_tooltip": "masquer les indicateurs de chats favoris",
+        "favorite_show_tooltip": "afficher les indicateurs de chats favoris",
+        "view_dead": "voir les morts",
+        "view_dead_tooltip": "voir les chats dans l'au-delà",
+        "view_living": "voir les vivants",
+        "view_living_tooltip": "voir les chats dans le monde des vivants",
+        "choose_group": "choisir le groupe à afficher :",
+        "filter_label": "trier par :",
+        "filter_age": "âge \u2191",
+        "filter_reverse_age": "âge \u2193",
+        "filter_death": "mort",
+        "filter_exp": "EXP",
+        "filter_id": "ID",
+        "filter_rank": "rang"
+    }
+}

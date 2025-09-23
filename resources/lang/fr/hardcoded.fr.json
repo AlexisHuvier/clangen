@@ -1,0 +1,117 @@
+{
+    "fr": {
+        "comment": "À terme, ce fichier devrait devenir vide et inutile.",
+        "event_deaths": {
+            "one": "Ce dernier mois, m_c a rejoint {PRONOUN\/m_c\/poss} place au Clan des Étoiles. c_n pleure sa perte, et ses camarades de Clan regretteront la place que {PRONOUN\/m_c\/subject} occupait dans leur vie. Des moments de {PRONOUN\/m_c\/poss} vie sont partagés autour du cercle des endeuillés, tandis que ceux qui étaient les plus proches de {PRONOUN\/m_c\/object} l'accompagnent à sa dernière demeure.",
+            "many": "Le mois dernier, %{insert} ont rejoint leur place au Clan des Étoiles. c_n pleure leur perte, et leurs camarades de Clan regretteront la place qu'ils occupaient dans leur vie. Des moments de leur vie sont partagés autour du cercle des endeuillés, tandis que ceux qui étaient les plus proches les accompagnent à leur dernière demeure."
+        },
+        "event_shaken_grief": {
+            "one": "Tant de chagrin et de décès ont marqué les chats de c_n. %{insert} est particulièrement bouleversé.",
+            "many": "Tant de chagrin et de décès ont marqué les chats de c_n. %{insert} sont particulièrement bouleversés."
+        },
+        "relations_improved": " (Relations avec o_c_n améliorées.)",
+        "relations_neutral": " (Relations avec o_c_n inchangées.)",
+        "relations_worsened": " (Relations avec o_c_n détériorées.)",
+        "lead_den_killed": "m_c a été tué par c_n.",
+        "condition_retire_adolescent": "%{name} décide que {PRONOUN\/m_c\/subject} préfère passer {PRONOUN\/m_c\/poss} temps à aider au camp et à divertir les chatons ; {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} est chaleureusement accueilli dans la tanière des anciens.",
+        "condition_retire_adolescent_ceremony": " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} reçoit le nom %{newname} en l'honneur de {PRONOUN\/m_c\/poss} contributions au Clan %{clan}.",
+        "condition_retire_no_leader": "m_c a décidé de prendre sa retraite des fonctions habituelles du Clan.",
+        "condition_retire_normal": "Voyant m_c en difficulté ces derniers mois, lead_name s'approche de {PRONOUN\/m_c\/object} et promet que personne ne le jugera pour une retraite anticipée, et que {PRONOUN\/m_c\/subject} restera un membre précieux du Clan en tant qu'ancien. m_c accepte ; plus tard dans la journée, {PRONOUN\/m_c\/poss} cérémonie d'ancien a lieu.",
+        "ceremony_leader_bloodthirsty": "%{oldname} est devenu le nouveau chef. {PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/stare\/stares} ses camarades de Clan avec les griffes sorties, promettant une nouvelle ère pour les Clans.",
+        "ceremony_leader_1": "%{oldname} a été promu nouveau chef du Clan. {PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/travel\/travels} immédiatement à la Pierre de Lune pour recevoir {PRONOUN\/lead_name\/poss} neuf vies et {VERB\/lead_name\/are\/is} acclamé par son nouveau nom, lead_name.",
+        "ceremony_leader_2": "%{oldname} est devenu le nouveau chef du Clan. {PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/vow\/vows} de protéger le Clan, même au prix de {PRONOUN\/lead_name\/poss} neuf vies.",
+        "ceremony_leader_3": "%{oldname} a reçu {PRONOUN\/m_c\/poss} neuf vies et est devenu le nouveau chef du Clan. {PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/feel\/feels} que {PRONOUN\/lead_name\/subject} {VERB\/m_c\/are\/is} pas prêt pour cette nouvelle responsabilité, mais fera de son mieux pour le Clan.",
+        "ceremony_closer": "Visitez le profil de lead_name pour voir {PRONOUN\/lead_name\/poss} cérémonie complète de chef.",
+        "ceremony_deputy_bloodthirsty": "m_c a été choisi comme nouveau lieutenant. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/look\/looks} le chef du Clan avec une lueur étrange dans les yeux.",
+        "ceremony_deputy": "lead_name choisit m_c pour devenir le nouveau lieutenant. %{previous}",
+        "ceremony_deputy_prev0": "{PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/know\/knows} que dep_name aurait approuvé.",
+        "ceremony_deputy_prev1": "{PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/hope\/hopes} que dep_name aurait approuvé.",
+        "ceremony_deputy_prev2": "{PRONOUN\/lead_name\/subject\/CAP} {VERB\/lead_name\/don't\/doesn't} sait pas si dep_name aurait approuvé, mais la vie continue.",
+        "ceremony_deputy_nolead_nodep": "Sans chef ni lieutenant, le Clan était sans direction. Tous se tournent vers m_c avec espoir pour l'avenir.",
+        "ceremony_deputy_nolead_retireddep": "Le Clan est sans chef, mais un nouveau lieutenant doit être nommé. m_c est choisi comme nouveau lieutenant. L'ancien lieutenant hoche la tête en signe d'approbation.",
+        "ceremony_deputy_lead_retireddep0": "m_c a été choisi comme nouveau lieutenant. Le Clan acclame son nom.",
+        "ceremony_deputy_lead_retireddep1": "m_c a été choisi comme nouveau lieutenant. Certains membres plus âgés du Clan doutent de ce choix.",
+        "ceremony_deputy_lead_retireddep2": "m_c a été choisi comme nouveau lieutenant. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/hold\/holds} la tête haute et {VERB\/m_c\/promise\/promises} de faire de son mieux pour le Clan.",
+        "ceremony_deputy_lead_retireddep3": "lead_name a réfléchi toute la journée à qui {PRONOUN\/lead_name\/subject} pourrait faire confiance et respecter pour se tenir à ses côtés. À midi, {PRONOUN\/lead_name\/subject} {VERB\/lead_name\/make\/makes} l'annonce que m_c sera le nouveau lieutenant du Clan.",
+        "ceremony_deputy_lead_retireddep4": "m_c a été choisi comme nouveau lieutenant. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/pray\/prays} le Clan des Étoiles pour être le bon choix pour le Clan.",
+        "ceremony_deputy_lead_retireddep5": "m_c a été choisi comme nouveau lieutenant. Bien que {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} nerveux, {PRONOUN\/m_c\/subject} {VERB\/m_c\/put\/puts} un visage courageux et {VERB\/m_c\/look\/looks} vers l'avenir au service du Clan.",
+        "ceremony_deputy_unsuitable": "Aucun chat n'est vraiment apte à être lieutenant, mais le poste ne peut rester vacant. m_c est nommé nouveau lieutenant.",
+        "ceremony_deputy_none": "Il n'y a aucun chat apte à devenir lieutenant.",
+        "adoption_kittens_single": {
+            "one": "%{names} a trouvé un %{insert} et décide de l'adopter.",
+            "many": "%{names} a trouvé un %{insert} et décide de les adopter."
+        },
+        "adoption_kittens_pair": {
+            "one": "%{names} a trouvé un %{insert} et décide de l'adopter.",
+            "many": "%{names} a trouvé un %{insert} et décide de les adopter."
+        },
+        "new_kit_thought": "Se blottit contre le ventre de r_c",
+        "event_mediator_app": "m_c a choisi d'utiliser ses compétences et son expérience pour aider à résoudre les désaccords du Clan. Une réunion est organisée et {PRONOUN\/m_c\/subject} {VERB\/m_c\/become\/becomes} le nouveau médiateur du Clan.",
+        "herbs_found": {
+            "zero": "med_name n'a trouvé aucune herbe ce mois-ci.",
+            "many": "med_name a récolté %{insert} ce mois-ci."
+        },
+        "prey_catch_count": {
+            "one": "Le Clan a réussi à attraper %{count} proie ce mois-ci.",
+            "many": "Le Clan a réussi à attraper %{count} proies ce mois-ci."
+        },
+        "focus_prey": {
+            "zero": "Malgré les efforts du Clan, aucune proie supplémentaire n'a pu être récoltée.",
+            "one": "Grâce à la concentration du Clan, %{count} proie supplémentaire a été récoltée.",
+            "many": "Grâce à la concentration du Clan, %{count} proies supplémentaires ont été récoltées."
+        },
+        "focus_herbs": {
+            "zero": "Malgré les efforts du Clan, aucune herbe supplémentaire n'a pu être récoltée.",
+            "one": "Grâce à la concentration du Clan, %{herbs} a été récoltée.",
+            "many": "Grâce à la concentration du Clan, %{herbs} ont été récoltées."
+        },
+        "focus_raid_prey": {
+            "one": "Grâce à la concentration du Clan, %{amount} proie a été... acquise.",
+            "many": "Grâce à la concentration du Clan, %{amount} proies ont été... acquises."
+        },
+        "focus_injury_hoarding": {
+            "zero": "Heureusement, personne dans le Clan n'a eu %{condition} à cause de la thésaurisation.",
+            "one": "Un chat a eu %{condition} en accumulant des herbes et des proies.",
+            "many": "Plusieurs chats ont eu %{condition} en accumulant des herbes et des proies."
+        },
+        "focus_injury_raiding": {
+            "zero": "Heureusement, personne dans le Clan n'a eu %{condition} pendant les raids.",
+            "one": "Un chat a eu %{condition} en raidant d'autres Clans pour plus de proies.",
+            "many": "Plusieurs chats ont eu %{condition} en raidant d'autres Clans pour plus de proies."
+        },
+        "event_lost1": "Après un long voyage, m_c est enfin rentré chez lui dans c_n.",
+        "event_lost2": "m_c a été retrouvé à la frontière, fatigué mais heureux d'être rentré.",
+        "event_lost3": "m_c entre dans le camp, à la surprise générale. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} est de retour !",
+        "event_lost4": "{PRONOUN\/m_c\/subject\/CAP} a rencontré tant d'amis lors de son voyage, mais c_n est là où m_c appartient vraiment. Après des adieux émouvants, {PRONOUN\/m_c\/subject} {VERB\/m_c\/return\/returns} chez lui.",
+        "event_lost_kits": {
+            "one": " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/bring\/brings} son chaton avec lui.",
+            "many": " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/bring\/brings} ses chatons avec lui."
+        },
+        "kittencough_spread": {
+            "one": "La toux du chaton s'est propagée dans la pouponnière. %{kits} est touché.",
+            "many": "La toux du chaton s'est propagée dans la pouponnière. %{kits} sont touchés."
+        },
+        "flea_spread": {
+            "one": "Les puces sautent de pelage en pelage et maintenant %{cats} est infesté.",
+            "two": "Les puces sautent de pelage en pelage et maintenant %{cats} sont tous les deux infestés.",
+            "many": "Les puces sautent de pelage en pelage et maintenant %{cats} sont tous infestés."
+        },
+        "illness_spread": "%{illness} s'est propagée dans le camp. %{cats} ont été infectés.",
+        "thought_new_cat": "Regarde le camp avec curiosité",
+        "thought_new_kitten": "Est blotti en sécurité dans la pouponnière",
+        "thought_meeting": "Se demande qui sont ces nouveaux chats",
+        "thought_new_dead": "Explore un nouveau monde étoilé",
+        "scar_event0": "La %{injury} de m_c a guéri, mais {PRONOUN\/m_c\/subject} gardera toujours une trace sur son pelage.",
+        "scar_event1": "m_c a guéri de {PRONOUN\/m_c\/poss} %{injury} mais restera marqué par une cicatrice.",
+        "scar_event2": "La %{injury} de m_c a guéri, mais la blessure l'a laissé marqué.",
+        "move_on_dead_mate": "m_c aimera toujours r_c, mais a décidé d'aller de l'avant.",
+        "expired_prey": {
+            "one": "Un morceau de gibier frais a expiré et a été retiré de la pile.",
+            "many": "%{count} morceaux de proie ont expiré et ont été retirés de la pile."
+        },
+        "consumed_prey": {
+            "one": "Un morceau de proie a été consommé.",
+            "many": "%{count} morceaux de proie ont été consommés."
+        }
+    }
+}

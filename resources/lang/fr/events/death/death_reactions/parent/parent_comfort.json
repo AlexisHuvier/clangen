@@ -1,0 +1,152 @@
+{
+    "general": {
+        "body": [
+            "r_c veille toute la nuit auprès de m_c, cherchant désespérément le réconfort que {PRONOUN\/r_c\/subject} ressentait avec {PRONOUN\/r_c\/poss} chaton à ses côtés.",
+            "r_c sent son monde vaciller sous ses pattes à la perte de m_c. Toute la chaleur, la sécurité et l'amour que {PRONOUN\/r_c\/poss} chaton apportait à sa vie disparaissent en un instant.",
+            "Le monde semblait plus lumineux et chaleureux pour r_c avec {PRONOUN\/r_c\/poss} chaton à ses côtés, et {PRONOUN\/r_c\/subject} n'aurait jamais imaginé que m_c partirait en premier.",
+            "r_c ne trouve pas les mots pour décrire tout le réconfort et la joie que m_c a apportés à sa vie depuis le premier instant où {PRONOUN\/r_c\/subject} a posé les yeux sur {PRONOUN\/m_c\/object}.",
+            "La veillée est insupportable pour r_c du début à la fin. Sans {PRONOUN\/r_c\/poss} chaton, m_c, le monde est sombre.",
+            "r_c chérissait les silences paisibles et complices avec m_c que seuls les proches peuvent partager. Maintenant, le silence de la mort remplit l'air entre r_c et {PRONOUN\/r_c\/poss} chaton."
+        ],
+        "no_body": [
+            "r_c veille toute la nuit auprès de m_c, cherchant désespérément le réconfort que {PRONOUN\/r_c\/subject} ressentait avec {PRONOUN\/r_c\/poss} chaton à ses côtés.",
+            "r_c sent son monde vaciller sous ses pattes à la perte de m_c. Toute la chaleur, la sécurité et l'amour que {PRONOUN\/r_c\/poss} chaton apportait à sa vie disparaissent en un instant.",
+            "Le monde semblait plus lumineux et chaleureux pour r_c avec {PRONOUN\/r_c\/poss} chaton à ses côtés, et {PRONOUN\/r_c\/subject} n'aurait jamais imaginé que m_c partirait en premier.",
+            "r_c ne trouve pas les mots pour décrire tout le réconfort et la joie que m_c a apportés à sa vie depuis le premier instant où {PRONOUN\/r_c\/subject} a posé les yeux sur {PRONOUN\/m_c\/object}.",
+            "La veillée est insupportable pour r_c du début à la fin. Sans {PRONOUN\/r_c\/poss} chaton, m_c, le monde est sombre.",
+            "r_c chérissait les silences paisibles et complices avec m_c que seuls les proches peuvent partager. Maintenant, le silence de la mort remplit l'air entre r_c et {PRONOUN\/r_c\/poss} chaton."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

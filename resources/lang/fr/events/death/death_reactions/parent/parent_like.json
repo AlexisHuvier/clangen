@@ -1,0 +1,151 @@
+{
+    "general": {
+        "body": [
+            "r_c enfouit son museau dans la fourrure de {PRONOUN\/r_c\/poss} enfant décédé, {PRONOUN\/r_c\/poss} chaton, {PRONOUN\/r_c\/poss} m_c, et a l'impression que le monde s'est effondré.",
+            "Aucun parent ne veut survivre à son enfant, et r_c pousse des cris de douleur près du corps de m_c.",
+            "r_c s'allonge à côté du corps de m_c, insensible au monde qui l'entoure.",
+            "r_c a l'impression que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} vit un cauchemar. m_c, {PRONOUN\/r_c\/poss} chaton, ne peut pas vraiment être mort.",
+            "Quand r_c apprend la mort de m_c, {PRONOUN\/r_c\/subject} {VERB\/r_c\/collapse\/collapses} et {VERB\/r_c\/wail\/wails} comme si {PRONOUN\/r_c\/poss} propre vie s'arrêtait.",
+            "m_c avait un avenir si prometteur devant {PRONOUN\/m_c\/object}. r_c entend encore {PRONOUN\/m_c\/object} parler de {PRONOUN\/m_c\/poss} rêves, imagine encore {PRONOUN\/m_c\/object} courir dans le territoire de c_n, et savoir que m_c n'aura jamais la chance de réaliser cela...",
+            "r_c retient ses cris et ses larmes, essayant de finir l'histoire que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} racontait sur les jours de m_c à la pouponnière. {PRONOUN\/r_c\/subject\/CAP} peut le faire, {PRONOUN\/r_c\/subject} peut s'assurer que m_c soit honoré lors de {PRONOUN\/m_c\/poss} veillée, même si r_c ne peut rien faire d'autre pour {PRONOUN\/m_c\/object}."
+        ],
+        "no_body": [
+            "r_c a l'impression que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} vit un cauchemar. m_c, {PRONOUN\/r_c\/poss} chaton, ne peut pas vraiment être mort.",
+            "Quand r_c apprend la mort de m_c, {PRONOUN\/r_c\/subject} {VERB\/r_c\/collapse\/collapses} et {VERB\/r_c\/wail\/wails} comme si {PRONOUN\/r_c\/poss} propre vie s'arrêtait.",
+            "m_c avait un avenir si prometteur devant {PRONOUN\/m_c\/object}. r_c entend encore {PRONOUN\/m_c\/object} parler de {PRONOUN\/m_c\/poss} rêves, imagine encore {PRONOUN\/m_c\/object} courir dans le territoire de c_n, et savoir que m_c n'aura jamais la chance de réaliser cela...",
+            "r_c retient ses cris et ses larmes, essayant de finir l'histoire que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} racontait sur les jours de m_c à la pouponnière. {PRONOUN\/r_c\/subject\/CAP} peut le faire, {PRONOUN\/r_c\/subject} peut s'assurer que m_c soit honoré lors de {PRONOUN\/m_c\/poss} veillée, même si r_c ne peut rien faire d'autre pour {PRONOUN\/m_c\/object}."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

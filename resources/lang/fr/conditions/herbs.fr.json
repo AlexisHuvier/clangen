@@ -1,0 +1,108 @@
+{
+    "fr": {
+        "herb_used": "m_c a reçu %{herb} comme traitement pour %{condition}. %{effect}",
+        "mortality_down": "{PRONOUN\/m_c\/subject\/CAP} aura moins de risques de mourir.",
+        "duration_down": "{PRONOUN\/m_c\/subject\/CAP} guérira plus vite.",
+        "risks_down": "Les risques associés à la condition de {PRONOUN\/m_c\/poss} sont réduits.",
+        "elder_leaves": {
+            "one": "paquet de feuilles de sureau",
+            "many": "paquets de feuilles de sureau"
+        },
+        "cobwebs": {
+            "one": "toile d'araignée",
+            "many": "toiles d'araignée"
+        },
+        "daisy": {
+            "one": "pâquerette",
+            "many": "pâquerettes"
+        },
+        "horsetail": {
+            "one": "touffe de prêle",
+            "many": "touffes de prêle"
+        },
+        "juniper": {
+            "one": "bouquet de genévrier",
+            "many": "bouquets de genévrier"
+        },
+        "lungwort": {
+            "one": "pulmonaire",
+            "many": "pulmonaires"
+        },
+        "mallow": {
+            "one": "mauve",
+            "many": "mauves"
+        },
+        "marigold": {
+            "one": "souci",
+            "many": "soucis"
+        },
+        "moss": {
+            "one": "touffe de mousse",
+            "many": "touffes de mousse"
+        },
+        "oak_leaves": {
+            "one": "paquet de feuilles de chêne",
+            "many": "paquets de feuilles de chêne"
+        },
+        "ragwort": {
+            "one": "séneçon",
+            "many": "séneçons"
+        },
+        "raspberry": {
+            "one": "grappe de framboises",
+            "many": "grappes de framboises"
+        },
+        "tansy": {
+            "one": "tanaisie",
+            "many": "tanaisies"
+        },
+        "thyme": {
+            "one": "bouquet de thym",
+            "many": "bouquets de thym"
+        },
+        "wild_garlic": {
+            "one": "ail sauvage",
+            "many": "ails sauvages"
+        },
+        "dandelion": {
+            "one": "pissenlit",
+            "many": "pissenlits"
+        },
+        "mullein": {
+            "one": "bouillon-blanc",
+            "many": "bouillons-blancs"
+        },
+        "rosemary": {
+            "one": "touffe de romarin",
+            "many": "touffes de romarin"
+        },
+        "burdock": {
+            "one": "racine de bardane",
+            "many": "racines de bardane"
+        },
+        "blackberry": {
+            "one": "grappe de mûres",
+            "many": "grappes de mûres"
+        },
+        "betony": {
+            "one": "bétony",
+            "many": "bétonys"
+        },
+        "goldenrod": {
+            "one": "verge d'or",
+            "many": "verges d'or"
+        },
+        "poppy": {
+            "one": "dose de graine de pavot",
+            "many": "doses de graines de pavot"
+        },
+        "plantain": {
+            "one": "bouquet de plantain",
+            "many": "bouquets de plantain"
+        },
+        "catmint": {
+            "one": "pile de menthe à chat",
+            "many": "piles de menthe à chat"
+        }
+    }
+}

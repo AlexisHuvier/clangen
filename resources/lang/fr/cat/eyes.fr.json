@@ -1,0 +1,26 @@
+{
+    "fr": {
+        "YELLOW": "jaune",
+        "AMBER": "ambre",
+        "HAZEL": "noisette",
+        "PALEGREEN": "vert pâle",
+        "GREEN": "vert",
+        "BLUE": "bleu",
+        "DARKBLUE": "bleu foncé",
+        "GREY": "gris",
+        "CYAN": "cyan",
+        "EMERALD": "vert émeraude",
+        "PALEBLUE": "bleu pâle",
+        "PALEYELLOW": "jaune pâle",
+        "GOLD": "doré",
+        "HEATHERBLUE": "bleu bruyère",
+        "COPPER": "cuivré",
+        "SAGE": "sauge",
+        "COBALT": "bleu cobalt",
+        "SUNLITICE": "glace ensoleillée",
+        "GREENYELLOW": "vert-jaune",
+        "BRONZE": "bronze",
+        "SILVER": "argenté",
+        "ORANGE": "orange"
+    }
+}

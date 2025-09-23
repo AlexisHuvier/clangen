@@ -1,0 +1,19 @@
+{
+    "fr": {
+        "heading": "Avancez dans la vie de votre Clan.",
+        "season": "Saison actuelle : %{season}",
+        "age": {
+            "one": "Âge du Clan : %{count} lune",
+            "many": "Âge du Clan : %{count} lunes"
+        },
+        "timeskip_button": "Avancer d'une lune",
+        "all events": "tous les événements",
+        "ceremonies": "cérémonies",
+        "births & deaths": "naissances & décès",
+        "relationships": "relations",
+        "health": "santé",
+        "other clans": "autres clans",
+        "miscellaneous": "divers",
+        "no_events": "Rien d'intéressant ne s'est passé cette lune."
+    }
+}

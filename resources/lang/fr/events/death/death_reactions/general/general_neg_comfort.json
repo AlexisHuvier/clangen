@@ -1,0 +1,12 @@
+{
+    "general": {
+        "body": [
+            "r_c ne peut s'empêcher de se sentir reconnaissant que m_c soit parti.",
+            "r_c n'est pas <i>heureux<\/i> que m_c soit mort, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/do\/does} ressent tout de même un certain soulagement à cette nouvelle."
+        ],
+        "no_body": [
+            "r_c ne peut s'empêcher de se sentir reconnaissant que m_c soit parti.",
+            "r_c n'est pas <i>heureux<\/i> que m_c soit mort, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/do\/does} ressent tout de même un certain soulagement à cette nouvelle."
+        ]
+    }
+}

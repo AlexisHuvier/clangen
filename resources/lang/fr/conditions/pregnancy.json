@@ -1,0 +1,157 @@
+{
+    "announcement": [
+        "m_c a annoncé que {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} en attente de petits."
+    ],
+    "litter_guess": [
+        "m_c espère que la portée sera petite - {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} dépassé(e) à l'idée d'une grande portée.",
+        "m_c espère avoir une grande portée !",
+        "m_c ne sait pas combien de petits {PRONOUN\/m_c\/subject} aura.",
+        "m_c se demande combien de {PRONOUN\/m_c\/poss} ventre qui grossit est dû aux petits et combien au poids de la grossesse.",
+        "m_c ne sait pas quelle taille donner au nid dans la pouponnière que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} prépare - mais il faut les matériaux les plus doux, la meilleure mousse.",
+        "m_c se sent lourd(e) et gonflé(e), les articulations douloureuses à cause du poids supplémentaire de la portée bien au chaud à l'intérieur. Très au chaud. Inconfortablement au chaud.",
+        "m_c se demande combien de noms {PRONOUN\/m_c\/subject} doit envisager pour {PRONOUN\/m_c\/poss} petits. {PRONOUN\/m_c\/subject\/CAP} n'a aucune idée du nombre dont {PRONOUN\/m_c\/subject} aura besoin... et si jamais {PRONOUN\/m_c\/subject} {VERB\/m_c\/meet\/meets} {PRONOUN\/m_c\/poss} portée pour la première fois et qu'un nom ne convient pas ?!",
+        "m_c a l'impression que toute son existence n'est qu'un long trajet entre l'eau et la litière, encore et encore. Cette grossesse est bien plus difficile que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} ne s'y attendait.",
+        "m_c se roule en boule, ronronnant contre {PRONOUN\/m_c\/poss} ventre, espérant que le nombre inconnu de chatons à l'intérieur peut entendre l'amour de {PRONOUN\/m_c\/poss} pour eux. {PRONOUN\/m_c\/subject\/CAP} a hâte de les rencontrer.",
+        "{PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} fièr(e) de porter la prochaine génération - c'est tout ce dont m_c parle.",
+        "Toutes les vieilles histoires sur les reines prêtes à se battre jusqu'à la mort pour protéger leurs bébés prennent soudainement sens pour m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/feel\/feels} prêt(e) à combattre le soleil lui-même, porté(e) par l'amour que {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} pour {PRONOUN\/m_c\/poss} portée à venir.",
+        "m_c a l'impression que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} mange assez à chaque repas pour nourrir tout le Clan - {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} prédit une grande portée. Ou peut-être un seul chaton bien dodu.",
+        "m_c a commencé à accumuler des petits objets, cachant des bouts de duvet, de plumes et des cailloux lisses dans {PRONOUN\/m_c\/poss} nid de mise bas pour le remplir de jouets pour chatons.",
+        "m_c invite {PRONOUN\/m_c\/poss} amis à sentir {PRONOUN\/m_c\/poss} portée donner des coups - ces chatons seront sûrement de talentueux guerriers, car, eh bien - <i>aïe<\/i>.",
+        "m_c pense que {PRONOUN\/m_c\/subject} aura une petite portée.",
+        "m_c espère que {PRONOUN\/m_c\/subject} aura une petite portée. Impossible pour {PRONOUN\/m_c\/subject} de gérer trop de petits.",
+        "m_c pense que {PRONOUN\/m_c\/subject} aura une grande portée.",
+        "m_c espère que {PRONOUN\/m_c\/subject} aura une grande portée. m_c a toujours voulu une grande famille.",
+        "m_c ne sait pas combien de petits {PRONOUN\/m_c\/subject} aura, ni {VERB\/m_c\/do\/does} {PRONOUN\/m_c\/subject} s'en soucie. Tant qu'ils sont heureux et en bonne santé, c'est tout ce qui compte.",
+        "m_c ne sait pas et ne se soucie pas du nombre de petits que {PRONOUN\/m_c\/subject} aura.",
+        "m_c, citant l'intuition des reines, affirme que {PRONOUN\/m_c\/subject} {VERB\/m_c\/know\/knows} qu'{PRONOUN\/m_c\/subject} aura une petite portée.",
+        "m_c, citant l'intuition des reines, affirme que {PRONOUN\/m_c\/subject} {VERB\/m_c\/know\/knows} qu'{PRONOUN\/m_c\/subject} aura une grande portée."
+    ],
+    "major_severity": [
+        " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/decide\/decides} de s'installer dans la pouponnière en préparation de l'arrivée prochaine de {PRONOUN\/m_c\/poss} petits.",
+        " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/don't\/doesn't} croit pouvoir accomplir efficacement {PRONOUN\/m_c\/poss} tâches en attendant des petits et {VERB\/m_c\/decide\/decides} de s'installer dans la pouponnière.",
+        " Il est temps de rejoindre la pouponnière et de se détendre avant l'arrivée des nouveaux.",
+        " Quand on se dandine plus qu'on ne marche dans le camp, il faut accepter que {PRONOUN\/m_c\/subject} doit aller à la pouponnière.",
+        " {PRONOUN\/m_c\/subject\/CAP} s'installe dans la pouponnière, grognant {PRONOUN\/m_c\/poss} protestations tout du long.",
+        " La grossesse est pénible. m_c cède et va dans la pouponnière.",
+        " Il est temps de s'installer dans la pouponnière et de s'assurer que tout est parfaitement prêt.",
+        " {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} réprimandé(e) pour prendre un nid dans la pouponnière, malgré {PRONOUN\/m_c\/poss} meilleures protestations.",
+        " {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} impatient(e) de rejoindre rapidement la pouponnière, comme si cela pouvait faire venir la portée plus vite.",
+        " Malgré {PRONOUN\/m_c\/poss} protestations, m_c accepte à contrecœur de s'installer dans la pouponnière. {PRONOUN\/m_c\/poss\/CAP} camarades de Clan font comprendre qu'ils peuvent se passer de {PRONOUN\/m_c\/object} jusqu'à l'arrivée des petits.",
+        " {PRONOUN\/m_c\/subject\/CAP} n'a pas pu s'installer assez vite dans la pouponnière.",
+        " Tant de choses pourraient arriver à m_c et {PRONOUN\/m_c\/poss} petits si {PRONOUN\/m_c\/subject} continuait à travailler. Inquiet(e) des conséquences, {PRONOUN\/m_c\/subject} {VERB\/m_c\/settle\/settles} dans la pouponnière."
+    ],
+    "minor_severity": [
+        " {PRONOUN\/m_c\/subject\/CAP} ne va pas encore aller dans la pouponnière.",
+        " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/choose\/chooses} de continuer {PRONOUN\/m_c\/poss} tâches comme d'habitude pour l'instant.",
+        " c_n veut féliciter m_c - mais la célébration est interrompue par m_c qui s'énerve, sans raison, disant que cette grossesse ne fait pas de {PRONOUN\/m_c\/object} une fleur fragile et que {PRONOUN\/m_c\/subject} n'ira pas dans la pouponnière.",
+        " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/aren't\/isn't} enthousiaste à l'idée d'être confiné(e) dans la pouponnière pour l'instant.",
+        " La vie continue pour l'instant - {PRONOUN\/m_c\/subject} ira dans la pouponnière, mais pas ce cycle.",
+        " {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} encore plein(e) d'énergie et aller dans la pouponnière serait étouffant - peut-être au prochain cycle.",
+        " Ce n'est sûrement pas encore le moment d'aller dans la pouponnière.",
+        " {PRONOUN\/m_c\/subject\/CAP} n'imagine pas être enfermé(e) dans la pouponnière maintenant et {VERB\/m_c\/insist\/insists} que {PRONOUN\/m_c\/subject} peut continuer à travailler.",
+        " {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/dare\/dares} n'importe quel chat de forcer {PRONOUN\/m_c\/object} dans cette vieille pouponnière étouffante et, à {PRONOUN\/m_c\/poss} joie, personne n'essaie. Peut-être au prochain cycle, mais pas maintenant.",
+        " {PRONOUN\/m_c\/subject\/CAP} n'oserait pas se reposer et laisser les autres travailler pendant que {PRONOUN\/m_c\/subject} se repose ! Les choses continuent comme d'habitude pour l'instant.",
+        " Il y a tellement à faire ! {PRONOUN\/m_c\/subject\/CAP} ne peut pas se poser maintenant !"
+    ],
+    "comment": [
+        "les phrases de gravité mineure et majeure apparaîtront avec une annonce ou une supposition de portée. Écrivez-les en conséquence !",
+        "Elles doivent aussi commencer par un espace pour assurer qu'il y ait un espace entre la phrase d'annonce/portée et la phrase de gravité."
+    ],
+    "birth": {
+        "unmated_parent": [
+            "m_c a eu un(e) {insert} mais refuse d'en parler.",
+            "m_c a secrètement eu un(e) {insert}.",
+            "m_c a eu un(e) {insert} avec un partenaire inconnu.",
+            "m_c a eu un(e) {insert} et refuse de parler de son géniteur.",
+            "m_c a eu un(e) {insert} et refuse totalement d'en parler ou de le reconnaître.",
+            "m_c ne se sent pas prêt(e) à être parent de ce(tte) {insert}. Mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/promise\/promises} aux petites pattes qui s'agitent à côté de {PRONOUN\/m_c\/poss} que {PRONOUN\/m_c\/subject} fera de son mieux. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/swear\/swears} sur le Clan des Étoiles.",
+            "Personne ne sait avec qui m_c a eu {PRONOUN\/m_c\/poss} {insert}, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/seem\/seems} très heureux(se) de veiller sur sa petite progéniture dans la pouponnière.",
+            "Quand on demande à m_c s'il/elle ira bien en élevant {PRONOUN\/m_c\/poss} {insert} seul(e), {PRONOUN\/m_c\/subject} {VERB\/m_c\/smile\/smiles} et {VERB\/m_c\/reply\/replies} que tout ira bien.",
+            "Un(e) {insert} ! m_c l'accueille avec joie et ne semble pas perturbé(e) par l'absence de partenaire dans la pouponnière avec {PRONOUN\/m_c\/object}."
+        ],
+        "two_parents": [
+            "m_c a eu un(e) {insert} avec r_c.",
+            "Dans la pouponnière, m_c allaite un(e) {insert}, r_c veille sur eux et ronronne si fort que {PRONOUN\/r_c\/poss} corps vibre.",
+            "Les regards de m_c et r_c se croisent au-dessus de leur {insert}, pleins d'amour pour leur famille grandissante.",
+            "Dans le calme de la pouponnière, dans le nid qu'ils ont préparé si longtemps, m_c et r_c accueillent un(e) {insert}.",
+            "Avec {PRONOUN\/m_c\/poss} {insert} qui miaule contre {PRONOUN\/m_c\/poss} ventre, la longue grossesse de m_c a enfin donné à {PRONOUN\/m_c\/object} et r_c l'agrandissement de famille qu'ils espéraient.",
+            "Même avec r_c à ses côtés, m_c ne se sent pas prêt(e) à être parent de ce(tte) {insert}. Mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/promise\/promises} aux petites pattes qui s'agitent à côté de {PRONOUN\/m_c\/poss} que {PRONOUN\/m_c\/subject} fera de son mieux. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/swear\/swears} sur le Clan des Étoiles.",
+            "r_c attendait avec impatience de rencontrer {PRONOUN\/r_c\/poss} petit(e). À l'invitation de m_c, {PRONOUN\/r_c\/subject} {VERB\/r_c\/crawl\/crawls} dans la pouponnière, ronronnant et rejoignant m_c pour nettoyer leur {insert}.",
+            "r_c était impatient(e) de la fin de la grossesse de m_c, alors quand {PRONOUN\/r_c\/subject} {VERB\/r_c\/hear\/hears} que m_c est en travail, {PRONOUN\/r_c\/subject} {VERB\/r_c\/drop\/drops} ce que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} faisait et {VERB\/r_c\/sprint\/sprints} vers la pouponnière, où m_c met au monde un(e) {insert}.",
+            "m_c est tellement reconnaissant(e) que {PRONOUN\/m_c\/poss} adorable {insert} soit là - ravi(e) de le/la rencontrer, et ravi(e) que r_c puisse prendre le relais pendant que m_c se repose enfin un peu de l'air étouffant de la pouponnière.",
+            "m_c et r_c étaient tellement occupés à s'inquiéter et à attendre la naissance que ce n'est qu'en regardant leur {insert} qu'ils se demandent comment le/la nommer.",
+            "Avec r_c qui ronronne contre {PRONOUN\/m_c\/poss} dos, m_c a l'impression que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} va exploser d'amour en regardant {PRONOUN\/m_c\/poss} nouveau/nouvelle {insert}.",
+            "Lors d'une promenade sur le territoire avec r_c, m_c a eu {PRONOUN\/m_c\/poss} {insert} de façon inattendue, aidé(e) par son/sa compagnon/compagne."
+        ],
+        "dead_mate": [
+            "m_c regarde {PRONOUN\/m_c\/poss} {insert}, étouffant un ronronnement et un cri. Comment {VERB\/m_c\/are\/is} {PRONOUN\/m_c\/subject} censé(e) faire sans r_c ?",
+            "m_c sanglote et repousse {PRONOUN\/m_c\/poss} nouveau/nouvelle {insert}. Il/elle ressemble trop à r_c pour que m_c puisse le/la supporter.",
+            "m_c ronronne tristement sur le/la petit(e) {insert} que le Clan des Étoiles a offert à {PRONOUN\/m_c\/object}. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/see\/sees} r_c dans leurs petites pattes, leurs oreilles, leurs yeux et leurs miaulements.",
+            "Les chats appellent, mais m_c ne veut pas retourner à la pouponnière. Pas avec le/la nouveau/nouvelle {insert} issu(e) de {PRONOUN\/m_c\/object} et r_c là, rappelant à m_c ce qui aurait dû être.",
+            "En regardant le dernier cadeau de r_c à {PRONOUN\/m_c\/object}, m_c promet de protéger {PRONOUN\/m_c\/poss} nouveau/nouvelle {insert}.",
+            "C'est si dur, presque insurmontable sans son/sa compagnon/compagne, mais m_c ne changerait ça pour rien au monde. Ce(tte) {insert} est le dernier morceau de r_c que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has}."
+        ],
+        "both_unmated": [
+            "m_c a donné naissance à un(e) {insert} avec r_c et se réjouit de co-élever le/la petit(e).",
+            "r_c jette un regard timide dans la pouponnière pour voir {PRONOUN\/r_c\/poss} {insert}. m_c semble surpris(e) mais pas mécontent(e) de voir {PRONOUN\/r_c\/object} et l'accueille avec un ronronnement.",
+            "m_c ronronne fort pendant que r_c toilette {PRONOUN\/m_c\/poss} pelage. Alors que leur nouveau/nouvelle {insert} se tortille contre le ventre de m_c, les deux chats pensent à leurs nouvelles responsabilités.",
+            "m_c regarde avec amour {PRONOUN\/m_c\/poss} nouveau/nouvelle {insert}. r_c semble nerveux(se) et maladroit(e) dans la pouponnière, mais m_c appelle {PRONOUN\/r_c\/object} pour rencontrer la portée.",
+            "Personne ne juge ce que deux chats font en privé. Certains demandent si m_c et r_c deviendront compagnons pour leur {insert}, mais la plupart ferment les yeux et laissent le couple tranquille comme nouveaux parents."
+        ],
+        "affair": [
+            "m_c a secrètement eu un(e) {insert} avec r_c.",
+            "m_c espère que {PRONOUN\/m_c\/poss} {insert} ne ressemble pas trop à r_c, sinon des questions pourraient surgir.",
+            "r_c rend visite à m_c dans la pouponnière avec {PRONOUN\/m_c\/poss} nouveau/nouvelle {insert}, sous prétexte d'apporter de la nourriture au nouveau parent.",
+            "Le/la nouveau/nouvelle {insert} que m_c vient de mettre au monde ressemble étrangement à r_c.",
+            "Personne ne veut gâcher une si belle occasion, mais... il ne faut pas être un génie pour remarquer à quel point le/la {insert} de m_c ressemble à r_c...",
+            "Depuis la naissance, la rumeur court que le/la {insert} de m_c appartient à r_c et, même si personne ne veut confirmer, tout le monde le devine en voyant le/la petit(e) miauler juste là..."
+        ],
+        "affair_mated": [
+            "Le/la compagnon/compagne de m_c est un(e) chat(te) formidable, qui mérite d'être parent... alors pourquoi le/la {insert} de m_c ressemble-t-il/elle plus à r_c ?",
+            "m_c le voit, son/sa compagnon/compagne le voit, r_c le voit, tout le monde dans c_n voit à quel point le/la nouveau/nouvelle {insert} ressemble trop à r_c pour que ce soit une coïncidence..."
+        ],
+        "death": [
+            "Plus tard, alors que le/la guérisseur(se) hurle avec le sang de m_c sur son pelage et qu'un guerrier vient déplacer le corps pour la veillée, personne ne sait quoi faire du/de la {insert}.",
+            "Alors que le soleil traverse le ciel, le saignement de m_c empire. C'était quand même une bonne chose, pense m_c, même si le/la guérisseur(se) lutte désespérément pour garder {PRONOUN\/m_c\/object} hors du Clan des Étoiles. Toujours une bonne chose.",
+            "La naissance a été éprouvante et m_c est épuisé(e), continue de saigner et veut juste dormir. Alors {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}... mais malheureusement {PRONOUN\/m_c\/subject} ne {VERB\/m_c\/wake\/wakes} jamais.",
+            "m_c ne s'attendait pas à ce que la naissance soit si douloureuse. Au fil de la journée, son état se détériore, laissant {PRONOUN\/m_c\/poss} {insert} miauler et tenter de téter un corps qui refroidit.",
+            "Ça brise le cœur de {PRONOUN\/m_c\/poss} que {PRONOUN\/m_c\/subject} ne puisse pas être avec {PRONOUN\/m_c\/poss} {insert} en grandissant. m_c donne des instructions et supplie ses amis autour de {PRONOUN\/m_c\/object} alors que la perte de sang prend lentement sa vie.",
+            "Mais m_c est trop faible pour que les herbes données à {PRONOUN\/m_c\/object} arrêtent cette perte de sang. Les chats sont impuissants alors que m_c glisse lentement vers le Clan des Étoiles.",
+            "Plus tard - des heures plus tard, des siècles plus tard - le/la {insert} miaule. Dehors, le corps de m_c refroidit, la naissance a été trop éprouvante.",
+            "Tout semble aller bien, mais le Clan découvrira demain le corps froid de m_c dans la pouponnière, {PRONOUN\/m_c\/poss} {insert} miaulant en vain pour son parent.",
+            "Même si la naissance est toujours considérée comme difficile et risquée, personne ne pensait perdre m_c à cause de ça. Pas après la naissance du/de la {insert} qui semblait aller bien... ils pensaient que la perte de sang était sous contrôle.",
+            "Tout le monde savait que m_c était le/la plus enthousiaste à l'idée de rencontrer ses petits... C'est un coup du sort cruel, alors que le corps de m_c refroidit, laissant le/la {insert} sans {PRONOUN\/m_c\/object}.",
+            "Il n'y a pas un œil sec dans la pouponnière alors que m_c utilise ses dernières forces pour nommer son/sa magnifique {insert}."
+        ],
+        "difficult_birth": [
+            "La naissance a été difficile et m_c a perdu beaucoup de sang.",
+            "m_c halète, regarde {PRONOUN\/m_c\/poss} merveilleux(se) {insert} et décide que la douleur et la perte de sang en valaient la peine.",
+            "Faible à cause de la perte de sang, m_c ronronne tout de même en voyant {PRONOUN\/m_c\/poss} {insert}.",
+            "La perte de sang n'a pas facilité la naissance pour m_c.",
+            "m_c semble très épuisé(e) et faible après la naissance.",
+            "m_c ne s'attendait pas à ce que cette naissance soit si douloureuse.",
+            "Même si tout le monde dit que donner naissance est difficile, m_c a l'impression que celle-ci a été pire que les autres.",
+            "Tout cela en vaudra la peine, promet m_c à {PRONOUN\/m_c\/self} alors que les douleurs de l'après-naissance secouent son corps épuisé et ensanglanté.",
+            "m_c avale les herbes données à {PRONOUN\/m_c\/object}, grimace au goût mais sait que {PRONOUN\/m_c\/subject} {VERB\/m_c\/need\/needs} pour arrêter la perte de sang.",
+            "m_c se demande si son corps se remettra un jour de la naissance douloureuse et de la perte de sang.",
+            "Il y a eu des complications - douloureuses - mais m_c s'en est à peine sorti(e)."
+        ],
+        "outside_alone": [
+            "Des rumeurs arrivent au Clan que m_c a donné naissance à un(e) {insert}."
+        ],
+        "outside_in_clan": [
+            "r_c a entendu une rumeur selon laquelle m_c a eu une portée.",
+            "r_c pense que m_c aurait déjà dû avoir sa portée."
+        ],
+        "outside_death": [
+            "Certains disent que m_c n'a pas survécu.",
+            "Certains disent que m_c aurait eu besoin d'un(e) guérisseur(se) pour survivre.",
+            "Espérons que ces petits ont quelqu'un pour s'occuper d'eux, car m_c n'a apparemment pas survécu...",
+            "Si seulement m_c avait eu un(e) guérisseur(se) avec {PRONOUN\/m_c\/object}..."
+        ],
+        "lead_death": [
+            "m_c a perdu une de ses neuf vies, mais a donné naissance à un(e) {insert}.",
+            "Bien que m_c ait donné naissance à un(e) {insert}, cela lui a coûté une de ses neuf vies."
+        ]
+    }
+}

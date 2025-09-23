@@ -1,0 +1,198 @@
+{
+    "claw-wound": {
+        "an infected wound": [
+            "r_c s'occupe de la blessure avec une pâte d'herbes à l'odeur infecte. m_c espère que cela combattra l'infection qui se développe dans {PRONOUN\/m_c\/poss} blessure de griffe.",
+            "m_c se gratte, mal à l'aise, souhaitant que {PRONOUN\/m_c\/poss} blessure guérisse enfin. Au lieu de cela, elle empire."
+        ]
+    },
+    "bite-wound": {
+        "an infected wound": [
+            "La morsure est brûlante - m_c grimace pendant que r_c la nettoie. Elle s'infecte.",
+            "La peau de m_c devient fiévreuse autour de {PRONOUN\/m_c\/poss} blessure. Elle semble pire qu'hier."
+        ]
+    },
+    "cat bite": {
+        "an infected wound": [
+            "La morsure de chat est brûlante - m_c grimace pendant que r_c la nettoie. Elle s'infecte.",
+            "La peau de m_c devient fiévreuse autour de {PRONOUN\/m_c\/poss} blessure. Elle semble pire qu'hier."
+        ]
+    },
+    "beak bite": {
+        "an infected wound": [
+            "La blessure de bec est brûlante - m_c grimace pendant que r_c la nettoie. Elle s'infecte.",
+            "La peau de m_c devient fiévreuse autour de {PRONOUN\/m_c\/poss} blessure. Elle semble pire qu'hier."
+        ]
+    },
+    "snake bite": {
+        "an infected wound": [
+            "r_c marmonne à propos du plantain pendant que m_c lèche prudemment autour de {PRONOUN\/m_c\/poss} morsure de serpent. Elle ne guérit pas comme il faudrait.",
+            "Bien que les feuilles de plantain semblent aider contre les toxines, la blessure de m_c commence à chauffer."
+        ]
+    },
+    "rat bite": {
+        "an infected wound": [
+            "r_c parle pendant que {PRONOUN\/r_c\/subject} {VERB\/r_c\/apply\/applies} une étrange pâte sur la morsure de rat de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/tell\/tells} {PRONOUN\/m_c\/object} que ce sera une routine quotidienne car la blessure s'infecte.",
+            "Il semble inévitable que toutes les morsures de rat soient mauvaises, donc m_c n'est pas surpris quand {PRONOUN\/m_c\/inposs} montre des signes d'infection."
+        ],
+        "a festering wound": [
+            "Le regard inquiet de r_c pendant que {PRONOUN\/r_c\/subject} {VERB\/r_c\/examine\/examines} la morsure âcre de m_c lui serre le cœur.",
+            "m_c essaie d'ignorer l'odeur venant de {PRONOUN\/m_c\/poss} morsure de rat purulente."
+        ]
+    },
+    "tick bites": {
+        "an infected wound": [
+            "r_c soupire et tente d'extraire doucement la tête de la tique restée dans la peau de m_c. Avec ce contaminant, la petite morsure de tique s'est infectée.",
+            "La tique sur m_c est restée trop longtemps. La zone est maintenant gonflée et chaude - des signes évidents d'infection."
+        ],
+        "tick fever": [
+            "r_c s'inquiète pour m_c, cherchant des têtes de tique qu'un apprenti aurait pu oublier, mais {PRONOUN\/r_c\/subject} ne trouve qu'une éruption caractéristique. m_c sait ce que cela signifie : la fièvre des tiques.",
+            "Le cœur de m_c se serre alors que {PRONOUN\/m_c\/poss} pelage commence à tomber. Les apprentis ont dû manquer une tique - r_c confirme la fièvre des tiques.",
+            "m_c se plaint d'une nouvelle éruption, se tait quand r_c trouve une tête de tique. {PRONOUN\/m_c\/subject\/CAP} a la fièvre des tiques."
+        ]
+    },
+    "broken jaw": {
+        "an infected wound": [
+            "Une pâte de viande pour nourrir m_c, une pâte d'herbes contre l'infection dans {PRONOUN\/m_c\/poss} mâchoire cassée... r_c cherche désespérément d'autres solutions pour {PRONOUN\/r_c\/poss} patient.",
+            "m_c sombre et revient à lui alors qu'une infection se développe dans {PRONOUN\/m_c\/poss} mâchoire cassée."
+        ]
+    },
+    "broken bone": {
+        "an infected wound": [
+            "Malgré le repos forcé et le bandage serré de {PRONOUN\/m_c\/poss} os cassé, la blessure de m_c commence à inquiéter r_c. {PRONOUN\/r_c\/subject\/CAP}{VERB\/r_c\/'ve\/'s} déjà commencé à prévoir quoi faire si l'infection progresse.",
+            "Il semble qu'une infection se développe dans l'os cassé de m_c."
+        ]
+    },
+    "mangled leg": {
+        "an infected wound": [
+            "r_c se demande si {PRONOUN\/r_c\/subject} doit consulter un guérisseur d'un autre Clan. La patte mutilée de m_c est infectée et gonflée - et {PRONOUN\/r_c\/subject} {VERB\/r_c\/need\/needs} plus d'idées.",
+            "Comme si la blessure n'était pas assez grave, la peau autour de la patte mutilée de m_c commence à enfler et à chauffer."
+        ]
+    },
+    "mangled tail": {
+        "an infected wound": [
+            "La pauvre queue mutilée de m_c est gonflée et chaude au toucher : r_c cherche des herbes pour combattre l'infection.",
+            "Comme si la blessure n'était pas assez grave, la peau sur la queue mutilée de m_c commence à enfler et à chauffer."
+        ]
+    },
+    "cracked pads": {
+        "an infected wound": [
+            "r_c étale le reste du baume sur les coussinets fissurés et gonflés de m_c, lui ordonnant de ne pas marcher sauf s'il veut que l'infection empire.",
+            "m_c jure que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} a lavé ses coussinets fissurés, mais ils semblent tout de même infectés."
+        ]
+    },
+    "scrapes": {
+        "an infected wound": [
+            "m_c baisse la tête, gêné. {PRONOUN\/m_c\/subject\/CAP} pensait pouvoir négliger le nettoyage de {PRONOUN\/m_c\/poss} éraflures car ce sont de petites blessures, mais maintenant la peau est irritée et infectée - et r_c le juge clairement pour ne pas avoir pris soin de {PRONOUN\/m_c\/self}.",
+            "Les éraflures de m_c semblaient mineures au début, mais même les plus petites blessures peuvent s'infecter."
+        ]
+    },
+    "small cut": {
+        "an infected wound": [
+            "r_c examine de plus près la petite coupure de m_c, inquiet. Il semble qu'elle n'ait pas été assez nettoyée et s'est infectée.",
+            "Au lieu de guérir, la petite coupure de m_c est devenue rouge et douloureuse. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/worry\/worries} qu'elle soit infectée."
+        ]
+    },
+    "torn pelt": {
+        "an infected wound": [
+            "r_c presse des herbes sur le pelage déchiré de m_c. Cela devrait aider à combattre la petite infection qui s'y développe.",
+            "Les déchirures dans le pelage de m_c semblent enflammées. C'est sûrement une infection."
+        ]
+    },
+    "torn ear": {
+        "an infected wound": [
+            "r_c examine l'oreille de m_c pendant que celui-ci la secoue involontairement. La zone est gonflée et irritée, probablement une infection due à la déchirure.",
+            "L'oreille déchirée de m_c est enflammée et démange. Elle est sûrement infectée."
+        ]
+    },
+    "frostbite": {
+        "running nose": [
+            "C'est mineur comparé aux engelures, mais r_c pense à apporter des herbes pour le nez qui coule de m_c quand {PRONOUN\/r_c\/subject} {VERB\/r_c\/go\/goes} vérifier {PRONOUN\/m_c\/object}.",
+            "Comme si les engelures n'étaient pas assez inquiétantes, m_c a aussi le nez qui coule.",
+            "m_c est resté trop longtemps dans le froid. Les engelures sont le plus gros souci, mais un nez qui coule n'est pas bon signe non plus."
+        ]
+    },
+    "recovering from birth": {
+        "an infected wound": [
+            "r_c demande doucement à m_c de se tourner et grimace quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}. La zone ne guérit pas comme r_c l'espérait : elle est gonflée et douloureuse.",
+            "m_c essaie de ne pas feuler pendant que {PRONOUN\/m_c\/poss} portée tète. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/love\/loves} ses petits, {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}, mais la mise bas fut si douloureuse et la zone est maintenant gonflée et infectée."
+        ]
+    },
+    "water in their lungs": {
+        "running nose": [
+            "Une partie de l'eau inhalée par m_c semble s'écouler par son nez en plus de ses quintes de toux. r_c le met au repos pour l'aider à récupérer.",
+            "En plus de tousser, m_c a maintenant le nez qui coule à cause de l'eau dans ses poumons."
+        ],
+        "whitecough": [
+            "m_c n'a pas évité le mal blanc, annonce r_c à {PRONOUN\/m_c\/object}. L'eau inhalée devait contenir la maladie. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} confiné au camp pendant que {PRONOUN\/m_c\/subject} {VERB\/m_c\/recover\/recovers}.",
+            "La toux de m_c ne semble plus seulement due à l'eau inhalée. Cela a évolué en mal blanc.",
+            "Avec ses poumons déjà affaiblis par l'eau, m_c ne peut pas lutter contre le mal blanc qui l'atteint."
+        ]
+    },
+    "burn": {
+        "an infected wound": [
+            "La chair brûlée de m_c est trop chaude. r_c applique un baume pour essayer de combattre l'infection qui se développe.",
+            "m_c se sent fiévreux. {PRONOUN\/m_c\/poss\/CAP} brûlure semble décolorée, il doit y avoir une infection."
+        ]
+    },
+    "severe burn": {
+        "an infected wound": [
+            "Il est difficile de voir avec une brûlure aussi grave, mais r_c est maintenant certain qu'en plus des dégâts, m_c a une infection dans les tissus.",
+            "m_c se sent fiévreux. {PRONOUN\/m_c\/poss\/CAP} brûlure est décolorée et gonflée : il doit y avoir une infection."
+        ]
+    },
+    "shock": {
+        "lingering shock": [
+            "r_c donne à m_c les graines de pavot que {PRONOUN\/m_c\/subject} {VERB\/m_c\/ask\/asks} pour l'aider à dormir, mais s'inquiète que le choc de m_c dure si longtemps.",
+            "m_c se réveille encore d'un cauchemar, sentant l'adrénaline dans ses veines alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/try\/tries} de ne pas fuir. Cela fait des jours que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} n'a pas dormi correctement et cela l'épuise."
+        ]
+    },
+    "shivering": {
+        "frostbite": [
+            "r_c masse les coussinets de m_c, cherchant des signes de retour de la circulation. C'est clairement des engelures.",
+            "m_c dit que ses extrémités sont comme piquées par des griffes. L'engourdissement suit, signe d'engelures.",
+            "La peau des extrémités de m_c est inquiétante, noire et bleue. Un camarade passe du temps à lécher les zones froides, mais elles semblent gelées."
+        ]
+    },
+    "dehydrated": {
+        "heat exhaustion": [
+            "r_c a réussi à faire boire m_c, mais {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} montre des signes de confusion et de fatigue - des signes clairs d'épuisement dû à la chaleur.",
+            "m_c halète, cherchant désespérément un endroit plus frais pour se reposer. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/feel\/feels} complètement épuisé par cette chaleur."
+        ]
+    },
+    "damaged eyes": {
+        "an infected wound": [
+            "r_c verse du jus d'herbes dans les yeux abîmés de m_c, ignorant ses protestations. Cette infection doit être stoppée avant d'empirer.",
+            "m_c ne peut pas ouvrir les yeux à cause du gonflement et des croûtes. Espérons que l'infection ne se propage pas."
+        ]
+    },
+    "quilled by a porcupine": {
+        "an infected wound": [
+            "r_c a été prudent en retirant les piquants du visage de m_c, mais l'infection s'est tout de même installée.",
+            "Les blessures laissées par les piquants de porc-épic sur m_c se sont infectées.",
+            "m_c est bouleversé de découvrir que l'infection s'est installée sur {PRONOUN\/m_c\/poss} blessures de piquants."
+        ]
+    },
+    "poisoned": {
+        "redcough": [
+            "r_c observe l'inévitable : m_c commence à tousser et à s'étouffer sur son propre sang. La fin approche vite pour {PRONOUN\/m_c\/object}.",
+            "m_c est faible et à peine conscient à cause du poison... et maintenant {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} commence à cracher du sang. Ce n'est pas bon signe.",
+            "m_c tousse et s'étouffe sur son propre sang. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/know\/knows} que la fin est proche."
+        ]
+    },
+    "broken back": {
+        "an infected wound": [
+            "r_c fait de son mieux pour soutenir le corps de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/feel\/feels} de plus en plus inquiet à cause de l'odeur nauséabonde venant du dos brisé et tordu de m_c.",
+            "m_c sent l'infection dans son dos et la fièvre monter. Cette blessure semble de moins en moins survivable."
+        ]
+    },
+    "head damage": {
+        "headache": [
+            "r_c prépare un mélange d'herbes apaisant pour m_c, qui se plaint de douleurs à la tête après {PRONOUN\/m_c\/poss} blessure.",
+            "m_c se réveille avec une douleur sourde et lancinante à la tête. {PRONOUN\/m_c\/poss\/CAP} blessure à la tête ne guérit pas comme {PRONOUN\/m_c\/subject} l'espérait."
+        ],
+        "severe headache": [
+            "m_c hurle de douleur, suppliant r_c de le soulager. Les dégâts à {PRONOUN\/m_c\/poss} tête doivent être graves pour causer de telles migraines.",
+            "m_c ne peut se concentrer que sur la douleur fulgurante dans sa tête. {PRONOUN\/m_c\/poss\/CAP} blessure a dû secouer quelque chose au fond de son crâne."
+        ]
+    }
+}

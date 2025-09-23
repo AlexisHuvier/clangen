@@ -1,0 +1,9 @@
+{
+    "fr": {
+        "heading": "<b>Allégeances du Clan %{clan_name}</b>",
+        "caring_for": {
+            "one": "<i>(prend soin de %{kitten})</i>",
+            "many": "<i>(prend soin de %{kitten_list} et %{last_kitten})</i>"
+        }
+    }
+}

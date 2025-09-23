@@ -1,0 +1,63 @@
+{
+    "fr": {
+        "training_kit": "Ce chat n'a pas encore commencé son apprentissage.",
+        "training_app": "Ce chat n'a pas terminé son apprentissage.",
+        "training_mentors": {
+            "zero": "Ce chat n'a pas eu de mentor, ou son mentor est inconnu.",
+            "one": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/was} mentoré par %{mentors}.",
+            "many": "{PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/was} mentoré par %{mentors}."
+        },
+        "training_mentor_trait_influence": "%{mentor} a influencé {PRONOUN\/m_c\/object} pour être plus susceptible de %{influence}.",
+        "training_mentor_skill_influence": "%{mentor} a aidé {PRONOUN\/m_c\/object} à devenir meilleur en %{influence}.",
+        "graduation_honor": "Quand {PRONOUN\/m_c\/subject} a terminé son apprentissage, {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} honoré pour %{honor}.",
+        "graduation_early": "L'apprentissage de {PRONOUN\/m_c\/poss\/CAP} s'est si bien passé que {PRONOUN\/m_c\/subject} a terminé tôt à %{age} lunes.",
+        "graduation_normal": "{PRONOUN\/m_c\/subject\/CAP} a terminé son apprentissage à %{age} lunes.",
+        "graduation_late": "{PRONOUN\/m_c\/subject\/CAP} a terminé son apprentissage tard à %{age} lunes.",
+        "mentored": "{PRONOUN\/m_c\/subject\/CAP} a mentoré %{apprentices}.",
+        "comment": "Chaînes pour les vies du chef dans le texte d'histoire ou le texte où m_c est inclus dans la zone appelée",
+        "leader_death_final": "a perdu sa dernière vie",
+        "leader_death_all": "a perdu toutes ses vies",
+        "leader_death_remaining": "a perdu le reste de ses vies",
+        "leader_death_cardinal": {
+            "one": "a perdu sa %{cardinal} vie",
+            "many": "a perdu ses %{cardinal} vies"
+        },
+        "leader_death_retired": "a perdu sa dernière vie restante",
+        "leader_death_default": "a perdu une vie",
+        "leader_lost_lives": {
+            "one": "a perdu une vie.",
+            "many": "a perdu %{count} vies."
+        },
+        "comment_two": "Chaînes pour les vies du chef dans le texte où m_c n'est pas inclus, par exemple le texte de résultat de patrouille",
+        "n_leader_death_final": "m_c a perdu sa dernière vie",
+        "n_leader_death_all": "m_c a perdu toutes ses vies",
+        "n_leader_death_remaining": "m_c a perdu le reste de ses vies",
+        "n_leader_death_cardinal": {
+            "one": "m_c a perdu sa %{cardinal} vie",
+            "many": "m_c a perdu ses %{cardinal} vies"
+        },
+        "n_leader_death_retired": "m_c a perdu sa dernière vie restante",
+        "n_leader_death_default": "m_c a perdu une vie",
+        "n_leader_lost_lives": {
+            "one": "m_c a perdu une vie.",
+            "many": "m_c a perdu %{count} vies."
+        },
+        "regular_death": "%{cats} sont morts.",
+        "death_cause": "%{death} lorsque {PRONOUN\/m_c\/subject} %{text}",
+        "murdered": "%{name} a tué %{victims}.",
+        "murder_revealed_to_clan": "Le Clan est au courant.",
+        "murder_not_revealed_to_clan": "Le Clan n'est pas au courant.",
+        "murder_revealed_to_individual": "%{name} est au courant.",
+        "leader_lives_left_df": {
+            "zero": "Le chef n'a plus de vies et a rejoint la Forêt Sombre.",
+            "one": "Le chef a une vie restante.",
+            "many": "Le chef a %{count} vies restantes."
+        },
+        "leader_lives_left_sc": {
+            "zero": "Le chef n'a plus de vies et a rejoint le Clan des Étoiles.",
+            "one": "Le chef a une vie restante.",
+            "many": "Le chef a %{count} vies restantes."
+        },
+        "scar_from_injury": "m_c a été marqué par une blessure (%{injury_name})."
+    }
+}

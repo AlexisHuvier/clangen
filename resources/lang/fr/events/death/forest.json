@@ -1,0 +1,166 @@
+[
+    {
+        "event_id": "fst_death_war_any1",
+        "location": [
+            "forest"
+        ],
+        "season": [
+            "any"
+        ],
+        "sub_type": [
+            "war"
+        ],
+        "frequency": 1,
+        "event_text": "m_c a été tué par une branche tombante lors d'une bataille dans une zone fortement boisée de la forêt.",
+        "m_c": {
+            "status": [
+                "apprentice",
+                "warrior",
+                "deputy",
+                "leader"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été écrasé par une branche tombante.",
+                "lead_death": "{VERB\/m_c\/were\/was} écrasé par une branche tombante.",
+                "scar": ""
+            }
+        ]
+    },
+    {
+        "event_id": "fst_death_dog_any1",
+        "location": [
+            "forest"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [],
+        "frequency": 3,
+        "event_text": "m_c a été retrouvé mort sous un chêne, une odeur de chien flottant autour de {PRONOUN\/m_c\/object}.",
+        "m_c": {
+            "not_skill": [
+                "CLIMBER,2"
+            ],
+            "trait": [
+                "nervous",
+                "daring",
+                "ambitious",
+                "oblivious"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c est tombé d'un arbre en essayant d'échapper à un chien.",
+                "lead_death": "est tombé d'un arbre en tentant d'échapper à un chien"
+            }
+        ]
+    },
+    {
+        "event_id": "fst_death_tree_any1",
+        "location": [
+            "forest"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [],
+        "frequency": 1,
+        "event_text": "m_c a été écrasé lorsqu'un arbre est tombé dans le camp.",
+        "m_c": {
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été écrasé par un arbre tombé.",
+                "lead_death": "{VERB\/m_c\/were\/was} écrasé par un arbre tombé."
+            }
+        ]
+    },
+    {
+        "event_id": "gen_death_owl_anylead3",
+        "location": [
+            "forest:camp1_camp2_camp4"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [
+            "no_body"
+        ],
+        "frequency": 2,
+        "event_text": "m_c a été emporté par un hibou, et n'a jamais été revu.",
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent"
+            ],
+            "dies": true
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été emporté par un hibou."
+            }
+        ]
+    },
+    {
+        "event_id": "gen_death_owl_any1",
+        "location": [
+            "forest:camp1_camp2_camp4"
+        ],
+        "season": [
+            "any"
+        ],
+        "tags": [
+            "no_body"
+        ],
+        "frequency": 2,
+        "event_text": "r_c a repéré une ombre tournoyante et a lancé un avertissement à m_c. {PRONOUN\/r_c\/subject\/CAP} n'a pas été assez rapide pour sauver m_c du hibou.",
+        "m_c": {
+            "age": [
+                "kitten",
+                "adolescent"
+            ],
+            "status": [
+                "any"
+            ],
+            "dies": true
+        },
+        "r_c": {
+            "age": [
+                "any"
+            ],
+            "status": [
+                "apprentice",
+                "warrior",
+                "deputy"
+            ],
+            "not_skill": [
+                "RUNNER,2"
+            ]
+        },
+        "history": [
+            {
+                "cats": [
+                    "m_c"
+                ],
+                "reg_death": "m_c a été attrapé par un hibou et n'a jamais été revu."
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "fr": {
+        "heading": "Choisissez les parents adoptifs pour m_c",
+        "info": "Si un chat est ajouté comme parent adoptif, il sera affiché sur la page de famille et considéré comme un parent à part entière. Les parents adoptifs et biologiques seront traités de la même manière ; cela s'applique aussi aux frères et sœurs.",
+        "help_tooltip": "Les parents adoptifs d’un chat sont définis automatiquement à la naissance. Tous les chats qui sont partenaires des parents au moment de la naissance sont considérés comme parents adoptifs. Pour être parent adoptif potentiel, le chat doit avoir au moins 14 lunes de plus que l’enfant.",
+        "potential": "Parents potentiels",
+        "adoptive": "Parents adoptifs",
+        "birth": "Parents biologiques",
+        "mates_current_parents": "Partenaires des parents actuels",
+        "unrelated": "Pas de lien de parenté proche",
+        "set_parent": "Définir comme parent adoptif",
+        "unset_parent": "Retirer comme parent adoptif"
+    }
+}

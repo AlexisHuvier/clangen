@@ -1,0 +1,152 @@
+{
+    "general": {
+        "body": [
+            "r_c serre m_c contre {PRONOUN\/r_c\/object} une dernière fois, incapable de croire que {PRONOUN\/r_c\/poss} chaton, dont r_c est si, si fier, est parti.",
+            "r_c veille silencieusement auprès de m_c, priant que {PRONOUN\/r_c\/subject} ait dit assez souvent à {PRONOUN\/m_c\/object} à quel point r_c est fier de {PRONOUN\/m_c\/object}, au-delà des mots.",
+            "m_c n'était pas seulement le chaton de r_c, mais aussi une immense source d'inspiration et d'admiration pour {PRONOUN\/r_c\/object}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/struggle\/struggles} à croire que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} vraiment parti.",
+            "r_c aimerait pouvoir dire une dernière fois à {PRONOUN\/r_c\/poss} chaton à quel point {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} fier de m_c.",
+            "C'est doux-amer pour r_c d'entendre les camarades du Clan évoquer l'héritage et l'impact de m_c. Chaque mot est vrai – r_c est tellement fier de {PRONOUN\/r_c\/poss} chaton. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/wish\/wishes} juste avoir eu plus de temps avec {PRONOUN\/m_c\/object}.",
+            "r_c parle longuement lors de la veillée de m_c, essayant de se rappeler chaque souvenir depuis la jeunesse de {PRONOUN\/m_c\/poss} pour que ce chat spécial soit toujours honoré par c_n pour tout ce que {PRONOUN\/m_c\/subject} leur a apporté."
+        ],
+        "no_body": [
+            "r_c veille silencieusement auprès de m_c, priant que {PRONOUN\/r_c\/subject} ait dit assez souvent à {PRONOUN\/m_c\/object} à quel point r_c est fier de {PRONOUN\/m_c\/object}, au-delà des mots.",
+            "m_c n'était pas seulement le chaton de r_c, mais aussi une immense source d'inspiration et d'admiration pour {PRONOUN\/r_c\/object}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/struggle\/struggles} à croire que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} vraiment parti.",
+            "r_c aimerait pouvoir dire une dernière fois à {PRONOUN\/r_c\/poss} chaton à quel point {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} fier de m_c.",
+            "C'est doux-amer pour r_c d'entendre les camarades du Clan évoquer l'héritage et l'impact de m_c. Chaque mot est vrai – r_c est tellement fier de {PRONOUN\/r_c\/poss} chaton. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/wish\/wishes} juste avoir eu plus de temps avec {PRONOUN\/m_c\/object}.",
+            "r_c parle longuement lors de la veillée de m_c, essayant de se rappeler chaque souvenir depuis la jeunesse de {PRONOUN\/m_c\/poss} pour que ce chat spécial soit toujours honoré par c_n pour tout ce que {PRONOUN\/m_c\/subject} leur a apporté.",
+            "r_c traverse la veillée de m_c avec difficulté, incapable de croire que le chaton que {PRONOUN\/r_c\/subject} aimait et admirait tant est vraiment parti, sans même un corps à enterrer pour {PRONOUN\/r_c\/object}."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

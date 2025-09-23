@@ -1,0 +1,95 @@
+{
+    "seizure": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} crise.",
+        "m_c est debout et bouge à nouveau après {PRONOUN\/m_c\/poss} crise."
+    ],
+    "diarrhea": [
+        "m_c a arrêté de courir constamment vers la litière. Il semble que {PRONOUN\/m_c\/poss} épisode de diarrhée soit terminé.",
+        "m_c se sent enfin mieux, {PRONOUN\/m_c\/poss} expérience avec la diarrhée est maintenant finie."
+    ],
+    "fleas": [
+        "m_c s'est enfin débarrassé de toutes ses puces.",
+        "m_c est enfin libre de puces."
+    ],
+    "greencough": [
+        "m_c s'est remis du mal vert.",
+        "m_c ne tousse plus, {PRONOUN\/m_c\/poss} cas de mal vert est guéri.",
+        "m_c n'a plus le mal vert."
+    ],
+    "kittencough": [
+        "m_c est débarrassé du mal des chatons, il peut à nouveau jouer et gambader.",
+        "m_c s'est remis du mal des chatons.",
+        "m_c n'a plus le mal des chatons."
+    ],
+    "an infected wound": [
+        "L'infection dans la blessure de m_c s'est calmée.",
+        "La blessure de m_c n'est plus infectée.",
+        "L'infection de m_c est partie."
+    ],
+    "redcough": [
+        "D'une façon miraculeuse, m_c s'est remis du mal rouge."
+    ],
+    "running nose": [
+        "Le nez qui coule de m_c s'est enfin arrêté.",
+        "m_c n'a plus le nez qui coule.",
+        "Le nez qui coule de m_c est parti."
+    ],
+    "whitecough": [
+        "m_c s'est remis du mal blanc.",
+        "m_c n'a plus le mal blanc.",
+        "Le mal blanc de m_c est parti."
+    ],
+    "yellowcough": [
+        "m_c a survécu au mal jaune.",
+        "m_c s'est remis du mal jaune.",
+        "m_c n'a plus le mal jaune.",
+        "Le mal jaune de m_c est parti."
+    ],
+    "a festering wound": [
+        "La blessure de m_c ne suppure plus, l'infection est partie.",
+        "La blessure purulente de m_c semble aller un peu mieux."
+    ],
+    "heat stroke": [
+        "m_c ne souffre plus du coup de chaleur.",
+        "m_c s'est remis du coup de chaleur.",
+        "m_c se sent beaucoup mieux, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} s'est remis du coup de chaleur."
+    ],
+    "heat exhaustion": [
+        "m_c s'est remis de l'épuisement dû à la chaleur.",
+        "L'épuisement de m_c causé par la chaleur s'est calmé.",
+        "m_c a réussi à se remettre de {PRONOUN\/m_c\/poss} épuisement dû à la chaleur."
+    ],
+    "stomachache": [
+        "m_c est heureux que {PRONOUN\/m_c\/poss} mal de ventre soit enfin parti.",
+        "Le mal de ventre de m_c est passé.",
+        "m_c n'a plus mal au ventre."
+    ],
+    "constant nightmares": [
+        "Les cauchemars constants de m_c se sont enfin calmés.",
+        "m_c luttait contre une vague récente de cauchemars, mais heureusement ils semblent avoir cessé.",
+        "Les cauchemars de m_c se sont arrêtés.",
+        "m_c ne fait plus de cauchemars constants."
+    ],
+    "grief stricken": [
+        "m_c ressentira toujours {PRONOUN\/m_c\/poss} chagrin, mais le temps l'a adouci, au moins un peu.",
+        "m_c lève les yeux vers la Toison Argentée et constate que, enfin, le chagrin commence à s'atténuer.",
+        "m_c se réveille un jour, après des lunes d'engourdissement, et sent que le monde est moins terne.",
+        "m_c se dit à {PRONOUN\/m_c\/self} que {PRONOUN\/m_c\/subject} ne peut pas laisser ces sentiments le consumer, {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} doit apprendre à vivre avec.",
+        "m_c sort de {PRONOUN\/m_c\/poss} nid et commence la journée avec une nouvelle conviction dans {PRONOUN\/m_c\/poss} cœur."
+    ],
+    "carrionplace disease": [
+        "La puanteur qui émanait de m_c disparaît enfin. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} s'est remis de la maladie du charnier.",
+        "Contre toute attente, m_c s'est remis de la maladie du charnier."
+    ],
+    "malnourished": [
+        "m_c se sent enfin plein d'énergie. Il semble que les repas réguliers aient fait du bien à {PRONOUN\/m_c\/object}."
+    ],
+    "starving": [
+        "Les pattes de m_c ne sont plus aussi lourdes. {PRONOUN\/m_c\/subject\/CAP} sait que {PRONOUN\/m_c\/subject} doit encore {VERB\/m_c\/need\/needs} manger plus, mais la situation n'est plus aussi grave.",
+        "m_c sent encore la faim dans {PRONOUN\/m_c\/poss} ventre, mais ce n'est rien comparé au vide que {PRONOUN\/m_c\/subject} a ressenti récemment."
+    ],
+    "tick fever": [
+        "m_c pousse un soupir de soulagement alors que les éruptions disparaissent, promettant à StarClan de vérifier <i>deux fois<\/i> les tiques la prochaine fois.",
+        "r_c ronronne alors que m_c demande à reprendre {PRONOUN\/m_c\/poss} tâches. La fièvre des tiques est imprévisible, mais m_c s'en est sorti !"
+    ]
+}

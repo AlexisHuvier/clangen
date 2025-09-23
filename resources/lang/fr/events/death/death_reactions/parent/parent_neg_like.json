@@ -1,0 +1,148 @@
+{
+    "general": {
+        "body": [
+            "Alors que r_c regarde le corps de m_c, {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels} rien. m_c était une déception.",
+            "r_c s'assoit respectueusement, mais ne partage aucune histoire lors de la veillée de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/know\/knows} que {PRONOUN\/r_c\/subject} devrait ressentir plus face à la mort de {PRONOUN\/r_c\/poss} chaton, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't}.",
+            "C'est triste, la veillée. Surtout parce que r_c sait que {PRONOUN\/r_c\/subject} devrait s'en soucier, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} n'a aucun chagrin pour m_c.",
+            "r_c fait bonne figure, lisse la fourrure de son chaton mort et veille, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} se soucie pas que m_c soit mort. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/don't\/doesn't} sait si {PRONOUN\/r_c\/subject} a jamais aimé {PRONOUN\/m_c\/object}, pas comme {PRONOUN\/r_c\/subject} {VERB\/r_c\/were\/was} censé le faire.",
+            "r_c ne sait pas si {PRONOUN\/r_c\/subject} peut être blâmé pour le léger soulagement que {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels}. m_c est mort et parti, et cela semble globalement une amélioration. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/regret\/regrets} d'avoir mis au monde un tel chaton."
+        ],
+        "no_body": [
+            "r_c s'assoit respectueusement, mais ne partage aucune histoire lors de la veillée de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/know\/knows} que {PRONOUN\/r_c\/subject} devrait ressentir plus face à la mort de {PRONOUN\/r_c\/poss} chaton, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't}.",
+            "C'est triste, la veillée. Surtout parce que r_c sait que {PRONOUN\/r_c\/subject} devrait s'en soucier, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} n'a aucun chagrin pour m_c.",
+            "r_c ne sait pas si {PRONOUN\/r_c\/subject} peut être blâmé pour le léger soulagement que {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels}. m_c est mort et parti, et cela semble globalement une amélioration. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/regret\/regrets} d'avoir mis au monde un tel chaton."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "claw-wound": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} blessure de griffe.",
+        "La blessure de griffe de m_c est guérie.",
+        "La blessure de m_c a bien guéri."
+    ],
+    "bite-wound": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} morsure.",
+        "La morsure de m_c est guérie.",
+        "m_c s'est bien remis de {PRONOUN\/m_c\/poss} morsure."
+    ],
+    "cat bite": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} morsure de chat.",
+        "La morsure de chat de m_c est guérie.",
+        "m_c s'est bien remis de {PRONOUN\/m_c\/poss} morsure de chat."
+    ],
+    "beak bite": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} morsure de bec.",
+        "La morsure de bec de m_c est guérie.",
+        "m_c s'est bien remis de {PRONOUN\/m_c\/poss} morsure de bec."
+    ],
+    "snake bite": [
+        "La morsure de serpent que m_c a reçue est guérie.",
+        "La morsure de serpent de m_c est guérie.",
+        "m_c s'est remis de la morsure de serpent que {PRONOUN\/m_c\/subject} a reçue."
+    ],
+    "rat bite": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} morsure de rat.",
+        "La morsure de rat que m_c avait reçue est guérie.",
+        "La morsure de rat de m_c est guérie."
+    ],
+    "tick bites": [
+        "Les piqûres de tiques dont souffrait m_c sont guéries.",
+        "Les piqûres de tiques de m_c ne dérangent plus {PRONOUN\/m_c\/object}.",
+        "Les piqûres de tiques de m_c sont guéries."
+    ],
+    "blood loss": [
+        "m_c s'est remis de la perte de sang que {PRONOUN\/m_c\/subject} a subie.",
+        "m_c ne souffre plus de perte de sang.",
+        "m_c s'est complètement remis de la perte de sang que {PRONOUN\/m_c\/subject} a subie."
+    ],
+    "broken jaw": [
+        "La mâchoire cassée de m_c est guérie.",
+        "m_c s'est bien remis de la mâchoire cassée que {PRONOUN\/m_c\/subject} a subie.",
+        "La mâchoire de m_c ne dérange plus {PRONOUN\/m_c\/object} : elle semble guérie."
+    ],
+    "broken bone": [
+        "L'os cassé de m_c est guéri.",
+        "m_c est heureux de constater que son corps ne souffre plus : il semble que {PRONOUN\/m_c\/poss} os cassé soit enfin guéri.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} os cassé."
+    ],
+    "mangled leg": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} patte mutilée.",
+        "La patte mutilée de m_c est guérie.",
+        "La patte mutilée de m_c semble bien meilleure et guérie.",
+        "La patte de m_c semble bien meilleure.",
+        "La patte de m_c est guérie."
+    ],
+    "dislocated joint": [
+        "L'articulation déboîtée de m_c a été remise en place et va beaucoup mieux.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} articulation déboîtée."
+    ],
+    "joint pain": [
+        "La douleur articulaire que m_c ressentait a disparu.",
+        "m_c ne souffre plus de douleur articulaire.",
+        "La douleur articulaire de m_c est partie.",
+        "La douleur articulaire de m_c va beaucoup mieux.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} douleur articulaire et est heureux de pouvoir bouger sans douleur."
+    ],
+    "sprain": [
+        "La foulure de m_c est guérie.",
+        "La foulure de m_c va beaucoup mieux.",
+        "m_c peut marcher et bouger sans douleur - {PRONOUN\/m_c\/poss} foulure doit être guérie.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} foulure."
+    ],
+    "mangled tail": [
+        "La queue de m_c est bien guérie.",
+        "La queue mutilée de m_c semble complètement guérie.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} queue mutilée.",
+        "La queue de m_c va beaucoup mieux."
+    ],
+    "bruises": [
+        "Les bleus de m_c sont guéris.",
+        "m_c se sent beaucoup mieux - {PRONOUN\/m_c\/poss} bleus ont disparu.",
+        "Les bleus de m_c ont disparu.",
+        "Les bleus de m_c ont disparu.",
+        "m_c n'a plus de bleus."
+    ],
+    "cracked pads": [
+        "Les coussinets de m_c sont guéris.",
+        "m_c peut marcher sans douleur - {PRONOUN\/m_c\/poss} coussinets fissurés sont guéris.",
+        "Les coussinets fissurés de m_c vont mieux.",
+        "Les coussinets de m_c ne sont plus fissurés.",
+        "Les coussinets fissurés de m_c sont guéris."
+    ],
+    "sore": [
+        "m_c n'est plus endolori.",
+        "La douleur de m_c a disparu.",
+        "m_c se sent beaucoup mieux : {PRONOUN\/m_c\/poss} douleur est partie.",
+        "La douleur de m_c est partie."
+    ],
+    "phantom pain": [
+        "La douleur fantôme de m_c a disparu.",
+        "La douleur fantôme de m_c est partie.",
+        "Le membre manquant de m_c ne fait plus mal.",
+        "m_c se sent beaucoup mieux : {PRONOUN\/m_c\/poss} membre manquant ne cause plus de douleur à {PRONOUN\/m_c\/object}.",
+        "m_c est soulagé de constater que {PRONOUN\/m_c\/poss} douleur fantôme est partie."
+    ],
+    "scrapes": [
+        "Les éraflures de m_c sont guéries.",
+        "Les éraflures de m_c vont mieux.",
+        "Les éraflures de m_c ont disparu.",
+        "m_c n'est plus couvert d'éraflures.",
+        "m_c s'est remis de toutes {PRONOUN\/m_c\/poss} éraflures."
+    ],
+    "small cut": [
+        "La petite coupure de m_c a bien guéri.",
+        "La petite coupure de m_c ne dérange plus {PRONOUN\/m_c\/object}."
+    ],
+    "torn pelt": [
+        "Le pelage de m_c va beaucoup mieux.",
+        "Le pelage de m_c n'est plus déchiré.",
+        "Le pelage de m_c s'est remis d'avoir été si abîmé.",
+        "Le pelage déchiré de m_c est guéri.",
+        "m_c toilette {PRONOUN\/m_c\/poss} pelage, heureux de voir que les déchirures et blessures ont disparu."
+    ],
+    "torn ear": [
+        "L'oreille de m_c va beaucoup mieux.",
+        "L'oreille déchirée de m_c est guérie.",
+        "L'oreille de m_c n'est plus déchirée."
+    ],
+    "frostbite": [
+        "L'engelure de m_c est partie.",
+        "m_c a réussi à se débarrasser de {PRONOUN\/m_c\/poss} engelure.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} engelure.",
+        "m_c n'a plus d'engelures."
+    ],
+    "recovering from birth": [
+        "m_c s'est remis d'avoir mis bas {PRONOUN\/m_c\/poss} portée.",
+        "m_c se sent enfin normal après la fatigue d'avoir mis bas.",
+        "m_c s'est remis de la fatigue d'avoir donné naissance à {PRONOUN\/m_c\/poss} portée."
+    ],
+    "water in their lungs": [
+        "Les poumons de m_c se sentent enfin normaux.",
+        "m_c respire normalement à nouveau, l'eau dans {PRONOUN\/m_c\/poss} poumons est partie.",
+        "m_c s'est remis de l'eau dans {PRONOUN\/m_c\/poss} poumons.",
+        "Il n'y a plus d'eau dans les poumons de m_c : {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} respire normalement.",
+        "La respiration de m_c est redevenue normale - {PRONOUN\/m_c\/poss} poumons ne sont plus remplis d'eau."
+    ],
+    "burn": [
+        "La brûlure de m_c est guérie.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} brûlure.",
+        "m_c ne souffre plus d'une brûlure.",
+        "m_c s'est remis de la brûlure que {PRONOUN\/m_c\/subject} a subie."
+    ],
+    "severe burn": [
+        "m_c a eu de la chance - {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} s'est remis de la brûlure grave que {PRONOUN\/m_c\/subject} a reçue.",
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} brûlure grave.",
+        "La brûlure grave de m_c est enfin guérie."
+    ],
+    "shock": [
+        "m_c ne souffre plus de choc.",
+        "m_c se sent beaucoup mieux et ne souffre plus de choc.",
+        "Le choc de m_c est parti.",
+        "m_c n'est plus en état de choc.",
+        "m_c se sent enfin plus comme {PRONOUN\/m_c\/self} - {PRONOUN\/m_c\/poss} choc est parti."
+    ],
+    "lingering shock": [
+        "Cela a pris du temps, mais m_c se sent enfin normal.",
+        "m_c a enfin surmonté le choc de {PRONOUN\/m_c\/poss} épreuve.",
+        "m_c se sent beaucoup mieux cette lune, les vieux souvenirs de {PRONOUN\/m_c\/poss} douleur s'estompent."
+    ],
+    "shivering": [
+        "m_c s'est enfin réchauffé et ne tremble plus.",
+        "m_c pensait que le froid dans {PRONOUN\/m_c\/poss} os ne partirait jamais, mais heureusement {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} à nouveau chaud.",
+        "Les frissons de m_c se sont calmés.",
+        "m_c ne tremble plus."
+    ],
+    "dehydrated": [
+        "m_c s'est remis de la déshydratation que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} subissait.",
+        "Après beaucoup d'eau et de repos, m_c se sent enfin mieux.",
+        "m_c n'est plus déshydraté."
+    ],
+    "head damage": [
+        "m_c s'est remis de {PRONOUN\/m_c\/poss} blessure à la tête.",
+        "La blessure à la tête de m_c est guérie.",
+        "La tête de m_c va enfin mieux.",
+        "La tête de m_c n'est plus douloureuse."
+    ],
+    "damaged eyes": [
+        "Les yeux de m_c sont guéris.",
+        "Les yeux de m_c ne sont plus abîmés.",
+        "Les yeux de m_c se sont remis de {PRONOUN\/m_c\/poss} blessure."
+    ],
+    "quilled by a porcupine": [
+        "Les piquants de porc-épic dans le pelage de m_c sont enfin partis.",
+        "m_c s'est remis des blessures que {PRONOUN\/m_c\/subject} a reçues du porc-épic.",
+        "Les piquants barbelés n'étaient pas faciles à enlever, mais au moins m_c va mieux maintenant."
+    ],
+    "poisoned": [
+        "m_c a eu beaucoup de chance et a réussi à se remettre du poison.",
+        "Malgré la gravité du poison qui a parcouru {PRONOUN\/m_c\/object}, m_c a réussi à survivre.",
+        "m_c s'est remis du poison.",
+        "m_c n'est plus empoisonné."
+    ],
+    "broken back": [
+        "Le dos cassé de m_c est guéri. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} s'est complètement remis contre toute attente.",
+        "m_c est ravi de pouvoir marcher librement à nouveau, {PRONOUN\/m_c\/poss} dos cassé enfin guéri."
+    ],
+    "bee sting": [
+        "La piqûre d'abeille de m_c va beaucoup mieux."
+    ],
+    "headache": [
+        "Le mal de tête de m_c est parti.",
+        "m_c se sent soulagé de ne plus avoir mal à la tête. {PRONOUN\/m_c\/poss\/CAP} mal de tête semble enfin parti."
+    ],
+    "severe headache": [
+        "Le mal de tête de m_c est parti.",
+        "m_c pousse un petit soupir de soulagement. Enfin, la forte douleur dans {PRONOUN\/m_c\/poss} tête s'est calmée."
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "storage_status": {
+        "empty": [
+            "Les réserves d'herbes sont vides et dénudées, cela n'augure rien de bon.",
+            "m_c se tortille nerveusement, fixant les réserves d'herbes vides.",
+            "m_c ne pourrait même pas soigner une épine dans une patte avec si peu de fournitures. Les réserves d'herbes doivent être réapprovisionnées.",
+            "Voir les réserves d'herbes vides fait frissonner m_c et hérisse {PRONOUN\/m_c\/poss} pelage.",
+            "Sans aucune herbe, m_c se sent impuissant.",
+            "c_n a besoin d'une patrouille de collecte d'herbes <i>hier<\/i>, les réserves sont totalement vides et m_c a l'impression que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} va sortir de {PRONOUN\/m_c\/poss} peau."
+        ],
+        "low": [
+            "m_c s'inquiète pour les réserves d'herbes, il n'y en a pas assez pour tout le Clan.",
+            "m_c ne pense pas que la réserve actuelle puisse gérer tous les maux que les camarades de {PRONOUN\/m_c\/poss} pourraient avoir.",
+            "m_c demande à ses camarades d'être prudents ce mois-ci, {PRONOUN\/m_c\/subject} ne peut pas se permettre de gaspiller des herbes pour des blessures inutiles.",
+            "m_c recompte les herbes avec inquiétude ; le Clan ne peut pas se permettre de gaspiller même les feuilles les plus sèches.",
+            "m_c regarde les réserves et se demande si {PRONOUN\/m_c\/subject} devra demander de l'aide aux autres Clans.",
+            "m_c fouille au fond des réserves, cherchant des feuilles flétries oubliées.",
+            "m_c va parler à lead_name pour demander une patrouille pleine de guerriers. c_n a urgemment besoin de plus de fournitures médicinales.",
+            "L'état des réserves fait picoter le pelage de m_c d'inquiétude.",
+            "m_c va devoir prioriser les urgences plutôt que de soulager les douleurs à long terme. Les réserves ne suffisent pas.",
+            "Il est rare que m_c puisse nettoyer les surfaces des réserves. Le faible niveau d'herbes inquiète {PRONOUN\/m_c\/object}, mais {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} déterminé à voir le bon côté."
+        ],
+        "adequate": [
+            "m_c est satisfait de la quantité d'herbes stockées par le Clan.",
+            "Ce n'est pas suffisant en cas d'urgence, mais m_c pense que le Clan a assez d'herbes pour l'instant.",
+            "Cette réserve peut gérer la plupart des problèmes, mais m_c se demande si elle suffira dans toutes les situations.",
+            "Il y a assez d'herbes pour le moment, mais m_c envisage d'en ramasser plus... au cas où.",
+            "Même s'il y a de la place pour plus, m_c est assez content de la quantité d'herbes pour l'instant.",
+            "La réserve est correcte, mais m_c sait qu'il n'y a pas assez d'herbes en cas d'épidémie.",
+            "Les réserves ne sont pas critiques, mais m_c se sentirait plus en sécurité avec un peu plus.",
+            "Les réserves pourraient être mieux garnies. Mais ça pourrait être pire, ce n'est pas trop mal.",
+            "Hmm. Il est temps d'aller en patrouille de collecte, pense m_c. Mieux vaut prévenir que guérir.",
+            "En révisant mentalement les tâches du jour, {PRONOUN\/m_c\/subject} {VERB\/m_c\/put\/puts} la collecte d'herbes sur la liste, même si ce n'est pas la priorité.",
+            "Peut-être que m_c devrait chercher des herbes plus rares, juste pour compléter les réserves de c_n."
+        ],
+        "full": [
+            "Il y a plein d'herbes dans la tanière et m_c les observe avec approbation.",
+            "m_c gère bien la réserve, il semble y en avoir assez pour tous les maux.",
+            "m_c est heureux de la quantité d'herbes stockées et pense que le Clan est prêt pour toute urgence.",
+            "m_c regarde les réserves avec satisfaction ; {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} confiant que {PRONOUN\/m_c\/subject} peut gérer toute urgence.",
+            "Rien ne vaut la satisfaction d'une réserve d'herbes bien remplie.",
+            "Franchement, m_c ne voit aucune herbe qui manque au Clan - les réserves sont superbes.",
+            "m_c envisage sérieusement de réorganiser les réserves - mais il y a trop d'herbes pour que ce soit pratique en ce moment.",
+            "m_c veut toujours aller ramasser des herbes, mais c'est agréable de ne pas ressentir de pression. c_n est très bien approvisionné en ce moment.",
+            "Entouré par les réserves, assailli par leur odeur forte, m_c pétrit le sol avec bonheur."
+        ],
+        "excess": [
+            "Le Clan a été béni avec beaucoup d'herbes et m_c a du mal à tout ranger.",
+            "Les réserves débordent et m_c n'a que peu d'inquiétude.",
+            "Le Clan n'a rien à craindre, m_c a plus qu'assez d'herbes pour tous les problèmes imaginables.",
+            "Avec plus d'herbes que de place pour les ranger, m_c se demande s'il est possible d'avoir trop de bonnes choses.",
+            "Il y a tellement d'herbes que la seule inquiétude de m_c est de trouver celle que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} cherche.",
+            "m_c a du mal à faire son nid - la réserve déborde et menace d'envahir la litière de m_c.",
+            "Bien sûr, m_c ne sait pas où mettre toutes ces herbes en trop, mais c'est un problème agréable à avoir.",
+            "Aucun chat ne peut bouger dans la tanière sans toucher les réserves. La collecte d'herbes n'est pas un problème pour c_n.",
+            "Peu de choses rendent m_c aussi heureux que d'avoir une réserve débordante d'herbes."
+        ]
+    },
+    "no_meds_warning": [
+        "Sans chat assigné à la tanière de soins, le Clan risque que les blessures s'infectent et causent de la fièvre.",
+        "Les chats regardent la tanière vide avec inquiétude. Il manque un élément crucial au Clan.",
+        "La mort et la maladie hantent plus souvent le Clan sans guérisseurs pour les repousser.",
+        "L'absence de guérisseurs dans la tanière est comme une épine dans une patte.",
+        "Ce n'est pas normal - il devrait y avoir une source de réconfort et de conseils ici, pas une absence inquiétante et un silence troublant."
+    ],
+    "single_not_working": [
+        "La queue de m_c frémit d'agacement, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/stay\/stays} allongé d'épuisement. c_n devra se débrouiller sans {PRONOUN\/m_c\/object} ce mois-ci.",
+        "m_c se repose profondément, roulé en boule. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/know\/knows} que seul le repos lui permettra de se remettre sur {PRONOUN\/m_c\/poss} pattes.",
+        "m_c ne soigne pas ce mois-ci, {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} le patient.",
+        "m_c espère juste que personne ne fera de bêtises ce mois-ci. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/aren't\/isn't} en état de soigner qui que ce soit.",
+        "Espérons que c_n ne manquera pas les efforts de m_c ce mois-ci, car {PRONOUN\/m_c\/subject} n'est pas en état de travailler."
+    ],
+    "many_not_working": [
+        "Les guérisseurs ne soignent pas ce mois-ci, ils <i>sont<\/i> les patients.",
+        "Espérons qu'il n'arrive rien ce mois-ci, car tous les guérisseurs sont incapables de travailler.",
+        "Les guérisseurs font de mauvais patients, apparemment. Voilà une raison de plus pour que c_n espère leur retour rapide.",
+        "Sans guérisseurs actifs, c_n est vulnérable."
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "fr": {
+        "WHITE": {
+            "one": "pâle",
+            "many": "pâle"
+        },
+        "FULLWHITE": "blanc",
+        "PALEGREY": {
+            "one": "gris",
+            "many": "gris pâle"
+        },
+        "SILVER": {
+            "one": "argenté",
+            "many": "argenté"
+        },
+        "GREY": {
+            "one": "gris",
+            "many": "gris"
+        },
+        "DARKGREY": {
+            "one": "gris",
+            "many": "gris foncé"
+        },
+        "GHOST": {
+            "one": "noir",
+            "many": "noir"
+        },
+        "BLACK": {
+            "one": "noir",
+            "many": "noir"
+        },
+        "CREAM": {
+            "one": "crème",
+            "many": "crème"
+        },
+        "PALEGINGER": {
+            "one": "roux",
+            "many": "roux pâle"
+        },
+        "GOLDEN": {
+            "one": "doré",
+            "many": "doré"
+        },
+        "GINGER": {
+            "one": "roux",
+            "many": "roux"
+        },
+        "DARKGINGER": {
+            "one": "roux",
+            "many": "roux foncé"
+        },
+        "SIENNA": {
+            "one": "roux",
+            "many": "roux foncé"
+        },
+        "LIGHTBROWN": {
+            "one": "brun",
+            "many": "brun clair"
+        },
+        "LILAC": {
+            "one": "brun",
+            "many": "brun clair"
+        },
+        "BROWN": {
+            "one": "brun",
+            "many": "brun"
+        },
+        "GOLDEN-BROWN": {
+            "one": "brun",
+            "many": "brun doré"
+        },
+        "DARKBROWN": {
+            "one": "brun",
+            "many": "brun foncé"
+        },
+        "CHOCOLATE": {
+            "one": "brun",
+            "many": "brun foncé"
+        },
+        "SingleColour": "couleur unique",
+        "SingleColour_long": "%{color}",
+        "TwoColour": "bicolore",
+        "TwoColour_long": "%{color}",
+        "Tabby": "tigré",
+        "Tabby_long": "%{color} tigré",
+        "Speckled": "tacheté",
+        "Speckled_long": "%{color} tacheté",
+        "Bengal": "bengal",
+        "Bengal_long": "%{color} moucheté inhabituel",
+        "Marbled": "marbré",
+        "Marbled_long": "%{color} tigré",
+        "Ticked": "tické",
+        "Ticked_long": "%{color} tické",
+        "Smoke": "fumé",
+        "Smoke_long": "%{color} fumé",
+        "Mackerel": "mackerel",
+        "Mackerel_long": "%{color} tigré",
+        "Classic": "classique",
+        "Classic_long": "%{color} tigré",
+        "Agouti": "agouti",
+        "Agouti_long": "%{color} tigré",
+        "Singlestripe": "rayé unique",
+        "Singlestripe_long": "%{color} rayé dorsal",
+        "Rosette": "rosette",
+        "Rosette_long": "%{color} tacheté inhabituel",
+        "Sokoke": "sokoke",
+        "Sokoke_long": "%{color} tigré",
+        "Masked": "masqué",
+        "Masked_long": "%{color} tigré masqué",
+        "Calico": "écaille de tortue et blanc",
+        "Calico_tabby": "écaille de tortue et blanc tigré",
+        "Tortie": "écaille de tortue",
+        "Tortie_tabby": "écaille de tortue tigré",
+        "mottled": "marbré",
+        "mottled_long": "%{color} marbré",
+        "point": "point %{color}",
+        "NOTAIL": "sans queue",
+        "HALFTAIL": "demi-queue",
+        "NOPAW": "trois pattes",
+        "NOLEFTEAR": "une oreille manquante",
+        "NORIGHTEAR": "une oreille manquante",
+        "NOEAR": "sans oreilles",
+        "vitiligo": "vitiligo",
+        "long_furred": "à poil long",
+        "scarred": "balafré",
+        "fur_short": "court",
+        "fur_medium": "mi-long",
+        "fur_long": "long"
+    }
+}

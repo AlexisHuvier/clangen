@@ -1,0 +1,205 @@
+{
+    "general": {
+        "body": [
+            "r_c va vraiment regretter m_c. Il n'y avait aucun autre chat en qui {PRONOUN\/r_c\/subject} avait autant confiance et {PRONOUN\/r_c\/subject} {VERB\/r_c\/miss\/manque} déjà la présence rassurante de m_c à {PRONOUN\/r_c\/poss} côté.",
+            "Comment r_c est censé continuer ? {PRONOUN\/r_c\/subject\/CAP} pensait que m_c serait toujours là, toujours à {PRONOUN\/r_c\/poss} côté, mais maintenant...",
+            "C'est comme perdre une queue, une patte, ou {PRONOUN\/r_c\/poss} ombre. r_c comptait sur m_c, faisait confiance à {PRONOUN\/m_c\/object}, et envisager d'avancer après cette perte semble impossible.",
+            "r_c aurait suivi m_c n'importe où, mais ce voyage, {PRONOUN\/m_c\/subject} doit le faire seul.",
+            "r_c se sent instable à l'idée de traverser la vie sans pouvoir compter sur m_c.",
+            "Une partie de r_c pensait que rien de mal ne pouvait arriver à c_n tant que m_c était là. Maintenant que {PRONOUN\/m_c\/object} est parti, comment vont-ils continuer ?",
+            "r_c s'est confié à m_c plus qu'à presque n'importe quel autre chat. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/don't\/ne sait pas} comment {PRONOUN\/r_c\/subject} va surmonter les moments difficiles sans m_c.",
+            "r_c fixe le corps de m_c, incapable de détourner le regard. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/were\/était} une présence solide et rassurante dans la vie de r_c, et la mort a rendu {PRONOUN\/m_c\/object} si petit et fragile.",
+            "r_c prie pour que l'esprit de m_c veille sur {PRONOUN\/r_c\/object} maintenant. {PRONOUN\/r_c\/subject\/CAP} n'arrive pas à imaginer le reste de {PRONOUN\/r_c\/poss} vie sans les conseils de {PRONOUN\/m_c\/poss}."
+        ],
+        "no_body": [
+            "r_c va vraiment regretter m_c. Il n'y avait aucun autre chat en qui {PRONOUN\/r_c\/subject} avait autant confiance et {PRONOUN\/r_c\/subject} {VERB\/r_c\/miss\/manque} déjà la présence rassurante de m_c à {PRONOUN\/r_c\/poss} côté.",
+            "Comment r_c est censé continuer ? {PRONOUN\/r_c\/subject\/CAP} pensait que m_c serait toujours là, toujours à {PRONOUN\/r_c\/poss} côté, mais maintenant...",
+            "C'est comme perdre une queue, une patte, ou {PRONOUN\/r_c\/poss} ombre. r_c comptait sur m_c, faisait confiance à {PRONOUN\/m_c\/object}, et envisager d'avancer après cette perte semble impossible.",
+            "r_c aurait suivi m_c n'importe où, mais ce voyage, {PRONOUN\/m_c\/subject} doit le faire seul.",
+            "r_c se sent instable à l'idée de traverser la vie sans pouvoir compter sur m_c.",
+            "Une partie de r_c pensait que rien de mal ne pouvait arriver à c_n tant que m_c était là. Maintenant que {PRONOUN\/m_c\/object} est parti, comment vont-ils continuer ?",
+            "r_c s'est confié à m_c plus qu'à presque n'importe quel autre chat. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/don't\/ne sait pas} comment {PRONOUN\/r_c\/subject} va surmonter les moments difficiles sans m_c.",
+            "r_c prie pour que l'esprit de m_c veille sur {PRONOUN\/r_c\/object} maintenant. {PRONOUN\/r_c\/subject\/CAP} n'arrive pas à imaginer le reste de {PRONOUN\/r_c\/poss} vie sans les conseils de {PRONOUN\/m_c\/poss}."
+        ]
+    },
+    "adventurous": {
+        "body": [],
+        "no_body": []
+    },
+    "altruistic": {
+        "body": [],
+        "no_body": []
+    },
+    "ambitious": {
+        "body": [],
+        "no_body": []
+    },
+    "bloodthirsty": {
+        "body": [],
+        "no_body": []
+    },
+    "bold": {
+        "body": [],
+        "no_body": []
+    },
+    "calm": {
+        "body": [],
+        "no_body": []
+    },
+    "careful": {
+        "body": [],
+        "no_body": []
+    },
+    "charismatic": {
+        "body": [],
+        "no_body": []
+    },
+    "childish": {
+        "body": [],
+        "no_body": []
+    },
+    "cold": {
+        "body": [],
+        "no_body": []
+    },
+    "compassionate": {
+        "body": [],
+        "no_body": []
+    },
+    "confident": {
+        "body": [],
+        "no_body": []
+    },
+    "daring": {
+        "body": [],
+        "no_body": []
+    },
+    "empathetic": {
+        "body": [],
+        "no_body": []
+    },
+    "faithful": {
+        "body": [],
+        "no_body": []
+    },
+    "fierce": {
+        "body": [],
+        "no_body": []
+    },
+    "insecure": {
+        "body": [],
+        "no_body": []
+    },
+    "lonesome": {
+        "body": [],
+        "no_body": []
+    },
+    "loving": {
+        "body": [],
+        "no_body": []
+    },
+    "loyal": {
+        "body": [],
+        "no_body": []
+    },
+    "nervous": {
+        "body": [],
+        "no_body": []
+    },
+    "patient": {
+        "body": [],
+        "no_body": []
+    },
+    "playful": {
+        "body": [],
+        "no_body": []
+    },
+    "responsible": {
+        "body": [],
+        "no_body": []
+    },
+    "righteous": {
+        "body": [],
+        "no_body": []
+    },
+    "shameless": {
+        "body": [],
+        "no_body": []
+    },
+    "sneaky": {
+        "body": [],
+        "no_body": []
+    },
+    "strange": {
+        "body": [],
+        "no_body": []
+    },
+    "strict": {
+        "body": [],
+        "no_body": []
+    },
+    "thoughtful": {
+        "body": [],
+        "no_body": []
+    },
+    "troublesome": {
+        "body": [],
+        "no_body": []
+    },
+    "vengeful": {
+        "body": [],
+        "no_body": []
+    },
+    "wise": {
+        "body": [],
+        "no_body": []
+    },
+    "attention-seeker": {
+        "body": [],
+        "no_body": []
+    },
+    "bossy": {
+        "body": [],
+        "no_body": []
+    },
+    "bouncy": {
+        "body": [],
+        "no_body": []
+    },
+    "bullying": {
+        "body": [],
+        "no_body": []
+    },
+    "charming": {
+        "body": [],
+        "no_body": []
+    },
+    "daydreamer": {
+        "body": [],
+        "no_body": []
+    },
+    "impulsive": {
+        "body": [],
+        "no_body": []
+    },
+    "inquisitive": {
+        "body": [],
+        "no_body": []
+    },
+    "noisy": {
+        "body": [],
+        "no_body": []
+    },
+    "polite": {
+        "body": [],
+        "no_body": []
+    },
+    "quiet": {
+        "body": [],
+        "no_body": []
+    },
+    "sweet": {
+        "body": [],
+        "no_body": []
+    }
+}
