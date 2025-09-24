@@ -14,7 +14,7 @@
             "clan:apprentice"
         ],
         "frequency": 4,
-        "event_text": "The apprentices are learning how to survive in underground tunnels long-term, in case of a siege.",
+        "event_text": "Les apprentis apprennent à survivre longtemps dans les tunnels souterrains, au cas où il y aurait un siège.",
         "m_c": {
             "age": [
                 "any"
@@ -33,7 +33,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "As the wind howls on the plains outside, m_c is tucked up in the medicine cat den, {PRONOUN\/m_c\/poss} sleep anything but restful. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} seeing flashes of prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} with a shiver, wondering what {PRONOUN\/m_c\/poss} dreams mean for the Clan.",
+        "event_text": "Alors que le vent hurle sur la plaine, m_c est blotti dans la tanière du guérisseur, son sommeil loin d'être paisible. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} voit des éclairs de prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} en frissonnant, se demandant ce que signifient ces rêves pour le Clan.",
         "m_c": {
             "age": [
                 "any"
@@ -56,7 +56,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The things {PRONOUN\/m_c\/subject} saw today, omen_list_sight\/m_c... m_c isolates {PRONOUN\/m_c\/self} in the shifting long grass, considering what the omens foretell.",
+        "event_text": "Les choses que {PRONOUN\/m_c\/subject} a vues aujourd'hui, omen_list_sight\/m_c... m_c s'isole dans les hautes herbes mouvantes, réfléchissant à ce que présagent les signes.",
         "m_c": {
             "age": [
                 "any"
@@ -84,7 +84,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "The acc_plural are just absolutely blooming this season! m_c decides to keep some to remind {PRONOUN\/m_c\/object} of such a beautiful sight.",
+        "event_text": "Les acc_plural sont absolument en fleurs cette saison ! m_c décide d'en garder quelques-uns pour se rappeler d'un si beau spectacle.",
         "new_accessory": [
             "HEATHER",
             "GORSE"
@@ -113,7 +113,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c tripped and ended up with acc_plural all over {PRONOUN\/m_c\/object}! Oh hey, it actually doesn't look that bad...",
+        "event_text": "m_c a trébuché et s'est retrouvé couvert de acc_plural ! Oh, en fait, ce n'est pas si mal...",
         "new_accessory": [
             "CLOVER",
             "DAISY"
@@ -140,7 +140,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c sat and watched the grass wave across the plain, wondering when times would feel that gentle again. ",
+        "event_text": "m_c s'est assis et a regardé l'herbe onduler sur la plaine, se demandant quand les temps redeviendraient aussi doux.",
         "m_c": {
             "status": [
                 "leader"
@@ -172,7 +172,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c has been working to disguise the entrance into the camp tunnels.",
+        "event_text": "m_c a travaillé à camoufler l'entrée des tunnels du camp.",
         "m_c": {}
     }
 ]

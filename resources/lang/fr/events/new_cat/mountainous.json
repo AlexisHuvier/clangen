@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c found an injured loner while out on a walk - clearly, {PRONOUN\/n_c:0\/subject}'d been attacked by an eagle. {PRONOUN\/m_c\/subject\/CAP} rushes {PRONOUN\/n_c:0\/object} back to camp to be treated.",
+        "event_text": "m_c a trouvé un solitaire blessé lors d'une promenade - de toute évidence, {PRONOUN\/n_c:0\/subject} avait été attaqué par un aigle. {PRONOUN\/m_c\/subject\/CAP} ramène rapidement {PRONOUN\/n_c:0\/object} au camp pour être soigné.",
         "m_c": {
             "age": [
                 "young adult",
@@ -45,9 +45,9 @@
                 "cats": [
                     "n_c:0"
                 ],
-                "scar": "m_c was scarred after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dropped by an eagle.",
-                "reg_death": "m_c died after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dropped by an eagle.",
-                "lead_death": "died after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} dropped by an eagle"
+                "scar": "m_c a été marqué après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} lâché par un aigle.",
+                "reg_death": "m_c est mort après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} lâché par un aigle.",
+                "lead_death": "mort après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} lâché par un aigle"
             }
         ],
         "relationships": [
@@ -94,7 +94,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds a dead loner at the bottom of a cliff, near a litter of kittens. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/take\/takes} the poor kittens back to camp, where they're offered a place in the Clan.",
+        "event_text": "m_c trouve un solitaire mort au pied d'une falaise, près d'une portée de chatons. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/take\/takes} les pauvres chatons au camp, où ils se voient offrir une place dans le Clan.",
         "m_c": {
             "age": [
                 "young adult",

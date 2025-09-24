@@ -3,39 +3,39 @@
         "id": "comfort_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c overheard a joke from r_c {PRONOUN\/m_c\/subject} didn't get.",
-            "m_c tries to have a conversation with r_c but it ends up awkward when neither of them speak up.",
-            "m_c caught r_c rolling {PRONOUN\/r_c\/poss} eyes after m_c asked for help.",
-            "When m_c asked r_c for help, r_c ignored {PRONOUN\/m_c\/object}.",
-            "m_c notices a strange glint in r_c's eyes.",
-            "m_c struggles to make sense of something trivial r_c said.",
-            "m_c can't help but feel uneased at r_c's words lately.",
-            "m_c noticed that r_c had a sour expression while looking at a Clanmate in the distance.",
-            "m_c felt eyes on {PRONOUN\/m_c\/poss} back, and when {PRONOUN\/m_c\/subject} looked, r_c was quickly turning away.",
-            "m_c thinks that r_c's tone sounds off today.",
-            "r_c laughs a little too long at one of m_c's jokes.",
-            "m_c sees r_c staring off into the distance. It's kind of creepy.",
-            "r_c doesn't say sorry when bumping into m_c.",
-            "m_c sees the blood of fresh-kill on r_c's paws and feels a prickle of discomfort."
+            "m_c a entendu une blague de r_c que {PRONOUN\/m_c\/subject} n'a pas comprise.",
+            "m_c essaie de parler avec r_c mais la conversation devient gênante car aucun des deux ne parle.",
+            "m_c a surpris r_c en train de lever les yeux au ciel après que m_c ait demandé de l'aide.",
+            "Quand m_c a demandé de l'aide à r_c, r_c a ignoré {PRONOUN\/m_c\/object}.",
+            "m_c remarque une lueur étrange dans les yeux de r_c.",
+            "m_c a du mal à comprendre quelque chose de banal que r_c a dit.",
+            "m_c ne peut s'empêcher d'être mal à l'aise à cause des paroles de r_c ces derniers temps.",
+            "m_c a remarqué que r_c avait une expression renfrognée en regardant un Clanmate au loin.",
+            "m_c a senti un regard dans son dos, et quand {PRONOUN\/m_c\/subject} s'est retourné, r_c détournait rapidement les yeux.",
+            "m_c pense que le ton de r_c est étrange aujourd'hui.",
+            "r_c rit un peu trop longtemps à l'une des blagues de m_c.",
+            "m_c voit r_c fixer le vide. C'est un peu inquiétant.",
+            "r_c ne s'excuse pas après avoir bousculé m_c.",
+            "m_c voit du sang de proie sur les pattes de r_c et ressent un frisson d'inconfort."
         ]
     },
     {
         "id": "comfort_de_low2",
         "intensity": "low",
         "interactions": [
-            "m_c said something that rubbed r_c the wrong way.",
-            "m_c was being condescending towards r_c all day long.",
-            "r_c is upset after spending the day with m_c's bad attitude.",
-            "m_c and r_c say goodbye, but end up walking in the same direction.",
-            "m_c wonders what {PRONOUN\/m_c\/subject} did to make r_c so rude towards {PRONOUN\/m_c\/object} today.",
-            "m_c and r_c reach for the same piece of prey and bicker over it. m_c gets it.",
-            "m_c and r_c reach for the same piece of prey and bicker over it. r_c gets it.",
-            "m_c bickers with r_c over who gets what nest material.",
-            "Late at night, m_c finds r_c sitting alone at the edge of camp. They go back to their dens without speaking.",
-            "The silence between m_c and r_c feels more uncomfortable than usual.",
-            "Both m_c and r_c avoid one another's eye contact.",
-            "After the Clan finds a strange object, m_c notes that r_c has been a little too fascinated with it.",
-            "It seems like there's an unspoken apology between m_c and r_c."
+            "m_c a dit quelque chose qui a contrarié r_c.",
+            "m_c a été condescendant envers r_c toute la journée.",
+            "r_c est contrarié après avoir passé la journée avec la mauvaise humeur de m_c.",
+            "m_c et r_c se disent au revoir, mais finissent par marcher dans la même direction.",
+            "m_c se demande ce que {PRONOUN\/m_c\/subject} a fait pour que r_c soit si désagréable envers {PRONOUN\/m_c\/object} aujourd'hui.",
+            "m_c et r_c attrapent le même morceau de proie et se disputent pour l'avoir. m_c l'obtient.",
+            "m_c et r_c attrapent le même morceau de proie et se disputent pour l'avoir. r_c l'obtient.",
+            "m_c se dispute avec r_c pour savoir qui aura quel matériau de nid.",
+            "Tard dans la nuit, m_c trouve r_c assis seul au bord du camp. Ils retournent dans leurs tanières sans parler.",
+            "Le silence entre m_c et r_c est plus gênant que d'habitude.",
+            "m_c et r_c évitent tous deux de se regarder dans les yeux.",
+            "Après que le Clan ait trouvé un objet étrange, m_c remarque que r_c est un peu trop fasciné par celui-ci.",
+            "On dirait qu'il y a des excuses non dites entre m_c et r_c."
         ],
         "reaction_random_cat": {
             "comfort": "decrease"
@@ -44,28 +44,28 @@
     {
         "id": "comfort_de_med1",
         "interactions": [
-            "m_c finds the way r_c acts increasingly uncomfortable.",
-            "m_c thinks r_c has been acting stuck up and rude.",
-            "m_c swears that r_c's fangs are longer than usual.",
-            "m_c's hackles raise when r_c passes by.",
-            "m_c had a terrible dream about r_c.",
-            "m_c worries about r_c's mental stability.",
-            "m_c can't stop thinking about the strange joke r_c told the other day.",
-            "r_c said something the other day that made m_c nervous.",
-            "m_c realizes that a strange smell in camp is coming from r_c.",
-            "m_c tells {PRONOUN\/m_c\/poss} Clanmates that something's off about r_c.",
-            "The moon casts a shadow on r_c's face in a way that makes m_c uneasy.",
-            "For a moment, m_c thought r_c sounded like someone else.",
-            "After r_c finished {PRONOUN\/r_c\/poss} food, m_c noticed {PRONOUN\/r_c\/subject} made a mess."
+            "m_c trouve que le comportement de r_c devient de plus en plus inconfortable.",
+            "m_c pense que r_c agit de façon hautaine et impolie.",
+            "m_c jurerait que les crocs de r_c sont plus longs que d'habitude.",
+            "Le poil de m_c se hérisse quand r_c passe à côté.",
+            "m_c a fait un affreux rêve à propos de r_c.",
+            "m_c s'inquiète pour la stabilité mentale de r_c.",
+            "m_c n'arrive pas à arrêter de penser à la blague étrange que r_c a racontée l'autre jour.",
+            "r_c a dit quelque chose l'autre jour qui a rendu m_c nerveux.",
+            "m_c réalise qu'une odeur étrange dans le camp vient de r_c.",
+            "m_c dit à {PRONOUN\/m_c\/poss} camarades de Clan qu'il y a quelque chose de bizarre chez r_c.",
+            "La lune projette une ombre sur le visage de r_c d'une façon qui met m_c mal à l'aise.",
+            "Pendant un instant, m_c a cru que r_c avait la voix de quelqu'un d'autre.",
+            "Après que r_c ait fini {PRONOUN\/r_c\/poss} nourriture, m_c remarque que {PRONOUN\/r_c\/subject} a laissé un vrai désordre."
         ]
     },
     {
         "id": "comfort_kit_de_med1",
         "interactions": [
-            "m_c feels like r_c was too rough while playing.",
-            "m_c doesn't think r_c was playing fair.",
-            "m_c accuses r_c of cheating during a game of hide-n-seek!",
-            "m_c cries after r_c wins one of their games."
+            "m_c a l'impression que r_c a été trop brutal en jouant.",
+            "m_c pense que r_c ne jouait pas équitablement.",
+            "m_c accuse r_c de tricher pendant une partie de cache-cache !",
+            "m_c pleure après que r_c ait gagné à l'un de leurs jeux."
         ],
         "main_status_constraint": [
             "kitten"
@@ -77,16 +77,16 @@
     {
         "id": "comfort_de_med2",
         "interactions": [
-            "m_c called r_c the wrong name.",
-            "r_c squashes a bug that m_c was watching.",
-            "m_c won't take r_c seriously.",
-            "m_c accuses r_c of stealing something.",
-            "r_c interrupted m_c to say something frivolous.",
-            "m_c was rudely awoken by r_c.",
-            "r_c says that m_c smells weird.",
-            "m_c keeps looking behind r_c during their conversation.",
-            "r_c won't tell m_c what {PRONOUN\/r_c\/subject} finds so funny.",
-            "m_c doesn't think r_c's weird joke was just a joke."
+            "m_c a appelé r_c par le mauvais nom.",
+            "r_c écrase un insecte que m_c était en train de regarder.",
+            "m_c ne prend pas r_c au sérieux.",
+            "m_c accuse r_c d'avoir volé quelque chose.",
+            "r_c a interrompu m_c pour dire quelque chose de futile.",
+            "m_c a été réveillé brutalement par r_c.",
+            "r_c dit que m_c sent bizarre.",
+            "m_c regarde constamment derrière r_c pendant leur conversation.",
+            "r_c ne veut pas dire à m_c ce que {PRONOUN\/r_c\/subject} trouve si drôle.",
+            "m_c ne pense pas que la blague étrange de r_c était vraiment une blague."
         ],
         "reaction_random_cat": {
             "comfort": "decrease"
@@ -95,13 +95,13 @@
     {
         "id": "comfort_de_med3",
         "interactions": [
-            "r_c is following m_c around.",
-            "r_c tells m_c that {PRONOUN\/m_c\/poss} pelt looks like a different color today.",
-            "r_c keeps tilting {PRONOUN\/r_c\/poss} head while looking at m_c.",
-            "r_c giggles beneath {PRONOUN\/r_c\/poss} breath every time m_c walks by.",
-            "m_c is put off by r_c's big, toothy grin.",
-            "m_c swears that r_c hasn't blinked today.",
-            "m_c notices that r_c looks a little too entertained by a Clanmate's unsettling story."
+            "r_c suit m_c partout.",
+            "r_c dit à m_c que {PRONOUN\/m_c\/poss} pelage semble d'une couleur différente aujourd'hui.",
+            "r_c penche sans cesse la tête en regardant m_c.",
+            "r_c glousse à voix basse chaque fois que m_c passe à côté.",
+            "m_c est mal à l'aise face au grand sourire plein de dents de r_c.",
+            "m_c jurerait que r_c n'a pas cligné des yeux aujourd'hui.",
+            "m_c remarque que r_c semble un peu trop amusé par l'histoire troublante d'un camarade de Clan."
         ],
         "random_trait_constraint": [
             "strange"
@@ -110,11 +110,11 @@
     {
         "id": "comfort_de_med4",
         "interactions": [
-            "r_c talks to m_c a bit too enthusiastically about how best to kill prey.",
-            "r_c started a fight with m_c.",
-            "m_c notices that r_c hasn't groomed fresh-kill blood off {PRONOUN\/r_c\/poss} paw.",
-            "m_c notices that r_c is playing with {PRONOUN\/r_c\/poss} fresh-kill.",
-            "m_c notices that r_c looks a little too entertained by a Clanmate's unsettling story."
+            "r_c parle à m_c un peu trop avec enthousiasme de la meilleure façon de tuer une proie.",
+            "r_c a commencé une bagarre avec m_c.",
+            "m_c remarque que r_c n'a pas nettoyé le sang de proie sur la patte de {PRONOUN\/r_c\/poss}.",
+            "m_c remarque que r_c joue avec sa proie fraîchement tuée.",
+            "m_c remarque que r_c semble un peu trop amusé par l'histoire troublante d'un camarade de Clan."
         ],
         "random_trait_constraint": [
             "bloodthirsty"
@@ -134,13 +134,13 @@
     {
         "id": "comfort_de_med5",
         "interactions": [
-            "r_c hissed at m_c.",
-            "r_c tells m_c to leave {PRONOUN\/r_c\/object} alone.",
-            "r_c is glaring at m_c from across the camp.",
-            "m_c asks about r_c's day and gets no response.",
-            "r_c growls when m_c gets too close.",
-            "r_c seems amused when m_c trips.",
-            "r_c says something bitter to m_c."
+            "r_c a feulé contre m_c.",
+            "r_c dit à m_c de laisser {PRONOUN\/r_c\/object} tranquille.",
+            "r_c lance un regard noir à m_c depuis l'autre côté du camp.",
+            "m_c demande à r_c comment s'est passée sa journée et n'obtient aucune réponse.",
+            "r_c grogne lorsque m_c s'approche trop.",
+            "r_c semble amusé quand m_c trébuche.",
+            "r_c dit quelque chose de blessant à m_c."
         ],
         "random_trait_constraint": [
             "cold"
@@ -149,11 +149,11 @@
     {
         "id": "comfort_de_med6",
         "interactions": [
-            "r_c crashes into m_c while eager for the new day.",
-            "r_c rejects m_c's advice without letting {PRONOUN\/m_c\/object} finish.",
-            "r_c interrupts m_c during a conversation.",
-            "r_c blurts out something. m_c wishes that r_c held {PRONOUN\/r_c\/poss} tongue.",
-            "r_c says something bad about m_c that's been on everyone's mind."
+            "r_c bouscule m_c, impatient de commencer la nouvelle journée.",
+            "r_c rejette le conseil de m_c sans laisser {PRONOUN\/m_c\/object} finir.",
+            "r_c interrompt m_c pendant une conversation.",
+            "r_c lâche quelque chose sans réfléchir. m_c aurait préféré que r_c garde {PRONOUN\/r_c\/poss} langue.",
+            "r_c dit quelque chose de négatif sur m_c que tout le monde pensait tout bas."
         ],
         "random_trait_constraint": [
             "bold",
@@ -164,35 +164,35 @@
         "id": "comfort_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c bristles after being scolded by r_c.",
-            "r_c laughs at something m_c said that shouldn't have been laughed at.",
-            "m_c sees r_c neglect a Clanmate.",
-            "m_c doesn't think that r_c's smile is genuine.",
-            "Every muscle in m_c's body tenses when r_c walks by.",
-            "m_c keeps having bad dreams about r_c.",
-            "m_c always notices r_c lurking nearby.",
-            "m_c badly misinterprets r_c's words.",
-            "r_c keeps pacing around the clearing late at night and m_c is the only one who notices.",
-            "m_c is discomforted by r_c's muttering.",
-            "m_c feels extremely unsettled when r_c looks at {PRONOUN\/m_c\/object}.",
-            "m_c can't stop thinking about the way r_c glared at {PRONOUN\/r_c\/object} Clanmate."
+            "m_c hérisse son poil après s'être fait réprimander par r_c.",
+            "r_c rit de quelque chose que m_c a dit alors que ce n'était pas drôle.",
+            "m_c voit r_c négliger un camarade de Clan.",
+            "m_c ne pense pas que le sourire de r_c soit sincère.",
+            "Tous les muscles de m_c se tendent quand r_c passe à côté.",
+            "m_c fait sans cesse de mauvais rêves à propos de r_c.",
+            "m_c remarque toujours que r_c rôde dans les parages.",
+            "m_c interprète très mal les paroles de r_c.",
+            "r_c fait les cent pas dans la clairière tard le soir et m_c est le seul à le remarquer.",
+            "m_c est mal à l'aise à cause des marmonnements de r_c.",
+            "m_c se sent extrêmement troublé quand r_c regarde {PRONOUN\/m_c\/object}.",
+            "m_c ne peut pas s'empêcher de penser à la façon dont r_c a lancé un regard noir à {PRONOUN\/r_c\/object} camarade de Clan."
         ]
     },
     {
         "id": "comfort_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c is telling jokes about r_c.",
-            "r_c won't tell m_c what {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} doing.",
-            "The Clan feels uneasy whenever m_c and r_c speak to each other.",
-            "m_c and r_c are joking around together, but the jokes are becoming targeted.",
-            "m_c told r_c to shut up.",
-            "During a conversation with r_c, m_c says something too bluntly.",
-            "m_c scolds r_c for not telling anyone about a piece of crowfood in the pile.",
-            "r_c thinks m_c is lying when {PRONOUN\/m_c\/subject} {VERB\/m_c\/apologize\/apologizes} for something.",
-            "m_c tells r_c that {PRONOUN\/r_c\/subject} {VERB\/r_c\/look\/looks} terrible today.",
-            "m_c was sarcastic to r_c at an inappropriate time.",
-            "m_c hisses at r_c over something small."
+            "m_c raconte des blagues sur r_c.",
+            "r_c refuse de dire à m_c ce que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} en train de faire.",
+            "Le Clan se sent mal à l'aise chaque fois que m_c et r_c se parlent.",
+            "m_c et r_c plaisantent ensemble, mais les blagues deviennent de plus en plus ciblées.",
+            "m_c dit à r_c de se taire.",
+            "Pendant une conversation avec r_c, m_c dit quelque chose de trop brusque.",
+            "m_c réprimande r_c pour ne pas avoir prévenu à propos d'un morceau de charogne dans la pile.",
+            "r_c pense que m_c ment quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/apologize\/apologizes} pour quelque chose.",
+            "m_c dit à r_c que {PRONOUN\/r_c\/subject} {VERB\/r_c\/look\/looks} affreux aujourd'hui.",
+            "m_c a été sarcastique envers r_c à un moment inapproprié.",
+            "m_c feule contre r_c pour une broutille."
         ],
         "reaction_random_cat": {
             "comfort": "decrease"
@@ -224,17 +224,17 @@
         "id": "comfort_de_high3",
         "intensity": "high",
         "interactions": [
-            "m_c shivers after noticing r_c following {PRONOUN\/m_c\/object} around like a shadow.",
-            "m_c feels a chill after noticing r_c is nearby.",
-            "Watching r_c stalk silently around camp makes m_c feel uneasy.",
-            "m_c doesn't like the way r_c seems to overwhelm the camp with {PRONOUN\/r_c\/poss} presence.",
-            "Even though r_c is a respectable Clanmate, m_c can't help but think {PRONOUN\/r_c\/subject} might be up to no good...",
-            "m_c swore {PRONOUN\/m_c\/subject} saw r_c burying something.",
-            "m_c can smell blood on r_c, but there's nothing there.",
-            "m_c sees a darkness in r_c's eyes.",
-            "A heavy feeling of guilt weighs on m_c whenever {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} kind to r_c.",
-            "The bad dreams that m_c has about r_c are progressively getting worse and worse.",
-            "m_c wonders why they always see r_c out of {PRONOUN\/r_c\/poss} den at night."
+            "m_c frissonne après avoir remarqué que r_c le suit partout comme une ombre.",
+            "m_c ressent un frisson après avoir remarqué que r_c est dans les parages.",
+            "Voir r_c rôder silencieusement dans le camp met m_c mal à l'aise.",
+            "m_c n'aime pas la façon dont r_c semble envahir le camp de sa présence.",
+            "Même si r_c est un camarade de Clan respectable, m_c ne peut s'empêcher de penser que {PRONOUN\/r_c\/subject} prépare quelque chose de louche...",
+            "m_c jurerait avoir vu r_c enterrer quelque chose.",
+            "m_c sent du sang sur r_c, mais il n'y a rien de visible.",
+            "m_c voit une obscurité dans les yeux de r_c.",
+            "Un lourd sentiment de culpabilité pèse sur m_c chaque fois que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} gentil avec r_c.",
+            "Les mauvais rêves que m_c fait à propos de r_c deviennent de pire en pire.",
+            "m_c se demande pourquoi {PRONOUN\/m_c\/subject} voit toujours r_c hors de {PRONOUN\/r_c\/poss} tanière la nuit."
         ],
         "random_trait_constraint": [
             "bloodthirsty",
@@ -257,12 +257,12 @@
         "id": "comfort_de_high4",
         "intensity": "high",
         "interactions": [
-            "m_c doesn't like the way that r_c seems to enjoy {PRONOUN\/r_c\/poss} influence over the Clan.",
-            "Much to m_c's dismay, r_c has asked {PRONOUN\/m_c\/object} to do another difficult task.",
-            "m_c thinks that r_c is casting a dark shadow over the whole Clan's reputation.",
-            "m_c noticed that things have gotten more tense since r_c earned {PRONOUN\/r_c\/poss} rank.",
-            "When r_c addresses the Clan, m_c notices a frightening edge to {PRONOUN\/r_c\/poss} tone.",
-            "m_c is worried that r_c might be sending the Clan down a dark path."
+            "m_c n'aime pas la façon dont r_c semble apprécier son influence sur le Clan.",
+            "À la grande consternation de m_c, r_c a demandé à {PRONOUN\/m_c\/object} d'accomplir une autre tâche difficile.",
+            "m_c pense que r_c jette une ombre sombre sur la réputation de tout le Clan.",
+            "m_c a remarqué que l'ambiance est devenue plus tendue depuis que r_c a obtenu son rang.",
+            "Quand r_c s'adresse au Clan, m_c remarque une note inquiétante dans le ton de {PRONOUN\/r_c\/poss}.",
+            "m_c craint que r_c n'entraîne le Clan sur une voie sombre."
         ],
         "random_trait_constraint": [
             "bloodthirsty",
@@ -289,13 +289,13 @@
         "id": "comfort_de_high5",
         "intensity": "high",
         "interactions": [
-            "m_c notices that r_c doesn't seem to care if {PRONOUN\/r_c\/poss} treatments hurt.",
-            "m_c overhears r_c complaining about giving herbs to cats that don't 'deserve' them.",
-            "m_c is startled at r_c's views on sharing herbs with other Clans.",
-            "m_c noticed that there are less deathberries than usual in r_c's herb storage.",
-            "m_c feels more nauseous after being treated r_c for a stomach ache.",
-            "m_c catches r_c doing experimental treatments on a piece of fresh-kill.",
-            "m_c bristles after seeing r_c add more deathberries to {PRONOUN\/r_c\/poss} herb storage."
+            "m_c remarque que r_c ne semble pas se soucier si ses traitements font mal.",
+            "m_c surprend r_c en train de se plaindre de devoir donner des herbes à des chats qui ne les 'méritent' pas.",
+            "m_c est choqué par l'avis de r_c sur le partage des herbes avec les autres Clans.",
+            "m_c a remarqué qu'il y a moins de baies empoisonnées que d'habitude dans la réserve d'herbes de r_c.",
+            "m_c se sent encore plus nauséeux après avoir été soigné par r_c pour un mal de ventre.",
+            "m_c surprend r_c en train de faire des traitements expérimentaux sur une pièce de gibier.",
+            "m_c hérisse son poil en voyant r_c ajouter encore plus de baies empoisonnées à la réserve d'herbes de {PRONOUN\/r_c\/poss}."
         ],
         "random_trait_constraint": [
             "bloodthirsty",

@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "The desert is a deadly place for a lone wanderer. n_c:0 readily accepts m_c's offer to join c_n.",
+        "event_text": "Le désert est un endroit mortel pour un vagabond solitaire. n_c:0 accepte volontiers l'offre de m_c de rejoindre c_n.",
         "m_c": {
             "age": [
                 "young adult",
@@ -57,7 +57,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds a wandering loner while on patrol. Though c_n may not be fond of outsiders, no cat can deny new blood is hard to come by and inevitably needed. n_c:0 is allowed to join the Clan.",
+        "event_text": "m_c trouve un solitaire errant lors d'une patrouille. Même si c_n n'apprécie pas forcément les étrangers, aucun chat ne peut nier que du sang neuf est rare et nécessaire. n_c:0 est autorisé à rejoindre le Clan.",
         "m_c": {
             "age": [
                 "young adult",
@@ -93,7 +93,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds a wandering loner while on patrol. New blood is hard to come by in the desert, and n_c:0 is readily accepted into the Clan.",
+        "event_text": "m_c trouve un solitaire errant lors d'une patrouille. Le sang neuf est rare dans le désert, et n_c:0 est rapidement accepté dans le Clan.",
         "m_c": {
             "age": [
                 "young adult",
@@ -130,7 +130,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds an abandoned litter while on patrol and rushes them back to camp. Such young cats were lucky to have survived under the hot desert sun.",
+        "event_text": "m_c trouve une portée abandonnée lors d'une patrouille et les ramène en urgence au camp. Ces jeunes chats ont eu de la chance de survivre sous le soleil brûlant du désert.",
         "m_c": {
             "age": [
                 "young adult",

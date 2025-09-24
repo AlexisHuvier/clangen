@@ -14,7 +14,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "m_c can't keep this secret anymore. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/request\/requests} a Clan meeting, where {PRONOUN\/m_c\/subject} {VERB\/m_c\/reveal\/reveals} the terrible secret {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} kept; {PRONOUN\/m_c\/subject} killed mur_c.",
+        "event_text": "m_c ne peut plus garder ce secret. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/request\/requests} une assemblée du Clan, où {PRONOUN\/m_c\/subject} {VERB\/m_c\/reveal\/reveals} le terrible secret que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} caché : {PRONOUN\/m_c\/subject} a tué mur_c.",
         "m_c": {
             "age": [
                 "any"
@@ -62,7 +62,7 @@
             "murder_reveal"
         ],
         "frequency": 3,
-        "event_text": "r_c is stunned when {PRONOUN\/r_c\/subject} {VERB\/r_c\/discover\/discovers} m_c carelessly bragging about killing mur_c to a wandering loner.",
+        "event_text": "r_c est stupéfait lorsque {PRONOUN\/r_c\/subject} {VERB\/r_c\/discover\/discovers} m_c en train de se vanter négligemment d’avoir tué mur_c devant un solitaire de passage.",
         "m_c": {
             "age": [
                 "any"
@@ -104,7 +104,7 @@
             "murder_reveal"
         ],
         "frequency": 3,
-        "event_text": "m_c is truthful when r_c questions {PRONOUN\/m_c\/object} about mur_c's strange death. m_c claims that mur_c deserved to die after what {PRONOUN\/mur_c\/subject} did to m_c.",
+        "event_text": "m_c répond honnêtement lorsque r_c l’interroge sur la mort étrange de mur_c. m_c affirme que mur_c méritait de mourir après ce que {PRONOUN\/mur_c\/subject} lui a fait.",
         "m_c": {
             "age": [
                 "any"
@@ -150,7 +150,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "m_c boldly confesses to the entire Clan that {PRONOUN\/m_c\/subject} killed mur_c. m_c claims that mur_c deserved to pay for what {PRONOUN\/mur_c\/subject} did.",
+        "event_text": "m_c avoue courageusement devant tout le Clan avoir tué mur_c. m_c affirme que mur_c méritait de payer pour ce que {PRONOUN\/mur_c\/subject} a fait.",
         "m_c": {
             "age": [
                 "any"
@@ -219,7 +219,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "m_c's cold eyes don't blink when {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} accused of murdering mur_c, and only simply states that the Clan is better off without mur_c anyways.",
+        "event_text": "Les yeux froids de m_c ne cillent pas quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} accusé d’avoir tué mur_c, et se contente de dire que le Clan se porte mieux sans mur_c de toute façon.",
         "m_c": {
             "age": [
                 "any"
@@ -247,7 +247,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "m_c doesn't change expressions in the slightest when r_c accuses {PRONOUN\/m_c\/object} of murdering mur_c. Who cares?",
+        "event_text": "m_c ne montre aucune émotion lorsque r_c l’accuse d’avoir tué mur_c. Peu importe, non ?",
         "m_c": {
             "age": [
                 "any"
@@ -290,7 +290,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "r_c avoids m_c at all costs after accidentally witnessing mur_c's murder. r_c knows {PRONOUN\/r_c\/subject} can't keep it a secret but is terrified of what m_c might do.",
+        "event_text": "r_c évite m_c à tout prix après avoir accidentellement assisté au meurtre de mur_c. r_c sait que {PRONOUN\/r_c\/subject} ne pourra pas garder ce secret mais a peur de ce que m_c pourrait faire.",
         "m_c": {
             "age": [
                 "any"
@@ -346,7 +346,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "r_c gathers all the courage {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} and quietly tells m_c {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} what {PRONOUN\/m_c\/subject} did to mur_c. m_c glares menacingly and threatens r_c with the same fate if {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} keep {PRONOUN\/r_c\/poss} mouth shut.",
+        "event_text": "r_c rassemble tout son courage et avoue discrètement à m_c que {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} ce que {PRONOUN\/m_c\/subject} a fait à mur_c. m_c lance un regard menaçant et menace r_c du même sort si {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} garde la bouche fermée.",
         "m_c": {
             "age": [
                 "any"
@@ -425,7 +425,7 @@
             "murder_reveal"
         ],
         "frequency": 3,
-        "event_text": "m_c laughs menacingly as r_c accuses {PRONOUN\/m_c\/object} of murdering mur_c. So what if {PRONOUN\/m_c\/subject} did? What is r_c going to do about it?",
+        "event_text": "m_c rit d’un air menaçant lorsque r_c l’accuse d’avoir tué mur_c. Et alors si {PRONOUN\/m_c\/subject} l’a fait ? Qu’est-ce que r_c va faire ?",
         "m_c": {
             "age": [
                 "any"
@@ -468,7 +468,7 @@
             "murder_reveal"
         ],
         "frequency": 3,
-        "event_text": "m_c can't keep this secret anymore. When {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} {PRONOUN\/m_c\/self} alone with r_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/tell\/tells} the story of mur_c's death.",
+        "event_text": "m_c ne peut plus garder ce secret. Quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} {PRONOUN\/m_c\/self} seul avec r_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/tell\/tells} l’histoire de la mort de mur_c.",
         "m_c": {
             "age": [
                 "any"
@@ -522,7 +522,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "r_c overheard m_c muttering in {PRONOUN\/m_c\/poss} sleep, claws slashing at the air. {PRONOUN\/m_c\/poss\/CAP} muttering confirms what r_c always suspected -  m_c was the one responsible for mur_c's death.",
+        "event_text": "r_c surprend m_c en train de marmonner dans son sommeil, griffes fendant l’air. Les paroles de m_c confirment ce que r_c soupçonnait depuis toujours : m_c est responsable de la mort de mur_c.",
         "m_c": {
             "age": [
                 "any"
@@ -572,7 +572,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "r_c wasn't even suspecting {PRONOUN\/m_c\/object}. But as soon as r_c mentions mur_c's death, m_c breaks down, telling how {PRONOUN\/m_c\/subject} didn't intend to do it, that it was all just an accident. Between wails, m_c desperately begs for r_c to understand {PRONOUN\/m_c\/subject} never wanted mur_c to die.",
+        "event_text": "r_c ne soupçonnait même pas m_c. Mais dès que r_c mentionne la mort de mur_c, m_c s’effondre et avoue en pleurant que tout était un accident, que {PRONOUN\/m_c\/subject} n’a jamais voulu que mur_c meure. Entre deux sanglots, m_c supplie r_c de comprendre.",
         "m_c": {
             "age": [
                 "any"
@@ -636,7 +636,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "c_n is surprised when m_c gathers everyone to say something important. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/have\/has} decided it's time to make something clear: {PRONOUN\/m_c\/subject} killed mur_c, but not for the reasons they might think. m_c knew mur_c was planning to do something that would've damaged c_n greatly, and {PRONOUN\/m_c\/subject} needed to act quickly before it was too late.",
+        "event_text": "c_n est surpris lorsque m_c rassemble tout le monde pour faire une annonce importante. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/have\/has} décidé qu’il est temps d’être honnête : {PRONOUN\/m_c\/subject} a tué mur_c, mais pas pour les raisons que le Clan imagine. m_c savait que mur_c préparait quelque chose qui aurait pu nuire gravement à c_n, et {PRONOUN\/m_c\/subject} a agi avant qu’il ne soit trop tard.",
         "m_c": {
             "age": [
                 "any"
@@ -715,7 +715,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "r_c quietly takes m_c aside and tells {PRONOUN\/m_c\/object} {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} what {PRONOUN\/m_c\/subject} did to mur_c. Before m_c has time to defend {PRONOUN\/m_c\/self}, r_c eerily smiles and assures {PRONOUN\/m_c\/object} {PRONOUN\/r_c\/subject} won't tell anyone, that {PRONOUN\/r_c\/subject} {VERB\/r_c\/agree\/agrees} with what m_c did. m_c squints {PRONOUN\/m_c\/poss} eyes, not sure if {PRONOUN\/m_c\/subject} should trust r_c's words.",
+        "event_text": "r_c prend m_c à part et lui murmure qu’{PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} ce que {PRONOUN\/m_c\/subject} a fait à mur_c. Avant que m_c ne puisse se défendre, r_c sourit étrangement et promet de ne rien dire, affirmant même approuver l’acte de m_c. m_c plisse les yeux, incertain de pouvoir faire confiance à r_c.",
         "m_c": {
             "age": [
                 "any"
@@ -776,7 +776,7 @@
             "murder_reveal"
         ],
         "frequency": 2,
-        "event_text": "One day, when m_c and r_c are alone together, r_c gathers the courage to finally tell m_c what {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} been holding off for so long: {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} m_c was the one who killed mur_c, and has been waiting for {PRONOUN\/m_c\/object} to do the right thing and confess, but if {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} do it, then r_c will have to be the one to tell the Clan. m_c is shocked, but also kind of admires r_c's guts to tell {PRONOUN\/m_c\/object} that when they're all alone together.",
+        "event_text": "Un jour, alors que m_c et r_c sont seuls, r_c trouve enfin le courage d’avouer à m_c ce qu’{PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} gardé pour lui : {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} que m_c a tué mur_c, et attend que m_c fasse ce qu’il faut et avoue, sinon r_c devra le révéler au Clan. m_c est choqué, mais admire aussi le cran de r_c de lui dire cela en tête-à-tête.",
         "m_c": {
             "age": [
                 "any"
@@ -850,7 +850,7 @@
             "murder_reveal"
         ],
         "frequency": 4,
-        "event_text": "r_c sighs. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/find\/finds} {PRONOUN\/r_c\/self} unintentionally walking into one of {PRONOUN\/r_c\/poss} Clanmates' dreams again. It could have been just another boring or nonsensical dream, but r_c is horrified to discover this dream is m_c's recollection of murdering mur_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/wake\/wakes} up in shock, wondering what to do with this new knowledge.",
+        "event_text": "r_c soupire. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/find\/finds} {PRONOUN\/r_c\/self} à errer sans le vouloir dans les rêves d’un Clanmate. Cette fois, ce n’est pas un rêve banal : r_c découvre horrifié qu’il s’agit du souvenir de m_c tuant mur_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/wake\/wakes} en sursaut, bouleversé par cette révélation.",
         "m_c": {
             "age": [
                 "any"
@@ -908,7 +908,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "r_c announces that mur_c's death was no accident. m_c confesses there and then, detailing the act as if mur_c was a piece of fresh-kill.",
+        "event_text": "r_c annonce que la mort de mur_c n’était pas un accident. m_c avoue aussitôt, décrivant l’acte comme s’il s’agissait d’un morceau de gibier.",
         "m_c": {
             "age": [
                 "any"
@@ -988,7 +988,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "m_c admits quietly to r_c that {PRONOUN\/m_c\/subject} lost {PRONOUN\/m_c\/poss} temper on that terrible, fateful day... r_c's death was at {PRONOUN\/m_c\/poss} paws.",
+        "event_text": "m_c avoue à voix basse à r_c qu’{PRONOUN\/m_c\/subject} a perdu son sang-froid ce jour-là... la mort de r_c est de sa faute.",
         "m_c": {
             "age": [
                 "any"
@@ -1048,7 +1048,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "m_c unexpectedly breaks mid-conversation, confessing in a rush that {PRONOUN\/m_c\/subject} could have saved mur_c... but {PRONOUN\/m_c\/subject} panicked. In that way, m_c believes, {PRONOUN\/m_c\/subject} murdered mur_c.",
+        "event_text": "m_c craque soudainement en pleine conversation et avoue précipitamment qu’{PRONOUN\/m_c\/subject} aurait pu sauver mur_c... mais {PRONOUN\/m_c\/subject} a paniqué. À ses yeux, c’est comme si {PRONOUN\/m_c\/subject} avait tué mur_c.",
         "m_c": {
             "age": [
                 "any"
@@ -1119,7 +1119,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "m_c stands in the water for hours on end, but the flow cannot wash away mur_c's blood, nor the guilt coiled heavy in {PRONOUN\/m_c\/poss} chest.",
+        "event_text": "m_c reste des heures debout dans l’eau, mais le courant n’efface ni le sang de mur_c ni la culpabilité qui pèse dans sa poitrine.",
         "m_c": {
             "age": [
                 "any"
@@ -1170,7 +1170,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "Previously believed to be a natural course of events, mur_c's death is now known for what it was: a murder at the paws of m_c.",
+        "event_text": "Ce que l’on croyait être un accident naturel est désormais révélé : mur_c a été tué par m_c.",
         "m_c": {
             "age": [
                 "any"
@@ -1206,7 +1206,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c went for a long walk this morning, deep in thought.",
+        "event_text": "m_c est parti marcher longtemps ce matin, plongé dans ses pensées.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1235,7 +1235,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "r_c tells m_c that mur_c forgives {PRONOUN\/m_c\/object}. m_c's tearful admission of guilt finally makes the vision from StarClan make sense.",
+        "event_text": "r_c annonce à m_c que mur_c lui a pardonné. L’aveu en larmes de m_c donne enfin un sens à la vision envoyée par le Clan des Étoiles.",
         "m_c": {
             "age": [
                 "any"
@@ -1286,7 +1286,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "r_c yowls in shock, stammering that mur_c just appeared to {PRONOUN\/r_c\/object} and said {PRONOUN\/mur_c\/subject} {VERB\/mur_c\/were\/was} murdered by m_c!",
+        "event_text": "r_c pousse un cri de stupeur, balbutiant que mur_c vient d’apparaître devant {PRONOUN\/r_c\/object} et a dit que {PRONOUN\/mur_c\/subject} {VERB\/mur_c\/were\/was} assassiné par m_c !",
         "m_c": {
             "age": [
                 "any"
@@ -1347,7 +1347,7 @@
                 ],
                 "amount": -5,
                 "log": [
-                    "m_c was discomforted by a reminder of r_c's unnatural powers."
+                    "m_c a été troublé par un rappel des pouvoirs surnaturels de r_c."
                 ]
             }
         ]
@@ -1366,7 +1366,7 @@
             "accessory"
         ],
         "frequency": 1,
-        "event_text": "m_c disappears for a few days, then returns to camp with a acc_singular around {PRONOUN\/m_c\/poss} neck.",
+        "event_text": "m_c disparaît pendant quelques jours, puis revient au camp avec un acc_singular autour du cou.",
         "new_accessory": [
             "COLLAR"
         ],
@@ -1391,7 +1391,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c accidentally trespasses onto o_c_n's territory.",
+        "event_text": "m_c traverse accidentellement la frontière et se retrouve sur le territoire de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1419,7 +1419,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c spends the evening regaling the Clan with stories of story_list.",
+        "event_text": "m_c passe la soirée à raconter au Clan des histoires de story_list.",
         "m_c": {
             "age": [
                 "any"
@@ -1448,7 +1448,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was trying to fluff up {PRONOUN\/m_c\/poss} nest when {PRONOUN\/m_c\/subject} saw a thorn inside of {PRONOUN\/m_c\/poss} bedding. Another prank, but it could not fool {PRONOUN\/m_c\/object}!",
+        "event_text": "m_c essayait de gonfler sa litière quand {PRONOUN\/m_c\/subject} a vu une épine dans sa couche. Encore une farce, mais cela n’a pas trompé {PRONOUN\/m_c\/object} !",
         "m_c": {
             "age": [
                 "any"
@@ -1467,7 +1467,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c wasn't looking where {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} going and tripped over a small trunk, but came out of it with only {PRONOUN\/m_c\/poss} pride bruised.",
+        "event_text": "m_c ne regardait pas où {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} et a trébuché sur une petite souche, mais s’en est sorti avec seulement son orgueil blessé.",
         "m_c": {
             "age": [
                 "any"
@@ -1486,7 +1486,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c misstepped and slipped from a rock, but landed on {PRONOUN\/m_c\/poss} feet nimbly, {PRONOUN\/m_c\/poss} Clanmates commenting on the show of dexterity.",
+        "event_text": "m_c a glissé d’un rocher, mais a atterri sur ses pattes avec agilité, ses camarades de Clan commentant sa dextérité.",
         "m_c": {
             "age": [
                 "any"
@@ -1508,7 +1508,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c tossed a snake out of the camp before it could bite someone.",
+        "event_text": "m_c a jeté un serpent hors du camp avant qu’il ne puisse mordre quelqu’un.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1545,7 +1545,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c tries to convince r_c to run away with {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c tente de convaincre r_c de s’enfuir avec {PRONOUN\/m_c\/object}.",
         "m_c": {
             "age": [
                 "young adult",
@@ -1578,7 +1578,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c believes {PRONOUN\/m_c\/subject}'{VERB\/m_c\/re\/s} meant for something greater.",
+        "event_text": "m_c croit que {PRONOUN\/m_c\/subject}{VERB\/m_c\/re\/s} destiné à quelque chose de plus grand.",
         "m_c": {
             "age": [
                 "any"
@@ -1597,7 +1597,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c believes {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} part of a new prophecy.",
+        "event_text": "m_c pense que {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} impliqué dans une nouvelle prophétie.",
         "m_c": {
             "age": [
                 "any"
@@ -1616,7 +1616,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c went missing for a few days.",
+        "event_text": "m_c a disparu pendant quelques jours.",
         "m_c": {
             "age": [
                 "any"
@@ -1635,7 +1635,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c is caught breaking the Warrior Code.",
+        "event_text": "m_c est surpris en train d’enfreindre le Code du Guerrier.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1678,7 +1678,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c is caught outside of the Clan's territory.",
+        "event_text": "m_c est surpris en dehors du territoire du Clan.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1701,7 +1701,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c considers, as {PRONOUN\/m_c\/subject} {VERB\/m_c\/look\/looks} out over the Clan, if perhaps this isn't where {PRONOUN\/m_c\/subject} {VERB\/m_c\/belong\/belongs}.",
+        "event_text": "m_c se demande, alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/look\/looks} le Clan, si c’est vraiment ici que {PRONOUN\/m_c\/subject} {VERB\/m_c\/belong\/belongs}.",
         "m_c": {
             "age": [
                 "any"
@@ -1726,7 +1726,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The world around {PRONOUN\/m_c\/object} feels smaller lately; m_c looks out at the horizon and yearns for something unnameable.",
+        "event_text": "Le monde autour de {PRONOUN\/m_c\/object} semble plus petit ces temps-ci ; m_c regarde l’horizon et ressent un manque inexplicable.",
         "m_c": {
             "age": [
                 "any"
@@ -1749,7 +1749,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c's dreams are filled with flashing teeth and blood-scent. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} up screaming.",
+        "event_text": "Les rêves de m_c sont remplis de crocs luisants et d’odeur de sang. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} en hurlant.",
         "m_c": {
             "age": [
                 "any"
@@ -1771,7 +1771,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c thought {PRONOUN\/m_c\/subject} saw a familiar wispy form lingering at the edge of camp, but it disappeared before {PRONOUN\/m_c\/subject} could be sure.",
+        "event_text": "m_c croit avoir aperçu une silhouette familière et vaporeuse à la lisière du camp, mais elle a disparu avant que {PRONOUN\/m_c\/subject} puisse en être sûr.",
         "m_c": {
             "age": [
                 "any"
@@ -1799,7 +1799,7 @@
             "clan:kitten"
         ],
         "frequency": 4,
-        "event_text": "The older cats look fondly upon the kits who are dashing in and out of leaf piles at the edge of camp.",
+        "event_text": "Les anciens regardent avec tendresse les chatons qui courent dans les tas de feuilles au bord du camp.",
         "m_c": {
             "age": [
                 "senior",
@@ -1825,7 +1825,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c begin a small camp snowball fight while on guard duty, eventually getting the whole Clan to join in.",
+        "event_text": "m_c et r_c commencent une bataille de boules de neige pendant leur garde, entraînant bientôt tout le Clan dans le jeu.",
         "m_c": {
             "status": [
                 "warrior"
@@ -1869,7 +1869,7 @@
             "leaf-bare"
         ],
         "frequency": 3,
-        "event_text": "m_c encourages r_c to play in the snow with {PRONOUN\/m_c\/object} during a patrol.",
+        "event_text": "m_c encourage r_c à jouer dans la neige avec {PRONOUN\/m_c\/object} pendant une patrouille.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1917,7 +1917,7 @@
             "accessory"
         ],
         "frequency": 2,
-        "event_text": "m_c always seems to have acc_plural stuck in {PRONOUN\/m_c\/poss} fur.",
+        "event_text": "m_c a toujours des acc_plural coincés dans sa fourrure.",
         "new_accessory": [
             "HERBS",
             "PETALS",
@@ -1952,7 +1952,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c finds acc_plural while out on a walk and decides to give them to m_c.",
+        "event_text": "r_c trouve des acc_plural lors d’une promenade et décide de les offrir à m_c.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2008,7 +2008,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c finds acc_plural while out on a walk and decides to keep them.",
+        "event_text": "m_c trouve des acc_plural lors d'une promenade et décide de les garder.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2035,7 +2035,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c was given acc_plural as a congratulations, r_c watches from the side with a jealous glint in {PRONOUN\/r_c\/poss} eyes.",
+        "event_text": "m_c a reçu des acc_plural en guise de félicitations, r_c observe sur le côté avec une lueur de jalousie dans les yeux de {PRONOUN\/r_c\/poss}.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2086,7 +2086,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c received a present, acc_plural, from r_c and decided to keep it with {PRONOUN\/m_c\/object} on {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "m_c a reçu un cadeau, des acc_plural, de la part de r_c et décide de les garder sur sa fourrure.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2137,7 +2137,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c decides to pick something to adorn {PRONOUN\/m_c\/poss} pelt as celebration.",
+        "event_text": "m_c choisit de décorer sa fourrure pour célébrer.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2164,7 +2164,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c gives m_c something to adorn {PRONOUN\/m_c\/poss} pelt as congratulations.",
+        "event_text": "r_c offre à m_c de quoi décorer sa fourrure en guise de félicitations.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2217,7 +2217,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c found a mysterious acc_singular growing in the frost and decided to wear it.",
+        "event_text": "m_c a trouvé un mystérieux acc_singular gelé dans la brume et décide de le porter.",
         "new_accessory": [
             "FORGET ME NOTS",
             "BLUEBELLS",
@@ -2247,7 +2247,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c are so cuddled up and cozy in their nest they almost miss the dawn patrol.",
+        "event_text": "m_c et r_c sont si blottis et confortables dans leur nid qu'ils manquent presque la patrouille de l'aube.",
         "m_c": {
             "age": [
                 "young adult",
@@ -2295,7 +2295,7 @@
             "clan:kitten"
         ],
         "frequency": 2,
-        "event_text": "m_c listens bashfully as r_c tells the story of how {PRONOUN\/r_c\/subject} fell in love with {PRONOUN\/r_c\/poss} mate to a group of starry-eyed kits.",
+        "event_text": "m_c écoute timidement r_c raconter aux chatons comment {PRONOUN\/r_c\/subject} est tombé amoureux de son compagnon.",
         "m_c": {
             "age": [
                 "any"
@@ -2345,7 +2345,7 @@
             "clan:elder"
         ],
         "frequency": 3,
-        "event_text": "m_c watches r_c give an elder the best piece of prey on the pile. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/feel\/feels} lucky to have such a kind cat as {PRONOUN\/m_c\/poss} mate.",
+        "event_text": "m_c regarde r_c offrir la plus belle proie à un ancien. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/feel\/feels} chanceux d'avoir un compagnon aussi gentil.",
         "m_c": {
             "age": [
                 "any"
@@ -2393,7 +2393,7 @@
             "clan:kitten"
         ],
         "frequency": 3,
-        "event_text": "m_c and r_c watch the Clan's kits play and exchange significant glances.",
+        "event_text": "m_c et r_c observent les chatons du Clan jouer et échangent des regards complices.",
         "m_c": {
             "age": [
                 "any"
@@ -2441,7 +2441,7 @@
             "romance"
         ],
         "frequency": 3,
-        "event_text": "m_c and r_c take a late night patrol out of camp to watch the sun rise.",
+        "event_text": "m_c et r_c partent en patrouille nocturne pour admirer le lever du soleil.",
         "m_c": {
             "age": [
                 "young adult",
@@ -2483,7 +2483,7 @@
             "newleaf"
         ],
         "frequency": 4,
-        "event_text": "m_c sits still as r_c helps remove some leftover leaf-bare fluff from the back of {PRONOUN\/m_c\/poss} neck.",
+        "event_text": "m_c reste immobile pendant que r_c enlève le duvet de feuille-morte resté sur sa nuque.",
         "m_c": {
             "age": [
                 "young adult",
@@ -2529,7 +2529,7 @@
             "greenleaf"
         ],
         "frequency": 4,
-        "event_text": "It's tough working in such extreme heat. m_c and r_c spend their evening relaxing together and cooling down in the shade.",
+        "event_text": "Il fait si chaud que m_c et r_c passent la soirée à se reposer ensemble à l'ombre.",
         "m_c": {
             "age": [
                 "young adult",
@@ -2579,7 +2579,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "r_c finds some acc_plural, and gives m_c one to make up for a bad fight between them.",
+        "event_text": "r_c trouve des acc_plural et en offre un à m_c pour se réconcilier après une dispute.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2633,7 +2633,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c finds some acc_plural and gifts {PRONOUN\/r_c\/poss} beloved m_c to wear some in {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "r_c trouve des acc_plural et en offre à son cher m_c pour décorer sa fourrure.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -2691,7 +2691,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "m_c and r_c spend the evening chasing cicadas around camp. m_c keeps a trophy of {PRONOUN\/m_c\/poss} catch on {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "m_c et r_c passent la soirée à chasser les cigales autour du camp. m_c garde un trophée de sa prise sur sa fourrure.",
         "new_accessory": [
             "CICADA WINGS",
             "BLACK CICADA"
@@ -2746,7 +2746,7 @@
             "accessory"
         ],
         "frequency": 2,
-        "event_text": "r_c gives m_c the prettiest fallen leaf {PRONOUN\/r_c\/subject} can find. m_c wears it with pride.",
+        "event_text": "r_c offre à m_c la plus jolie feuille tombée qu'il puisse trouver. m_c la porte fièrement.",
         "new_accessory": [
             "MAPLE LEAF"
         ],
@@ -2796,7 +2796,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c thinks about the possibility of retiring.",
+        "event_text": "m_c songe à la possibilité de prendre sa retraite.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -2824,7 +2824,7 @@
             "newleaf"
         ],
         "frequency": 3,
-        "event_text": "m_c picks some flowers around the camp to bring back to the medicine cat den.",
+        "event_text": "m_c cueille des fleurs autour du camp pour les rapporter à la tanière du guérisseur.",
         "m_c": {
             "status": [
                 "kitten"
@@ -2843,7 +2843,7 @@
             "clan:warrior"
         ],
         "frequency": 3,
-        "event_text": "m_c chases fireflies around the camp while the warriors sleep.",
+        "event_text": "m_c poursuit des lucioles autour du camp pendant que les guerriers dorment.",
         "m_c": {
             "status": [
                 "kitten"
@@ -2859,7 +2859,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c try to sneak out of camp, but are caught and returned to the nursery.",
+        "event_text": "m_c et r_c essaient de s'éclipser du camp, mais sont rattrapés et ramenés à la pouponnière.",
         "m_c": {
             "status": [
                 "kitten"
@@ -2899,7 +2899,7 @@
             "greenleaf"
         ],
         "frequency": 3,
-        "event_text": "m_c and r_c sneak out of camp to chase butterflies.",
+        "event_text": "m_c et r_c s'échappent du camp pour courir après les papillons.",
         "m_c": {
             "status": [
                 "kitten"
@@ -2940,7 +2940,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c chase fireflies around the camp while the warriors try to sleep.",
+        "event_text": "m_c et r_c poursuivent les lucioles autour du camp pendant que les guerriers essaient de dormir.",
         "m_c": {
             "status": [
                 "kitten"
@@ -2983,7 +2983,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c lead a small leaf-gathering hunt, which the adult cats watch with amused purrs.",
+        "event_text": "m_c et r_c organisent une petite chasse aux feuilles, sous le regard amusé des adultes.",
         "m_c": {
             "status": [
                 "kitten"
@@ -3023,7 +3023,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c play with the leaves around the camp.",
+        "event_text": "m_c et r_c jouent avec les feuilles autour du camp.",
         "m_c": {
             "status": [
                 "kitten"
@@ -3062,7 +3062,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c make little snow lumps at the entrance to the camp.",
+        "event_text": "m_c et r_c font des petits tas de neige à l'entrée du camp.",
         "m_c": {
             "status": [
                 "kitten"
@@ -3105,7 +3105,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c flick snow at the warriors, giggling as they hide behind the nursery.",
+        "event_text": "m_c et r_c lancent de la neige sur les guerriers, riant en se cachant derrière la pouponnière.",
         "m_c": {
             "status": [
                 "kitten"
@@ -3146,7 +3146,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c was comforted by r_c after having nightmares about the big, bad o_c_n cats.",
+        "event_text": "m_c a été réconforté par r_c après avoir fait des cauchemars sur les affreux chats de o_c_n.",
         "m_c": {
             "status": [
                 "kitten"
@@ -3194,7 +3194,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "m_c was playing with acc_plural earlier, and decides to wear some of them.",
+        "event_text": "m_c jouait avec des acc_plural plus tôt, et décide d'en porter quelques-uns.",
         "new_accessory": [
             "RED FEATHERS",
             "BLUE FEATHERS",
@@ -3220,7 +3220,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "m_c snuck out of camp, and brought back with {PRONOUN\/m_c\/object} some acc_singular from when {PRONOUN\/m_c\/poss} fur got snagged in a bush.",
+        "event_text": "m_c s'est faufilé hors du camp et a rapporté avec {PRONOUN/m_c/object} un acc_singular après que sa fourrure se soit accrochée dans un buisson.",
         "new_accessory": [
             "HOLLY",
             "JUNIPER",
@@ -3245,7 +3245,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "m_c caught an insect while sneaking outside of the camp and proudly wears its wings as a trophy of {PRONOUN\/m_c\/poss} journey.",
+        "event_text": "m_c a attrapé un insecte en se faufilant hors du camp et porte fièrement ses ailes comme trophée de {PRONOUN/m_c/poss} aventure.",
         "new_accessory": [
             "MOTH WINGS",
             "ROSY MOTH WINGS",
@@ -3276,7 +3276,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "As the wind blows many petals in the camp, m_c picks a few to decorate {PRONOUN\/m_c\/self}.",
+        "event_text": "Alors que le vent souffle de nombreux pétales dans le camp, m_c en ramasse quelques-uns pour se décorer.",
         "new_accessory": [
             "PETALS"
         ],
@@ -3302,7 +3302,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "As the wind brings many fallen leaves in the camp, m_c picks a acc_singular to decorate {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "Alors que le vent apporte de nombreuses feuilles mortes dans le camp, m_c choisit un acc_singular pour décorer sa fourrure.",
         "new_accessory": [
             "OAK LEAVES",
             "MAPLE LEAF"
@@ -3325,7 +3325,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "m_c is just too cute - r_c gives {PRONOUN\/m_c\/object} a pretty acc_singular as a gift.",
+        "event_text": "m_c est tout simplement trop mignon - r_c lui offre un joli acc_singular en cadeau.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -3375,7 +3375,7 @@
             "accessory"
         ],
         "frequency": 3,
-        "event_text": "r_c gives m_c a pretty acc_singular {PRONOUN\/r_c\/subject} found while playing.",
+        "event_text": "r_c donne à m_c un joli acc_singular que {PRONOUN/r_c/subject} a trouvé en jouant.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -3420,7 +3420,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c starts bringing a pretty acc_singular everywhere {PRONOUN\/m_c\/subject} {VERB\/m_c\/go\/goes}, and r_c loudly complains that {PRONOUN\/r_c\/subject} {VERB\/r_c\/want\/wants} one, too.",
+        "event_text": "m_c commence à emmener partout un joli acc_singular, et r_c se plaint bruyamment que {PRONOUN/r_c/subject} en veut un aussi.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -3470,7 +3470,7 @@
             "accessory"
         ],
         "frequency": 2,
-        "event_text": "No matter how hard r_c tries, there's always something stuck in m_c's fur.",
+        "event_text": "Peu importe les efforts de r_c, il y a toujours quelque chose coincé dans la fourrure de m_c.",
         "new_accessory": [
             "HERBS",
             "PETALS",
@@ -3484,7 +3484,7 @@
                 "kitten"
             ],
             "relationship_status": [
-                "child\/parent"
+                "child/parent"
             ]
         },
         "r_c": {
@@ -3508,7 +3508,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c finds some acc_singular to wear in {PRONOUN\/m_c\/poss} fur to impress r_c!",
+        "event_text": "m_c trouve un acc_singular à porter dans sa fourrure pour impressionner r_c !",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -3518,7 +3518,7 @@
                 "kitten"
             ],
             "relationship_status": [
-                "child\/parent"
+                "child/parent"
             ],
             "trait": [
                 "attention-seeker",
@@ -3543,7 +3543,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c is scolded after sneaking out of camp.",
+        "event_text": "m_c se fait gronder après s'être faufilé hors du camp.",
         "m_c": {
             "age": [
                 "kitten",
@@ -3563,7 +3563,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c falls into a river, but is saved by r_c.",
+        "event_text": "m_c tombe dans une rivière, mais est sauvé par r_c.",
         "m_c": {
             "age": [
                 "kitten",
@@ -3606,7 +3606,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c sneaks out of camp with r_c.",
+        "event_text": "m_c se faufile hors du camp avec r_c.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3643,7 +3643,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c sneak out of camp to see the sun rise.",
+        "event_text": "m_c et r_c se faufilent hors du camp pour voir le lever du soleil.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3681,7 +3681,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c sneak out of camp to see the moon rise.",
+        "event_text": "m_c et r_c se faufilent hors du camp pour voir la lune se lever.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3719,7 +3719,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c try to sneak out of camp, but are caught by their mentors.",
+        "event_text": "m_c et r_c essaient de se faufiler hors du camp, mais sont attrapés par leurs mentors.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3766,7 +3766,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c were practicing climbing when they found a nest of strange eggs.",
+        "event_text": "m_c et r_c s'entraînaient à grimper quand ils ont trouvé un nid d'œufs étranges.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3809,7 +3809,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c sneak out of camp to go bird watching.",
+        "event_text": "m_c et r_c se faufilent hors du camp pour observer les oiseaux.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3848,7 +3848,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c play in the fallen leaves outside of camp.",
+        "event_text": "m_c et r_c jouent dans les feuilles mortes devant le camp.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3887,7 +3887,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c play in the snow outside of camp.",
+        "event_text": "m_c et r_c jouent dans la neige devant le camp.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -3936,7 +3936,7 @@
             "romance"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c were chatting about their day and the chores when r_c mentioned {PRONOUN\/r_c\/subject} liked the smell of wild fruit. m_c decides to wear acc_plural on {PRONOUN\/m_c\/poss} pelt, hoping that r_c notices {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c et r_c discutaient de leur journée et des corvées quand r_c a dit aimer l'odeur des fruits sauvages. m_c décide de porter des acc_plural sur sa fourrure, espérant que r_c le remarque.",
         "new_accessory": [
             "BLUE BERRIES",
             "HOLLY",
@@ -3993,7 +3993,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c hears r_c complaining about the dry rye stalks underneath {PRONOUN\/r_c\/poss} paws when {PRONOUN\/r_c\/subject} {VERB\/r_c\/finish\/finishes} cleaning the elders' den for the umpteenth time. The next day, m_c adorns {PRONOUN\/m_c\/poss} pelt with acc_plural.",
+        "event_text": "m_c entend r_c se plaindre des tiges de seigle sèches sous ses pattes après avoir encore nettoyé la tanière des anciens. Le lendemain, m_c orne sa fourrure d'acc_plural.",
         "new_accessory": [
             "RYE STALK"
         ],
@@ -4022,7 +4022,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c gets dared to hunt outside in the snow alone, and returns with acc_singular in {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "m_c relève le défi d'aller chasser seul dans la neige et revient avec un acc_singular dans sa fourrure.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -4045,7 +4045,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c is nearly blindsided by r_c as {PRONOUN\/m_c\/subject} {VERB\/m_c\/walk\/walks} into camp after a long training day, listening to the kit squeak about a type of feather. r_c leads m_c to the nursery, where {PRONOUN\/r_c\/subject} carefully {VERB\/r_c\/put\/puts} acc_plural in m_c's fur.",
+        "event_text": "m_c est presque surpris par r_c en rentrant au camp après une longue journée d'entraînement, écoutant le chaton piailler à propos d'une plume. r_c emmène m_c à la pouponnière, où {PRONOUN/r_c/subject} place soigneusement des acc_plural dans la fourrure de m_c.",
         "new_accessory": [
             "BLUE FEATHERS",
             "GULL FEATHERS",
@@ -4092,7 +4092,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c is struggling to cope with the violence and chaos of war surrounding {PRONOUN\/m_c\/object}, finding it difficult to wake up in the morning due to the stress and strain of constant battle training.",
+        "event_text": "m_c a du mal à supporter la violence et le chaos de la guerre qui l'entoure, trouvant difficile de se lever le matin à cause du stress et de la fatigue de l'entraînement au combat.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4120,7 +4120,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c feels like {PRONOUN\/m_c\/subject} might be growing up too fast in the midst of war.",
+        "event_text": "m_c a l'impression de grandir trop vite au milieu de la guerre.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -4146,7 +4146,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was caught sharing prey with a kittypet, who was chased off by a patrol.",
+        "event_text": "m_c a été surpris en train de partager une proie avec un chat domestique, qui a été chassé par une patrouille.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4212,7 +4212,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was seen touching noses with a kittypet. Scandalous!",
+        "event_text": "m_c a été vu en train de toucher le museau d’un chat domestique. Scandaleux !",
         "m_c": {
             "age": [
                 "young adult",
@@ -4277,7 +4277,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was seen playing with a kittypet over the border.",
+        "event_text": "m_c a été vu en train de jouer avec un chat domestique de l’autre côté de la frontière.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4343,7 +4343,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was seen chasing a kittypet off of the territory.",
+        "event_text": "m_c a été vu en train de chasser un chat domestique hors du territoire.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4394,7 +4394,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was seen in a very serious conversation with a kittypet, who ran away when another patrol approached.",
+        "event_text": "m_c a été vu en pleine conversation sérieuse avec un chat domestique, qui s’est enfui à l’approche d’une autre patrouille.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4438,7 +4438,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c caught a glimpse of a kittypet wandering in the distance.",
+        "event_text": "m_c a aperçu un chat domestique errant au loin.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4467,7 +4467,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c found the scent of a stranger near the border, though the cat {PRONOUN\/n_c:0\/self} is long gone. Smells like Twolegs.",
+        "event_text": "m_c a trouvé l’odeur d’un inconnu près de la frontière, mais le chat {PRONOUN\/n_c:0\/self} était déjà loin. Ça sent le Bipède.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4496,7 +4496,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "On a bit of c_n's territory that borders unclaimed land, m_c finds scent that indicates there's a loner wandering somewhere out there.",
+        "event_text": "Sur une partie du territoire de c_n qui borde des terres sans Clan, m_c trouve une odeur indiquant qu’un solitaire rôde dans les environs.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4525,7 +4525,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "An outsider places their scent near the border, a polite courtesy that indicates they don't mean trouble.",
+        "event_text": "Un solitaire a laissé son odeur près de la frontière, une politesse qui montre qu’il ne cherche pas d’ennuis.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4560,7 +4560,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "c_n finds tracks crossing the border and then hurriedly backtracking, indicating the owner didn't intrude intentionally.",
+        "event_text": "c_n trouve des traces traversant la frontière puis rebroussant chemin à la hâte, signe que le propriétaire n’a pas voulu s’introduire intentionnellement.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4592,7 +4592,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "Someone has been hunting in c_n territory, a stranger without a Clan scent. c_n doesn't know {PRONOUN\/n_c:0\/poss} face, but they memorize {PRONOUN\/n_c:0\/poss} smell.",
+        "event_text": "Quelqu’un chasse sur le territoire de c_n, un inconnu sans odeur de Clan. c_n ne connaît pas {PRONOUN\/n_c:0\/poss} visage, mais mémorise {PRONOUN\/n_c:0\/poss} odeur.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4624,7 +4624,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "c_n's vast territory can be difficult to defend due to its size. The tracks of a rogue have now crossed their border repeatedly.",
+        "event_text": "Le vaste territoire de c_n est difficile à défendre. Les traces d’un chat errant franchissent la frontière à plusieurs reprises.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4656,7 +4656,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds prey blood and the scent of an intruder.",
+        "event_text": "m_c trouve du sang de proie et l’odeur d’un intrus.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4688,7 +4688,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A cat has been trying to conceal their presence out in the borderlands...",
+        "event_text": "Un chat tente de dissimuler sa présence dans les terres frontalières...",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4721,7 +4721,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen touching noses with someone from o_c_n. Scandalous!",
+        "event_text": "m_c a été vu en train de toucher le museau d’un membre de o_c_n. Scandaleux !",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4767,7 +4767,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was loitering around o_c_n's border, looking for a specific cat.",
+        "event_text": "m_c traînait près de la frontière de o_c_n, cherchant un chat en particulier.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4790,7 +4790,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen racing along the border with {PRONOUN\/m_c\/poss} rival from o_c_n.",
+        "event_text": "m_c a été vu en train de courir le long de la frontière avec son rival de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4820,7 +4820,7 @@
         ],
         "tags": [],
         "frequency": 2,
-        "event_text": "m_c was seen arguing, and borderline-fighting, with a cat from o_c_n.",
+        "event_text": "m_c a été vu en train de se disputer, presque de se battre, avec un chat de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4849,7 +4849,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen speaking calmly to a cat from o_c_n.",
+        "event_text": "m_c a été vu en train de parler calmement à un chat de o_c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4877,7 +4877,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c sees that o_c_n has been cleaning the border trackways, and adds {PRONOUN\/m_c\/poss} own paws the the effort.",
+        "event_text": "m_c voit que o_c_n nettoie les sentiers frontaliers et ajoute ses propres traces à l’effort.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4908,7 +4908,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The thornbush might be on o_c_n's side of the border, but both Clans benefit from uprooting it before it can block the path further.",
+        "event_text": "Le buisson d’épines est peut-être du côté de o_c_n, mais les deux Clans profitent de l’arracher avant qu’il ne bloque le chemin.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4936,7 +4936,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "Trying to see o_c_n cats in the flesh can be hard when the Clans live so far apart. m_c has to wait hours for a o_c_n patrol to pass on the message about local loner activity.",
+        "event_text": "Voir les chats de o_c_n en chair et en os est difficile quand les Clans vivent si loin. m_c doit attendre des heures qu’une patrouille de o_c_n passe pour transmettre un message sur l’activité des solitaires.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4967,7 +4967,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "Tracks don't lie, even if o_c_n may. One of them has been traipsing across the border. It remains to be seen if that cat is a confused apprentice or a deliberate provocateur.",
+        "event_text": "Les traces ne mentent pas, même si o_c_n le fait. L’un d’eux a traversé la frontière. Reste à savoir s’il s’agit d’un apprenti perdu ou d’un provocateur.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -4998,7 +4998,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "An area of the border looks a little too pristine. Almost like o_c_n have been covering something up there.",
+        "event_text": "Une zone de la frontière semble un peu trop propre. Comme si o_c_n avait voulu cacher quelque chose ici.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5027,7 +5027,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was seen arguing, and borderline-fighting, with a loner.",
+        "event_text": "m_c a été vu en train de se disputer, presque de se battre, avec un solitaire.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5078,7 +5078,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen touching noses with a loner. Scandalous!",
+        "event_text": "m_c a été vu en train de toucher le museau d’un solitaire. Scandaleux !",
         "m_c": {
             "age": [
                 "young adult",
@@ -5143,7 +5143,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen talking calmly to a loner, before both cats went their separate ways.",
+        "event_text": "m_c a été vu en train de parler calmement à un solitaire, avant que les deux ne repartent chacun de leur côté.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5189,7 +5189,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was seen taking food from a Twoleg!",
+        "event_text": "m_c a été vu en train de prendre de la nourriture à un Bipède !",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5231,7 +5231,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was caught sharing prey with a rogue, who was chased off by a patrol.",
+        "event_text": "m_c a été surpris en train de partager une proie avec un chat errant, qui a été chassé par une patrouille.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5294,7 +5294,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen touching noses with a rogue. Scandalous!",
+        "event_text": "m_c a été vu en train de toucher le museau d’un chat errant. Scandaleux !",
         "m_c": {
             "age": [
                 "young adult",
@@ -5359,7 +5359,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen chasing a rogue off of the territory.",
+        "event_text": "m_c a été vu en train de chasser un chat errant hors du territoire.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -5417,7 +5417,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c goes to o_c_n in an attempt to ease the tension of war between the Clans: it goes well, and o_c_n begins to draw back from c_n's territory!",
+        "event_text": "m_c se rend chez o_c_n pour tenter d'apaiser les tensions de la guerre entre les Clans : cela se passe bien, et o_c_n commence à se retirer du territoire de c_n !",
         "m_c": {
             "age": [
                 "any"
@@ -5446,7 +5446,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is checking in on every cat in the camp to make sure everyone is staying healthy in the midst of war.",
+        "event_text": "m_c prend des nouvelles de chaque chat du camp pour s'assurer que tout le monde reste en bonne santé malgré la guerre.",
         "m_c": {
             "age": [
                 "any"
@@ -5501,7 +5501,7 @@
             "war"
         ],
         "frequency": 3,
-        "event_text": "m_c goes to o_c_n in an attempt to ease the tension of war between the Clans: it doesn't go well, and o_c_n further advances in c_n's territory.",
+        "event_text": "m_c se rend chez o_c_n pour tenter d'apaiser les tensions de la guerre entre les Clans : cela se passe mal, et o_c_n avance encore plus sur le territoire de c_n.",
         "m_c": {
             "age": [
                 "any"
@@ -5524,7 +5524,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c pulls r_c to the side, quietly asking {PRONOUN\/r_c\/object} about {PRONOUN\/r_c\/poss} crush on a fellow Clanmate.",
+        "event_text": "m_c prend r_c à part et lui demande discrètement ce que {PRONOUN/r_c/subject} pense de son béguin pour un camarade du Clan.",
         "m_c": {
             "status": [
                 "mediator",
@@ -5572,7 +5572,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c spots r_c looking a little bit lonely, and invites {PRONOUN\/r_c\/object} to watch as {PRONOUN\/m_c\/subject} {VERB\/m_c\/perform\/performs} {PRONOUN\/m_c\/poss} duties.",
+        "event_text": "m_c remarque que r_c a l'air un peu seul et l'invite à regarder {PRONOUN/m_c/subject} {VERB/m_c/perform/performs} ses tâches.",
         "m_c": {
             "status": [
                 "mediator",
@@ -5613,7 +5613,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is giving r_c advice on the war, though it's unclear how helpful it really is.",
+        "event_text": "m_c donne des conseils à r_c sur la guerre, même si on ne sait pas vraiment si cela sera utile.",
         "m_c": {
             "status": [
                 "mediator",
@@ -5678,7 +5678,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c is conversing with r_c about ways to potentially end this war without bloodshed.",
+        "event_text": "m_c discute avec r_c de solutions pour mettre fin à la guerre sans effusion de sang.",
         "m_c": {
             "status": [
                 "mediator",
@@ -5734,7 +5734,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c is conversing with r_c about ways to potentially end this war- but not without bloodshed.",
+        "event_text": "m_c discute avec r_c de solutions pour mettre fin à la guerre, mais pas sans effusion de sang.",
         "m_c": {
             "status": [
                 "mediator",
@@ -5788,7 +5788,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c visits the other medicine cats.",
+        "event_text": "m_c rend visite aux autres guérisseurs.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -5810,7 +5810,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c visits o_c_n to converse with their medicine cats about an omen StarClan sent.",
+        "event_text": "m_c rend visite à o_c_n pour discuter avec leurs guérisseurs d'un présage envoyé par le Clan des Étoiles.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -5835,7 +5835,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c visits o_c_n to congratulate them on their new medicine cat.",
+        "event_text": "m_c rend visite à o_c_n pour féliciter leur nouveau guérisseur.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -5864,7 +5864,7 @@
             "accessory"
         ],
         "frequency": 2,
-        "event_text": "r_c presents m_c with acc_plural as a congratulations.",
+        "event_text": "r_c offre à m_c des acc_plural pour le féliciter.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -5906,7 +5906,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c speaks to r_c about an omen {PRONOUN\/m_c\/subject} saw while on patrol recently.",
+        "event_text": "m_c parle à r_c d'un présage que {PRONOUN/m_c/subject} a vu lors d'une récente patrouille.",
         "m_c": {
             "age": [
                 "any"
@@ -5933,7 +5933,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c speaks to r_c about a potential omen and what it means.",
+        "event_text": "m_c parle à r_c d'un possible présage et de sa signification.",
         "m_c": {
             "age": [
                 "any"
@@ -5960,7 +5960,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c walks into the dreams of {PRONOUN\/m_c\/poss} Clanmates while everyone sleeps.",
+        "event_text": "m_c marche dans les rêves de ses camarades de Clan pendant que tout le monde dort.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -5979,7 +5979,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c tosses in {PRONOUN\/m_c\/poss} sleep as {PRONOUN\/m_c\/poss} dreamself pads through the thoughts of {PRONOUN\/m_c\/poss} Clanmates, picking up snippets of dream_list\/m_c. {PRONOUN\/m_c\/subject\/CAP} slowly {VERB\/m_c\/blink\/blinks} awake, wondering whose dreams {PRONOUN\/m_c\/subject} walked in.",
+        "event_text": "m_c se tourne dans son sommeil alors que son esprit parcourt les pensées de ses camarades, captant des bribes de dream_list/m_c. {PRONOUN/m_c/subject/CAP} finit par {VERB/m_c/blink/blinks} et se réveille, se demandant dans les rêves de qui {PRONOUN/m_c/subject} a marché.",
         "m_c": {
             "status": [
                 "medicine cat apprentice",
@@ -5999,7 +5999,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c correctly warns the leader of an ambush, thanks to {PRONOUN\/m_c\/poss} clairvoyant nature.",
+        "event_text": "m_c prévient correctement le chef d'une embuscade, grâce à sa nature clairvoyante.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -6018,7 +6018,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c spends {PRONOUN\/m_c\/poss} day communing with StarClan, attempting to figure out a recent prophecy.",
+        "event_text": "m_c passe sa journée à communier avec le Clan des Étoiles, essayant de comprendre une récente prophétie.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -6038,7 +6038,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c has been worried that c_n will lose the knowledge r_c has gained through {PRONOUN\/r_c\/poss} long life, but by sitting with r_c and discussing {PRONOUN\/r_c\/poss} experiences, m_c will ensure the lessons learned in the past are never forgotten.",
+        "event_text": "m_c craint que c_n ne perde le savoir acquis par r_c au fil de sa longue vie, mais en discutant avec r_c de ses expériences, m_c s'assure que les leçons du passé ne seront jamais oubliées.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -6065,7 +6065,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was seen loudly bickering with the medicine cat of o_c_n.",
+        "event_text": "m_c a été vu en train de se disputer bruyamment avec le guérisseur de o_c_n.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -6087,7 +6087,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was seen talking with a traveling loner healer on the border.",
+        "event_text": "m_c a été vu en train de discuter avec un guérisseur solitaire itinérant à la frontière.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -6129,7 +6129,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c's knowledge of herbs and healing is being put to the test, with injuries becoming more severe in the midst of war.",
+        "event_text": "Les connaissances de m_c sur les herbes et les soins sont mises à rude épreuve, les blessures étant de plus en plus graves en pleine guerre.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -6149,7 +6149,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c watches every little thing around {PRONOUN\/m_c\/object} for any omen that indicates what the Clan should do in the war. The losses weigh heavy on the hearts of every cat.",
+        "event_text": "m_c observe chaque détail autour de {PRONOUN/m_c/object} à la recherche d'un présage sur ce que le Clan doit faire pendant la guerre. Les pertes pèsent sur le cœur de tous.",
         "m_c": {
             "status": [
                 "medicine cat apprentice",
@@ -6172,7 +6172,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c preps battle herbs into small bundles to rush to the battlefield in case of severe injuries.",
+        "event_text": "m_c prépare des herbes de combat en petits paquets pour pouvoir les apporter rapidement sur le champ de bataille en cas de blessures graves.",
         "m_c": {
             "age": [
                 "any"
@@ -6195,7 +6195,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "c_n is in a badly need of herbs, and m_c knows it, but can't bring {PRONOUN\/m_c\/self} to leave {PRONOUN\/m_c\/poss} patients' side.",
+        "event_text": "c_n manque cruellement d'herbes et m_c le sait, mais ne peut se résoudre à quitter le chevet de ses patients.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -6219,7 +6219,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c hopes to find the herbs that c_n needs in the war, and goes to look for them even in this leaf-bare's harsh weather.",
+        "event_text": "m_c espère trouver les herbes dont c_n a besoin pour la guerre, et part les chercher malgré la rudesse de la saison.",
         "m_c": {
             "age": [
                 "any"
@@ -6248,7 +6248,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c is getting increasingly annoyed with r_c because {PRONOUN\/r_c\/subject} {VERB\/r_c\/keep\/keeps} bothering {PRONOUN\/m_c\/object} about the most trivial of wounds and aches.",
+        "event_text": "m_c est de plus en plus agacé par r_c, qui ne cesse de le déranger pour des blessures ou douleurs insignifiantes.",
         "m_c": {
             "age": [
                 "any"
@@ -6290,7 +6290,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c is brought back to camp after wandering off.",
+        "event_text": "m_c est ramené au camp après s'être éloigné.",
         "m_c": {
             "age": [
                 "senior"
@@ -6309,7 +6309,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c awakens with multiple objects stacked on {PRONOUN\/m_c\/object}, and the sound of giggling cats in the distance.",
+        "event_text": "m_c se réveille avec plusieurs objets empilés sur {PRONOUN/m_c/object}, et le son de chats ricanant au loin.",
         "m_c": {
             "status": [
                 "elder"
@@ -6325,7 +6325,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c speaks to r_c about how to better defend the camp.",
+        "event_text": "m_c parle à r_c de la meilleure façon de défendre le camp.",
         "m_c": {
             "age": [
                 "any"
@@ -6356,7 +6356,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c helps reinforce the dens in the camp while the rest of the camp is on patrol.",
+        "event_text": "m_c aide à renforcer les tanières du camp pendant que les autres sont en patrouille.",
         "m_c": {
             "age": [
                 "any"
@@ -6378,7 +6378,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c places small feathers and shining stones near the nest of each Clanmate while they're on patrol.",
+        "event_text": "m_c place de petites plumes et des cailloux brillants près du nid de chaque camarade pendant qu'ils sont en patrouille.",
         "m_c": {
             "age": [
                 "any"
@@ -6400,7 +6400,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c keeps an eye on the camp while the warriors are on patrol.",
+        "event_text": "m_c surveille le camp pendant que les guerriers sont en patrouille.",
         "m_c": {
             "age": [
                 "any"
@@ -6425,7 +6425,7 @@
             "clan:apps"
         ],
         "frequency": 4,
-        "event_text": "m_c calls the younger cats to {PRONOUN\/m_c\/poss} den to tell stories of the Clan's past.",
+        "event_text": "m_c appelle les plus jeunes dans sa tanière pour raconter des histoires du passé du Clan.",
         "m_c": {
             "age": [
                 "any"
@@ -6450,7 +6450,7 @@
             "clan:kitten"
         ],
         "frequency": 4,
-        "event_text": "m_c calls out to some eager kits, and after they have situated themselves in front of m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/start\/starts} telling the kits a thrilling story of times long past.",
+        "event_text": "m_c appelle quelques chatons impatients, et une fois qu'ils sont installés devant m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/start\/starts} à leur raconter une histoire palpitante d'autrefois.",
         "m_c": {
             "age": [
                 "senior",
@@ -6490,7 +6490,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c thinks about retiring from being deputy.",
+        "event_text": "m_c songe à prendre sa retraite de son poste de lieutenant.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -6510,7 +6510,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c travels to o_c_n to bring them an important message.",
+        "event_text": "m_c se rend chez o_c_n pour leur transmettre un message important.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -6535,7 +6535,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c travels to the other Clans to bring them an important message.",
+        "event_text": "m_c voyage vers les autres Clans pour leur transmettre un message important.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -6563,7 +6563,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "As the deputy, m_c is doing {PRONOUN\/m_c\/poss} best to prepare for leadership in the case the worst happens.",
+        "event_text": "En tant que lieutenant, m_c fait de son mieux pour se préparer à diriger si le pire devait arriver.",
         "m_c": {
             "status": [
                 "deputy"
@@ -6585,7 +6585,7 @@
             "low_lives"
         ],
         "frequency": 1,
-        "event_text": "m_c is struggling to accept the fact that {PRONOUN\/m_c\/subject} may have to step up as leader if r_c loses {PRONOUN\/r_c\/poss} last life.",
+        "event_text": "m_c a du mal à accepter qu'{PRONOUN\/m_c\/subject} devra peut-être devenir chef si r_c perd sa dernière vie.",
         "m_c": {
             "age": [
                 "any"
@@ -6623,7 +6623,7 @@
             "low_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c is struggling to accept the fact that {PRONOUN\/m_c\/subject} may have to step up as leader if r_c loses {PRONOUN\/r_c\/poss} last life. How could {PRONOUN\/m_c\/subject} {VERB\/m_c\/go\/goes} on without {PRONOUN\/m_c\/poss} beloved leader? How difficult will it to be to lead in {PRONOUN\/r_c\/poss} stead?",
+        "event_text": "m_c a du mal à accepter qu'{PRONOUN\/m_c\/subject} devra peut-être devenir chef si r_c perd sa dernière vie. Comment {PRONOUN\/m_c\/subject} {VERB\/m_c\/go\/goes} continuer sans son chef bien-aimé ? Sera-t-il difficile de diriger à la place de r_c ?",
         "m_c": {
             "status": [
                 "deputy"
@@ -6669,7 +6669,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c is heavily relying on the tactical advice and experience of the elders, namely r_c.",
+        "event_text": "m_c s'appuie beaucoup sur les conseils tactiques et l'expérience des anciens, notamment r_c.",
         "m_c": {
             "status": [
                 "deputy",
@@ -6721,7 +6721,7 @@
             "low_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c thinks about retiring.",
+        "event_text": "m_c pense à prendre sa retraite.",
         "m_c": {
             "status": [
                 "leader"
@@ -6740,7 +6740,7 @@
             "low_lives"
         ],
         "frequency": 2,
-        "event_text": "m_c confesses {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} have many lives left.",
+        "event_text": "m_c avoue que {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} lui reste plus beaucoup de vies.",
         "m_c": {
             "status": [
                 "leader"
@@ -6756,7 +6756,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c feels as though the responsibility of leadership is crushing {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a l'impression que le poids du leadership l'écrase.",
         "m_c": {
             "status": [
                 "leader"
@@ -6772,7 +6772,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c calls a Clan meeting to give an important announcement.",
+        "event_text": "m_c convoque une assemblée du Clan pour faire une annonce importante.",
         "m_c": {
             "status": [
                 "leader"
@@ -6791,7 +6791,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c feels burdened with the weight of {PRONOUN\/m_c\/poss} decisions, knowing that every choice {PRONOUN\/m_c\/subject} {VERB\/m_c\/make\/makes} could mean the difference between victory and defeat.",
+        "event_text": "m_c se sent accablé par le poids de ses décisions, sachant que chaque choix peut faire la différence entre victoire et défaite.",
         "m_c": {
             "status": [
                 "leader"
@@ -6810,7 +6810,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c's relationships with {PRONOUN\/m_c\/poss} Clanmates are strained, with some questioning {PRONOUN\/m_c\/poss} decisions and others relying on {PRONOUN\/m_c\/object} more heavily than ever.",
+        "event_text": "Les relations de m_c avec ses camarades de Clan sont tendues : certains remettent en question ses choix, d'autres comptent plus que jamais sur {PRONOUN\/m_c\/object}.",
         "m_c": {
             "status": [
                 "leader"
@@ -6829,7 +6829,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is forced to be a symbol of strength and unity for {PRONOUN\/m_c\/poss} Clan, even in the face of {PRONOUN\/m_c\/poss} own doubts and fears.",
+        "event_text": "m_c doit être un symbole de force et d'unité pour son Clan, même face à ses propres doutes et peurs.",
         "m_c": {
             "status": [
                 "leader"
@@ -6845,7 +6845,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c assesses r_c's progress.",
+        "event_text": "m_c évalue les progrès de r_c.",
         "m_c": {
             "age": [
                 "any"
@@ -6877,7 +6877,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The Clan worked hard to gather plenty of fresh-kill, but woke up to find pawprints leading away from the fresh-kill pile, and missing prey.",
+        "event_text": "Le Clan a travaillé dur pour rassembler beaucoup de gibier, mais se réveille et découvre des traces de pattes menant loin de la pile de proies, et des proies manquantes.",
         "supplies": [
             {
                 "type": "freshkill",
@@ -6900,7 +6900,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The Clan gathered a stockpile of food to save, the more the better, but one night the fresh-kill pile was drastically reduced and paw prints were found on the ground.",
+        "event_text": "Le Clan avait fait des réserves de nourriture, mais une nuit la pile de proies a drastiquement diminué et des traces de pattes ont été trouvées au sol.",
         "supplies": [
             {
                 "type": "freshkill",
@@ -6923,7 +6923,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "The o_c_n medicine cat comes asking if c_n has any herbs to spare. Unfortunately, the c_n herb stocks are far too low and c_n is unable to provide any help.",
+        "event_text": "Le guérisseur de o_c_n vient demander si c_n a des herbes à partager. Malheureusement, les réserves d’herbes de c_n sont bien trop basses et le Clan ne peut pas aider.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -6953,7 +6953,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "A medicine cat from o_c_n comes to c_n, asking for herbs to heal their sick Clanmates. c_n quickly shoos them away, not willing to admit that they already don't have enough to support themselves.",
+        "event_text": "Un guérisseur de o_c_n vient demander des herbes pour soigner ses camarades malades. c_n le chasse rapidement, refusant d’avouer qu’il n’a déjà pas assez pour lui-même.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -6983,7 +6983,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The o_c_n medicine cat comes asking if c_n have any given_herb to spare. Graciously, your Clan decides to aid their allies and share the herbs.",
+        "event_text": "Le guérisseur de o_c_n vient demander si c_n a du given_herb à partager. Généreusement, votre Clan décide d’aider ses alliés et partage ses herbes.",
         "supplies": [
             {
                 "type": "any_herb",
@@ -7012,7 +7012,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The medicine cat apprentice from o_c_n comes asking for given_herb. They refuse to say why their Clan needs them but c_n still provides them with what they need.",
+        "event_text": "L’apprenti guérisseur de o_c_n vient demander du given_herb. Il refuse de dire pourquoi son Clan en a besoin, mais c_n lui donne quand même ce qu’il demande.",
         "supplies": [
             {
                 "type": "any_herb",
@@ -7042,7 +7042,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "The o_c_n medicine cat comes asking if c_n have any given_herb to spare. However, c_n only has enough for themselves and they refuse to share.",
+        "event_text": "Le guérisseur de o_c_n vient demander si c_n a du given_herb à partager. Cependant, c_n n’en a que pour lui-même et refuse de partager.",
         "supplies": [
             {
                 "type": "any_herb",
@@ -7071,7 +7071,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The medicine cat apprentice from o_c_n comes asking for herbs. They refuse to say why their Clan needs them and c_n decides not to share their precious few given_herb.",
+        "event_text": "L’apprenti guérisseur de o_c_n vient demander des herbes. Il refuse de dire pourquoi son Clan en a besoin et c_n décide de ne pas partager ses précieuses given_herb.",
         "supplies": [
             {
                 "type": "any_herb",
@@ -7100,7 +7100,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The o_c_n medicine cat apprentice comes to c_n's camp, pleading for help with a yellowcough epidemic. c_n provides the cat with some of their extra lungwort.",
+        "event_text": "L’apprenti guérisseur de o_c_n arrive au camp de c_n, suppliant de l’aide pour une épidémie de toux jaune. c_n lui donne un peu de son surplus de pulmonaire.",
         "supplies": [
             {
                 "type": "lungwort",
@@ -7130,7 +7130,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "A medicine cat from o_c_n comes to c_n, asking for lungwort to heal a case of yellowcough. c_n has some extra, and so decides to share with their allies.",
+        "event_text": "Un guérisseur de o_c_n vient demander de la pulmonaire pour soigner un cas de toux jaune. c_n en a en trop et décide de partager avec ses alliés.",
         "supplies": [
             {
                 "type": "lungwort",
@@ -7160,7 +7160,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "The o_c_n medicine cat apprentice comes to c_n's camp, pleading for help with a yellowcough epidemic. However, c_n has nothing that they are willing to share.",
+        "event_text": "L’apprenti guérisseur de o_c_n arrive au camp de c_n, suppliant de l’aide pour une épidémie de toux jaune. Mais c_n n’a rien à partager.",
         "supplies": [
             {
                 "type": "lungwort",
@@ -7189,7 +7189,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "A medicine cat from o_c_n comes to c_n, asking for lungwort to heal a case of yellowcough. However, c_n hardly has enough for their own Clan and so refuses.",
+        "event_text": "Un guérisseur de o_c_n vient demander de la pulmonaire pour soigner un cas de toux jaune. Mais c_n a à peine assez pour son propre Clan et refuse.",
         "supplies": [
             {
                 "type": "lungwort",
@@ -7217,7 +7217,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "The herb stores are low, m_c decides to ask o_c_n for aid in these hard times. Thankfully, the allied Clan is happy to share their excess herbs.",
+        "event_text": "Les réserves d’herbes sont basses, m_c décide de demander de l’aide à o_c_n. Heureusement, le Clan allié accepte de partager son surplus.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -7253,7 +7253,7 @@
             "clan:medicine cat"
         ],
         "frequency": 4,
-        "event_text": "lead_name hears from med_name that the Clan is low on herbs. m_c is sent to bargain with o_c_n for whatever herbs they can spare.",
+        "event_text": "lead_name apprend de med_name que le Clan manque d’herbes. m_c est envoyé négocier avec o_c_n pour obtenir ce qu’ils peuvent.",
         "m_c": {
             "status": [
                 "mediator",
@@ -7289,7 +7289,7 @@
             "clan:medicine cat"
         ],
         "frequency": 4,
-        "event_text": "lead_name hears from med_name that the Clan is low on herbs. m_c is sent to bargain with o_c_n for whatever herbs they can spare.",
+        "event_text": "lead_name apprend de med_name que le Clan manque d’herbes. m_c est envoyé négocier avec o_c_n pour obtenir ce qu’ils peuvent.",
         "m_c": {
             "status": [
                 "warrior",
@@ -7326,7 +7326,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "While at the Gathering, m_c pulls the o_c_n leader aside and requests herbs from their Clan. The other leader is happy to help.",
+        "event_text": "Lors d’une Assemblée, m_c prend le chef de o_c_n à part et demande des herbes à son Clan. L’autre chef accepte volontiers d’aider.",
         "m_c": {
             "status": [
                 "leader"
@@ -7358,7 +7358,7 @@
         ],
         "tags": [],
         "frequency": 4,
-        "event_text": "While at the Gathering, m_c speaks to the other medicine cats and expresses worry over {PRONOUN\/m_c\/poss} herb stores. The medicine cats offer to bring some extra herbs to c_n later, to help bolster {PRONOUN\/m_c\/poss} supply.",
+        "event_text": "Lors de l’Assemblée, m_c parle aux autres guérisseurs et exprime son inquiétude pour ses réserves d’herbes. Les guérisseurs proposent d’apporter plus tard des herbes à c_n pour l’aider.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -7397,7 +7397,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "o_c_n breaks into the camp and ravages the herb stores, taking some for themselves and attempting to destroy the rest. The Clan manages to recover some of the herbs, but the store was still badly damaged.",
+        "event_text": "o_c_n s’introduit dans le camp et saccage les réserves d’herbes, en prenant pour eux et tentant de détruire le reste. Le Clan parvient à en sauver une partie, mais la réserve a été gravement endommagée.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7431,7 +7431,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "o_c_n breaks into the camp and ravages the herb stores, taking some for themselves and destroying the rest.",
+        "event_text": "o_c_n s’introduit dans le camp et saccage les réserves d’herbes, en prenant pour eux et détruisant le reste.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7465,7 +7465,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "c_n breaks into the o_c_n camp and steals precious herbs from their medicine cat den.",
+        "event_text": "c_n s’introduit dans le camp de o_c_n et vole de précieuses herbes dans la tanière du guérisseur.",
         "m_c": {
             "status": [
                 "leader"
@@ -7516,7 +7516,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "Some sort of pest got into the herb stores and ruined much of the supplies. c_n will have to clean it out and start over anew.",
+        "event_text": "Un nuisible s’est introduit dans les réserves d’herbes et a ruiné une grande partie du stock. c_n va devoir tout nettoyer et recommencer.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7541,7 +7541,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "Abnormally strong winds blew through the camp last night and scattered the herb store into a useless state. The Clan manages to recover some of the herbs, but the resulting supply is much smaller than before.",
+        "event_text": "Des vents anormalement forts ont soufflé sur le camp cette nuit et dispersé les réserves d’herbes. Le Clan en récupère une partie, mais il en reste bien moins qu’avant.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7566,7 +7566,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "Some kind of blight has infected the herb stores. c_n has no choice but to clear out all the old herbs.",
+        "event_text": "Une sorte de fléau a infecté les réserves d’herbes. c_n n’a pas d’autre choix que de tout jeter.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7591,7 +7591,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "Freezing temperatures have not just affected the cats. It's also frostbitten the stored herbs. Many of them are useless now and will have to be replaced.",
+        "event_text": "Le gel n’a pas touché que les chats. Il a aussi abîmé les herbes stockées. Beaucoup sont désormais inutilisables et devront être remplacées.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7616,7 +7616,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "The newleaf rain has left the air humid and the whole camp damp. The herb stores are found to be growing mold and many herbs have to be thrown out.",
+        "event_text": "La pluie de nouvelle feuille a rendu l’air humide et tout le camp détrempé. Les réserves d’herbes sont trouvées couvertes de moisissures et beaucoup doivent être jetées.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7641,7 +7641,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "The persistent, dry heat managed to cause a small fire in the herb stores. While no one was injured, many of the herbs are little more than ashes now.",
+        "event_text": "La chaleur sèche persistante a provoqué un petit incendie dans les réserves d’herbes. Personne n’a été blessé, mais beaucoup d’herbes ne sont plus que des cendres.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -7666,7 +7666,7 @@
             "clan_wide"
         ],
         "frequency": 3,
-        "event_text": "As the herb stores are being inspected, it's noticed that some of the given_herb went bad. They'll need to be replaced.",
+        "event_text": "En inspectant les réserves d’herbes, on remarque que certaines given_herb ont tourné. Il faudra les remplacer.",
         "supplies": [
             {
                 "type": "any_herb",
@@ -7691,7 +7691,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "The Clan has gathered plenty of moss recently, time to refresh the dens!",
+        "event_text": "Le Clan a récemment rassemblé beaucoup de mousse, il est temps de rafraîchir les tanières !",
         "supplies": [
             {
                 "type": "moss",
@@ -7715,7 +7715,7 @@
             "clan_wide"
         ],
         "frequency": 4,
-        "event_text": "The herb stores have quite a lot of given_herb, the excess is given back to the earth.",
+        "event_text": "Les réserves d’herbes contiennent beaucoup de given_herb, l’excédent est rendu à la terre.",
         "supplies": [
             {
                 "type": "any_herb",
@@ -7739,7 +7739,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c is so proud of how far {PRONOUN\/r_c\/poss} child has grown. With a look of pride, r_c presents m_c with acc_plural as a congratulations.",
+        "event_text": "r_c est si fier de voir à quel point son enfant a grandi. Avec un regard plein de fierté, r_c offre à m_c des acc_plural pour le féliciter.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -7788,7 +7788,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c is so proud of how far {PRONOUN\/r_c\/poss} kit has grown. With a look of pride, r_c presents m_c with acc_plural as a congratulations for becoming an apprentice.",
+        "event_text": "r_c est si fier de voir à quel point {PRONOUN\/r_c\/poss} chaton a grandi. Avec un regard plein de fierté, r_c offre à m_c des acc_plural pour le féliciter d’être devenu apprenti.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -7837,7 +7837,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c is so proud of how far {PRONOUN\/r_c\/poss} child has grown. With a look of pride, r_c presents m_c with acc_plural as a congratulations for becoming a warrior. r_c knew that m_c would do great things for c_n.",
+        "event_text": "r_c est si fier de voir à quel point {PRONOUN\/r_c\/poss} enfant a grandi. Avec un regard plein de fierté, r_c offre à m_c des acc_plural pour le féliciter d’être devenu guerrier. r_c savait que m_c ferait de grandes choses pour c_n.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -7886,7 +7886,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c is so proud of how far {PRONOUN\/r_c\/poss} child has grown. With a look of pride, r_c presents m_c with acc_plural as a congratulations. m_c takes it, but as r_c turns away, a complicated expression crosses {PRONOUN\/m_c\/poss} face. Perhaps {PRONOUN\/m_c\/subject} had the wrong idea about r_c.",
+        "event_text": "r_c est si fier de voir à quel point {PRONOUN\/r_c\/poss} enfant a grandi. Avec un regard plein de fierté, r_c offre à m_c des acc_plural pour le féliciter. m_c accepte, mais alors que r_c s’éloigne, une expression compliquée traverse le visage de {PRONOUN\/m_c\/poss}. Peut-être que {PRONOUN\/m_c\/subject} s’est trompé sur r_c.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -7949,7 +7949,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c hands over acc_singular to m_c, telling m_c that {PRONOUN\/m_c\/subject} better not forget about {PRONOUN\/r_c\/object} now that m_c is an apprentice.",
+        "event_text": "r_c donne un acc_singular à m_c, lui disant de ne pas l’oublier maintenant que m_c est apprenti.",
         "new_accessory": [
             "FORGET ME NOTS"
         ],
@@ -7996,7 +7996,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c hands over acc_singular to m_c, telling m_c that {PRONOUN\/m_c\/subject} better not forget about {PRONOUN\/r_c\/object} now that m_c is a warrior.",
+        "event_text": "r_c donne un acc_singular à m_c, lui disant de ne pas l’oublier maintenant que m_c est guerrier.",
         "new_accessory": [
             "FORGET ME NOTS"
         ],
@@ -8043,7 +8043,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c is feeling a bit overwhelmed, now that {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} an apprentice. Luckily, r_c is there with a gift of acc_plural and some comforting words to cheer m_c up.",
+        "event_text": "m_c se sent un peu dépassé maintenant que {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} apprenti. Heureusement, r_c est là avec un cadeau d’acc_plural et quelques mots réconfortants pour remonter le moral de m_c.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -8111,7 +8111,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c feels so lucky to have {PRONOUN\/r_c\/poss} own sibling become a medicine cat apprentice. Knowing how time consuming it is to gather herbs, r_c spends a long time gathering up acc_plural to help out m_c. While m_c appreciates the efforts, none of these are particularly useful. Instead m_c uses the acc_plural to decorate {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "r_c se sent chanceux d’avoir son propre frère ou sa propre sœur devenu apprenti guérisseur. Sachant combien il est long de récolter des herbes, r_c passe beaucoup de temps à rassembler des acc_plural pour aider m_c. Même si m_c apprécie l’effort, aucune de ces herbes n’est vraiment utile. m_c les utilise donc pour décorer sa fourrure.",
         "new_accessory": [
             "HERBS",
             "DRY HERBS",
@@ -8179,7 +8179,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c can't help but feel hurt when {PRONOUN\/m_c\/poss} sibling isn't there to congratulate {PRONOUN\/m_c\/object} for becoming a warrior. However, when {PRONOUN\/m_c\/subject} later {VERB\/m_c\/go\/goes} to {PRONOUN\/m_c\/poss} new nest {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} r_c there waiting for {PRONOUN\/m_c\/object}, with a gift of acc_plural. Together the siblings work on making m_c's new nest feel more comfortable.",
+        "event_text": "m_c ne peut s’empêcher d’être blessé lorsque son frère ou sa sœur n’est pas là pour le féliciter d’être devenu guerrier. Mais plus tard, quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/go\/goes} à son nouveau nid, {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} r_c qui l’attend avec un cadeau d’acc_plural. Ensemble, les deux aménagent le nouveau nid de m_c pour le rendre plus confortable.",
         "new_accessory": [
             "WILD"
         ],
@@ -8231,7 +8231,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c has been so excited for {PRONOUN\/m_c\/poss} first lesson with r_c. However, instead of something like hunting or moss gathering, r_c takes {PRONOUN\/m_c\/object} on a tour of the territory. At the end of the lesson, r_c gives m_c acc_plural, saying {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} glad to be m_c's mentor.",
+        "event_text": "m_c était si impatient pour sa première leçon avec r_c. Mais au lieu d’apprendre à chasser ou à ramasser de la mousse, r_c emmène {PRONOUN\/m_c\/object} faire le tour du territoire. À la fin, r_c offre à m_c des acc_plural, disant qu’{PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} heureux d’être son mentor.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -8302,7 +8302,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "As a new mentor, r_c wants to make a good initial impression on {PRONOUN\/r_c\/poss} apprentice, and after some careful consideration {PRONOUN\/r_c\/subject} {VERB\/r_c\/decide\/decides} the best way is a gift. Taking m_c to the side, r_c gives {PRONOUN\/m_c\/object} acc_plural, telling {PRONOUN\/m_c\/object} with a soft voice that if m_c has any sort of issue then {PRONOUN\/m_c\/subject} can come to {PRONOUN\/r_c\/object} for help.",
+        "event_text": "En tant que nouveau mentor, r_c veut faire bonne impression sur son apprenti. Après réflexion, {PRONOUN\/r_c\/subject} {VERB\/r_c\/decide\/decides} que le mieux est d’offrir un cadeau. r_c emmène m_c à l’écart et lui donne des acc_plural, lui disant doucement que si m_c a le moindre souci, {PRONOUN\/m_c\/subject} peut venir voir {PRONOUN\/r_c\/object}.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -8369,7 +8369,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c yowls in shock, claws unsheathing from an unexpected weight pinning {PRONOUN\/m_c\/object}. When {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} able to get up, m_c's surprised and a bit upset to see that it had been {PRONOUN\/m_c\/poss} mentor who attacked {PRONOUN\/m_c\/object}. r_c doesn't seem to notice m_c's discomfort as {PRONOUN\/r_c\/subject} excitedly {VERB\/r_c\/tell\/tells} m_c about the acc_plural that now adorns {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "m_c pousse un cri de surprise, les griffes sorties, sous le poids inattendu qui le plaque au sol. Quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} enfin debout, m_c est surpris et un peu contrarié de voir que c’était son mentor qui l’a attaqué. r_c ne semble pas remarquer le malaise de m_c et explique avec enthousiasme les acc_plural qui ornent désormais la fourrure de m_c.",
         "new_accessory": [
             "WILD",
             "PLANT"
@@ -8448,7 +8448,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "r_c found a little patch of acc_plural and decided to gift them to m_c.",
+        "event_text": "r_c a trouvé un petit coin d'acc_plural et a décidé de les offrir à m_c.",
         "new_accessory": [
             "POPPY",
             "ORANGE POPPY",
@@ -8506,7 +8506,7 @@
             "romance"
         ],
         "frequency": 2,
-        "event_text": "Flowers can be so pretty, even before they bloom, just like m_c. r_c blushes as {PRONOUN\/r_c\/subject} {VERB\/r_c\/see\/sees} m_c wear the acc_singular {PRONOUN\/r_c\/subject} got {PRONOUN\/m_c\/object}.",
+        "event_text": "Les fleurs sont jolies, même avant d'éclore, tout comme m_c. r_c rougit en voyant m_c porter l'acc_singular que {PRONOUN/r_c/subject} a offert à {PRONOUN/m_c/object}.",
         "new_accessory": [
             "BULB WHITE",
             "BULB YELLOW",
@@ -8558,7 +8558,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c thinks StarClan is trying to warn {PRONOUN\/m_c\/object} about r_c.",
+        "event_text": "m_c pense que le Clan des Étoiles essaie de l'avertir à propos de r_c.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -8608,7 +8608,7 @@
             "accessory"
         ],
         "frequency": 2,
-        "event_text": "A stray acc_singular in its last moments of life leads m_c to a new herb gathering spot {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} never found before. It gives a final flutter before it gently descends to the ground. Is it a sign from StarClan, or a coincidence? m_c doesn't know, but {PRONOUN\/m_c\/subject} {VERB\/m_c\/decide\/decides} to keep it with {PRONOUN\/m_c\/object} in its honor.",
+        "event_text": "Un acc_singular mourant guide m_c vers un nouveau coin à herbes que {PRONOUN/m_c/subject} n'avait jamais trouvé. Il s'envole une dernière fois avant de se poser doucement au sol. Signe du Clan des Étoiles ou simple hasard ? m_c ne sait pas, mais {PRONOUN/m_c/subject} décide de le garder en souvenir.",
         "new_accessory": [
             "BLACK CICADA",
             "CICADA WINGS",
@@ -8638,7 +8638,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent border disputes.",
+        "event_text": "m_c se rend chez o_c_n pour tenter de résoudre des conflits récents à la frontière.",
         "m_c": {
             "age": [
                 "any"
@@ -8664,7 +8664,7 @@
             "any"
         ],
         "weight": 2,
-        "event_text": "m_c travels to o_c_n to resolve some recent border disputes. The meeting goes better than expected, and m_c returns with a plan to solve the issue for good.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de frontière. La rencontre se passe mieux que prévu et m_c revient avec un plan pour régler le problème définitivement.",
         "m_c": {
             "age": [
                 "any"
@@ -8690,7 +8690,7 @@
             "any"
         ],
         "weight": 2,
-        "event_text": "m_c travels to o_c_n to resolve some recent border disputes. However, no progress was made.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de frontière. Cependant, aucun progrès n'est fait.",
         "m_c": {
             "age": [
                 "any"
@@ -8716,7 +8716,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent border disputes. However, it seems m_c only made o_c_n more upset.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de frontière, mais il semble que m_c ait seulement énervé o_c_n davantage.",
         "m_c": {
             "age": [
                 "any"
@@ -8742,7 +8742,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent hunting disputes.",
+        "event_text": "m_c se rend chez o_c_n pour tenter de résoudre des conflits récents de chasse.",
         "m_c": {
             "age": [
                 "any"
@@ -8768,7 +8768,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent hunting disputes. The meeting goes better than expected, and m_c returns with a plan to solve the issue for good.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de chasse. La rencontre se passe mieux que prévu et m_c revient avec un plan pour régler le problème définitivement.",
         "m_c": {
             "age": [
                 "any"
@@ -8794,7 +8794,7 @@
             "any"
         ],
         "weight": 2,
-        "event_text": "m_c travels to o_c_n to resolve some recent hunting disputes. However, no progress was made.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de chasse. Cependant, aucun progrès n'est fait.",
         "m_c": {
             "age": [
                 "any"
@@ -8820,7 +8820,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent hunting disputes. However, it seems m_c only made o_c_n more upset.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de chasse, mais il semble que m_c ait seulement énervé o_c_n davantage.",
         "m_c": {
             "age": [
                 "any"
@@ -8846,7 +8846,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent herb-gathering disputes.",
+        "event_text": "m_c se rend chez o_c_n pour tenter de résoudre des conflits récents de cueillette d'herbes.",
         "m_c": {
             "age": [
                 "any"
@@ -8872,7 +8872,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent herb-gathering disputes. The meeting goes better than expected, and m_c returns with a plan to solve the issue for good.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de cueillette d'herbes. La rencontre se passe mieux que prévu et m_c revient avec un plan pour régler le problème définitivement.",
         "m_c": {
             "age": [
                 "any"
@@ -8898,7 +8898,7 @@
             "any"
         ],
         "weight": 2,
-        "event_text": "m_c travels to o_c_n to resolve some recent herb-gathering disputes. However, no progress was made.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de cueillette d'herbes. Cependant, aucun progrès n'est fait.",
         "m_c": {
             "age": [
                 "any"
@@ -8924,7 +8924,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent herb-gathering disputes. However, it seems m_c only made o_c_n more upset.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits de cueillette d'herbes, mais il semble que m_c ait seulement énervé o_c_n davantage.",
         "m_c": {
             "age": [
                 "any"
@@ -8950,7 +8950,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent personal disputes.",
+        "event_text": "m_c se rend chez o_c_n pour tenter de résoudre des conflits personnels récents.",
         "m_c": {
             "age": [
                 "any"
@@ -8976,7 +8976,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent personal disputes. The meeting goes better than expected, and m_c returns with a plan to solve the issue for good.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits personnels. La rencontre se passe mieux que prévu et m_c revient avec un plan pour régler le problème définitivement.",
         "m_c": {
             "age": [
                 "any"
@@ -9002,7 +9002,7 @@
             "any"
         ],
         "weight": 2,
-        "event_text": "m_c travels to o_c_n to resolve some recent personal disputes. However, no progress was made.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits personnels. Cependant, aucun progrès n'est fait.",
         "m_c": {
             "age": [
                 "any"
@@ -9028,7 +9028,7 @@
             "any"
         ],
         "weight": 4,
-        "event_text": "m_c travels to o_c_n to resolve some recent personal disputes. However, it seems m_c only made o_c_n more upset.",
+        "event_text": "m_c se rend chez o_c_n pour régler des conflits personnels, mais il semble que m_c ait seulement énervé o_c_n davantage.",
         "m_c": {
             "age": [
                 "any"
@@ -9057,7 +9057,7 @@
             "transition"
         ],
         "frequency": 4,
-        "event_text": "m_c has realized that she-cat doesn't describe how {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} anymore.",
+        "event_text": "m_c a compris que 'chatte' ne décrit plus ce que {PRONOUN/m_c/subject} {VERB/m_c/feel/feels}.",
         "m_c": {
             "gender": [
                 "female"
@@ -9080,7 +9080,7 @@
             "transition"
         ],
         "frequency": 4,
-        "event_text": "m_c has realized that tom doesn't describe how {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} anymore.",
+        "event_text": "m_c a compris que 'mâle' ne décrit plus ce que {PRONOUN/m_c/subject} {VERB/m_c/feel/feels}.",
         "m_c": {
             "gender": [
                 "male"
@@ -9103,7 +9103,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "A o_c_n warrior is caught in the territory, m_c scruffed in their jaws. The warrior found the kit alone on the border and just wanted to bring {PRONOUN\/m_c\/object} home. No matter what their leader might say about c_n, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} just an innocent kit. The warrior is escorted off the territory as m_c settles back into camp, only slightly dinged up from {PRONOUN\/m_c\/poss} adventure.",
+        "event_text": "Un guerrier de o_c_n est surpris sur le territoire, m_c dans sa gueule. Le guerrier a trouvé le chaton seul à la frontière et voulait juste le ramener chez lui. Peu importe ce que son chef pense de c_n, {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} n'est qu'un innocent. Le guerrier est raccompagné hors du territoire et m_c retrouve le camp, seulement un peu égratigné par son aventure.",
         "m_c": {
             "status": [
                 "kitten"
@@ -9138,7 +9138,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Whilst out collecting herbs, m_c stumbles upon a o_c_n warrior attempting to pack a wound with leaves. Their movements are slow and uncoordinated - without help, they'll soon be hunting with their ancestors. It would be so easy to just... walk past. But {PRONOUN\/m_c\/subject} can't. It's just a few pieces of cobweb and a few moments of {PRONOUN\/m_c\/poss} time... nobody has to know.",
+        "event_text": "En ramassant des herbes, m_c tombe sur un guerrier de o_c_n tentant de soigner une blessure avec des feuilles. Ses gestes sont lents et maladroits – sans aide, il rejoindra bientôt ses ancêtres. Il serait si facile de passer son chemin... Mais {PRONOUN/m_c/subject} ne peut pas. Quelques toiles d’araignée et un peu de temps... personne n’a besoin de le savoir.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -9172,7 +9172,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Whilst out collecting herbs, m_c stumbles upon a o_c_n warrior attempting to pack a wound with leaves. Their movements are slow and uncoordinated - without help, they'll soon be hunting with their ancestors. It would be so easy to just... walk past. But {PRONOUN\/m_c\/subject} can't. A few berries placed into their jaws with some soothing words... and that's one less o_c_n cat to deal with.",
+        "event_text": "En ramassant des herbes, m_c tombe sur un guerrier de o_c_n tentant de soigner une blessure avec des feuilles. Ses gestes sont lents et maladroits – sans aide, il rejoindra bientôt ses ancêtres. Il serait si facile de passer son chemin... Mais {PRONOUN/m_c/subject} ne peut pas. Quelques baies placées dans sa gueule avec des mots doux... et voilà un ennemi de moins.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -9207,7 +9207,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "A severely injured o_c_n warrior stumbles upon m_c, out collecting herbs. It's clear that no amount of intervention will save them. m_c soothingly offers a pawful of small red berries to ease their journey to Silverpelt.",
+        "event_text": "Un guerrier de o_c_n gravement blessé croise m_c, qui ramasse des herbes. Il est clair qu’aucune intervention ne pourra le sauver. m_c lui offre doucement une patte de petites baies rouges pour apaiser son voyage vers le Clan des Étoiles.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -9243,7 +9243,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "A severely injured o_c_n warrior stumbles upon m_c, out collecting herbs. It's clear that no amount of intervention will save them. m_c tells them this with no small amount of personal satisfaction, watching passively as they slowly succumb.",
+        "event_text": "Un guerrier de o_c_n gravement blessé croise m_c, qui ramasse des herbes. Il est clair qu’aucune intervention ne pourra le sauver. m_c lui annonce cela avec une certaine satisfaction, observant sans intervenir alors qu’il succombe lentement.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -9275,7 +9275,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is discovered gambolling along the border with an apprentice from o_c_n! Despite the reminder that the two Clans are far from allies, m_c loudly declares that {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} not giving up {PRONOUN\/m_c\/poss} friend over some dumb war.",
+        "event_text": "m_c est surpris en train de gambader à la frontière avec un apprenti de o_c_n ! Malgré le rappel que les deux Clans ne sont pas alliés, m_c déclare haut et fort que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} ne renoncera pas à son ami à cause d'une stupide guerre.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -9328,7 +9328,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is discovered gambolling along the border with an apprentice from o_c_n! m_c's tail twitches as {PRONOUN\/m_c\/subject} {VERB\/m_c\/apologize\/apologizes}, plucking up the courage to insist that {PRONOUN\/m_c\/poss} friend isn't like the rest of o_c_n at all! This war sucks.",
+        "event_text": "m_c est surpris en train de gambader à la frontière avec un apprenti de o_c_n ! Sa queue frémit alors que {PRONOUN/m_c/subject} {VERB/m_c/apologize/apologizes}, trouvant le courage d'insister que son ami n'est pas comme les autres de o_c_n. Cette guerre est vraiment pénible.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -9361,7 +9361,7 @@
             ],
             "amount": -5,
             "log": {
-                "cats_from": "Was upset when m_c defied the Clan and maintained a friendship during war."
+                "cats_from": "A été contrarié quand m_c a défié le Clan et gardé une amitié pendant la guerre."
             }
         },
         "other_clan": {
@@ -9380,7 +9380,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is plagued by strange dreams where the leaders of o_c_n and c_n come together peacefully to trade fresh-kill.",
+        "event_text": "m_c est tourmenté par d'étranges rêves où les chefs de o_c_n et c_n se réunissent paisiblement pour échanger du gibier.",
         "m_c": {
             "status": [
                 "any"
@@ -9416,7 +9416,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c is discovered gambolling along the border with an apprentice from o_c_n! m_c deflates as {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} berated in front of the entire Clan for consorting with the enemy in the middle of a war... but it's clear that nobody really blames m_c for something as innocent as friendship in such difficult times.",
+        "event_text": "m_c est surpris en train de gambader à la frontière avec un apprenti de o_c_n ! m_c se ratatine alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} réprimandé devant tout le Clan pour avoir fréquenté l'ennemi en pleine guerre... mais il est clair que personne n'en veut vraiment à m_c pour une amitié innocente en ces temps difficiles.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -9441,7 +9441,7 @@
             "accessory"
         ],
         "frequency": 1,
-        "event_text": "During a meeting, a o_c_n warrior pushes acc_plural roughly into m_c's pelt with a derisive sniff and a snide remark... but everyone watching knows well that the gesture is genuine. It does suit m_c, after all.",
+        "event_text": "Lors d'une rencontre, un guerrier de o_c_n pousse des acc_plural dans la fourrure de m_c avec un reniflement méprisant et une remarque cinglante... mais tout le monde sait que le geste est sincère. Après tout, cela va bien à m_c.",
         "m_c": {
             "status": [
                 "any"
@@ -9477,7 +9477,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "More warriors have been posted around the edges of camp to keep watch on m_c's order",
+        "event_text": "Plus de guerriers ont été postés autour du camp pour surveiller sur ordre de m_c.",
         "m_c": {
             "status": [
                 "leader"
@@ -9512,7 +9512,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c has been assigning more warriors to watch the entrances into camp.",
+        "event_text": "m_c a assigné plus de guerriers pour surveiller les entrées du camp.",
         "m_c": {
             "status": [
                 "deputy"
@@ -9543,7 +9543,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "A skirmish with o_c_n was interrupted by a dog. The two Clans were forced to work together to drive it off. ",
+        "event_text": "Une escarmouche avec o_c_n a été interrompue par un chien. Les deux Clans ont dû s'unir pour le chasser.",
         "m_c": {
             "status": [
                 "warrior"

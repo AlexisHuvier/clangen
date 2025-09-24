@@ -1,7 +1,7 @@
 [
     {
         "interaction_type": "hunt",
-        "event_text": "The c_n patrol catches m_c's scent, but it only leads them in circles.",
+        "event_text": "La patrouille de c_n capte l'odeur de m_c, mais cela ne fait que les faire tourner en rond.",
         "reputation": [
             "any"
         ],
@@ -12,7 +12,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Heard rumors that a Clan was hunting for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan chassait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -31,7 +31,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n trails m_c, but never manages to corner {PRONOUN\/m_c\/object}. The frustrated patrol returns to camp with nothing to show for it.",
+        "event_text": "c_n suit la piste de m_c, mais n'arrive jamais à coincer {PRONOUN\/m_c\/object}. La patrouille frustrée rentre au camp les pattes vides.",
         "reputation": [
             "any"
         ],
@@ -42,7 +42,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Shook off {PRONOUN\/m_c\/poss} pursuers easily",
+            "new_thought": "A semé ses poursuivants sans effort",
             "relationships": [
                 {
                     "cats_to": [
@@ -61,7 +61,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n sets up an ambush for m_c, but the outsider knows the territory beyond the border better than c_n and escapes.",
+        "event_text": "c_n tend une embuscade à m_c, mais l’étranger connaît mieux le territoire au-delà de la frontière que c_n et s’échappe.",
         "reputation": [
             "any"
         ],
@@ -72,7 +72,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Won't fall for such an obvious trap",
+            "new_thought": "Ne tombera pas dans un piège aussi évident",
             "relationships": [
                 {
                     "cats_to": [
@@ -91,7 +91,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -102,7 +102,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Heard rumors that a Clan was hunting for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan chassait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -121,7 +121,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "No matter how much c_n searches, they can't find a hair on m_c's pelt.",
+        "event_text": "Peu importe combien c_n cherche, ils ne trouvent pas un seul poil sur le pelage de m_c.",
         "reputation": [
             "any"
         ],
@@ -133,7 +133,7 @@
                 "kittypet",
                 "former Clancat"
             ],
-            "new_thought": "Heard rumors that a Clan was hunting for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan chassait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -152,7 +152,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n's search for m_c turns up nothing.",
+        "event_text": "Les recherches de c_n pour retrouver m_c ne donnent rien.",
         "reputation": [
             "any"
         ],
@@ -164,7 +164,7 @@
                 "kittypet",
                 "former Clancat"
             ],
-            "new_thought": "Heard rumors that a Clan was hunting for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan chassait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -183,7 +183,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -193,7 +193,7 @@
                 "exiled",
                 "lost"
             ],
-            "new_thought": "Heard rumors that {PRONOUN\/m_c\/poss} old Clan was hunting for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs que son ancien Clan chassait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -213,7 +213,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "A patrol catches sight of m_c, but the outsider manages to escape.",
+        "event_text": "Une patrouille aperçoit m_c, mais l’étranger parvient à s’échapper.",
         "reputation": [
             "any"
         ],
@@ -224,7 +224,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Is slinking through undergrowth, worried c_n may find {PRONOUN\/m_c\/object}",
+            "new_thought": "Se faufile dans les broussailles, inquiet que c_n puisse trouver {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -244,7 +244,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "A patrol catches sight of m_c, but their old Clanmate manages to escape.",
+        "event_text": "Une patrouille aperçoit m_c, mais leur ancien camarade de Clan parvient à s'échapper.",
         "reputation": [
             "any"
         ],
@@ -254,7 +254,7 @@
                 "exiled",
                 "lost"
             ],
-            "new_thought": "Is slinking through undergrowth, worried c_n may find {PRONOUN\/m_c\/object}",
+            "new_thought": "Se faufile dans les broussailles, inquiet que c_n puisse trouver {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -274,7 +274,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "A patrol encounters m_c, but m_c convinces them to let {PRONOUn\/m_c\/object} go.",
+        "event_text": "Une patrouille tombe sur m_c, mais m_c les convainc de laisser {PRONOUN\/m_c\/object} partir.",
         "reputation": [
             "any"
         ],
@@ -288,7 +288,7 @@
             "skill": [
                 "SPEAKER,2"
             ],
-            "new_thought": "Is confident {PRONOUN\/m_c\/subject} can talk {PRONOUN\/m_c\/poss} way out of anything",
+            "new_thought": "Est convaincu(e) que {PRONOUN\/m_c\/subject} peut s'en sortir par la parole dans n'importe quelle situation",
             "relationships": [
                 {
                     "cats_from": [
@@ -308,7 +308,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "A patrol catches m_c, but {PRONOUN\/m_c\/subject} {VERB\/m_c\/wrestle\/wrestles} {PRONOUN\/m_c\/poss} way free and flees, snarling {PRONOUN\/m_c\/poss} revenge.",
+        "event_text": "Une patrouille attrape m_c, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/wrestle\/wrestles} pour se libérer et s'enfuit, grondant {PRONOUN\/m_c\/poss} vengeance.",
         "reputation": [
             "any"
         ],
@@ -322,7 +322,7 @@
             "trait": [
                 "vengeful"
             ],
-            "new_thought": "Will never forget this slight",
+            "new_thought": "N'oubliera jamais cet affront",
             "relationships": [
                 {
                     "cats_from": [
@@ -342,7 +342,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "The c_n patrol catches m_c's scent, but it only leads them in circles.",
+        "event_text": "La patrouille de c_n capte l'odeur de m_c, mais cela ne fait que les faire tourner en rond.",
         "reputation": [
             "any"
         ],
@@ -353,7 +353,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -372,7 +372,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n attacks and chases m_c beyond the borders, but only a few days later, a patrol catches {PRONOUN\/m_c\/poss} fresh scent on c_n's territory.",
+        "event_text": "c_n attaque et chasse m_c au-delà des frontières, mais quelques jours plus tard, une patrouille retrouve la trace fraîche de {PRONOUN\/m_c\/poss} sur le territoire de c_n.",
         "reputation": [
             "any"
         ],
@@ -383,7 +383,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Can't be forced out that easily",
+            "new_thought": "On ne peut pas être chassé aussi facilement",
             "relationships": [
                 {
                     "cats_to": [
@@ -402,7 +402,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "A c_n patrol confronts m_c and tells {PRONOUN\/m_c\/object} that {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} not welcome anywhere near c_n's territory. m_c agrees - and is scented trespassing <i>again<\/i> within the quarter-moon.",
+        "event_text": "Une patrouille de c_n confronte m_c et dit à {PRONOUN\/m_c\/object} que {PRONOUN\/m_c\/subject} n'est pas le bienvenu près du territoire de c_n. m_c accepte... et est surpris en train de rôder <i>encore<\/i> avant la prochaine demi-lune.",
         "reputation": [
             "any"
         ],
@@ -413,12 +413,12 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Considers Clan cats especially gullible"
+            "new_thought": "Pense que les chats de Clan sont particulièrement crédules"
         }
     },
     {
         "interaction_type": "drive",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -429,7 +429,7 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -449,7 +449,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "No matter how much c_n searches, they can't find a hair on m_c's pelt.",
+        "event_text": "Peu importe combien c_n cherche, ils ne trouvent pas un seul poil sur le pelage de m_c.",
         "reputation": [
             "any"
         ],
@@ -461,7 +461,7 @@
                 "kittypet",
                 "former Clancat"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -480,7 +480,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n's search for m_c turns up nothing.",
+        "event_text": "Les recherches de c_n pour retrouver m_c ne donnent rien.",
         "reputation": [
             "any"
         ],
@@ -492,7 +492,7 @@
                 "kittypet",
                 "former Clancat"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_to": [
@@ -511,7 +511,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -521,7 +521,7 @@
                 "exiled",
                 "lost"
             ],
-            "new_thought": "Heard rumors that {PRONOUN\/m_c\/poss} old Clan wants {PRONOUN\/m_c\/object} gone",
+            "new_thought": "A entendu des rumeurs que son ancien Clan veut voir partir {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -541,7 +541,7 @@
     },
     {
         "interaction_type": "invite",
-        "event_text": "The c_n patrol catches m_c's scent, but it only leads them in circles.",
+        "event_text": "La patrouille de c_n capte l'odeur de m_c, mais cela ne fait que les faire tourner en rond.",
         "reputation": [
             "any"
         ],
@@ -552,12 +552,12 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "A c_n patrol approaches m_c with an offer, but {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} seem receptive.",
+        "event_text": "Une patrouille de c_n approche m_c avec une proposition, mais {PRONOUN\/m_c\/subject} ne semble pas réceptif(ve).",
         "reputation": [
             "any"
         ],
@@ -568,12 +568,12 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Has no plans to change {PRONOUN\/m_c\/poss} lifestyle"
+            "new_thought": "N'a aucune intention de changer de mode de vie"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "When {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} found, m_c ignores the c_n patrol's invitation and runs off.",
+        "event_text": "Lorsque {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} trouvé(e), m_c ignore l'invitation de la patrouille de c_n et s'enfuit.",
         "reputation": [
             "any"
         ],
@@ -584,12 +584,12 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Doesn't want to be involved in c_n drama"
+            "new_thought": "Ne veut pas être impliqué(e) dans le drame de c_n"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -600,12 +600,12 @@
                 "rogue",
                 "kittypet"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -614,7 +614,7 @@
             "status": [
                 "exiled"
             ],
-            "new_thought": "Heard rumors that {PRONOUN\/m_c\/poss} old Clan was searching for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -634,7 +634,7 @@
     },
     {
         "interaction_type": "invite",
-        "event_text": "When a c_n patrol tracks m_c down, m_c makes it clear with bared fangs that {PRONOUN\/m_c\/subject} will not forgive c_n so easily for exiling {PRONOUN\/m_c\/object}.",
+        "event_text": "Lorsque la patrouille de c_n retrouve m_c, ce dernier fait clairement comprendre avec des crocs découverts que {PRONOUN\/m_c\/subject} ne pardonnera pas si facilement à c_n d'avoir exilé {PRONOUN\/m_c\/object}.",
         "reputation": [
             "any"
         ],
@@ -651,7 +651,7 @@
                 "bold",
                 "shameless"
             ],
-            "new_thought": "Spits at {PRONOUN\/m_c\/poss} Clanmates' retreating tails",
+            "new_thought": "Crache sur les queues en retraite des camarades de Clan de {PRONOUN\/m_c\/poss}",
             "relationships": [
                 {
                     "cats_from": [
@@ -671,7 +671,7 @@
     },
     {
         "interaction_type": "invite",
-        "event_text": "No matter how much c_n searches, they can't find a hair on m_c's pelt.",
+        "event_text": "Peu importe combien c_n cherche, ils ne trouvent pas un seul poil sur le pelage de m_c.",
         "reputation": [
             "any"
         ],
@@ -683,12 +683,12 @@
                 "kittypet",
                 "former Clancat"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "c_n's search for m_c turns up nothing.",
+        "event_text": "Les recherches de c_n pour retrouver m_c ne donnent rien.",
         "reputation": [
             "any"
         ],
@@ -700,12 +700,12 @@
                 "kittypet",
                 "former Clancat"
             ],
-            "new_thought": "Heard rumors that a Clan was looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "A entendu des rumeurs qu'un Clan cherchait {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -714,7 +714,7 @@
             "status": [
                 "former Clancat"
             ],
-            "new_thought": "Wonders why c_n would be looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "Se demande pourquoi c_n chercherait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -734,7 +734,7 @@
     },
     {
         "interaction_type": "search",
-        "event_text": "The c_n patrol catches m_c's scent, but it only leads them in circles.",
+        "event_text": "La patrouille de c_n capte l'odeur de m_c, mais cela ne fait que les faire tourner en rond.",
         "reputation": [
             "any"
         ],
@@ -743,12 +743,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Wonders if {PRONOUN\/m_c\/subject} will ever find {PRONOUN\/m_c\/poss} way back"
+            "new_thought": "Se demande si {PRONOUN\/m_c\/subject} retrouvera un jour le chemin du retour"
         }
     },
     {
         "interaction_type": "search",
-        "event_text": "A c_n patrol thought they caught a glimpse of m_c, but their search of the surrounding area yields no sign of their old Clanmate.",
+        "event_text": "Une patrouille de c_n croit apercevoir m_c, mais leur recherche dans les environs ne donne aucun signe de leur ancien camarade de Clan.",
         "reputation": [
             "any"
         ],
@@ -757,12 +757,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Wonders if {PRONOUN\/m_c\/subject} will ever find {PRONOUN\/m_c\/poss} way back"
+            "new_thought": "Se demande si {PRONOUN\/m_c\/subject} retrouvera un jour le chemin du retour"
         }
     },
     {
         "interaction_type": "search",
-        "event_text": "c_n's search for m_c is utterly fruitless. {PRONOUN\/m_c\/poss\/CAP} Clanmates begin to dread ever finding m_c.",
+        "event_text": "Les recherches de c_n pour retrouver m_c sont totalement infructueuses. Les camarades de Clan de {PRONOUN\/m_c\/poss\/CAP} commencent à craindre de ne jamais retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -771,12 +771,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Fears never returning to c_n"
+            "new_thought": "Craint de ne jamais revenir à c_n"
         }
     },
     {
         "interaction_type": "search",
-        "event_text": "No matter how much c_n searches, they can't find a hair on m_c's pelt.",
+        "event_text": "Peu importe combien c_n cherche, ils ne trouvent pas un seul poil sur le pelage de m_c.",
         "reputation": [
             "any"
         ],
@@ -785,12 +785,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Wonders if {PRONOUN\/m_c\/subject} will ever find {PRONOUN\/m_c\/poss} way back"
+            "new_thought": "Se demande si {PRONOUN\/m_c\/subject} retrouvera un jour le chemin du retour"
         }
     },
     {
         "interaction_type": "search",
-        "event_text": "c_n's search for m_c turns up nothing.",
+        "event_text": "Les recherches de c_n pour retrouver m_c ne donnent rien.",
         "reputation": [
             "any"
         ],
@@ -799,12 +799,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Wonders if {PRONOUN\/m_c\/subject} will ever find {PRONOUN\/m_c\/poss} way back"
+            "new_thought": "Se demande si {PRONOUN\/m_c\/subject} retrouvera un jour le chemin du retour"
         }
     },
     {
         "interaction_type": "search",
-        "event_text": "A c_n search patrol finally finds m_c, but {PRONOUN\/m_c\/poss} Clanmates are shocked to hear that m_c has unfinished business outside of the Clan. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/promise\/promises} to return soon.",
+        "event_text": "Une patrouille de recherche de c_n finit par retrouver m_c, mais ses camarades de Clan sont choqués d'apprendre que m_c a des affaires inachevées en dehors du Clan. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/promise\/promises} de revenir bientôt.",
         "reputation": [
             "any"
         ],
@@ -813,12 +813,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Is relieved to see {PRONOUN\/m_c\/poss} Clanmates again"
+            "new_thought": "Est soulagé(e) de revoir ses camarades de Clan"
         }
     },
     {
         "interaction_type": "search",
-        "event_text": "When c_n finds m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/tell\/tells} them {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is}n't ready to come home just yet. They part on good terms, and {PRONOUN\/m_c\/subject} {VERB\/m_c\/promise\/promises} to be home soon.",
+        "event_text": "Quand c_n retrouve m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/tell\/tells} qu'{PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} pas encore prêt(e) à rentrer. Ils se quittent en bons termes, et {PRONOUN\/m_c\/subject} {VERB\/m_c\/promise\/promises} de revenir bientôt.",
         "reputation": [
             "any"
         ],
@@ -827,12 +827,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Is relieved to see {PRONOUN\/m_c\/poss} Clanmates again"
+            "new_thought": "Est soulagé(e) de revoir ses camarades de Clan"
         }
     },
     {
         "interaction_type": "hunt",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -841,7 +841,7 @@
             "status": [
                 "former Clancat"
             ],
-            "new_thought": "Wonders why c_n would be looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "Se demande pourquoi c_n chercherait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -861,7 +861,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -870,7 +870,7 @@
             "status": [
                 "former Clancat"
             ],
-            "new_thought": "Wonders why c_n would be looking for {PRONOUN\/m_c\/object}",
+            "new_thought": "Se demande pourquoi c_n chercherait {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -890,7 +890,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "Just before c_n finds m_c, m_c hears a whisper on the wind, warning {PRONOUN\/m_c\/object} of what c_n does to outsiders. c_n can't find a hair on m_c's pelt this moon.",
+        "event_text": "Juste avant que c_n ne trouve m_c, m_c entend un murmure porté par le vent, avertissant {PRONOUN\/m_c\/object} de ce que c_n fait aux étrangers. c_n ne trouve pas un seul poil sur le pelage de m_c cette lune.",
         "reputation": [
             "hostile"
         ],
@@ -905,7 +905,7 @@
             "skill": [
                 "GHOST,1"
             ],
-            "new_thought": "Shivers, thanking the spirit that warned {PRONOUN\/m_c\/object}",
+            "new_thought": "Frissonne, remerciant l'esprit qui a averti {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -925,7 +925,7 @@
     },
     {
         "interaction_type": "search",
-        "event_text": "Despite a long search, m_c could not be found by the Clan.",
+        "event_text": "Malgré de longues recherches, le Clan n'a pas réussi à retrouver m_c.",
         "reputation": [
             "any"
         ],
@@ -934,7 +934,7 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Heard rumors that {PRONOUN\/m_c\/poss} Clan has been searching for {PRONOUN\/m_c\/object}",
+            "new_thought": "A entendu des rumeurs que son Clan le cherchait",
             "relationships": [
                 {
                     "cats_from": [
@@ -954,7 +954,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "Some of c_n's best hunters challenge m_c to a hunt-off. The stakes are simple: if c_n wins, m_c leaves the territory; if m_c wins, then {PRONOUN\/m_c\/subject} will be allowed to hunt within the Clan's borders undisturbed. m_c wins by a landslide and, though they grumble about it, the c_n cats honor the agreement and leave {PRONOUN\/m_c\/object} alone.",
+        "event_text": "Certains des meilleurs chasseurs de c_n défient m_c dans un concours de chasse. Les règles sont simples : si c_n gagne, m_c doit quitter le territoire ; si m_c gagne, alors {PRONOUN\/m_c\/subject} sera autorisé(e) à chasser sur les terres du Clan sans être dérangé(e). m_c l'emporte haut la patte et, même s'ils râlent, les chats de c_n respectent l'accord et laissent {PRONOUN\/m_c\/object} tranquille.",
         "reputation": [
             "any"
         ],
@@ -974,7 +974,7 @@
             "skill": [
                 "HUNTER,3"
             ],
-            "new_thought": "Is feeling rather proud of {PRONOUN\/m_c\/self}",
+            "new_thought": "Se sent plutôt fier(ère) de {PRONOUN\/m_c\/self}",
             "relationships": [
                 {
                     "cats_from": [
@@ -994,7 +994,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "The cats of c_n have been scouring the territory for m_c, but {PRONOUN\/m_c\/poss} strong senses have helped {PRONOUN\/m_c\/object} to stay two pawsteps ahead of {PRONOUN\/m_c\/poss} pursuers.",
+        "event_text": "Les chats de c_n ont fouillé tout le territoire à la recherche de m_c, mais les sens aiguisés de {PRONOUN\/m_c\/poss} ont permis à {PRONOUN\/m_c\/object} de rester à deux longueurs de patte devant ses poursuivants.",
         "reputation": [
             "any"
         ],
@@ -1015,7 +1015,7 @@
             "skill": [
                 "SENSE,1"
             ],
-            "new_thought": "Is thankful {PRONOUN\/m_c\/subject} {VERB\/m_c\/weren't\/wasn't} caught by c_n",
+            "new_thought": "Est reconnaissant(e) de ne pas avoir été attrapé(e) par c_n",
             "relationships": [
                 {
                     "cats_from": [
@@ -1035,7 +1035,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "The cats of c_n have been scouring the territory for m_c, but {PRONOUN\/m_c\/poss} strong senses have helped {PRONOUN\/m_c\/object} to stay two pawsteps ahead of {PRONOUN\/m_c\/poss} pursuers.",
+        "event_text": "Les chats de c_n ont fouillé tout le territoire à la recherche de m_c, mais les sens aiguisés de {PRONOUN\/m_c\/poss} ont permis à {PRONOUN\/m_c\/object} de rester à deux longueurs de patte devant ses poursuivants.",
         "reputation": [
             "any"
         ],
@@ -1056,7 +1056,7 @@
             "skill": [
                 "SENSE,1"
             ],
-            "new_thought": "Is thankful {PRONOUN\/m_c\/subject} {VERB\/m_c\/weren't\/wasn't} caught by c_n",
+            "new_thought": "Est reconnaissant(e) de ne pas avoir été attrapé(e) par c_n",
             "relationships": [
                 {
                     "cats_from": [
@@ -1076,7 +1076,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n can't seem to catch m_c unaware. It's as if {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} been warned in advance every time.",
+        "event_text": "c_n n'arrive jamais à surprendre m_c. C'est comme si {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} été prévenu(e) à l'avance à chaque fois.",
         "reputation": [
             "any"
         ],
@@ -1098,7 +1098,7 @@
             "skill": [
                 "CLAIRVOYANT,1"
             ],
-            "new_thought": "Thanks {PRONOUN\/m_c\/poss} lucky stars {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} escaped c_n once more",
+            "new_thought": "Remercie sa bonne étoile d'avoir encore échappé à c_n",
             "relationships": [
                 {
                     "cats_from": [
@@ -1118,7 +1118,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "Some of c_n's best hunters challenge m_c to a hunt-off. The stakes are simple: if c_n wins, then m_c leaves the territory. Well, m_c soon proves that with age comes experience, easily winning the contest before continuing on {PRONOUN\/m_c\/poss} merry way.",
+        "event_text": "Certains des meilleurs chasseurs de c_n défient m_c dans un concours de chasse. Les règles sont simples : si c_n gagne, m_c doit quitter le territoire. Mais m_c prouve vite qu'avec l'âge vient l'expérience, remportant facilement le concours avant de continuer joyeusement sa route.",
         "reputation": [
             "any"
         ],
@@ -1135,7 +1135,7 @@
             "skill": [
                 "HUNTER,3"
             ],
-            "new_thought": "Feels pleased to show those whippersnappers a thing or two",
+            "new_thought": "Est ravi(e) de montrer à ces jeunots de quel bois {PRONOUN\/m_c\/subject} se chauffe",
             "relationships": [
                 {
                     "cats_from": [
@@ -1168,7 +1168,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "The cats of c_n have been scouring the territory for m_c but, even in {PRONOUN\/m_c\/poss} advanced age, m_c's senses have remained sharp enough for {PRONOUN\/m_c\/object} to stay two pawsteps ahead of {PRONOUN\/m_c\/poss} pursuers.",
+        "event_text": "Les chats de c_n ont fouillé tout le territoire à la recherche de m_c, mais même avec l'âge, les sens de m_c sont restés assez aiguisés pour que {PRONOUN\/m_c\/object} garde toujours deux longueurs de patte d'avance sur ses poursuivants.",
         "reputation": [
             "any"
         ],
@@ -1186,7 +1186,7 @@
             "skill": [
                 "SENSE,1"
             ],
-            "new_thought": "Is thankful {PRONOUN\/m_c\/subject} {VERB\/m_c\/weren't\/wasn't} caught by c_n",
+            "new_thought": "Est reconnaissant(e) de ne pas avoir été attrapé(e) par c_n",
             "relationships": [
                 {
                     "cats_from": [
@@ -1219,7 +1219,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "The cats of c_n have set up an ambush, hoping to get rid of m_c once and for all. However, even in {PRONOUN\/m_c\/poss} advanced age, m_c's senses are more than sharp enough to help {PRONOUN\/m_c\/object} evade the trap.",
+        "event_text": "Les chats de c_n ont tendu une embuscade, espérant se débarrasser de m_c une bonne fois pour toutes. Pourtant, même à son âge avancé, les sens de m_c sont encore assez aiguisés pour lui permettre d'éviter le piège.",
         "reputation": [
             "any"
         ],
@@ -1237,7 +1237,7 @@
             "skill": [
                 "SENSE,1"
             ],
-            "new_thought": "Isn't ready to join StarClan just yet",
+            "new_thought": "N'est pas encore prêt(e) à rejoindre le Clan des Étoiles",
             "relationships": [
                 {
                     "cats_from": [
@@ -1270,7 +1270,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n finds m_c behind some sort of sheet of clear, unmeltable ice, barricading {PRONOUN\/m_c\/object} inside the Twoleg nest. c_n will have to try another day.",
+        "event_text": "c_n trouve m_c derrière une sorte de feuille de glace claire et incassable, enfermant {PRONOUN\/m_c\/object} dans le nid de Bipèdes. c_n devra réessayer un autre jour.",
         "reputation": [
             "any"
         ],
@@ -1279,7 +1279,7 @@
             "status": [
                 "kittypet"
             ],
-            "new_thought": "Smugly watches the Clan cats retreat",
+            "new_thought": "Regarde les chats du Clan s'éloigner avec un air satisfait",
             "relationships": [
                 {
                     "cats_from": [
@@ -1299,7 +1299,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n finds m_c behind some sort of sheet of clear, unmeltable ice, barricading {PRONOUN\/m_c\/object} inside the Twoleg nest. c_n will have to try another day.",
+        "event_text": "c_n trouve m_c derrière une sorte de feuille de glace claire et incassable, enfermant {PRONOUN\/m_c\/object} dans le nid de Bipèdes. c_n devra réessayer un autre jour.",
         "reputation": [
             "any"
         ],
@@ -1308,7 +1308,7 @@
             "status": [
                 "kittypet"
             ],
-            "new_thought": "Smugly watches the Clan cats retreat",
+            "new_thought": "Regarde les chats du Clan s'éloigner avec un air satisfait",
             "relationships": [
                 {
                     "cats_from": [
@@ -1328,7 +1328,7 @@
     },
     {
         "interaction_type": "invite",
-        "event_text": "c_n finds m_c behind some sort of sheet of clear, unmeltable ice, barricading {PRONOUN\/m_c\/object} inside the Twoleg nest. It's impossible to carry a conversation from outside.",
+        "event_text": "c_n trouve m_c derrière une sorte de feuille de glace claire et incassable, enfermant {PRONOUN\/m_c\/object} dans le nid de Bipèdes. Il est impossible de discuter à travers la paroi.",
         "reputation": [
             "any"
         ],
@@ -1337,12 +1337,12 @@
             "status": [
                 "kittypet"
             ],
-            "new_thought": "Curiously watches the Clan cats retreat"
+            "new_thought": "Regarde curieusement les chats du Clan s'éloigner"
         }
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n tracks down m_c's last known location but only finds an abandoned nest and a fading scent.",
+        "event_text": "c_n remonte la piste de la dernière localisation connue de m_c, mais ne trouve qu'un ancien nid abandonné et une odeur qui s'estompe.",
         "reputation": [
             "any"
         ],
@@ -1351,12 +1351,12 @@
             "status": [
                 "loner"
             ],
-            "new_thought": "Finds a new den with better shelter"
+            "new_thought": "Trouve une nouvelle tanière avec un meilleur abri"
         }
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n tracks down m_c's last known location but only finds an abandoned nest and a fading scent.",
+        "event_text": "c_n remonte la piste de la dernière localisation connue de m_c, mais ne trouve qu'un ancien nid abandonné et une odeur qui s'estompe.",
         "reputation": [
             "any"
         ],
@@ -1365,12 +1365,12 @@
             "status": [
                 "loner"
             ],
-            "new_thought": "Finds a new den with better shelter"
+            "new_thought": "Trouve une nouvelle tanière avec un meilleur abri"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "c_n tracks down m_c's last known location but only finds an abandoned nest and a fading scent.",
+        "event_text": "c_n remonte la piste de la dernière localisation connue de m_c, mais ne trouve qu'un ancien nid abandonné et une odeur qui s'estompe.",
         "reputation": [
             "any"
         ],
@@ -1379,12 +1379,12 @@
             "status": [
                 "loner"
             ],
-            "new_thought": "Finds a new den with better shelter"
+            "new_thought": "Trouve une nouvelle tanière avec un meilleur abri"
         }
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n asks a few local rogues if they've seen m_c around. The other rogues are less than helpful.",
+        "event_text": "c_n demande à quelques solitaires locaux s'ils ont vu m_c dans les environs. Les autres solitaires ne sont pas très coopératifs.",
         "reputation": [
             "any"
         ],
@@ -1393,12 +1393,12 @@
             "status": [
                 "rogue"
             ],
-            "new_thought": "Wonders why c_n is looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "Se demande pourquoi c_n cherche {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n asks a few local rogues if they've seen m_c around. The other rogues are less than helpful.",
+        "event_text": "c_n demande à quelques solitaires locaux s'ils ont vu m_c dans les environs. Les autres solitaires ne sont pas très coopératifs.",
         "reputation": [
             "any"
         ],
@@ -1407,12 +1407,12 @@
             "status": [
                 "rogue"
             ],
-            "new_thought": "Wonders why c_n is looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "Se demande pourquoi c_n cherche {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "c_n asks a few local rogues if they've seen m_c around. The other rogues are less than helpful.",
+        "event_text": "c_n demande à quelques solitaires locaux s'ils ont vu m_c dans les environs. Les autres solitaires ne sont pas très coopératifs.",
         "reputation": [
             "any"
         ],
@@ -1421,12 +1421,12 @@
             "status": [
                 "rogue"
             ],
-            "new_thought": "Wonders why c_n is looking for {PRONOUN\/m_c\/object}"
+            "new_thought": "Se demande pourquoi c_n cherche {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "hunt",
-        "event_text": "c_n tracks m_c down. When m_c sees them advancing on {PRONOUN\/m_c\/object} with bared teeth, {PRONOUN\/m_c\/subject} {VERB\/m_c\/flee\/flees} over a Twoleg fence and {VERB\/m_c\/disappear\/disappears} into the bushes.",
+        "event_text": "c_n retrouve la trace de m_c. Lorsque m_c les voit s'avancer vers {PRONOUN\/m_c\/object} les crocs découverts, {PRONOUN\/m_c\/subject} {VERB\/m_c\/flee\/flees} par-dessus une clôture de Bipèdes et {VERB\/m_c\/disappear\/disappears} dans les buissons.",
         "reputation": [
             "any"
         ],
@@ -1435,7 +1435,7 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Doesn't understand why {PRONOUN\/m_c\/poss} old Clanmates want to hurt {PRONOUN\/m_c\/object}",
+            "new_thought": "Ne comprend pas pourquoi ses anciens camarades de Clan veulent faire du mal à {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -1455,7 +1455,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n tracks m_c down. When m_c sees them advancing on {PRONOUN\/m_c\/object} with bared teeth, {PRONOUN\/m_c\/subject} {VERB\/m_c\/flee\/flees} over a Twoleg fence and {VERB\/m_c\/disappear\/disappears} into the bushes.",
+        "event_text": "c_n retrouve la trace de m_c. Lorsque m_c les voit s'avancer vers {PRONOUN\/m_c\/object} les crocs découverts, {PRONOUN\/m_c\/subject} {VERB\/m_c\/flee\/flees} par-dessus une clôture de Bipèdes et {VERB\/m_c\/disappear\/disparaît} dans les buissons.",
         "reputation": [
             "any"
         ],
@@ -1464,7 +1464,7 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Doesn't understand why {PRONOUN\/m_c\/poss} old Clanmates want to hurt {PRONOUN\/m_c\/object}",
+            "new_thought": "Ne comprend pas pourquoi ses anciens camarades de Clan veulent faire du mal à {PRONOUN\/m_c\/object}",
             "relationships": [
                 {
                     "cats_from": [
@@ -1484,7 +1484,7 @@
     },
     {
         "interaction_type": "search",
-        "event_text": "c_n puts out the word to all local groups of cats, desperate for any sign that m_c is still out there. They hear nothing back.",
+        "event_text": "c_n lance un appel à tous les groupes de chats locaux, désespéré(e) d'obtenir le moindre signe que m_c est encore là dehors. Mais aucune nouvelle ne leur parvient.",
         "reputation": [
             "any"
         ],
@@ -1493,12 +1493,12 @@
             "status": [
                 "lost"
             ],
-            "new_thought": "Wonders if {PRONOUN\/m_c\/poss} Clanmates have forgotten about {PRONOUN\/m_c\/object}"
+            "new_thought": "Se demande si ses camarades de Clan ont oublié {PRONOUN\/m_c\/object}"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "c_n tracks m_c down, but as soon as m_c scents Clan cats, {PRONOUN\/m_c\/subject} {VERB\/m_c\/turn\/turns} tail and flees, warned off by their reputation.",
+        "event_text": "c_n retrouve la trace de m_c, mais dès que m_c sent l’odeur des chats du Clan, {PRONOUN\/m_c\/subject} {VERB\/m_c\/turn\/tourne} les talons et s’enfuit, averti(e) par leur réputation.",
         "reputation": [
             "hostile"
         ],
@@ -1508,12 +1508,12 @@
                 "loner",
                 "rogue"
             ],
-            "new_thought": "Knows better than to trust Clan cats"
+            "new_thought": "Sait qu'il ne faut pas faire confiance aux chats de Clan"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "No matter how much c_n searches, they can't find a whisker of m_c. It seems the Clan's reputation has taught the local kittypets to stay in their Twolegs' nest.",
+        "event_text": "Peu importe combien c_n cherche, ils ne trouvent pas un seul poil sur le pelage de m_c. Il semble que la réputation du Clan ait appris aux chats domestiques locaux à rester dans leur nid de Bipèdes.",
         "reputation": [
             "hostile"
         ],
@@ -1522,12 +1522,12 @@
             "status": [
                 "kittypet"
             ],
-            "new_thought": "Shivers in {PRONOUN\/m_c\/poss} nest at the thought of Clan cats"
+            "new_thought": "Frissonne dans le nid de {PRONOUN\/m_c\/poss} à l'idée de croiser des chats du Clan"
         }
     },
     {
         "interaction_type": "hunt",
-        "event_text": "When c_n finds m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/greet\/greets} the Clan cats politely. m_c is stunned when c_n descends on {PRONOUN\/m_c\/object} with unsheathed claws, but {PRONOUN\/m_c\/subject} {VERB\/m_c\/react\/reacts} just in time to sprint off.",
+        "event_text": "Quand c_n retrouve m_c, {PRONOUN\/m_c\/subject} {VERB\/m_c\/greet\/salue} poliment les chats du Clan. m_c est stupéfait(e) lorsque c_n fond sur {PRONOUN\/m_c\/object} griffes sorties, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/react\/réagit} juste à temps pour s'enfuir.",
         "reputation": [
             "welcoming"
         ],
@@ -1538,7 +1538,7 @@
                 "loner",
                 "rogue"
             ],
-            "new_thought": "Is stunned to discover Clan cats are much more vicious than {PRONOUN\/m_c\/subject} thought",
+            "new_thought": "Est stupéfait(e) de découvrir que les chats du Clan sont bien plus féroces que {PRONOUN\/m_c\/subject} ne le pensait",
             "relationships": [
                 {
                     "cats_from": [
@@ -1558,7 +1558,7 @@
     },
     {
         "interaction_type": "hunt",
-        "event_text": "As soon as the c_n cats slink into view, m_c turns tail and sprints off. Every cat in the area knows how c_n treats outsiders.",
+        "event_text": "Dès que les chats de c_n apparaissent, m_c tourne les talons et détale. Tous les chats du coin savent comment c_n traite les étrangers.",
         "reputation": [
             "hostile"
         ],
@@ -1569,7 +1569,7 @@
                 "loner",
                 "rogue"
             ],
-            "new_thought": "Shudders at the thought of running into a c_n warrior",
+            "new_thought": "Frissonne à l'idée de croiser un guerrier de c_n",
             "relationships": [
                 {
                     "cats_from": [
@@ -1589,7 +1589,7 @@
     },
     {
         "interaction_type": "drive",
-        "event_text": "c_n searches all over, but m_c has been lying low. Every cat in the area knows how c_n treats outsiders.",
+        "event_text": "c_n fouille partout, mais m_c s'est fait discret(e). Tous les chats du coin savent comment c_n traite les étrangers.",
         "reputation": [
             "hostile"
         ],
@@ -1600,12 +1600,12 @@
                 "loner",
                 "rogue"
             ],
-            "new_thought": "Shudders at the thought of running into a c_n warrior"
+            "new_thought": "Frissonne à l'idée de croiser un guerrier de c_n"
         }
     },
     {
         "interaction_type": "invite",
-        "event_text": "Apparently, c_n is getting a reputation with the local rogues - every time c_n visits one of them, they go missing. m_c is nowhere to be found.",
+        "event_text": "Apparemment, c_n se fait une réputation auprès des solitaires locaux : chaque fois que c_n leur rend visite, ils disparaissent. m_c est introuvable.",
         "reputation": [
             "welcoming"
         ],
@@ -1614,7 +1614,7 @@
             "status": [
                 "rogue"
             ],
-            "new_thought": "Is perfectly happy where {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is}"
+            "new_thought": "Est parfaitement satisfait(e) là où {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is}"
         }
     }
 ]

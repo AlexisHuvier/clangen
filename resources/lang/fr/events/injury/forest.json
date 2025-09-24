@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was practicing {PRONOUN\/m_c\/poss} tree climbing skills when {PRONOUN\/m_c\/subject} slipped from a branch. {PRONOUN\/m_c\/subject\/CAP}'{VERB\/m_c\/re\/s} brought home badly injured.",
+        "event_text": "m_c s'entraînait à grimper aux arbres lorsque {PRONOUN\/m_c\/subject} a glissé d'une branche. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/re\/s} est rentré(e) chez lui/elle gravement blessé(e).",
         "m_c": {
             "status": [
                 "apprentice"
@@ -33,8 +33,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after falling from a tree.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after falling from a tree.",
+                "scar": "m_c a été marqué(e) après être tombé(e) d'un arbre.",
+                "reg_death": "m_c est mort(e) de ses blessures après être tombé(e) d'un arbre.",
                 "lead_death": ""
             }
         ]
@@ -48,7 +48,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was hunting on a night patrol and was nearly carried off by an owl. {PRONOUN\/m_c\/subject\/CAP}'{VERB\/m_c\/re\/s} left badly scratched.",
+        "event_text": "m_c chassait lors d'une patrouille nocturne et a failli être emporté(e) par une chouette. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/re\/s} est rentré(e) chez lui/elle avec de profondes griffures.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -72,8 +72,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after an owl tried to carry {PRONOUN\/m_c\/object} off.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after an owl tried to carry {PRONOUN\/m_c\/object} off.",
+                "scar": "m_c a été marqué(e) après qu'une chouette a tenté d'emporter {PRONOUN\/m_c\/object}.",
+                "reg_death": "m_c est mort(e) de ses blessures après qu'une chouette a tenté d'emporter {PRONOUN\/m_c\/object}.",
                 "lead_death": ""
             }
         ]
@@ -87,7 +87,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "r_c dared m_c to climb one of the tallest trees in the territory. The dare left m_c tumbling to the ground and r_c sprinting home for help. ",
+        "event_text": "r_c a défié m_c de grimper à l'un des plus grands arbres du territoire. Ce défi a fait tomber m_c au sol et r_c est rentré(e) en courant chercher de l'aide. ",
         "m_c": {
             "status": [
                 "apprentice",
@@ -136,7 +136,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after falling from a tall tree and breaking {PRONOUN\/m_c\/poss} back.",
+                "reg_death": "m_c est mort(e) de ses blessures après être tombé(e) d'un arbre et s'être brisé(e) le dos.",
                 "scar": "",
                 "lead_death": ""
             }
@@ -180,7 +180,7 @@
             "greenleaf"
         ],
         "frequency": 3,
-        "event_text": "m_c was left scratched and scraped after pushing through the thick underbrush.",
+        "event_text": "m_c est rentré(e) couvert(e) d'égratignures après s'être frayé(e) un chemin à travers les broussailles épaisses.",
         "m_c": {
             "age": [
                 "any",
@@ -217,7 +217,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c's tail was badly injured by a falling tree.",
+        "event_text": "La queue de m_c a été gravement blessée par la chute d'un arbre.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -245,9 +245,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a falling tree.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a tree fell on {PRONOUN\/m_c\/object}.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after a tree fell on {PRONOUN\/m_c\/object}"
+                "scar": "m_c a été marqué(e) par la chute d'un arbre.",
+                "reg_death": "m_c est mort(e) de ses blessures après qu'un arbre est tombé sur {PRONOUN\/m_c\/object}.",
+                "lead_death": "mort(e) de ses blessures après qu'un arbre est tombé sur {PRONOUN\/m_c\/object}"
             }
         ]
     },
@@ -260,7 +260,7 @@
             "greenleaf"
         ],
         "frequency": 1,
-        "event_text": "A fire rages through the forest. m_c manages to escape, though not without burns.",
+        "event_text": "Un incendie fait rage dans la forêt. m_c parvient à s'échapper, mais pas sans brûlures.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -292,9 +292,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c's pelt was burned by a forest fire.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} burns after a forest fire.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} burns after a forest fire"
+                "scar": "Le pelage de m_c a été brûlé par un incendie de forêt.",
+                "reg_death": "m_c est mort(e) de ses brûlures après un incendie de forêt.",
+                "lead_death": "mort(e) de ses brûlures après un incendie de forêt"
             }
         ]
     },
@@ -307,7 +307,7 @@
             "greenleaf"
         ],
         "frequency": 1,
-        "event_text": "The dry greenleaf weather led to a fire starting in camp. m_c dove into the nursery to save r_c and was burnt in the process.",
+        "event_text": "La sécheresse de la saison des feuilles vertes a provoqué un incendie au camp. m_c s'est précipité(e) dans la pouponnière pour sauver r_c et a été brûlé(e) dans le processus.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -364,9 +364,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c's pelt was burned by a forest fire.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} burns after a forest fire.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} burns after a forest fire"
+                "scar": "Le pelage de m_c a été brûlé par un incendie de forêt.",
+                "reg_death": "m_c est mort(e) de ses brûlures après un incendie de forêt.",
+                "lead_death": "mort(e) de ses brûlures après un incendie de forêt"
             }
         ],
         "relationships": [
@@ -397,7 +397,7 @@
             "leaf-bare"
         ],
         "frequency": 2,
-        "event_text": "m_c and r_c played on the ice-covered pond near camp. They weren't quick enough to react to the sound of cracking beneath them, but m_c managed to drag r_c out of the freezing water.",
+        "event_text": "m_c et r_c jouaient sur l'étang gelé près du camp. Ils n'ont pas réagi assez vite au bruit de la glace qui craquait sous eux, mais m_c a réussi à tirer r_c hors de l'eau glacée.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -459,8 +459,8 @@
                     "m_c",
                     "r_c"
                 ],
-                "scar": "m_c got frostbitten after falling into a frozen pond.",
-                "reg_death": "m_c died from the cold after falling into a frozen pond.",
+                "scar": "m_c a eu des engelures après être tombé(e) dans un étang gelé.",
+                "reg_death": "m_c est mort(e) de froid après être tombé(e) dans un étang gelé.",
                 "lead_death": ""
             }
         ],
@@ -490,7 +490,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c ran into a branch while following a scent trail. {PRONOUN\/m_c\/subject\/CAP} returned home with an aching head.",
+        "event_text": "m_c a heurté une branche en suivant une piste odorante. {PRONOUN\/m_c\/subject\/CAP} est rentré(e) chez lui/elle avec un mal de tête.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -532,7 +532,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c was left scratched and scraped after pushing through thorny, bare undergrowth.",
+        "event_text": "m_c est rentré(e) couvert(e) d'égratignures après s'être frayé(e) un chemin à travers les broussailles épineuses et dénudées.",
         "m_c": {
             "age": [
                 "any",

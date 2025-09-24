@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "r_c had to rescue m_c from drowning after the apprentice headed out to practice alone.",
+        "event_text": "r_c a dû sauver m_c de la noyade après que l'apprenti soit parti s'entraîner seul.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -51,8 +51,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from water-inhalation after nearly drowning.",
-                "lead_death": "died from water-inhalation after nearly drowning"
+                "reg_death": "m_c est mort d'une inhalation d'eau après avoir failli se noyer.",
+                "lead_death": "est mort d'une inhalation d'eau après avoir failli se noyer"
             }
         ],
         "relationships": [
@@ -83,7 +83,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c's paw pads have become cracked and sore from walking through salty water.",
+        "event_text": "Les coussinets de m_c sont devenus fissurés et douloureux à force de marcher dans l'eau salée.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -109,7 +109,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "m_c was dashing around the apprentice rock, when {PRONOUN\/m_c\/subject} slipped and fell into the high tide waters of the cave. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} alright, though a bit bruised and embarrassed.",
+        "event_text": "m_c courait autour du rocher des apprentis, quand {PRONOUN\/m_c\/subject} a glissé et est tombé dans les eaux de la marée haute de la grotte. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} indemne, mais un peu meurtri et embarrassé.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -145,7 +145,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c was messing around in the tide pools of the camp clearing, when {PRONOUN\/m_c\/poss} paw slipped and {PRONOUN\/m_c\/subject} fell in face first. {PRONOUN\/m_c\/poss\/CAP} pride is wounded, but otherwise {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} only bruised.",
+        "event_text": "m_c traînait dans les bassins de marée de la clairière du camp, quand {PRONOUN\/m_c\/poss} patte a glissé et {PRONOUN\/m_c\/subject} est tombé la tête la première. Seule la fierté de {PRONOUN\/m_c\/poss} est blessée, mais sinon {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} seulement un peu meurtri.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -183,7 +183,7 @@
             "leaf-bare"
         ],
         "frequency": 3,
-        "event_text": "m_c unwisely decided to go out swimming alone after r_c dared {PRONOUN\/m_c\/object} to. {PRONOUN\/m_c\/subject\/CAP} made it back, but ended up drenched and shivering violently in the cold air.",
+        "event_text": "m_c a imprudemment décidé d'aller nager seul après que r_c l'ait mis au défi. {PRONOUN\/m_c\/subject\/CAP} est revenu, mais s'est retrouvé trempé et grelottant violemment dans l'air froid.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -220,7 +220,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died after swimming through freezing water when dared by r_c."
+                "reg_death": "m_c est mort après avoir nagé dans une eau glacée suite à un défi lancé par r_c."
             }
         ],
         "relationships": [
@@ -248,7 +248,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c rarely pays attention when r_c talks about proper ocean safety, and it shows when m_c gets thirsty on patrol and drinks salt water. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/come\/comes} back to camp severely dehydrated.",
+        "event_text": "m_c ne fait presque jamais attention lorsque r_c parle de la sécurité à la mer, et cela se voit quand m_c a soif pendant une patrouille et boit de l'eau salée. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/come\/comes} au camp gravement déshydraté.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -284,7 +284,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of dehydration after drinking salt water."
+                "reg_death": "m_c est mort de déshydratation après avoir bu de l'eau salée."
             }
         ],
         "relationships": [
@@ -313,7 +313,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was grabbed by a seagull, but luckily r_c saves {PRONOUN\/m_c\/object}! The kit is still left injured from the ordeal.",
+        "event_text": "m_c a été attrapé par une mouette, mais heureusement r_c sauve {PRONOUN\/m_c\/object} ! Le chaton reste tout de même blessé après cette épreuve.",
         "m_c": {
             "status": [
                 "kitten"
@@ -349,8 +349,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred as a kit, when a seagull tried to carry {PRONOUN\/m_c\/object} off.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a seagull tried to carry {PRONOUN\/m_c\/object} off."
+                "scar": "m_c a été marqué alors qu'il était chaton, lorsqu'une mouette a essayé d'emporter {PRONOUN\/m_c\/object}.",
+                "reg_death": "m_c est mort de ses blessures après qu'une mouette a essayé d'emporter {PRONOUN\/m_c\/object}."
             }
         ],
         "relationships": [
@@ -390,7 +390,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was grabbed by a pelican, but luckily r_c saves {PRONOUN\/m_c\/object}! The kit is still left injured from the ordeal.",
+        "event_text": "m_c a été attrapé par un pélican, mais heureusement r_c sauve {PRONOUN\/m_c\/object} ! Le chaton reste tout de même blessé après cette épreuve.",
         "m_c": {
             "status": [
                 "kitten"
@@ -471,7 +471,7 @@
             "clan:warrior"
         ],
         "frequency": 2,
-        "event_text": "r_c dares m_c to try and swim out of camp and m_c can't possibly refuse the challenge. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/don't\/doesn't} make it far, however, before {PRONOUN\/m_c\/poss} meager swimming skills fail {PRONOUN\/m_c\/object} and {PRONOUN\/m_c\/subject} nearly {VERB\/m_c\/drown\/drowns} before an adult spots {PRONOUN\/m_c\/object} and comes to the rescue.",
+        "event_text": "r_c met m_c au défi d'essayer de nager hors du camp et m_c ne peut tout simplement pas refuser le défi. {PRONOUN\/m_c\/subject\/CAP} ne va cependant pas très loin avant que ses maigres compétences en natation ne fassent défaut à {PRONOUN\/m_c\/object} et que {PRONOUN\/m_c\/subject} ne manque de {VERB\/m_c\/drown\/drowns} avant qu'un adulte ne repère {PRONOUN\/m_c\/object} et vienne à la rescousse.",
         "m_c": {
             "status": [
                 "kitten"
@@ -509,7 +509,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died of water-inhalation, after trying to swim out of camp."
+                "reg_death": "m_c est mort d'une inhalation d'eau après avoir essayé de nager hors du camp."
             }
         ],
         "relationships": [
@@ -540,7 +540,7 @@
             "clan:warrior"
         ],
         "frequency": 2,
-        "event_text": "r_c dares m_c to try and swim out of camp. m_c can't possibly refuse the challenge, but the water is freezing when {PRONOUN\/m_c\/subject} {VERB\/m_c\/jump\/jumps} in. Though an adult quickly notices and scoops {PRONOUN\/m_c\/object} out, m_c is still shivering violently from the cold.",
+        "event_text": "r_c met m_c au défi d'essayer de nager hors du camp. m_c ne peut tout simplement pas refuser le défi, mais l'eau est glacée lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/jump\/jumps} dedans. Bien qu'un adulte remarque rapidement et sorte {PRONOUN\/m_c\/object} de l'eau, m_c grelotte encore violemment à cause du froid.",
         "m_c": {
             "status": [
                 "kitten"
@@ -578,7 +578,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died after swimming through freezing water when dared by r_c."
+                "reg_death": "m_c est mort après avoir nagé dans une eau glacée suite à un défi lancé par r_c."
             }
         ],
         "relationships": [
@@ -607,7 +607,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "m_c is hopping around in the tide pools when {PRONOUN\/m_c\/subject} {VERB\/m_c\/trip\/trips} and {VERB\/m_c\/fall\/falls} onto the rocks. Thankfully, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} only a bit bruised.",
+        "event_text": "m_c saute dans les bassins de marée quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/trip\/trips} et {VERB\/m_c\/fall\/falls} sur les rochers. Heureusement, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} seulement un peu meurtri.",
         "m_c": {
             "status": [
                 "kitten"
@@ -637,7 +637,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "m_c is playing around on the iced-over tide pools, slipping and sliding every which way, when {PRONOUN\/m_c\/subject} {VERB\/m_c\/slip\/slips} a little too much and take a tumble.",
+        "event_text": "m_c joue sur les bassins de marée gelés, glissant dans tous les sens, quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/slip\/slips} un peu trop et finit par tomber.",
         "m_c": {
             "status": [
                 "kitten"
@@ -673,7 +673,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c is jumping around on the rocks when {PRONOUN\/m_c\/subject} {VERB\/m_c\/slip\/slips} and {VERB\/m_c\/fall\/falls}. The soft sand of the cave floor softens {PRONOUN\/m_c\/poss} landing, but {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} still sporting some new bruises.",
+        "event_text": "m_c saute sur les rochers quand {PRONOUN\/m_c\/subject} {VERB\/m_c\/slip\/slips} et {VERB\/m_c\/fall\/falls}. Le sable doux du sol de la grotte amortit la chute de {PRONOUN\/m_c\/poss}, mais {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} tout de même couvert de nouveaux bleus.",
         "m_c": {
             "status": [
                 "kitten"
@@ -709,7 +709,7 @@
             "leaf-fall"
         ],
         "frequency": 3,
-        "event_text": "m_c found a hole in the rocks and, curious as all kits are, stuck {PRONOUN\/m_c\/poss} paw inside. The whole camp comes running when {PRONOUN\/m_c\/subject} {VERB\/m_c\/screech\/screeches} in pain. It seems a snake was living in that hole.",
+        "event_text": "m_c a trouvé un trou dans les rochers et, curieux comme tous les chatons, a glissé sa patte à l'intérieur. Tout le camp accourt lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/screech\/screeches} de douleur. Il semble qu'un serpent vivait dans ce trou.",
         "m_c": {
             "status": [
                 "kitten"
@@ -740,8 +740,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred as a kit when a snake bit {PRONOUN\/m_c\/object}.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a snake bit {PRONOUN\/m_c\/object}."
+                "scar": "m_c a été marqué alors qu'il était chaton, lorsqu'un serpent l'a mordu {PRONOUN\/m_c\/object}.",
+                "reg_death": "m_c est mort de ses blessures après qu'un serpent l'a mordu {PRONOUN\/m_c\/object}."
             }
         ]
     },
@@ -754,7 +754,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c stepped on some sharp stones while walking along the shoreline.",
+        "event_text": "m_c a marché sur des pierres pointues en longeant le rivage.",
         "m_c": {
             "age": [
                 "any"
@@ -783,7 +783,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was dragged out into the ocean by the tide, and inhaled a lot of water before managing to get out. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} been hacking and sputtering ever since.",
+        "event_text": "m_c a été emporté au large par la marée et a inhalé beaucoup d'eau avant de réussir à sortir. Depuis, {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} tousse et crache sans arrêt.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -808,7 +808,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from water-inhalation after being dragged out to sea."
+                "reg_death": "m_c est mort d'une inhalation d'eau après avoir été emporté au large."
             }
         ]
     },
@@ -824,7 +824,7 @@
             "war"
         ],
         "frequency": 3,
-        "event_text": "A o_c_n warrior was nearly swept away by a wave during a shoreside battle. m_c dove in to pull {PRONOUN\/m_c\/poss} enemy back to the beach, despite {PRONOUN\/m_c\/poss} own injuries.",
+        "event_text": "Un guerrier o_c_n a failli être emporté par une vague lors d'une bataille sur le rivage. m_c a plongé pour ramener son ennemi sur la plage, malgré ses propres blessures.",
         "m_c": {
             "status": [
                 "warrior",
@@ -867,9 +867,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} injuries after saving a drowning enemy warrior.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} injuries after saving a drowning enemy warrior",
-                "scar": "m_c got a scar from a battle with a warring Clan"
+                "reg_death": "m_c est mort de ses blessures après avoir sauvé un guerrier ennemi de la noyade.",
+                "lead_death": "est mort de ses blessures après avoir sauvé un guerrier ennemi de la noyade",
+                "scar": "m_c a eu une cicatrice lors d'une bataille contre un Clan ennemi"
             }
         ]
     }

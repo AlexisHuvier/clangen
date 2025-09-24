@@ -3,20 +3,20 @@
         "id": "rom_dec_high1",
         "intensity": "high",
         "interactions": [
-            "m_c gave a gift to r_c, but {PRONOUN\/r_c\/subject} turned up {PRONOUN\/r_c\/poss} nose at the offering.",
-            "m_c heard r_c express an ideal {PRONOUN\/m_c\/subject} cannot agree with.",
-            "m_c heard r_c talking badly about {PRONOUN\/m_c\/object}.",
-            "m_c catches r_c staring at another cat."
+            "m_c a offert un cadeau à r_c, mais {PRONOUN\/r_c\/subject} a levé {PRONOUN\/r_c\/poss} museau devant l'offrande.",
+            "m_c a entendu r_c exprimer un idéal avec lequel {PRONOUN\/m_c\/subject} n'est pas d'accord.",
+            "m_c a entendu r_c parler en mal de {PRONOUN\/m_c\/object}.",
+            "m_c surprend r_c en train de regarder un autre chat."
         ]
     },
     {
         "id": "rom_dec_medium1",
         "intensity": "medium",
         "interactions": [
-            "m_c feels like r_c hasn't been paying much attention to {PRONOUN\/m_c\/object} lately.",
-            "m_c is upset that r_c tried to give {PRONOUN\/m_c\/object} {PRONOUN\/m_c\/poss} least favorite prey - surely {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} what {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/likes}!",
-            "m_c wishes r_c would stop giving {PRONOUN\/m_c\/object} gifts, as {PRONOUN\/m_c\/poss} nest is getting too full.",
-            "m_c hates the gift r_c gave {PRONOUN\/m_c\/object}."
+            "m_c a l'impression que r_c ne fait plus attention à {PRONOUN\/m_c\/object} ces derniers temps.",
+            "m_c est contrarié que r_c ait essayé de donner à {PRONOUN\/m_c\/object} la proie que {PRONOUN\/m_c\/subject} aime le moins - {PRONOUN\/r_c\/subject} {VERB\/r_c\/know\/knows} sûrement ce que {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/likes} !",
+            "m_c aimerait que r_c arrête de lui offrir des cadeaux, car son nid est déjà trop plein.",
+            "m_c déteste le cadeau que r_c lui a offert."
         ],
         "relationship_constraint": [
             "adores"
@@ -26,10 +26,10 @@
         "id": "rom_dec_medium2",
         "intensity": "medium",
         "interactions": [
-            "m_c told r_c to stop padding after {PRONOUN\/m_c\/object} like a lost kit.",
-            "m_c worries that r_c isn't being honest with their relationship.",
-            "m_c can't stand listening to r_c's snoring in {PRONOUN\/r_c\/poss} nest.",
-            "m_c tried flirting with r_c but {PRONOUN\/r_c\/subject} didn't have time for it and brushed m_c aside."
+            "m_c a dit à r_c d'arrêter de le suivre comme un chaton perdu.",
+            "m_c craint que r_c ne soit pas honnête dans leur relation.",
+            "m_c ne supporte plus d'entendre r_c ronfler dans {PRONOUN\/r_c\/poss} nid.",
+            "m_c a essayé de flirter avec r_c mais {PRONOUN\/r_c\/subject} n'avait pas le temps et a repoussé m_c."
         ],
         "relationship_constraint": [
             "adores",
@@ -40,32 +40,32 @@
         "id": "rom_dec_medium3",
         "intensity": "medium",
         "interactions": [
-            "m_c is starting to have doubts about {PRONOUN\/m_c\/poss} feelings for r_c.",
-            "m_c heard a rumor that r_c likes someone else.",
-            "m_c worries that r_c will never feel the same way {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}.",
-            "m_c noticed r_c flirting with someone else.",
-            "m_c heard r_c discussing potential mates but {PRONOUN\/m_c\/poss} name never came up.",
-            "m_c thinks {PRONOUN\/m_c\/poss} dreams might not come true with r_c.",
-            "r_c was seen tossing out a gift m_c gave {PRONOUN\/r_c\/object}."
+            "m_c commence à douter de ses sentiments pour r_c.",
+            "m_c a entendu une rumeur selon laquelle r_c aime quelqu'un d'autre.",
+            "m_c craint que r_c ne ressente jamais la même chose que {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}.",
+            "m_c a remarqué que r_c flirte avec un autre.",
+            "m_c a entendu r_c parler de partenaires potentiels mais le nom de {PRONOUN\/m_c\/poss} n'a jamais été mentionné.",
+            "m_c pense que ses rêves ne se réaliseront peut-être pas avec r_c.",
+            "r_c a été vu en train de jeter un cadeau que m_c lui avait offert."
         ]
     },
     {
         "id": "rom_dec_low3",
         "intensity": "low",
         "interactions": [
-            "m_c feels ignored by r_c.",
-            "m_c didn't get the joke r_c was telling.",
-            "m_c and r_c had a conversation where they realized they didn't have much in common.",
-            "m_c didn't realize r_c was flirting with {PRONOUN\/m_c\/object}."
+            "m_c se sent ignoré par r_c.",
+            "m_c n'a pas compris la blague que r_c racontait.",
+            "m_c et r_c ont eu une conversation où ils ont réalisé qu'ils n'avaient pas grand-chose en commun.",
+            "m_c n'a pas réalisé que r_c flirtait avec {PRONOUN\/m_c\/object}."
         ]
     },
     {
         "id": "rom_dec_medium4",
         "intensity": "medium",
         "interactions": [
-            "m_c had a disagreement with r_c over kits.",
-            "m_c and r_c had a disagreement on how to raise kits.",
-            "m_c and r_c had a fight over if they would take a new mate if one of them died or went missing."
+            "m_c s'est disputé avec r_c à propos des chatons.",
+            "m_c et r_c se sont disputés sur la façon d'élever les chatons.",
+            "m_c et r_c se sont disputés pour savoir s'ils prendraient un nouveau compagnon si l'un d'eux mourait ou disparaissait."
         ],
         "relationship_constraint": [
             "mates"

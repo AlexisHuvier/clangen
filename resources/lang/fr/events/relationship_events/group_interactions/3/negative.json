@@ -4,7 +4,7 @@
         "cat_amount": 3,
         "intensity": "low",
         "interactions": [
-            "m_c is gossiping with r_c1 about r_c2"
+            "m_c bavarde avec r_c1 à propos de r_c2"
         ],
         "relationship_constraint": {
             "m_c_to_r_c2": [
@@ -36,7 +36,7 @@
         "id": "group_3_negative_argument",
         "cat_amount": 3,
         "interactions": [
-            "m_c started a huge argument between r_c1 and r_c2."
+            "m_c a déclenché une énorme dispute entre r_c1 et r_c2."
         ],
         "trait_constraint": {
             "m_c": [
@@ -51,33 +51,33 @@
         "id": "group_3_leader_neg1",
         "cat_amount": 3,
         "interactions": [
-            "After having r_c2 challenge {PRONOUN\/m_c\/object}, m_c commands r_c1 to help {PRONOUN\/m_c\/object} punish r_c2. Everyone ends up hurt, though m_c feels {PRONOUN\/m_c\/subject} can trust r_c1 more."
+            "Après que r_c2 ait défié {PRONOUN\/m_c\/object}, m_c ordonne à r_c1 d'aider {PRONOUN\/m_c\/object} à punir r_c2. Tout le monde finit blessé, mais m_c sent que {PRONOUN\/m_c\/subject} peut faire davantage confiance à r_c1."
         ],
         "get_injuries": {
             "m_c": {
                 "injury_names": [
                     "claw-wound"
                 ],
-                "scar_text": "m_c got a scar after r_c2 challenged {PRONOUN\/m_c\/object}.",
-                "death_text": "Died after r_c2 challenged {PRONOUN\/m_c\/object}.",
-                "death_leader_text": "{VERB\/m_c\/were\/was} challenged by r_c2"
+                "scar_text": "m_c a eu une cicatrice après que r_c2 ait défié {PRONOUN\/m_c\/object}.",
+                "death_text": "Est mort après que r_c2 ait défié {PRONOUN\/m_c\/object}.",
+                "death_leader_text": "{VERB\/m_c\/were\/was} défié par r_c2"
             },
             "r_c1": {
                 "injury_names": [
                     "claw-wound"
                 ],
-                "scar_text": "Got a scar while punishing r_c2 in the name of m_c.",
-                "death_text": "Died after punishing r_c2 in the name of m_c.",
-                "death_leader_text": "{VERB\/r_c1\/were\/was} punishing r_c2"
+                "scar_text": "A eu une cicatrice en punissant r_c2 au nom de m_c.",
+                "death_text": "Est mort après avoir puni r_c2 au nom de m_c.",
+                "death_leader_text": "{VERB\/r_c1\/were\/was} en train de punir r_c2"
             },
             "r_c2": {
                 "injury_names": [
                     "claw-wound",
                     "bite-wound"
                 ],
-                "scar_text": "r_c2 challenged m_c, was punished by r_c1 for this, and got a scar as a reminder of {PRONOUN\/r_c2\/poss} actions.",
-                "death_text": "{PRONOUN\/r_c2\/subject\/CAP} challenged m_c, {VERB\/r_c2\/were\/was} punished by r_c1, and died as a result.",
-                "death_leader_text": "challenged m_c and got punished by r_c1 as a result"
+                "scar_text": "r_c2 a défié m_c, a été puni par r_c1 pour cela, et a eu une cicatrice en souvenir de {PRONOUN\/r_c2\/poss} actions.",
+                "death_text": "{PRONOUN\/r_c2\/subject\/CAP} a défié m_c, {VERB\/r_c2\/were\/was} puni par r_c1, et est mort en conséquence.",
+                "death_leader_text": "a défié m_c et a été puni par r_c1 en conséquence"
             }
         },
         "status_constraint": {
@@ -131,7 +131,7 @@
         "id": "group_3_leader_neg2",
         "cat_amount": 3,
         "interactions": [
-            "m_c and r_c1 discuss where they should be marking the border. r_c2 overhears, and disagrees with their decision, causing m_c and r_c1 to sneer at {PRONOUN\/r_c2\/object} in distaste."
+            "m_c et r_c1 discutent de l'endroit où ils devraient marquer la frontière. r_c2 surprend la conversation et n'est pas d'accord avec leur décision, ce qui pousse m_c et r_c1 à regarder {PRONOUN\/r_c2\/object} avec mépris."
         ],
         "status_constraint": {
             "m_c": [

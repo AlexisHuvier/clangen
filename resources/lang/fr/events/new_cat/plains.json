@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c returned to camp carrying a litter of kittens, explaining that {PRONOUN\/m_c\/subject} found them mewling in a patch of grass, near the cooling body of a loner.",
+        "event_text": "m_c est revenu au camp en portant une portée de chatons, expliquant que {PRONOUN\/m_c\/subject} les a trouvés en train de miauler dans un coin d'herbe, près du corps refroidi d'un solitaire.",
         "m_c": {
             "age": [
                 "young adult",
@@ -66,7 +66,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c rescued a kittypet hopelessly lost in some tunnels, who is so impressed, {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/ask\/asks} to join the Clan!",
+        "event_text": "m_c a sauvé un chat domestique complètement perdu dans des tunnels, qui est tellement impressionné que {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/ask\/asks} à rejoindre le Clan !",
         "m_c": {
             "age": [
                 "young adult",

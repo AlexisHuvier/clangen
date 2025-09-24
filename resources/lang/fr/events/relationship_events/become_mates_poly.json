@@ -1,53 +1,53 @@
 {
     "high_romantic": {
         "m_c_mates": [
-            "After a talk with [m_c_mates], m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, and they have become mates.",
-            "After a talk with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, and they have become mates."
+            "Après avoir parlé avec [m_c_mates], m_c a avoué ses sentiments à r_c, et ils sont désormais compagnons.",
+            "Après avoir parlé avec {PRONOUN/m_c/poss} (m_c_mate/compagnons), m_c a avoué ses sentiments à r_c, et ils sont désormais compagnons."
         ],
         "r_c_mates": [
-            "m_c asked r_c out, after {PRONOUN\/r_c\/subject} talked with [r_c_mates]. m_c and r_c have become mates.",
-            "m_c asked r_c out, after r_c talked with {PRONOUN\/r_c\/poss} (r_c_mate\/mates). m_c and r_c have become mates."
+            "m_c a invité r_c à sortir, après que {PRONOUN/r_c/subject} ait parlé avec [r_c_mates]. m_c et r_c sont désormais compagnons.",
+            "m_c a invité r_c à sortir, après que r_c ait parlé avec {PRONOUN/r_c/poss} (r_c_mate/compagnons). m_c et r_c sont désormais compagnons."
         ],
         "both_mates": [
-            "m_c and r_c talked with their mates, and happily announced that m_c and r_c are now mates."
+            "m_c et r_c ont parlé avec leurs compagnons, et ont annoncé avec joie qu'ils sont désormais compagnons."
         ]
     },
     "low_romantic": {
         "m_c_mates": [
-            "After m_c talked about {PRONOUN\/m_c\/poss} feelings for r_c with [m_c_mates], m_c and r_c have become mates.",
-            "After m_c talked about {PRONOUN\/m_c\/poss} feelings for r_c with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), m_c and r_c have become mates."
+            "Après que m_c ait parlé de ses sentiments pour r_c avec [m_c_mates], m_c et r_c sont désormais compagnons.",
+            "Après que m_c ait parlé de ses sentiments pour r_c avec {PRONOUN/m_c/poss} (m_c_mate/compagnons), m_c et r_c sont désormais compagnons."
         ],
         "r_c_mates": [
-            "After r_c talked with [r_c_mates] about {PRONOUN\/r_c\/poss} feelings for m_c, m_c and r_c have become mates.",
-            "After r_c talked with {PRONOUN\/r_c\/poss} (r_c_mate\/mates) about {PRONOUN\/r_c\/poss} feelings for m_c, m_c and r_c have become mates."
+            "Après que r_c ait parlé avec [r_c_mates] de ses sentiments pour m_c, m_c et r_c sont désormais compagnons.",
+            "Après que r_c ait parlé avec {PRONOUN/r_c/poss} (r_c_mate/compagnons) de ses sentiments pour m_c, m_c et r_c sont désormais compagnons."
         ],
         "both_mates": [
-            "m_c and r_c talked with their mates, and announced that they are now mates."
+            "m_c et r_c ont parlé avec leurs compagnons, et ont annoncé qu'ils sont désormais compagnons."
         ]
     },
     "like_to_romance": {
         "m_c_mates": [
-            "m_c talked with [m_c_mates], that {PRONOUN\/m_c\/subject} {VERB\/m_c\/see\/sees} r_c in a different light, and m_c and r_c have become mates.",
-            "m_c talked with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), that {PRONOUN\/m_c\/subject} {VERB\/m_c\/see\/sees} r_c in a different light, and m_c and r_c have become mates."
+            "m_c a parlé avec [m_c_mates], disant que {PRONOUN/m_c/subject} {VERB/m_c/see/sees} r_c d'un nouvel œil, et m_c et r_c sont désormais compagnons.",
+            "m_c a parlé avec {PRONOUN/m_c/poss} (m_c_mate/compagnons), disant que {PRONOUN/m_c/subject} {VERB/m_c/see/sees} r_c d'un nouvel œil, et m_c et r_c sont désormais compagnons."
         ],
         "r_c_mates": [
-            "m_c and r_c see each other in a different light; after r_c talked with [r_c_mates], m_c and r_c have become mates.",
-            "m_c and r_c see each other in a different light; after r_c talked with {PRONOUN\/r_c\/poss} (r_c_mate\/mates), they have become mates."
+            "m_c et r_c se voient différemment ; après que r_c ait parlé avec [r_c_mates], m_c et r_c sont désormais compagnons.",
+            "m_c et r_c se voient différemment ; après que r_c ait parlé avec {PRONOUN/r_c/poss} (r_c_mate/compagnons), ils sont désormais compagnons."
         ],
         "both_mates": [
-            "m_c and r_c talked with their mates, and announced that they are now mates."
+            "m_c et r_c ont parlé avec leurs compagnons, et ont annoncé qu'ils sont désormais compagnons."
         ]
     },
     "rejected": {
         "m_c_mates": [
-            "After a talk with [m_c_mates], m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected.",
-            "After a talk with {PRONOUN\/m_c\/poss} (m_c_mate\/mates), m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected."
+            "Après avoir parlé avec [m_c_mates], m_c a avoué ses sentiments à r_c, mais a été rejeté.",
+            "Après avoir parlé avec {PRONOUN/m_c/poss} (m_c_mate/compagnons), m_c a avoué ses sentiments à r_c, mais a été rejeté."
         ],
         "r_c_mates": [
-            "m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected."
+            "m_c a avoué ses sentiments à r_c, mais a été rejeté."
         ],
         "both_mates": [
-            "m_c confessed {PRONOUN\/m_c\/poss} feelings to r_c, but was rejected."
+            "m_c a avoué ses sentiments à r_c, mais a été rejeté."
         ]
     }
 }

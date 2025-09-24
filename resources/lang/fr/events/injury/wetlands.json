@@ -8,7 +8,7 @@
             "any"
         ],
         "weight": 20,
-        "event_text": "m_c woke up sore after walking through an especially muddy and dense part of the territory.",
+        "event_text": "m_c s'est réveillé(e) endolori(e) après avoir traversé une partie particulièrement boueuse et dense du territoire.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -38,7 +38,7 @@
             "any"
         ],
         "weight": 20,
-        "event_text": "m_c ate some red berries out in the territory and was rushed back to camp by r_c.",
+        "event_text": "m_c a mangé des baies rouges dans le territoire et a été ramené(e) en urgence au camp par r_c.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -74,7 +74,7 @@
             "any"
         ],
         "weight": 20,
-        "event_text": "m_c nicked {PRONOUN\/m_c\/self} on the low branches of a spiky tree.",
+        "event_text": "m_c s'est éraflé(e) sur les branches basses d'un arbre épineux.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -103,7 +103,7 @@
             "any"
         ],
         "weight": 20,
-        "event_text": "m_c was bitten by a hidden snake whilst hunting in the marsh.",
+        "event_text": "m_c a été mordu(e) par un serpent caché en chassant dans le marais.",
         "m_c": {
             "age": [
                 "adolescent",

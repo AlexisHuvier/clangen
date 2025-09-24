@@ -8,7 +8,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c returned to camp carrying a muddy kitten, explaining that {PRONOUN\/m_c\/subject} found {PRONOUN\/n_c:0\/object} wandering around the marsh, no parent in sight.",
+        "event_text": "m_c est revenu au camp en portant un chaton boueux, expliquant que {PRONOUN\/m_c\/subject} a trouvé {PRONOUN\/n_c:0\/object} errant dans le marais, sans parent en vue.",
         "m_c": {
             "age": [
                 "young adult",
@@ -58,7 +58,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c found an abandoned kitten wandering around the marsh and carried {PRONOUN\/n_c:0\/object} back to camp. Though c_n isn't happy about it, m_c persuades them to let n_c:0 stay in the Clan.",
+        "event_text": "m_c a trouvé un chaton abandonné errant dans le marais et a ramené {PRONOUN\/n_c:0\/object} au camp. Même si c_n n'est pas content, m_c parvient à les convaincre de laisser n_c:0 rester dans le Clan.",
         "m_c": {
             "age": [
                 "young adult",
@@ -127,7 +127,7 @@
             "any"
         ],
         "weight": 5,
-        "event_text": "m_c found an abandoned litter concealed in the reeds and rushed them back to camp. Such young kits were lucky that m_c found them before something else did.",
+        "event_text": "m_c a trouvé une portée abandonnée cachée dans les roseaux et les a ramenés en urgence au camp. Ces jeunes chatons ont eu de la chance que m_c les ait trouvés avant qu'autre chose ne le fasse.",
         "m_c": {
             "age": [
                 "young adult",

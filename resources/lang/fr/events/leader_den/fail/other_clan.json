@@ -1,7 +1,7 @@
 [
     {
         "interaction_type": "offend",
-        "event_text": "During the Gathering, m_c makes a joke at o_c_n's expense, hoping to hurt their feelings. The plan backfires, though, when o_c_n's leader finds more humor than offense in it.",
+        "event_text": "Pendant l'Assemblée, m_c fait une blague aux dépens de o_c_n, espérant blesser leurs sentiments. Mais le plan échoue, car le chef de o_c_n trouve cela plus drôle qu'offensant.",
         "rel_change": 1,
         "m_c": {},
         "player_clan_temper": [
@@ -13,7 +13,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "During the Gathering, m_c makes jokes at the expense of one of o_c_n's warriors. o_c_n's leader, horrified, informs m_c that this particular warrior passed away in the last moon. No way... m_c had no idea and totally can't see them hanging around in a white wisp at the edge of the meeting place.",
+        "event_text": "Pendant l'Assemblée, m_c fait des blagues sur un des guerriers de o_c_n. Le chef de o_c_n, horrifié, informe m_c que ce guerrier est décédé lors de la dernière lune. Impossible... m_c n'en avait aucune idée et ne peut absolument pas le voir traîner en une brume blanche au bord du lieu de réunion.",
         "rel_change": -4,
         "m_c": {
             "skill": [
@@ -32,7 +32,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "At the Gathering, m_c pointedly ignores o_c_n's leader as they reach the leader's perch. o_c_n's leader thanks {PRONOUN\/m_c\/object} for graciously allowing them to speak first.",
+        "event_text": "Lors de l'Assemblée, m_c ignore délibérément le chef de o_c_n en arrivant sur le promontoire. Le chef de o_c_n remercie {PRONOUN\/m_c\/object} de lui permettre si gracieusement de parler en premier.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -44,7 +44,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "At the Gathering, m_c insists on going first, shouldering in front of o_c_n's leader. o_c_n's leader doesn't mind whatsoever, since they have no real news to share this moon.",
+        "event_text": "Lors de l'Assemblée, m_c insiste pour parler en premier, bousculant le chef de o_c_n pour passer devant. Le chef de o_c_n ne s'en soucie pas du tout, puisqu'il n'a aucune nouvelle importante à partager cette lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -56,7 +56,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "m_c takes {PRONOUN\/m_c\/poss} chance at the Gathering to tell o_c_n's leader that c_n stands alone. o_c_n's leader approves of {PRONOUN\/m_c\/poss} strength and independence, and tells {PRONOUN\/m_c\/object} that their alliance is stronger than ever.",
+        "event_text": "m_c profite de l'Assemblée pour dire au chef de o_c_n que c_n se suffit à lui-même. Le chef de o_c_n approuve la force et l'indépendance de m_c, et lui assure que leur alliance n'en est que plus forte.",
         "rel_change": 1,
         "m_c": {},
         "player_clan_temper": [
@@ -68,7 +68,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "During the Gathering, m_c invents a story about o_c_n warriors crossing c_n's border. Instead of arguing, o_c_n's leader is horrified and promises they'll conduct a thorough investigation and punish the perpetrators.",
+        "event_text": "Lors de l'Assemblée, m_c invente une histoire sur des guerriers de o_c_n ayant franchi la frontière de c_n. Au lieu de se disputer, le chef de o_c_n est horrifié et promet de mener une enquête approfondie et de punir les coupables.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -85,7 +85,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "At the Gathering, m_c threatens a skirmish with o_c_n if their warriors are found too close to the border. o_c_n's leader grins at the idea, agreeing that allies should help keep each other's claws sharp.",
+        "event_text": "Lors de l'Assemblée, m_c menace d'une escarmouche avec o_c_n si leurs guerriers sont trouvés trop près de la frontière. Le chef de o_c_n sourit à cette idée, convenant que les alliés devraient s'aider à garder leurs griffes affûtées.",
         "rel_change": 1,
         "m_c": {},
         "player_clan_temper": [
@@ -99,7 +99,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "m_c attempts to offend o_c_n at the Gathering, but {PRONOUN\/m_c\/poss} words are so soft that no one even recognizes the insult.",
+        "event_text": "m_c tente d'offenser o_c_n lors de l'Assemblée, mais ses mots sont si doux que personne ne remarque même l'insulte.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -122,7 +122,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "When o_c_n's leader joins m_c and the other leaders atop the leader's perch at the Gathering, m_c makes a loud fart noise with {PRONOUN\/m_c\/poss} mouth. o_c_n's leader unfortunately shares {PRONOUN\/m_c\/poss} childish sense of humor and nearly falls off the perch laughing.",
+        "event_text": "Lorsque le chef de o_c_n rejoint m_c et les autres chefs sur le promontoire lors de l'Assemblée, m_c fait un bruit de pet bien fort avec sa bouche. Malheureusement, le chef de o_c_n partage le même sens de l'humour enfantin et manque de tomber du promontoire en riant.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -138,7 +138,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "m_c casts aspersions about o_c_n's border strength during the Gathering and is chagrined when o_c_n's leader agrees that o_c_n should patrol more regularly, thanking m_c for the suggestion.",
+        "event_text": "Lors de l'Assemblée, m_c remet en question la solidité des frontières de o_c_n et est gêné lorsque le chef de o_c_n approuve, admettant que o_c_n devrait patrouiller plus souvent et remerciant m_c pour la suggestion.",
         "rel_change": 1,
         "m_c": {},
         "player_clan_temper": [
@@ -150,7 +150,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "At the Gathering, m_c tries to engage o_c_n's leader in hostile banter, but o_c_n's leader smiles so brightly at {PRONOUN\/m_c\/object} that m_c doesn't have the heart for it.",
+        "event_text": "Lors de l'Assemblée, m_c tente de lancer des piques hostiles au chef de o_c_n, mais le chef de o_c_n lui sourit si chaleureusement que m_c n'a plus le cœur à continuer.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -172,7 +172,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "At the Gathering, m_c finally unveils the insults {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} concocted. o_c_n's leader asks {PRONOUN\/m_c\/object} to speak up, having gone a little deaf in their old age. m_c is too humiliated to try again.",
+        "event_text": "Lors de l'Assemblée, m_c lance enfin les insultes que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} a préparées. Le chef de o_c_n lui demande de parler plus fort, car il devient un peu sourd avec l'âge. m_c est trop humilié pour réessayer.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -189,7 +189,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "m_c openly threatens o_c_n's warriors during the Gathering, but o_c_n's leader takes it as a compliment. m_c is renowned for {PRONOUN\/m_c\/poss} ferocity in battle - o_c_n's leader is proud {PRONOUN\/m_c\/subject} {VERB\/m_c\/consider\/considers} them a match for c_n!",
+        "event_text": "m_c menace ouvertement les guerriers de o_c_n lors de l'Assemblée, mais le chef de o_c_n prend cela comme un compliment. m_c est réputé·e pour sa férocité au combat – le chef de o_c_n est fier que {PRONOUN\/m_c\/subject} {VERB\/m_c\/consider\/considers} leur Clan à la hauteur de c_n !",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -207,7 +207,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "m_c openly threatens o_c_n's warriors during the Gathering, but o_c_n's leader takes it as a compliment. m_c is renowned for {PRONOUN\/m_c\/poss} ferocity in battle - o_c_n's leader is proud {PRONOUN\/m_c\/subject} {VERB\/m_c\/consider\/considers} them a match for c_n!",
+        "event_text": "m_c menace ouvertement les guerriers de o_c_n lors de l'Assemblée, mais le chef de o_c_n prend cela comme un compliment. m_c est réputé·e pour sa férocité au combat – le chef de o_c_n est fier que {PRONOUN\/m_c\/subject} {VERB\/m_c\/consider\/considers} leur Clan à la hauteur de c_n !",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -223,7 +223,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "During the Gathering, m_c sternly informs o_c_n's leader that their prey is squibblous, their warriors are buggly-wuggly, and their borders are chombering at an extraordinary rate. o_c_n's leader stares back and then offers a bemused 'thank you?'",
+        "event_text": "Lors de l'Assemblée, m_c informe sévèrement le chef de o_c_n que leurs proies sont squibblous, leurs guerriers sont buggly-wuggly, et que leurs frontières chombrent à un rythme extraordinaire. Le chef de o_c_n le fixe, puis répond d'un 'merci ?' perplexe.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -239,7 +239,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "Terrible weather convinces m_c to skip this Gathering. Any attempt to offend o_c_n can wait until the sky isn't caving in on c_n.",
+        "event_text": "Un temps épouvantable convainc m_c de ne pas aller à cette Assemblée. Toute tentative d'offenser o_c_n attendra que le ciel ne s'effondre plus sur c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -251,7 +251,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "Despite the horrendous weather, m_c strikes out with {PRONOUN\/m_c\/poss} Gathering patrol to the meeting place. It's deserted. Any attempt to offend o_c_n will have to wait until next moon.",
+        "event_text": "Malgré le temps épouvantable, m_c part avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss} jusqu'au lieu de réunion. Il est désert. Toute tentative d'offenser o_c_n devra attendre la prochaine lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -263,7 +263,7 @@
     },
     {
         "interaction_type": "offend",
-        "event_text": "When m_c reaches the meeting place with {PRONOUN\/m_c\/poss} Gathering patrol, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} o_c_n isn't present. Rumors on the border tell of a greencough outbreak. And m_c had all {PRONOUN\/m_c\/poss} insults ready, too...",
+        "event_text": "Lorsque m_c arrive au lieu de réunion avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} que o_c_n n'est pas présent. Des rumeurs à la frontière parlent d'une épidémie de mal vert. Et m_c avait pourtant toutes ses insultes prêtes...",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -275,7 +275,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "During the Gathering, m_c flatters o_c_n to no end. By the end of the night, o_c_n's leader seems more annoyed by the attention than grateful.",
+        "event_text": "Pendant l'Assemblée, m_c flatte o_c_n sans relâche. À la fin de la nuit, le chef de o_c_n semble plus agacé par toute cette attention que reconnaissant.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -287,7 +287,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "During the Gathering, m_c assures o_c_n's leader that their Clans would be well-matched in battle. o_c_n's leader stares at m_c warily, unsure if {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} threatening them.",
+        "event_text": "Pendant l'Assemblée, m_c assure au chef de o_c_n que leurs Clans seraient de taille égale au combat. Le chef de o_c_n fixe m_c avec méfiance, incertain si {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} est en train de le menacer.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -299,7 +299,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader grouses about disobedient apprentices. m_c urges them to lay down the code and keep them in line. o_c_n's leader looks uncomfortable and admits that's not really the o_c_n way.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n se plaint d'apprentis désobéissants. m_c l'encourage à imposer le code et à les remettre en ligne. Le chef de o_c_n a l'air mal à l'aise et admet que ce n'est pas vraiment la façon de faire de o_c_n.",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -322,7 +322,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "While trying to scramble up onto the leader's perch at the Gathering, o_c_n's new young leader slips and scrabbles with their hindlegs for purchase. Thinking fast, m_c grabs their scruff and lifts them onto the perch easily. o_c_n's leader screeches that they're not a kit and need <i>no<\/i> help!",
+        "event_text": "En essayant de grimper sur le promontoire des chefs lors de l'Assemblée, le jeune nouveau chef de o_c_n glisse et gratte le sol de ses pattes arrière pour trouver appui. Réagissant vite, m_c attrape sa peau du cou et le hisse facilement sur le promontoire. Le chef de o_c_n pousse un cri, affirmant qu'il n'est pas un chaton et qu'il n'a <i>pas<\/i> besoin d'aide !",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -346,7 +346,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c brings up a piece of o_c_n history, trying to tie it back to the blossoming alliance between o_c_n and c_n. o_c_n's leader doesn't seem to be quite sure of what m_c is getting at.",
+        "event_text": "Lors de l'Assemblée, m_c évoque un événement historique de o_c_n, tentant de le relier à l'alliance naissante entre o_c_n et c_n. Le chef de o_c_n ne semble pas vraiment comprendre où m_c veut en venir.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -365,7 +365,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c challenges o_c_n's leader to a contest of who can balance the longest on the edge of the leader's perch, just for fun! o_c_n's leader politely declines, looking irritated.",
+        "event_text": "Lors de l'Assemblée, m_c défie le chef de o_c_n à un concours pour voir qui peut tenir le plus longtemps en équilibre sur le bord du promontoire des chefs, juste pour s'amuser ! Le chef de o_c_n décline poliment, l'air agacé.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -387,7 +387,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader somberly announces one of their warriors is battling life-threatening infection. m_c suggests they should lighten up! Sometimes laughter is the best medicine. o_c_n's leader certainly doesn't look like laughing.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n annonce avec gravité qu'un de leurs guerriers lutte contre une infection mortelle. m_c suggère de prendre ça avec plus de légèreté ! Parfois, le rire est le meilleur des remèdes. Le chef de o_c_n n'a clairement pas envie de rire.",
         "rel_change": -2,
         "m_c": {
             "skill": [
@@ -406,7 +406,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader announces that their medicine cats received an omen. m_c proposes an extremely literal interpretation, at which the medicine cats sigh and assure m_c they had already considered it.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n annonce que leurs guérisseurs ont reçu un présage. m_c propose une interprétation extrêmement littérale, ce qui fait soupirer les guérisseurs qui assurent à m_c qu'ils y avaient déjà pensé.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -426,7 +426,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader announces that their medicine cats received a prophecy. m_c proposes an extremely literal interpretation, at which the medicine cats sigh and assure m_c they had already considered it.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n annonce que leurs guérisseurs ont reçu une prophétie. m_c propose une interprétation extrêmement littérale, ce qui fait soupirer les guérisseurs qui assurent à m_c qu'ils y avaient déjà pensé.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -446,7 +446,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader sorrowfully announces the death of a Clanmate. m_c reminds them to chin up, they'll see the Clanmate again in StarClan someday! o_c_n's leader doesn't take this well.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n annonce avec tristesse la mort d'un camarade de Clan. m_c lui rappelle de garder la tête haute, qu'il reverra ce camarade un jour au Clan des Étoiles ! Le chef de o_c_n ne le prend pas très bien.",
         "rel_change": -2,
         "m_c": {
             "skill": [
@@ -465,7 +465,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c praises the beauty of o_c_n's territory at length during the Gathering. o_c_n's leader questions whether m_c is hinting that {PRONOUN\/m_c\/subject}'d like to steal some of it for c_n.",
+        "event_text": "m_c fait l'éloge de la beauté du territoire de o_c_n pendant toute l'Assemblée. Le chef de o_c_n demande si m_c sous-entend que {PRONOUN\/m_c\/subject} aimerait en voler une partie pour c_n.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -477,7 +477,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c compliments o_c_n's leader on how wibblish-wobblish and crungly their Clan seems these days. o_c_n's leader's eyes narrow in suspicion. Is m_c making fun of them?",
+        "event_text": "Lors de l'Assemblée, m_c complimente le chef de o_c_n sur à quel point leur Clan semble wibblish-wobblish et crungly ces derniers temps. Les yeux du chef de o_c_n se plissent de suspicion. Est-ce que m_c se moque d'eux ?",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -493,7 +493,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "Before the Gathering, m_c takes o_c_n's leader aside and warns them that their mate will be caught in a flood in the next moon. o_c_n's leader cuts {PRONOUN\/m_c\/object} off in disbelief, finding it too terrible to imagine. m_c watches o_c_n's leader leave after the Gathering, {PRONOUN\/m_c\/poss} heart sinking.",
+        "event_text": "Avant l'Assemblée, m_c prend le chef de o_c_n à part et l'avertit que son compagnon sera pris dans une inondation lors de la prochaine lune. Le chef de o_c_n l'interrompt, incrédule, trouvant cela trop terrible à imaginer. m_c regarde le chef de o_c_n partir après l'Assemblée, le cœur serré.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -512,7 +512,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c silkily describes a future where o_c_n and c_n rule all the territories together, using all {PRONOUN\/m_c\/poss} skill in advising. o_c_n's leader is not receptive whatsoever to these ideas.",
+        "event_text": "Lors de l'Assemblée, m_c décrit avec éloquence un avenir où o_c_n et c_n règnent ensemble sur tous les territoires, usant de tout {PRONOUN\/m_c\/poss} talent de conseiller. Le chef de o_c_n n'est absolument pas réceptif à ces idées.",
         "rel_change": 7,
         "m_c": {
             "skill": [
@@ -536,7 +536,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c attempts to use {PRONOUN\/m_c\/poss} honeyed words to get onto o_c_n's good side, only for the other leader to give {PRONOUN\/m_c\/object} a pointed and <i>very<\/i> knowing look.",
+        "event_text": "m_c tente d'utiliser ses mots mielleux pour se mettre dans les bonnes grâces de o_c_n, mais l'autre chef lui lance un regard appuyé et <i>très<\/i> entendu.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -551,7 +551,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c spends most of the Gathering cheerfully chatting with an o_c_n warrior who is surprisingly easy to talk to. During their speech, o_c_n's leader announces that same warrior died in the previous moon. m_c glances at {PRONOUN\/m_c\/poss} new friend, who winks and vanishes in a sparkle of stardust.",
+        "event_text": "m_c passe la majeure partie de l'Assemblée à discuter joyeusement avec un guerrier de o_c_n, étonnamment facile d'accès. Lors de son discours, le chef de o_c_n annonce que ce même guerrier est mort lors de la lune précédente. m_c jette un regard à son nouvel ami, qui lui fait un clin d'œil avant de disparaître dans une étincelle de poussière d'étoile.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -568,7 +568,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c showers o_c_n's leader in praise for how well o_c_n apprentices are shaping up. o_c_n's leader stares at {PRONOUN\/m_c\/object}. Apparently o_c_n doesn't have any 'paws at the moment... Whoops.",
+        "event_text": "Lors de l'Assemblée, m_c couvre le chef de o_c_n d'éloges sur la façon dont les apprentis de o_c_n progressent. Le chef de o_c_n fixe {PRONOUN\/m_c\/object}. Apparemment, o_c_n n'a pas d'apprentis en ce moment... Oups.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -584,7 +584,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c compliments o_c_n's warriors on how strong they look; o_c_n's leader interprets this as sarcasm.",
+        "event_text": "m_c complimente les guerriers de o_c_n sur leur apparence forte ; le chef de o_c_n interprète cela comme du sarcasme.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -602,7 +602,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "Terrible weather convinces m_c to skip this Gathering. Any praising of o_c_n can wait until the sky isn't caving in on c_n.",
+        "event_text": "Un temps épouvantable convainc m_c de ne pas aller à cette Assemblée. Toute tentative de complimenter o_c_n attendra que le ciel ne s'effondre plus sur c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -614,7 +614,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "Despite the horrendous weather, m_c strikes out with {PRONOUN\/m_c\/poss} Gathering patrol to the meeting place. It's deserted. Any praising of o_c_n will have to wait until next moon.",
+        "event_text": "Malgré le temps épouvantable, m_c part avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss} jusqu'au lieu de réunion. Il est désert. Tout compliment envers o_c_n devra attendre la prochaine lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -626,7 +626,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "When m_c reaches the meeting place with {PRONOUN\/m_c\/poss} Gathering patrol, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} o_c_n isn't present. Rumors on the border tell of a greencough outbreak. m_c worries about the Clan's ally, especially when {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} missed this chance to strengthen the relationship.",
+        "event_text": "Lorsque m_c arrive au lieu de réunion avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} que o_c_n n'est pas présent. Des rumeurs à la frontière parlent d'une épidémie de mal vert. m_c s'inquiète pour l'allié du Clan, surtout après avoir manqué cette occasion de renforcer leur relation.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -638,7 +638,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c stiffly compliments o_c_n's leader on their strength and prosperity. o_c_n's leader narrows their eyes, unconvinced of {PRONOUN\/m_c\/poss} sincerity.",
+        "event_text": "Lors de l'Assemblée, m_c complimente maladroitement le chef de o_c_n sur sa force et la prospérité de son Clan. Le chef de o_c_n plisse les yeux, peu convaincu de la sincérité de {PRONOUN\/m_c\/poss}.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -661,7 +661,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c comments on what delicious prey must be found on o_c_n territory. o_c_n's leader looks uneasy - they may be allies, but they know m_c to be a troublesome cat, and that sure sounded like {PRONOUN\/m_c\/subject}{VERB\/m_c\/'d\/'s} like to take some for {PRONOUN\/m_c\/self}.",
+        "event_text": "Lors de l'Assemblée, m_c commente à quel point le gibier doit être délicieux sur le territoire de o_c_n. Le chef de o_c_n semble mal à l'aise – ils sont peut-être alliés, mais il sait que m_c est un chat à problèmes, et cela ressemblait fort à {PRONOUN\/m_c\/subject}{VERB\/m_c\/'d\/'s} aimerait en prendre pour {PRONOUN\/m_c\/self}.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -680,7 +680,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c senses a bitter, hateful spirit hovering around o_c_n's leader. m_c congratulates o_c_n's leader on dealing with traitors, but o_c_n's leader's eyes flash darkly. Sore subject, apparently.",
+        "event_text": "Lors de l'Assemblée, m_c sent un esprit amer et haineux rôder autour du chef de o_c_n. m_c félicite le chef de o_c_n pour avoir géré les traîtres, mais les yeux du chef de o_c_n s'assombrissent. Sujet sensible, apparemment.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -699,7 +699,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c notes that o_c_n's leader has very pronounced, long toes and tells them they'd be a great runner with those grippy helpers. m_c winces the moment the words are out of {PRONOUN\/m_c\/poss} mouth, and sure enough, o_c_n's leader doesn't seem to find this a great compliment.",
+        "event_text": "Lors de l'Assemblée, m_c remarque que le chef de o_c_n a des orteils très longs et prononcés, et lui dit qu'il serait un excellent coureur avec ces aides bien adhérentes. m_c grimace dès que les mots franchissent {PRONOUN\/m_c\/poss} lèvres, et, sans surprise, le chef de o_c_n ne semble pas trouver ce compliment très flatteur.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -719,7 +719,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c fawns over o_c_n's leader all Gathering. As the moon sets, o_c_n's leader coolly reminds {PRONOUN\/m_c\/object} that actions speak louder than meows.",
+        "event_text": "m_c passe toute l'Assemblée à couvrir le chef de o_c_n d'éloges. Lorsque la lune se couche, le chef de o_c_n rappelle froidement à {PRONOUN\/m_c\/object} que les actes valent mieux que des miaulements.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -740,7 +740,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c fawns over o_c_n's leader all Gathering. As the moon sets, o_c_n's leader coolly reminds {PRONOUN\/m_c\/object} that actions speak louder than meows.",
+        "event_text": "m_c couvre le chef de o_c_n d'éloges pendant toute l'Assemblée. Lorsque la lune se couche, le chef de o_c_n rappelle froidement à {PRONOUN\/m_c\/object} que les actes valent mieux que des miaulements.",
         "rel_change": -1,
         "m_c": {
             "skill": [
@@ -756,7 +756,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "o_c_n's cats keep their distance from c_n during the Gathering. No matter what tack m_c tries, o_c_n's leader doesn't seem receptive. Perhaps this alliance is weakening for reasons {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is}n't aware of.",
+        "event_text": "Les chats de o_c_n gardent leurs distances avec c_n pendant l'Assemblée. Peu importe la stratégie de m_c, le chef de o_c_n ne semble pas réceptif. Peut-être que cette alliance s'affaiblit pour des raisons dont {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} pas conscient·e.",
         "rel_change": -2,
         "m_c": {},
         "player_clan_temper": [
@@ -768,7 +768,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, m_c suggests a friendly competition of hunting and sparring between o_c_n and c_n to take place during the next half-moon. o_c_n's leader declines, saying some Clans prioritize border safety and feeding the Clan over silly apprentice games.",
+        "event_text": "Lors de l'Assemblée, m_c propose une compétition amicale de chasse et d'entraînement entre o_c_n et c_n à organiser lors de la prochaine demi-lune. Le chef de o_c_n refuse, expliquant que certains Clans privilégient la sécurité des frontières et nourrir leur Clan plutôt que des jeux d'apprentis.",
         "rel_change": -2,
         "m_c": {
             "trait": [
@@ -790,7 +790,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader seems much more interested in chatting with the other leaders than m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/sulk\/sulks} like a kit and {VERB\/m_c\/decide\/decides} that c_n doesn't need o_c_n's friendship anyway.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n semble bien plus intéressé à discuter avec les autres chefs qu'avec m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/sulk\/sulks} comme un chaton et {VERB\/m_c\/decide\/decides} que c_n n'a pas besoin de l'amitié de o_c_n de toute façon.",
         "rel_change": -2,
         "m_c": {
             "trait": [
@@ -806,7 +806,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "At the Gathering, o_c_n's leader seems much more interested in chatting with the other leaders than m_c. When {PRONOUN\/m_c\/subject} {VERB\/m_c\/try\/tries} to include {PRONOUN\/m_c\/self}, {PRONOUN\/m_c\/subject} just {VERB\/m_c\/draw\/draws} awkward looks from the other leaders.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n semble bien plus intéressé à discuter avec les autres chefs qu'avec m_c. Lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/try\/tries} de s'inclure dans la conversation, {PRONOUN\/m_c\/subject} ne reçoit que des regards gênés des autres chefs.",
         "rel_change": -2,
         "m_c": {
             "trait": [
@@ -826,7 +826,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "m_c goes on and on about what a great alliance c_n and o_c_n have during {PRONOUN\/m_c\/poss} speech at the Gathering. o_c_n's leader coughs meaningfully; during their speech, they announce o_c_n will be focusing on its own priorities in the coming moons and suggest c_n does the same.",
+        "event_text": "m_c ne cesse de vanter la formidable alliance entre c_n et o_c_n pendant son discours à l'Assemblée. Le chef de o_c_n toussote de façon éloquente ; lors de son propre discours, il annonce que o_c_n va se concentrer sur ses propres priorités dans les lunes à venir et suggère à c_n d'en faire autant.",
         "rel_change": -2,
         "m_c": {},
         "player_clan_temper": [
@@ -838,7 +838,7 @@
     },
     {
         "interaction_type": "praise",
-        "event_text": "o_c_n's leader distances themselves from m_c during the Gathering, ignoring all attempts at conversation. An ally will only go so far in hard times.",
+        "event_text": "Le chef de o_c_n garde ses distances avec m_c pendant l'Assemblée, ignorant toutes les tentatives de conversation. Un allié n'ira pas toujours jusqu'au bout dans les moments difficiles.",
         "rel_change": -2,
         "m_c": {
             "status": [
@@ -881,7 +881,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "During the Gathering, m_c attempts to make double-pawed comments about o_c_n's leader. Their leader, however, either doesn't care or is too oblivious to notice.",
+        "event_text": "Lors de l'Assemblée, m_c tente de faire des remarques à double sens sur le chef de o_c_n. Cependant, ce dernier ne semble pas s'en soucier ou est trop distrait pour remarquer.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -893,7 +893,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "At the Gathering, m_c insinuates o_c_n is getting lazy and complacent. o_c_n's leader thanks {PRONOUN\/m_c\/object}, agreeing that o_c_n has been blessed with prosperity and safety.",
+        "event_text": "Lors de l'Assemblée, m_c insinue que o_c_n devient paresseux et complaisant. Le chef de o_c_n remercie {PRONOUN\/m_c\/object}, admettant que o_c_n a été béni par la prospérité et la sécurité.",
         "rel_change": 1,
         "m_c": {},
         "player_clan_temper": [
@@ -905,7 +905,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "At the Gathering, m_c implies o_c_n is full of warmongering fox-hearts. o_c_n's leader puffs up with pride, agreeing that their Clan is one of the strongest in the forest.",
+        "event_text": "Lors de l'Assemblée, m_c insinue que o_c_n est rempli de cœurs de renard assoiffés de guerre. Le chef de o_c_n se rengorge de fierté, affirmant que leur Clan est l'un des plus forts de la forêt.",
         "rel_change": 1,
         "m_c": {},
         "player_clan_temper": [
@@ -918,7 +918,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "While o_c_n's leader gives their speech at the Gathering, m_c pulls faces and rolls {PRONOUN\/m_c\/poss} eyes. o_c_n's leader never notices the childish behavior.",
+        "event_text": "Pendant que le chef de o_c_n fait son discours à l'Assemblée, m_c fait des grimaces et lève les yeux au ciel. Le chef de o_c_n ne remarque jamais ce comportement enfantin.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -934,7 +934,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "During the Gathering, m_c points out that o_c_n's leader has separated toes that would be terrible for swimming. o_c_n's leader politely replies that they'd never thought much about their own toes. m_c is too embarrassed at the failed insult to talk much the rest of the night.",
+        "event_text": "Lors de l'Assemblée, m_c fait remarquer que les orteils écartés du chef de o_c_n seraient catastrophiques pour nager. Le chef de o_c_n répond poliment qu'il n'a jamais vraiment réfléchi à ses propres orteils. m_c est trop gêné·e par cette insulte ratée pour beaucoup parler le reste de la nuit.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -953,7 +953,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "At the Gathering, m_c makes jab after jab at o_c_n. o_c_n's leader never takes the bait.",
+        "event_text": "Lors de l'Assemblée, m_c lance pique sur pique à o_c_n. Le chef de o_c_n ne réagit jamais à la provocation.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -965,37 +965,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "m_c spends most of {PRONOUN\/m_c\/poss} speech at the Gathering making jibes at o_c_n for everything from their scent to their nursery tales. o_c_n's leader laughs along. Apparently self-deprecation is part of o_c_n culture as much at their dung-scent and their mouse-brained stories.",
-        "rel_change": 0,
-        "m_c": {},
-        "player_clan_temper": [
-            "any"
-        ],
-        "other_clan_temper": [
-            "cunning",
-            "amiable",
-            "gracious",
-            "mellow",
-            "stoic",
-            "logical",
-            "wary"
-        ]
-    },
-    {
-        "interaction_type": "provoke",
-        "event_text": "No matter how fox-hearted m_c acts at the Gathering, {PRONOUN\/m_c\/subject} can't get a rise out of o_c_n's leader.",
-        "rel_change": 0,
-        "m_c": {},
-        "player_clan_temper": [
-            "any"
-        ],
-        "other_clan_temper": [
-            "any"
-        ]
-    },
-    {
-        "interaction_type": "provoke",
-        "event_text": "m_c spends the whole Gathering remarking on o_c_n's recent shortcomings. o_c_n's leader sheepishly agrees they could be doing more to control their rowdy apprentices and alert fellow Clans to threats on the border.",
+        "event_text": "m_c passe la majeure partie de son discours à l'Assemblée à lancer des piques à o_c_n, de leur odeur à leurs histoires de tanière. Le chef de o_c_n rit de bon cœur. Apparemment, l'autodérision fait autant partie de la culture de o_c_n que leur odeur de crottes et leurs histoires de cervelle de souris.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1013,7 +983,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "Terrible weather convinces m_c to skip this Gathering. Any provocation of o_c_n can wait until the sky isn't caving in on c_n.",
+        "event_text": "Peu importe à quel point m_c agit comme un cœur de renard lors de l'Assemblée, {PRONOUN\/m_c\/subject} n'arrive pas à faire réagir le chef de o_c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1025,7 +995,25 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "Despite the horrendous weather, m_c strikes out with {PRONOUN\/m_c\/poss} Gathering patrol to the meeting place. It's deserted. Any provocation of o_c_n will have to wait until next moon.",
+        "event_text": "m_c passe toute l'Assemblée à faire des remarques sur les récents manquements de o_c_n. Le chef de o_c_n admet timidement qu'il pourrait faire plus pour contrôler ses apprentis turbulents et alerter les autres Clans des menaces à la frontière.",
+        "rel_change": 0,
+        "m_c": {},
+        "player_clan_temper": [
+            "any"
+        ],
+        "other_clan_temper": [
+            "cunning",
+            "amiable",
+            "gracious",
+            "mellow",
+            "stoic",
+            "logical",
+            "wary"
+        ]
+    },
+    {
+        "interaction_type": "provoke",
+        "event_text": "Un temps épouvantable convainc m_c de ne pas aller à cette Assemblée. Toute tentative de provoquer o_c_n attendra que le ciel ne s'effondre plus sur c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1037,7 +1025,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "When m_c reaches the meeting place with {PRONOUN\/m_c\/poss} Gathering patrol, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} o_c_n isn't present. Rumors on the border tell of a greencough outbreak. Provoking o_c_n into anything will have to wait until they're back at the Gathering.",
+        "event_text": "Malgré le temps épouvantable, m_c part avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss} jusqu'au lieu de réunion. Il est désert. Toute tentative de provoquer o_c_n devra attendre la prochaine lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1049,7 +1037,19 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "Staring down the hulking, muscular figure of o_c_n's leader at the Gathering, m_c decides it's best not to provoke them just yet. For strategic reasons.",
+        "event_text": "Lorsque m_c arrive au lieu de réunion avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/decouvre} que o_c_n n'est pas présent. Des rumeurs à la frontière parlent d'une épidémie de mal vert. Toute tentative de provoquer o_c_n devra attendre leur retour à l'Assemblée.",
+        "rel_change": 0,
+        "m_c": {},
+        "player_clan_temper": [
+            "any"
+        ],
+        "other_clan_temper": [
+            "any"
+        ]
+    },
+    {
+        "interaction_type": "provoke",
+        "event_text": "Face à la silhouette massive et musclée du chef de o_c_n lors de l'Assemblée, m_c décide qu'il vaut mieux ne pas le provoquer tout de suite. Pour des raisons stratégiques.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1067,7 +1067,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "At the Gathering, m_c insults o_c_n den-weaving techniques - they're all simple loops, instead of c_n's loop-and-twist woven nests. o_c_n's leader doesn't seem as devastated as expected. Next time, m_c will have to workshop {PRONOUN\/m_c\/poss} insults with {PRONOUN\/m_c\/poss} Clanmates.",
+        "event_text": "Lors de l'Assemblée, m_c critique les techniques de tissage de tanière de o_c_n – ce ne sont que de simples boucles, alors que les nids de c_n sont tressés en boucle et torsade. Le chef de o_c_n ne semble pas aussi dévasté que prévu. La prochaine fois, m_c devra peaufiner ses insultes avec ses camarades de Clan.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1086,7 +1086,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "m_c sweats at the Gathering, trying to think of the perfect insult before it's {PRONOUN\/m_c\/poss} turn to speak. o_c_n is a pack of... <i>grass-snifflers,<\/i> m_c announces to silence. o_c_n's leader seems more confused than insulted.",
+        "event_text": "m_c transpire à l'Assemblée, cherchant l'insulte parfaite avant que ce soit à {PRONOUN\/m_c\/poss} tour de parler. o_c_n est une bande de... <i>renifleurs d'herbe,<\/i> annonce m_c dans un silence total. Le chef de o_c_n semble plus perplexe qu'offensé.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1116,7 +1116,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "m_c is eager to put {PRONOUN\/m_c\/poss} skills at being a thorn in the paw to use at the Gathering, but apparently, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} already got such a reputation for being a shameless troublemaker that o_c_n's leader doesn't take it personally.",
+        "event_text": "m_c est impatient·e de mettre à profit ses talents de chat à problèmes lors de l'Assemblée, mais apparemment, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} a déjà une telle réputation de fauteur·se de troubles sans gêne que le chef de o_c_n ne le prend même pas personnellement.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1140,7 +1140,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "At the Gathering, m_c flexes {PRONOUN\/m_c\/poss} claws and prepares some threatening remarks - but gets distracted by an otherworldly presence and misses {PRONOUN\/m_c\/poss} chance to insult o_c_n.",
+        "event_text": "Lors de l'Assemblée, m_c fait crisser {PRONOUN\/m_c\/poss} griffes et prépare quelques remarques menaçantes – mais {PRONOUN\/m_c\/subject} est distrait·e par une présence d'un autre monde et manque sa chance d'insulter o_c_n.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -1156,7 +1156,7 @@
     },
     {
         "interaction_type": "provoke",
-        "event_text": "During the Gathering, m_c repeatedly threatens o_c_n and its leader. o_c_n's leader is unimpressed and cracks jokes during their speech about how m_c is full of hot air and stirs up trouble like a bored kit. The other Clans laugh along at c_n's expense.",
+        "event_text": "Lors de l'Assemblée, m_c menace à plusieurs reprises o_c_n et son chef. Le chef de o_c_n n'est pas impressionné et plaisante pendant son discours sur le fait que m_c n'est que du vent et sème la pagaille comme un apprenti qui s'ennuie. Les autres Clans rient aux dépens de c_n.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1181,7 +1181,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c cozies up to the o_c_n leader in an attempt to get in o_c_n's good graces. They don't seem very receptive, though.",
+        "event_text": "Lors de l'Assemblée, m_c tente de se rapprocher du chef de o_c_n pour se mettre dans ses bonnes grâces. Cependant, il ne semble pas très réceptif.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1193,7 +1193,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c asks after o_c_n's young cats. o_c_n's leader lets a long silence pass before icily suggesting m_c concern {PRONOUN\/m_c\/self} with {PRONOUN\/m_c\/poss} own Clanmates.",
+        "event_text": "Lors de l'Assemblée, m_c demande des nouvelles des jeunes chats de o_c_n. Le chef de o_c_n laisse passer un long silence avant de suggérer froidement à m_c de se préoccuper de ses propres camarades de Clan.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -1205,7 +1205,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "o_c_n's leader ignores m_c's attempts to ingratiate {PRONOUN\/m_c\/self} with them during the Gathering.",
+        "event_text": "Le chef de o_c_n ignore les tentatives de m_c pour se faire bien voir auprès de {PRONOUN\/m_c\/self} pendant l'Assemblée.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1217,7 +1217,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "As o_c_n's leader announces new apprentices at the Gathering, m_c interrupts to offer plenty of unsolicited advice about how best to train an apprentice. o_c_n's leader seems less than grateful.",
+        "event_text": "Alors que le chef de o_c_n annonce de nouveaux apprentis lors de l'Assemblée, m_c l'interrompt pour donner plein de conseils non sollicités sur la meilleure façon d'entraîner un apprenti. Le chef de o_c_n semble loin d'être reconnaissant.",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -1237,7 +1237,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c tells a long, meandering story about inter-Clan friendship and alliances. o_c_n's leader yawns in the middle of it.",
+        "event_text": "Pendant l'Assemblée, m_c raconte une longue histoire décousue sur l'amitié et les alliances entre Clans. Le chef de o_c_n bâille au milieu du récit.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1256,7 +1256,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "The night before the Gathering, one of m_c's friends visits {PRONOUN\/m_c\/object} from StarClan and gives {PRONOUN\/m_c\/object} a pep talk for befriending o_c_n's leader at the Gathering. Despite it, when the time comes, m_c is too shy to say anything.",
+        "event_text": "La veille de l'Assemblée, un ami de m_c lui rend visite depuis le Clan des Étoiles et lui donne un discours d'encouragement pour se lier d'amitié avec le chef de o_c_n lors de l'Assemblée. Malgré cela, au moment venu, m_c est trop timide pour dire quoi que ce soit.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1276,7 +1276,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c excitedly tells o_c_n's leader all about this cool new game {PRONOUN\/m_c\/subject} invented. o_c_n's leader doesn't seem very interested, and m_c sulks about it.",
+        "event_text": "Lors de l'Assemblée, m_c raconte avec enthousiasme au chef de o_c_n tout sur ce nouveau jeu génial que {PRONOUN\/m_c\/subject} a inventé. Le chef de o_c_n ne semble pas très intéressé, et m_c boude à ce sujet.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1295,7 +1295,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, o_c_n's leader discusses a complex problem their Clan faces. m_c offers a very simple solution, and o_c_n's leader is insulted m_c assumed they hadn't thought of that already.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n évoque un problème complexe auquel son Clan fait face. m_c propose une solution très simple, et le chef de o_c_n est insulté que m_c ait supposé qu'ils n'y avaient pas déjà pensé.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -1311,7 +1311,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c shares {PRONOUN\/m_c\/poss} favorite nursery tales with o_c_n's leader. The other leader seems baffled.",
+        "event_text": "Lors de l'Assemblée, m_c partage ses contes préférés de la pouponnière avec le chef de o_c_n. L'autre chef semble perplexe.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1331,7 +1331,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "Just as o_c_n arrives at the Gathering, m_c leaps forward and hauls o_c_n's leader backward by the scruff. A heartbeat later, a dead branch plummets to the ground where o_c_n's leader was standing. o_c_n's leader scrambles to their paws, humiliated and irritated.",
+        "event_text": "Juste au moment où o_c_n arrive à l'Assemblée, m_c bondit en avant et tire le chef de o_c_n en arrière par la peau du cou. Un battement de cœur plus tard, une branche morte s'écrase au sol là où le chef de o_c_n se tenait. Le chef de o_c_n se relève, humilié et irrité.",
         "rel_change": -2,
         "m_c": {
             "trait": [
@@ -1354,7 +1354,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c expresses a great deal of interest in o_c_n's leader's dreams. o_c_n's leader finds it unsettling and offputting, considering how aloof m_c normally is.",
+        "event_text": "Lors de l'Assemblée, m_c exprime un grand intérêt pour les rêves du chef de o_c_n. Le chef de o_c_n trouve cela troublant et déstabilisant, surtout venant de m_c qui est habituellement si distant·e.",
         "rel_change": -2,
         "m_c": {
             "trait": [
@@ -1373,7 +1373,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c warns o_c_n's leader that {PRONOUN\/m_c\/subject} had a glimpse of the coming moons, and o_c_n may be headed for conflict with another Clan. o_c_n's leader interprets this as a threat, not an offer of allyship.",
+        "event_text": "Lors de l'Assemblée, m_c avertit le chef de o_c_n que {PRONOUN\/m_c\/subject} a eu un aperçu des lunes à venir, et que o_c_n pourrait être confronté à un conflit avec un autre Clan. Le chef de o_c_n interprète cela comme une menace, et non comme une proposition d'alliance.",
         "rel_change": -4,
         "m_c": {
             "trait": [
@@ -1392,7 +1392,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, o_c_n's leader announces a prophecy that the o_c_n medicine cats received. m_c offers {PRONOUN\/m_c\/poss} interpretation, but o_c_n's leader coolly replies that o_c_n will handle it alone.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n annonce une prophétie reçue par les guérisseurs de o_c_n. m_c propose son interprétation, mais le chef de o_c_n répond froidement que o_c_n s'en occupera seul.",
         "rel_change": -2,
         "m_c": {
             "skill": [
@@ -1408,7 +1408,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c tries to casually mention something {PRONOUN\/m_c\/subject} witnessed in the dreams of o_c_n's leader. The other leader doesn't seem to appreciate this invasion of privacy at all.",
+        "event_text": "Lors de l'Assemblée, m_c tente de mentionner négligemment quelque chose que {PRONOUN\/m_c\/subject} a vu dans les rêves du chef de o_c_n. L'autre chef n'apprécie pas du tout cette intrusion dans sa vie privée.",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -1427,7 +1427,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "m_c praises o_c_n during {PRONOUN\/m_c\/poss} Gathering speech and darts looks at the crowd of o_c_n cats below to gauge their receptiveness to different compliments. o_c_n's leader catches those glances and narrows their eyes at m_c.",
+        "event_text": "m_c fait l'éloge de o_c_n lors de son discours à l'Assemblée et jette des regards vers la foule de chats de o_c_n pour jauger leur réceptivité à différents compliments. Le chef de o_c_n remarque ces regards et plisse les yeux vers m_c.",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -1446,7 +1446,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c pulls o_c_n's leader aside and suggests they form an alliance; with their combined strength, they can crush all that would oppose them. o_c_n's leader declines this offer.",
+        "event_text": "Lors de l'Assemblée, m_c prend le chef de o_c_n à part et propose de former une alliance ; avec leur force combinée, ils pourraient écraser tous ceux qui s'opposeraient à eux. Le chef de o_c_n décline cette offre.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1478,7 +1478,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c pulls o_c_n's leader aside to warn them that fire may be a problem for o_c_n in the coming moons. o_c_n's leader stiffens, staring at m_c with intense mistrust and skepticism.",
+        "event_text": "Lors de l'Assemblée, m_c prend à part le chef de o_c_n pour l'avertir que le feu pourrait poser problème à o_c_n dans les lunes à venir. Le chef de o_c_n se raidit, fixant m_c avec une intense méfiance et du scepticisme.",
         "rel_change": -2,
         "m_c": {
             "skill": [
@@ -1494,7 +1494,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "m_c has never been good at making friends, and in a high-pressure situation like a Gathering? {PRONOUN\/m_c\/subject\/CAP} barely {VERB\/m_c\/manage\/manages} more than two or three words to o_c_n's leader.",
+        "event_text": "m_c n'a jamais été doué·e pour se faire des amis, et dans une situation aussi stressante qu'une Assemblée ? {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/manage\/manage} à peine à dire deux ou trois mots au chef de o_c_n.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1515,7 +1515,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, o_c_n's leader struggles through a report that an entire litter of o_c_n kits were wiped out by kitten-cough. m_c draws them aside after and reassures them that the kittens are playing moss-ball together in StarClan. o_c_n's leader hisses that this means nothing to the grieving parents.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n peine à annoncer qu'une portée entière de chatons de o_c_n a été décimée par le mal du chaton. Après l'Assemblée, m_c le rassure en lui disant que les chatons jouent ensemble à la balle de mousse au Clan des Étoiles. Le chef de o_c_n siffle que cela ne signifie rien pour les parents en deuil.",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -1538,7 +1538,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "m_c promises o_c_n's leader at the Gathering that {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} an appetite for peace and friendship. o_c_n's leader eyes {PRONOUn\/m_c\/object} warily. Seems m_c's reputation as a troublemaker has outpaced their reputation as a peacekeeper.",
+        "event_text": "m_c promet au chef de o_c_n lors de l'Assemblée que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} un appétit pour la paix et l'amitié. Le chef de o_c_n regarde {PRONOUN\/m_c\/object} avec méfiance. Il semble que la réputation de fauteur·se de troubles de m_c ait dépassé sa réputation de pacificateur·rice.",
         "rel_change": -3,
         "m_c": {
             "skill": [
@@ -1557,7 +1557,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c tries to impress o_c_n by describing how c_n uncovered a burrow of baby rabbits and killed them all. o_c_n's leader makes a face at m_c's gory descriptions.",
+        "event_text": "Lors de l'Assemblée, m_c tente d'impressionner o_c_n en décrivant comment c_n a découvert un terrier de bébés lapins et les a tous tués. Le chef de o_c_n fait une grimace face aux descriptions sanglantes de m_c.",
         "rel_change": -1,
         "m_c": {
             "skill": [
@@ -1580,7 +1580,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "Approaching o_c_n's leader at the Gathering, m_c asks if they're interested in becoming best friends forever. o_c_n's leader rebuffs this once-in-a-lifetime opportunity.",
+        "event_text": "En s'approchant du chef de o_c_n lors de l'Assemblée, m_c demande s'il souhaite devenir son meilleur ami pour la vie. Le chef de o_c_n refuse cette occasion unique.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1596,7 +1596,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "As o_c_n's leader gives their speech during the Gathering, m_c bellows with laughter at one of their jokes. Only... it wasn't a joke, apparently. m_c apologizes profusely, but the damage is already done.",
+        "event_text": "Alors que le chef de o_c_n fait son discours lors de l'Assemblée, m_c éclate de rire à l'une de ses blagues. Sauf que... ce n'était apparemment pas une blague. m_c s'excuse aussitôt, mais le mal est déjà fait.",
         "rel_change": -2,
         "m_c": {},
         "player_clan_temper": [
@@ -1608,7 +1608,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c catches the eye of the o_c_n leader. The two regard each other carefully, but when m_c fumbles {PRONOUN\/m_c\/poss} words later on, the other leader scoffs.",
+        "event_text": "Pendant l'Assemblée, m_c croise le regard du chef de o_c_n. Les deux se jaugent prudemment, mais lorsque m_c bafouille {PRONOUN\/m_c\/poss} mots plus tard, l'autre chef ricane.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -1631,7 +1631,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "o_c_n's leader is loud and threatening at the Gathering. m_c holds {PRONOUN\/m_c\/poss} ground and shows no fear, but that appears to be a mistake when the other leader only becomes louder.",
+        "event_text": "Le chef de o_c_n se montre bruyant et menaçant lors de l'Assemblée. m_c tient bon et ne montre aucune peur, mais cela semble être une erreur car l'autre chef devient encore plus bruyant.",
         "rel_change": -3,
         "m_c": {
             "trait": [
@@ -1661,7 +1661,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "Terrible weather convinces m_c to skip this Gathering. Any befriending of o_c_n can wait until the sky isn't caving in on c_n.",
+        "event_text": "Un temps épouvantable convainc m_c de ne pas aller à cette Assemblée. Toute tentative de se lier d'amitié avec o_c_n attendra que le ciel ne s'effondre plus sur c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1673,7 +1673,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "Despite the horrendous weather, m_c strikes out with {PRONOUN\/m_c\/poss} Gathering patrol to the meeting place. It's deserted. Any befriending of o_c_n will have to wait until next moon.",
+        "event_text": "Malgré le temps épouvantable, m_c part avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss} jusqu'au lieu de réunion. Il est désert. Toute tentative de se lier d'amitié avec o_c_n devra attendre la prochaine lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1685,7 +1685,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "When m_c reaches the meeting place with {PRONOUN\/m_c\/poss} Gathering patrol, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} o_c_n isn't present. Rumors on the border tell of a greencough outbreak. There goes c_n's chance to make an ally...",
+        "event_text": "Lorsque m_c arrive au lieu de réunion avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/decouvre} que o_c_n n'est pas présent. Des rumeurs à la frontière parlent d'une épidémie de mal vert. Voilà c_n privé d'une chance de se faire un allié...",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1697,7 +1697,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c approaches o_c_n's leader right away and informs them that they would benefit greatly from an alliance with c_n. o_c_n's leader eyes {PRONOUN\/m_c\/object} skeptically.",
+        "event_text": "Lors de l'Assemblée, m_c s'approche immédiatement du chef de o_c_n et lui annonce qu'il bénéficierait grandement d'une alliance avec c_n. Le chef de o_c_n regarde {PRONOUN\/m_c\/object} avec scepticisme.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1720,7 +1720,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c suggests to o_c_n's leader that they send a joint patrol to explore beyond their borders and find new hunting grounds. o_c_n's leader informs {PRONOUN\/m_c\/object} that not every cat shares {PRONOUN\/m_c\/poss} taste for adventure.",
+        "event_text": "Lors de l'Assemblée, m_c suggère au chef de o_c_n d'envoyer une patrouille conjointe explorer au-delà de leurs frontières pour trouver de nouveaux terrains de chasse. Le chef de o_c_n informe {PRONOUN\/m_c\/object} que tous les chats ne partagent pas {PRONOUN\/m_c\/poss} goût pour l'aventure.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1736,7 +1736,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c remarks on how a fighting technique developed by o_c_n warriors is something m_c hopes to teach to c_n's apprentices for moons to come. o_c_n's leader scowls and seems unhappy m_c even knows about this special technique.",
+        "event_text": "Lors de l'Assemblée, m_c remarque qu'une technique de combat développée par les guerriers de o_c_n est quelque chose que {PRONOUN\/m_c\/subject} espère enseigner aux apprentis de c_n pendant de nombreuses lunes. Le chef de o_c_n fronce les sourcils et semble mécontent que m_c connaisse même cette technique spéciale.",
         "rel_change": -5,
         "m_c": {
             "trait": [
@@ -1755,7 +1755,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c asks after o_c_n's leader health - have they been eating well? Sleeping enough? o_c_n's leader is unimpressed. Does m_c think {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} their mother?",
+        "event_text": "Lors de l'Assemblée, m_c demande au chef de o_c_n s'il se porte bien – mange-t-il assez ? Dort-il suffisamment ? Le chef de o_c_n n'est pas impressionné. Est-ce que m_c pense être sa mère ?",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -1772,7 +1772,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c asks if o_c_n's herb stores are full. o_c_n's leader's hackles raise, and the leader asks if {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} trying to learn about o_c_n's weaknesses.",
+        "event_text": "Lors de l'Assemblée, m_c demande si les réserves d'herbes de o_c_n sont bien remplies. Le chef de o_c_n hérisse le poil et demande si {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} essaie de découvrir les faiblesses de o_c_n.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -1789,7 +1789,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, m_c approaches o_c_n's leader with a friendly tail-flick. Once they're face-to-face, m_c forgets every possible topic of conversation. After a few awkward heartbeats, m_c asks if o_c_n's leader has climbed any good trees lately.",
+        "event_text": "Lors de l'Assemblée, m_c s'approche du chef de o_c_n avec un mouvement amical de la queue. Une fois face à face, m_c oublie tous les sujets de conversation possibles. Après quelques battements de cœur gênants, m_c demande au chef de o_c_n s'il a grimpé de bons arbres récemment.",
         "rel_change": -1,
         "m_c": {
             "skill": [
@@ -1813,7 +1813,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "At the Gathering, o_c_n's leader mentions camp renovations intended to make it safer for their kits. m_c interrupts to recommend weaving brambles and thistles into camp walls to deter predators - o_c_n's leader coughs and remarks they are looking to minimize the sharp edges of camp.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n mentionne des rénovations du camp destinées à le rendre plus sûr pour leurs chatons. m_c l'interrompt pour recommander d'entrelacer des ronces et des chardons dans les murs du camp pour dissuader les prédateurs – le chef de o_c_n tousse et répond qu'il cherche justement à réduire les bords tranchants du camp.",
         "rel_change": -1,
         "m_c": {
             "skill": [
@@ -1832,7 +1832,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "During the Gathering, m_c proposes a friendship between o_c_n and c_n, describing a beautiful future for their Clans where no cat goes hungry and half-Clan families might thrive. o_c_n's leader replies that though o_c_n may be an easy-going Clan, even they know life isn't all mice and moonlight'",
+        "event_text": "Lors de l'Assemblée, m_c propose une amitié entre o_c_n et c_n, décrivant un avenir radieux où aucun chat ne manque de nourriture et où les familles de sang-mêlé pourraient prospérer. Le chef de o_c_n répond que, même si o_c_n est un Clan facile à vivre, ils savent bien que la vie n'est pas faite que de souris et de clair de lune.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -1846,7 +1846,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "o_c_n's leader looks at m_c with sickly-sweet pity, ignoring the stuttered offers of friendship.",
+        "event_text": "Le chef de o_c_n regarde m_c avec une pitié mielleuse, ignorant les offres d'amitié bafouillées.",
         "rel_change": -1,
         "m_c": {
             "status": [
@@ -1875,7 +1875,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "o_c_n's leader seems less than impressed when the apprentice approaches them with confident overtures of friendship.",
+        "event_text": "Le chef de o_c_n semble peu impressionné lorsque l'apprenti s'approche de lui avec des propositions d'amitié confiantes.",
         "rel_change": -2,
         "m_c": {
             "status": [
@@ -1930,7 +1930,7 @@
     },
     {
         "interaction_type": "befriend",
-        "event_text": "In their Gathering speech, o_c_n's leader announces the birth of new kittens. m_c promises them that c_n will help rip out the throat of anyone that poses a threat to these kits. o_c_n's leader is put off by m_c's zeal.",
+        "event_text": "Dans son discours à l'Assemblée, le chef de o_c_n annonce la naissance de nouveaux chatons. m_c lui promet que c_n aidera à arracher la gorge de quiconque menacerait ces petits. Le chef de o_c_n est déconcerté par le zèle de m_c.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -1953,7 +1953,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "During the Gathering, m_c makes scathing comments about o_c_n. o_c_n's leader blatantly ignores {PRONOUN\/m_c\/object}.",
+        "event_text": "Lors de l'Assemblée, m_c fait des remarques cinglantes sur o_c_n. Le chef de o_c_n ignore ouvertement {PRONOUN\/m_c\/object}.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1965,7 +1965,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "m_c tries to get o_c_n's leader's attention during the whole Gathering, biding {PRONOUN\/m_c\/poss} time until {PRONOUN\/m_c\/subject} can land the perfect zinger. o_c_n's leader never gives {PRONOUN\/m_c\/object} an opening.",
+        "event_text": "m_c tente d'attirer l'attention du chef de o_c_n pendant toute l'Assemblée, attendant patiemment le moment idéal pour placer la réplique parfaite. Le chef de o_c_n ne lui en laisse jamais l'occasion.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1977,7 +1977,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "Neither o_c_n's leader nor m_c gets much of a chance to speak at the Gathering; another Clan's leader just won't shut up. They end up exchanging commiserating looks, and m_c never gets a chance to use all the insults {PRONOUN\/m_c\/subject} prepared.",
+        "event_text": "Ni le chef de o_c_n ni m_c n'ont vraiment l'occasion de parler lors de l'Assemblée ; un autre chef de Clan ne cesse de bavarder. Ils échangent des regards de commisération, et m_c n'a jamais l'occasion d'utiliser toutes les insultes que {PRONOUN\/m_c\/subject} avait préparées.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -1989,7 +1989,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "o_c_n's leader is bored of m_c's taunts. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/fail\/fails} to make any progress in worsening this already-hostile relationship during the Gathering.",
+        "event_text": "Le chef de o_c_n est lassé des provocations de m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/fail\/fails} à aggraver cette relation déjà hostile lors de l'Assemblée.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2001,7 +2001,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "During the Gathering, m_c threatens o_c_n's leader with more bloodshed and fury if o_c_n doesn't back down. o_c_n's leader rolls their eyes at the show of bravado.",
+        "event_text": "Lors de l'Assemblée, m_c menace le chef de o_c_n de plus de sang et de fureur si o_c_n ne recule pas. Le chef de o_c_n lève les yeux au ciel devant ce numéro de bravade.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2013,7 +2013,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "At the Gathering, m_c fabricates an accusation of o_c_n stealing prey from c_n. o_c_n's leader is more baffled than anything - with all the bad blood between their Clans, why did m_c feel the need to invent slights?",
+        "event_text": "Lors de l'Assemblée, m_c invente une accusation selon laquelle o_c_n aurait volé du gibier à c_n. Le chef de o_c_n est plus perplexe qu'autre chose – avec tout le mauvais sang entre leurs Clans, pourquoi m_c ressent-il le besoin d'inventer des offenses ?",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2025,7 +2025,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "During the Gathering, m_c's brilliant, cutting insults are drowned out by o_c_n's leader picking a fight with a whole other Clan. m_c is disappointed. {PRONOUN\/m_c\/subject\/CAP} thought <i>c_n<\/i> was o_c_n's nemesis.",
+        "event_text": "Lors de l'Assemblée, les insultes brillantes et cinglantes de m_c sont noyées par le chef de o_c_n qui préfère provoquer un autre Clan. m_c est déçu·e. {PRONOUN\/m_c\/subject\/CAP} pensait que <i>c_n<\/i> était le pire ennemi de o_c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2037,7 +2037,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "Terrible weather convinces m_c to skip this Gathering. Any antagonizing of o_c_n can wait until the sky isn't caving in on c_n.",
+        "event_text": "Un temps épouvantable convainc m_c de ne pas aller à cette Assemblée. Toute tentative d'antagoniser o_c_n attendra que le ciel ne s'effondre plus sur c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2049,7 +2049,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "Despite the horrendous weather, m_c strikes out with {PRONOUN\/m_c\/poss} Gathering patrol to the meeting place. It's deserted. Any antagonizing of o_c_n will have to wait until next moon.",
+        "event_text": "Malgré le temps épouvantable, m_c part avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss} jusqu'au lieu de réunion. Il est désert. Toute tentative d'antagoniser o_c_n devra attendre la prochaine lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2061,7 +2061,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "When m_c reaches the meeting place with {PRONOUN\/m_c\/poss} Gathering patrol, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} o_c_n isn't present. Rumors on the border tell of a greencough outbreak. A missed opportunity for antagonizing o_c_n, but their enemies must be weak...",
+        "event_text": "Lorsque m_c arrive au lieu de réunion avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/decouvre} que o_c_n n'est pas présent. Des rumeurs à la frontière parlent d'une épidémie de mal vert. Une occasion manquée d'antagoniser o_c_n, mais leurs ennemis doivent être affaiblis...",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2073,7 +2073,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "No matter how much m_c berates and disrespects o_c_n, it seems Clan relations just can't get worse at the moment...",
+        "event_text": "Peu importe à quel point m_c rabaisse et manque de respect à o_c_n, il semble que les relations entre les Clans ne puissent pas empirer pour le moment...",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2085,7 +2085,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "m_c launches insult after insult at o_c_n during the Gathering, but even o_c_n's leader can tell {PRONOUN\/m_c\/poss} heart isn't really in it.",
+        "event_text": "m_c lance insulte sur insulte à o_c_n lors de l'Assemblée, mais même le chef de o_c_n remarque que {PRONOUN\/m_c\/poss} cœur n'y est pas vraiment.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2108,7 +2108,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "m_c brainstorms all night before the Gathering with {PRONOUN\/m_c\/poss} rudest Clanmates to develop the perfect insult. Once at the Gathering, m_c suddenly can't remember a single idea they came up with. Something about... o_c_n needing the bones removed from their fresh-kill, maybe? Even o_c_n's leader seems disappointed in m_c.",
+        "event_text": "m_c passe toute la nuit avant l'Assemblée à réfléchir avec ses camarades les plus insolents pour trouver l'insulte parfaite. Une fois à l'Assemblée, m_c ne se souvient soudainement plus d'aucune idée. Quelque chose à propos de... o_c_n qui aurait besoin qu'on enlève les os de ses proies, peut-être ? Même le chef de o_c_n semble déçu par m_c.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2130,7 +2130,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "Apparently insults are quite Clan-specific. m_c launches {PRONOUN\/m_c\/poss} sickest burn at o_c_n's leader during the Gathering, who blinks back in total confusion. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/have\/has} to explain that o_c_n just got totally burned.",
+        "event_text": "Apparemment, les insultes sont très spécifiques à chaque Clan. m_c lance sa pire pique au chef de o_c_n lors de l'Assemblée, qui le regarde avec une totale incompréhension. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/have\/has} même à expliquer que o_c_n vient de se faire totalement humilier.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2147,7 +2147,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "At the Gathering, m_c snarls and spits at o_c_n's leader. As {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} a chill rush over {PRONOUN\/m_c\/poss} pelt, like plunging into icy water. Starlight glimmers at the paws of o_c_n's leader, and m_c stutters to a stop, squinting at it. Another presence has joined them on the leader's perch, and it doesn't seem happy with m_c.",
+        "event_text": "Lors de l'Assemblée, m_c gronde et crache sur le chef de o_c_n. Alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/feel\/feels} un frisson glacé parcourir {PRONOUN\/m_c\/poss} pelage, comme s'immerger dans une eau glacée. La lumière des étoiles scintille aux pattes du chef de o_c_n, et m_c s'interrompt, plissant les yeux. Une autre présence a rejoint les chefs sur le promontoire, et elle ne semble pas apprécier m_c.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2166,7 +2166,7 @@
     },
     {
         "interaction_type": "antagonize",
-        "event_text": "m_c comes to the Gathering with {PRONOUN\/m_c\/poss} arsenal of best put-downs at the ready - but o_c_n's leader cuts {PRONOUN\/m_c\/object} down with one cold look. Every cat knows m_c can <i>talk<\/i>, but can c_n back up these words?",
+        "event_text": "m_c arrive à l'Assemblée avec tout un arsenal de répliques cinglantes prêtes à l'emploi – mais le chef de o_c_n le fait taire d'un simple regard glacial. Tous les chats savent que m_c sait <i>parler<\/i>, mais c_n peut-il vraiment soutenir ses paroles ?",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -2182,7 +2182,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "Terrible weather convinces m_c to skip this Gathering. Any appeasement of o_c_n can wait until the sky isn't caving in on c_n.",
+        "event_text": "Un temps épouvantable convainc m_c de ne pas aller à cette Assemblée. Toute tentative d'apaiser o_c_n attendra que le ciel ne s'effondre plus sur c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2194,7 +2194,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "Despite the horrendous weather, m_c strikes out with {PRONOUN\/m_c\/poss} Gathering patrol to the meeting place. It's deserted. Any appeasement of o_c_n will have to wait until next moon.",
+        "event_text": "Malgré le temps épouvantable, m_c part avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss} jusqu'au lieu de réunion. Il est désert. Toute tentative d'apaiser o_c_n devra attendre la prochaine lune.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2206,7 +2206,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "When m_c reaches the meeting place with {PRONOUN\/m_c\/poss} Gathering patrol, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/discovers} o_c_n isn't present. Rumors on the border tell of a greencough outbreak. At least that suggests o_c_n won't pose the same threat as before, but m_c really hoped to reduce hostilities with diplomacy...",
+        "event_text": "Lorsque m_c arrive au lieu de réunion avec la patrouille d'Assemblée de {PRONOUN\/m_c\/poss}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/discover\/decouvre} que o_c_n n'est pas présent. Des rumeurs à la frontière parlent d'une épidémie de mal vert. Au moins, cela suggère que o_c_n ne représentera pas la même menace qu'avant, mais m_c espérait vraiment apaiser les hostilités par la diplomatie...",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2218,7 +2218,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "During the Gathering, m_c tries to make overtures of peace with o_c_n. o_c_n's leader seems far from interested and, in fact, seems to take further offense.",
+        "event_text": "Lors de l'Assemblée, m_c tente de faire des avances de paix à o_c_n. Le chef de o_c_n semble loin d'être intéressé et, en fait, semble même s'offenser davantage.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -2230,7 +2230,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "During the Gathering, m_c awkwardly compliments o_c_n's strength in a recent border skirmish between their Clans. o_c_n's leader unsheathes their claws and promises {PRONOUN\/m_c\/subject} {VERB\/m_c\/has\/have}n't seen anything yet.",
+        "event_text": "Lors de l'Assemblée, m_c complimente maladroitement la force de o_c_n lors d'une récente escarmouche à la frontière entre leurs Clans. Le chef de o_c_n sort ses griffes et promet à {PRONOUN\/m_c\/subject} que {VERB\/m_c\/has\/have} n'a encore rien vu.",
         "rel_change": -1,
         "m_c": {},
         "player_clan_temper": [
@@ -2242,7 +2242,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "At the Gathering, m_c offers a few tepid compliments to o_c_n's leader, who snorts. {VERB\/m_c\/Do\/Does} {PRONOUN\/m_c\/subject} really think these feeble words will close up the wound gaping between their Clans?",
+        "event_text": "Lors de l'Assemblée, m_c adresse quelques compliments tièdes au chef de o_c_n, qui ricane. {VERB\/m_c\/Do\/Does} {PRONOUN\/m_c\/subject} pense vraiment que ces mots faibles vont refermer la blessure béante entre leurs Clans ?",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2254,7 +2254,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c appeals to o_c_n's leader's mercy at the Gathering, telling them that the hostilities have taken their toll on c_n. o_c_n's leader asks why {PRONOUN\/m_c\/subject} {VERB\/m_c\/think\/thinks} that's o_c_n's problem.",
+        "event_text": "m_c fait appel à la clémence du chef de o_c_n lors de l'Assemblée, lui expliquant que les hostilités ont épuisé c_n. Le chef de o_c_n demande pourquoi {PRONOUN\/m_c\/subject} {VERB\/m_c\/think\/thinks} que c'est le problème de o_c_n.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2266,7 +2266,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "o_c_n's leader speaks first at the Gathering and uses their whole speech to bait and provoke m_c. m_c decides not to attempt peace this moon; {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} not sure {PRONOUN\/m_c\/subject}'ll be able to say a word to o_c_n's leader without snarling.",
+        "event_text": "Le chef de o_c_n prend la parole en premier lors de l'Assemblée et utilise tout son discours pour provoquer et piéger m_c. m_c décide de ne pas tenter d'apaiser les tensions cette lune ; {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} n'est pas sûr·e de pouvoir adresser un mot au chef de o_c_n sans gronder.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2278,7 +2278,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "Despite m_c's best efforts at the Gathering, o_c_n has no appetite for peace.",
+        "event_text": "Malgré tous les efforts de m_c lors de l'Assemblée, o_c_n n'a aucune envie de paix.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2290,7 +2290,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c cajoles o_c_n's leader into agreeing that peace would benefit every cat. o_c_n's leader nods, then scowls and shakes their head. They won't be so easily swayed by {PRONOUN\/m_c\/poss} skill for persuasion.",
+        "event_text": "m_c cajole le chef de o_c_n pour qu'il admette que la paix profiterait à tous les chats. Le chef de o_c_n hoche la tête, puis fronce les sourcils et secoue la tête. Il ne se laissera pas convaincre si facilement par le talent de persuasion de {PRONOUN\/m_c\/poss}.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2307,7 +2307,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c cajoles o_c_n's leader into agreeing that peace would benefit every cat. o_c_n's leader nods, then scowls and shakes their head. They won't be so easily swayed by {PRONOUN\/m_c\/poss} skill for persuasion.",
+        "event_text": "m_c cajole le chef de o_c_n pour qu'il admette que la paix profiterait à tous les chats. Le chef de o_c_n hoche la tête, puis fronce les sourcils et secoue la tête. Il ne se laissera pas convaincre si facilement par le talent de persuasion de {PRONOUN\/m_c\/poss}.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -2323,7 +2323,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "Before the Gathering, m_c receives an omen - omen_list_sight\/m_c. When {PRONOUN\/m_c\/subject} {VERB\/m_c\/bring\/brings} it up at the Gathering to try to convince o_c_n's leader of StarClan's desire for peace, o_c_n's leader talks over {PRONOUN\/m_c\/object}.",
+        "event_text": "Avant l'Assemblée, m_c reçoit un présage – omen_list_sight\/m_c. Lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/bring\/brings} en parle à l'Assemblée pour tenter de convaincre le chef de o_c_n que le Clan des Étoiles souhaite la paix, le chef de o_c_n lui coupe la parole.",
         "rel_change": -1,
         "m_c": {
             "skill": [
@@ -2342,7 +2342,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "o_c_n's leader knows m_c's talent for persuasion well and avoids speaking to {PRONOUN\/m_c\/object} all Gathering.",
+        "event_text": "Le chef de o_c_n connaît bien le talent de persuasion de m_c et évite de lui adresser la parole pendant toute l'Assemblée.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2359,7 +2359,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "o_c_n's leader knows m_c's talent for persuasion well and avoids speaking to {PRONOUN\/m_c\/object} all Gathering.",
+        "event_text": "Le chef de o_c_n connaît bien le talent de persuasion de m_c et évite de lui adresser la parole pendant toute l'Assemblée.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -2376,7 +2376,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "At the Gathering, m_c recommends that o_c_n chooses peace... or else. o_c_n's leader snarls at this naked threat.",
+        "event_text": "Lors de l'Assemblée, m_c recommande à o_c_n de choisir la paix... ou sinon. Le chef de o_c_n gronde face à cette menace à peine voilée.",
         "rel_change": -3,
         "m_c": {
             "skill": [
@@ -2395,7 +2395,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c makes an appeal to o_c_n at the Gathering, convincing them that peace would benefit both Clans. o_c_n's leader hisses that they wouldn't trust {PRONOUN\/m_c\/object} as far as they could throw {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c plaide auprès de o_c_n lors de l'Assemblée, tentant de les convaincre que la paix profiterait aux deux Clans. Le chef de o_c_n gronde qu'il ne ferait pas confiance à {PRONOUN\/m_c\/object} plus loin qu'il ne pourrait la jeter.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -2423,7 +2423,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "At the Gathering, m_c speaks at length about peace and reducing hostilities between c_n and o_c_n. o_c_n's leader nods along, and then lets their gaze travel down to where m_c's claws have unconsciously slid out.",
+        "event_text": "Lors de l'Assemblée, m_c parle longuement de paix et de réduction des hostilités entre c_n et o_c_n. Le chef de o_c_n hoche la tête, puis laisse son regard descendre vers les griffes de m_c qui se sont inconsciemment sorties.",
         "rel_change": -1,
         "m_c": {
             "trait": [
@@ -2442,7 +2442,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c uses {PRONOUN\/m_c\/poss} speech at the Gathering to discuss peace and forgiveness through gritted teeth. No cat believes m_c, not even {PRONOUN\/m_c\/poss} own Clanmates.",
+        "event_text": "m_c utilise son discours à l'Assemblée pour parler de paix et de pardon à travers des dents serrées. Aucun chat ne croit m_c, pas même ses propres camarades de Clan.",
         "rel_change": 0,
         "m_c": {
             "trait": [
@@ -2459,7 +2459,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "During the Gathering, m_c makes a heartfelt appeal to o_c_n's leader - let the bloodshed end and choose peace. o_c_n's leader curls their lip at this display of weakness.",
+        "event_text": "Lors de l'Assemblée, m_c fait un appel sincère au chef de o_c_n : que le sang cesse de couler, choisissons la paix. Le chef de o_c_n retrousse la lèvre devant ce qu'il considère comme une faiblesse.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2475,7 +2475,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "No matter what m_c says at the Gathering, o_c_n's leader ignores {PRONOUN\/m_c\/object}.",
+        "event_text": "Peu importe ce que m_c dit lors de l'Assemblée, le chef de o_c_n ignore {PRONOUN\/m_c\/object}.",
         "rel_change": 0,
         "m_c": {},
         "player_clan_temper": [
@@ -2487,7 +2487,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "o_c_n's leader stares down at m_c and regards {PRONOUN\/m_c\/poss} stuttered words skeptically, eventually turning away. Their dismissal is harsh, but they at least seem content to just ignore c_n.",
+        "event_text": "Le chef de o_c_n fixe m_c et écoute ses mots bafouillés avec scepticisme, puis finit par se détourner. Ce rejet est dur, mais au moins il semble se contenter d'ignorer c_n.",
         "rel_change": 0,
         "m_c": {
             "status": [
@@ -2514,7 +2514,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "o_c_n's leader seems startled at the appearance of m_c leading a Clan. They peer sideways at m_c throughout the Gathering, but otherwise ignore {PRONOUN\/m_c\/object}.",
+        "event_text": "Le chef de o_c_n semble surpris de voir m_c à la tête d'un Clan. Il jette des regards de côté à m_c tout au long de l'Assemblée, mais l'ignore sinon complètement.",
         "rel_change": 0,
         "m_c": {
             "status": [
@@ -2534,7 +2534,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "o_c_n's leader regards m_c's appearance at the head of c_n impassively. Later on in the Gathering they scoff at m_c's offered peace.",
+        "event_text": "Le chef de o_c_n observe sans émotion l'arrivée de m_c à la tête de c_n. Plus tard, lors de l'Assemblée, il se moque de la paix proposée par m_c.",
         "rel_change": 0,
         "m_c": {
             "status": [
@@ -2553,7 +2553,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "At the Gathering, o_c_n's leader and m_c trade threats as usual. Finally, m_c hisses that if o_c_n's leader wants to take {PRONOUN\/m_c\/object} on, they can name the time and place. o_c_n's leader arches their back, spitting.",
+        "event_text": "Lors de l'Assemblée, le chef de o_c_n et m_c échangent des menaces comme d'habitude. Finalement, m_c feule que si le chef de o_c_n veut l'affronter, il n'a qu'à choisir l'heure et l'endroit. Le chef de o_c_n arque le dos et crache.",
         "rel_change": -3,
         "m_c": {
             "skill": [
@@ -2577,7 +2577,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "During the Gathering, m_c warns o_c_n's leader that unless they back down, m_c will tell {PRONOUN\/m_c\/poss} super scary friends from the dark place to come get them. o_c_n's leader is unimpressed by this.",
+        "event_text": "Lors de l'Assemblée, m_c prévient le chef de o_c_n que s'il ne recule pas, m_c appellera ses amis super effrayants du lieu sombre pour venir s'occuper de lui. Le chef de o_c_n n'est pas impressionné par cette menace.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -2596,7 +2596,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "On the way to the Gathering, m_c spots a patch of greenish-yellow mushrooms and assumes this must be a sign of StarClan favoring c_n. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/greet\/greets} o_c_n's leader by confidently accepting their surrender in the ongoing hostilities; o_c_n's leader snarls in {PRONOUN\/m_c\/poss} face. Maybe they were just normal mushrooms, then.",
+        "event_text": "En chemin vers l'Assemblée, m_c aperçoit un parterre de champignons jaune-vert et suppose qu'il s'agit d'un signe du Clan des Étoiles en faveur de c_n. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/greet\/greets} le chef de o_c_n en acceptant avec assurance leur reddition dans les hostilités en cours ; le chef de o_c_n gronde au visage de {PRONOUN\/m_c\/poss}. Peut-être que ce n'étaient que des champignons ordinaires, finalement.",
         "rel_change": -5,
         "m_c": {
             "trait": [
@@ -2615,7 +2615,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "The leader of o_c_n laughs at the sight of c_n being led by m_c. The cat makes a comment on how piteous m_c's clan must be, to have an apprentice leading them, and sneers that they'll soon have succeeded at wiping c_n out.",
+        "event_text": "Le chef de o_c_n rit en voyant c_n dirigé par m_c. Il commente à quel point le Clan de m_c doit être pitoyable pour qu'un apprenti le dirige, et ricane qu'ils auront bientôt réussi à anéantir c_n.",
         "rel_change": -1,
         "m_c": {
             "status": [
@@ -2634,7 +2634,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "When c_n arrives at the Gathering and m_c takes {PRONOUN\/m_c\/poss} place with the Clan leaders, o_c_n's leader gasps and inquires as to what happened to leave <i>m_c<\/i> as the only option to lead, the <i>poor dear<\/i>. Their words are sickly sweet; m_c finds {PRONOUN\/m_c\/self} unable to control the following narrative o_c_n spins. c_n is no better off at the end of it.",
+        "event_text": "Lorsque c_n arrive à l'Assemblée et que m_c prend {PRONOUN\/m_c\/poss} place parmi les chefs de Clan, le chef de o_c_n pousse un cri et demande ce qui a bien pu arriver pour que <i>m_c<\/i> soit la seule option pour diriger, la <i>pauvre petite<\/i>. Ses mots dégoulinent de fausse douceur ; m_c se retrouve incapable de contrôler le récit que o_c_n tisse ensuite. c_n ne s'en sort pas mieux à la fin.",
         "rel_change": 0,
         "m_c": {
             "status": [
@@ -2652,7 +2652,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "When m_c joins the Clan leaders at the Gathering, o_c_n's leader starts throwing nervous glances at the other leaders. No one else comments on the apprentice, though, despite the air of awkwardness. o_c_n's leader avoids m_c for the rest of the Gathering.",
+        "event_text": "Lorsque m_c rejoint les chefs de Clan à l'Assemblée, le chef de o_c_n lance des regards nerveux aux autres chefs. Personne d'autre ne commente la présence de l'apprenti, malgré l'ambiance gênante. Le chef de o_c_n évite m_c pour le reste de l'Assemblée.",
         "rel_change": 0,
         "m_c": {
             "status": [
@@ -2670,7 +2670,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "During the Gathering, o_c_n's leader goes on and on about c_n wronging them. {PRONOUN\/m_c\/poss\/CAP} temper slips through {PRONOUN\/m_c\/poss} claws, and m_c eventually snaps at o_c_n's leader to just shut their trap - every cat knows they're talking a load of fox-dung. Far from shutting their trap, o_c_n's leader only yowls louder.",
+        "event_text": "Pendant l'Assemblée, le chef de o_c_n ne cesse de se plaindre des torts causés par c_n. La patience de m_c s'effrite, et {PRONOUN\/m_c\/poss} griffes trahissent son humeur jusqu'à ce que m_c finisse par lancer au chef de o_c_n de fermer sa gueule – tout le monde sait qu'il raconte des âneries de renard. Loin de se taire, le chef de o_c_n hurle encore plus fort.",
         "rel_change": -3,
         "m_c": {
             "skill": [
@@ -2690,7 +2690,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "At the Gathering, m_c reveals to o_c_n's leader that one of the o_c_n warriors who died in a recent conflict came to m_c and spoke to {PRONOUN\/m_c\/object} about peace. o_c_n's leader is furious m_c would presume to speak for one of their dead Clanmates.",
+        "event_text": "Lors de l'Assemblée, m_c révèle au chef de o_c_n qu'un des guerriers de o_c_n, mort lors d'un récent conflit, est venu parler à m_c de paix. Le chef de o_c_n est furieux que m_c ose parler au nom d'un de ses camarades défunts.",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -2706,7 +2706,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c has heard plenty of StarClan's words and reckons {PRONOUN\/m_c\/subject} can come up with something similar to hurry along the peace process. Upon delivering {PRONOUN\/m_c\/poss} \"prophecy\" at the Gathering, o_c_n's leader scoffs; are they really expected to believe <i>that<\/i> thistledown?",
+        "event_text": "m_c a entendu suffisamment de paroles du Clan des Étoiles et pense pouvoir inventer quelque chose de similaire pour accélérer le processus de paix. Lorsqu'{PRONOUN\/m_c\/subject} délivre sa « prophétie » à l'Assemblée, le chef de o_c_n ricane : est-ce qu'on s'attend vraiment à ce qu'il croie à <i>cette<\/i> peluche de chardon ?",
         "rel_change": -5,
         "m_c": {
             "skill": [
@@ -2725,7 +2725,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c announces at the Gathering that {PRONOUN\/m_c\/subject} received a vision of prophecy_list_sight_sound\/m_c. The leaders bustle to decide the meaning and, later on, o_c_n's leader hisses that this does not spell the end of hostilities between c_n and o_c_n.",
+        "event_text": "m_c annonce lors de l'Assemblée que {PRONOUN\/m_c\/subject} a reçu une vision de prophecy_list_sight_sound\/m_c. Les chefs s'agitent pour en décider la signification et, plus tard, le chef de o_c_n feule que cela ne signifie pas la fin des hostilités entre c_n et o_c_n.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -2741,7 +2741,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "At the Gathering, m_c pays o_c_n's leader a few wooden compliments, but {PRONOUN\/m_c\/poss} obvious discomfort socializing and {PRONOUN\/m_c\/poss} powerful fighter's physique undermines {PRONOUN\/m_c\/poss} effort.",
+        "event_text": "Lors de l'Assemblée, m_c adresse au chef de o_c_n quelques compliments maladroits, mais son malaise évident à socialiser et sa carrure de puissant combattant sapent ses efforts.",
         "rel_change": -1,
         "m_c": {
             "skill": [
@@ -2760,7 +2760,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c pulls the o_c_n leader aside during the Gathering. The leader seems angry when they later return to the Gathering proper - nearby cats whisper that they heard m_c say something about the other leader's dreams. When m_c later offers peace to o_c_n, their leader only spits accusations of spies and trespasses.",
+        "event_text": "m_c prend à part le chef de o_c_n pendant l'Assemblée. Le chef revient ensuite furieux parmi les autres chefs – des murmures circulent, certains ayant entendu m_c parler des rêves de l'autre chef. Quand m_c propose ensuite la paix à o_c_n, leur chef ne répond que par des accusations d'espionnage et d'intrusion.",
         "rel_change": -2,
         "m_c": {
             "skill": [
@@ -2778,7 +2778,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c dreams the night before the Gathering, hearing the whispers of {PRONOUN\/m_c\/poss} ancestors. When {PRONOUN\/m_c\/subject} {VERB\/m_c\/speak\/speaks} at the Gathering, o_c_n's leader shows open disdain - only for clouds to begin covering the moon. The Gathering ends quickly, though the enemy leader still leaves with their head held high.",
+        "event_text": "La veille de l'Assemblée, m_c rêve et entend les murmures de ses ancêtres. Lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/speak\/speaks} à l'Assemblée, le chef de o_c_n affiche un profond mépris – mais des nuages commencent à couvrir la lune. L'Assemblée se termine rapidement, même si le chef ennemi repart la tête haute.",
         "rel_change": 0,
         "m_c": {
             "skill": [
@@ -2794,7 +2794,7 @@
     },
     {
         "interaction_type": "appease",
-        "event_text": "m_c is confident ending hostilities will be easy-appeasey-greenleaf-breezy. o_c_n's leader has no patience for this attitude.",
+        "event_text": "m_c est convaincu·e que mettre fin aux hostilités sera facile comme une brise de feuille nouvelle. Le chef de o_c_n n'a aucune patience pour cette attitude.",
         "rel_change": 0,
         "m_c": {
             "trait": [

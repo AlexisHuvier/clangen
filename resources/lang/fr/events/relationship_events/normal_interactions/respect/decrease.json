@@ -3,35 +3,35 @@
         "id": "admire_de_low1",
         "intensity": "low",
         "interactions": [
-            "m_c saw r_c being rude.",
-            "m_c heard r_c say something mean.",
-            "m_c is annoyed by r_c's negative comments.",
-            "m_c notices r_c failed to complete a simple task.",
-            "m_c hopes {PRONOUN\/m_c\/subject} just misheard r_c's rude remark.",
-            "r_c keeps asking m_c silly questions.",
-            "m_c wonders why r_c is so pouty today.",
-            "r_c sneezed on m_c.",
-            "m_c was woken up early by r_c.",
-            "m_c notices that r_c overslept.",
-            "r_c tells m_c to smile more.",
-            "m_c had a funny dream about r_c and can't take {PRONOUN\/r_c\/object} seriously now.",
-            "r_c is talking to m_c, but {PRONOUN\/m_c\/subject} can't stop noticing the mud on r_c's pelt."
+            "m_c a vu r_c être impoli.",
+            "m_c a entendu r_c dire quelque chose de méchant.",
+            "m_c est agacé par les commentaires négatifs de r_c.",
+            "m_c remarque que r_c n'a pas réussi à accomplir une tâche simple.",
+            "m_c espère avoir mal entendu la remarque impolie de r_c.",
+            "r_c n'arrête pas de poser des questions bêtes à m_c.",
+            "m_c se demande pourquoi r_c fait la tête aujourd'hui.",
+            "r_c a éternué sur m_c.",
+            "m_c a été réveillé tôt par r_c.",
+            "m_c remarque que r_c a trop dormi.",
+            "r_c dit à m_c de sourire davantage.",
+            "m_c a fait un rêve drôle sur r_c et n'arrive plus à prendre {PRONOUN\/r_c\/object} au sérieux.",
+            "r_c parle à m_c, mais {PRONOUN\/m_c\/subject} ne peut s'empêcher de remarquer la boue sur le pelage de r_c."
         ]
     },
     {
         "id": "admire_de_low2",
         "intensity": "low",
         "interactions": [
-            "m_c complains about something r_c did.",
-            "m_c notices that r_c doesn't want to help out.",
-            "m_c doesn't understand why r_c is being so rude.",
-            "r_c makes a snide remark about one of m_c's friends.",
-            "r_c confuses m_c in a conversation.",
-            "m_c saw r_c cough up a hairball.",
-            "r_c snickered when m_c tripped.",
-            "m_c is taken aback by one of r_c's comments.",
-            "r_c tries to convince m_c that an obvious lie is real.",
-            "r_c did an embarrassing prank on m_c's friend."
+            "m_c se plaint de quelque chose que r_c a fait.",
+            "m_c remarque que r_c ne veut pas aider.",
+            "m_c ne comprend pas pourquoi r_c est si impoli.",
+            "r_c fait une remarque sarcastique sur un ami de m_c.",
+            "r_c embrouille m_c lors d'une conversation.",
+            "m_c a vu r_c recracher une boule de poils.",
+            "r_c a ricané quand m_c a trébuché.",
+            "m_c est choqué par un commentaire de r_c.",
+            "r_c essaie de convaincre m_c d'un mensonge évident.",
+            "r_c a fait une farce embarrassante à un ami de m_c."
         ],
         "reaction_random_cat": {
             "respect": "decrease"
@@ -40,8 +40,8 @@
     {
         "id": "admire_de_low3",
         "interactions": [
-            "m_c and r_c disagree on something that should have an obvious answer.",
-            "r_c tells m_c to be happier. m_c explains it's not that simple."
+            "m_c et r_c ne sont pas d'accord sur quelque chose qui devrait être évident.",
+            "r_c dit à m_c d'être plus joyeux. m_c explique que ce n'est pas si simple."
         ],
         "main_trait_constraint": [
             "gloomy",
@@ -57,34 +57,34 @@
     {
         "id": "admire_de_medium1",
         "interactions": [
-            "m_c saw r_c take the last piece of prey from the fresh-kill pile.",
-            "m_c thinks r_c has a strange sense of humor.",
-            "m_c is frustrated that r_c won't take {PRONOUN\/r_c\/poss} actions more seriously.",
-            "m_c feels like r_c isn't taking {PRONOUN\/r_c\/poss} own personal health seriously.",
-            "m_c has started to see flaws in r_c's philosophies.",
-            "m_c worries about how capable r_c is.",
-            "m_c feels like r_c lied about something trivial.",
-            "r_c told m_c a joke that {PRONOUN\/m_c\/subject} didn't find funny.",
-            "m_c saw r_c ignore someone.",
-            "m_c wishes r_c would act more maturely.",
-            "r_c said something about a Clanmate that concerned m_c.",
-            "m_c and r_c argue over a piece of fresh-kill.",
-            "r_c panics over something that m_c finds trivial."
+            "m_c a vu r_c prendre le dernier morceau de proie sur le tas.",
+            "m_c trouve que r_c a un humour étrange.",
+            "m_c est frustré que r_c ne prenne pas {PRONOUN\/r_c\/poss} actions au sérieux.",
+            "m_c a l'impression que r_c ne prend pas soin de sa santé.",
+            "m_c commence à voir des défauts dans les idées de r_c.",
+            "m_c s'inquiète de la compétence de r_c.",
+            "m_c pense que r_c a menti sur quelque chose de trivial.",
+            "r_c a raconté une blague à m_c que {PRONOUN\/m_c\/subject} n'a pas trouvée drôle.",
+            "m_c a vu r_c ignorer quelqu'un.",
+            "m_c aimerait que r_c agisse de façon plus mature.",
+            "r_c a dit quelque chose sur un camarade de Clan qui a inquiété m_c.",
+            "m_c et r_c se disputent un morceau de proie.",
+            "r_c panique pour quelque chose que m_c trouve insignifiant."
         ]
     },
     {
         "id": "admire_de_medium2",
         "interactions": [
-            "m_c tried to bring r_c's behavior up to them, but it turned into a fight that someone else had to break up.",
-            "m_c confronted r_c about {PRONOUN\/r_c\/poss} bad attitude but that only makes r_c act out more.",
-            "m_c is disappointed when r_c doesn't uphold a promise.",
-            "m_c doesn't tell r_c that {PRONOUN\/r_c\/subject} forgot to groom a part of {PRONOUN\/r_c\/poss} fur.",
-            "r_c ignored m_c's question.",
-            "In the middle of a conversation, m_c and r_c realize they have less perspectives in common than they thought.",
-            "m_c and r_c talk about a Clanmate and realize they have very different opinions on them.",
-            "r_c tripped m_c. m_c doubts it was an accident.",
-            "m_c scolds r_c for something trivial.",
-            "r_c kept getting distracted while helping m_c and nearly got {PRONOUN\/m_c\/object} hurt."
+            "m_c a essayé de parler du comportement de r_c, mais cela a tourné à la dispute et quelqu'un a dû intervenir.",
+            "m_c a confronté r_c à propos de sa mauvaise attitude, mais cela ne fait qu'empirer les choses.",
+            "m_c est déçu quand r_c ne tient pas une promesse.",
+            "m_c ne dit pas à r_c que {PRONOUN\/m_c\/subject} a oublié de toiletter une partie de son pelage.",
+            "r_c a ignoré la question de m_c.",
+            "Au milieu d'une conversation, m_c et r_c réalisent qu'ils ont moins de points communs qu'ils ne le pensaient.",
+            "m_c et r_c parlent d'un camarade de Clan et se rendent compte qu'ils ont des avis très différents.",
+            "r_c a fait trébucher m_c. m_c doute que ce soit un accident.",
+            "m_c gronde r_c pour quelque chose de trivial.",
+            "r_c était distrait en aidant m_c et a failli blesser {PRONOUN\/m_c\/object}."
         ],
         "reaction_random_cat": {
             "respect": "decrease"
@@ -115,9 +115,9 @@
     {
         "id": "admire_de_medium3",
         "interactions": [
-            "m_c and r_c had to fix something around camp and argued about how to fix it. It ended up being fixed by some other cat in the end.",
-            "m_c notices that r_c has been avoiding {PRONOUN\/r_c\/poss} responsibilities lately.",
-            "m_c and r_c were supposed to be working together today, but they can never agree long enough to accomplish anything."
+            "m_c et r_c devaient réparer quelque chose au camp mais se sont disputés sur la façon de faire. Finalement, un autre chat l'a fait à leur place.",
+            "m_c remarque que r_c évite ses responsabilités ces derniers temps.",
+            "m_c et r_c devaient travailler ensemble aujourd'hui, mais ils ne s'entendent jamais assez longtemps pour accomplir quoi que ce soit."
         ],
         "reaction_random_cat": {
             "respect": "decrease"
@@ -148,25 +148,25 @@
     {
         "id": "admire_adult_de_med1",
         "interactions": [
-            "m_c saw r_c miss an easy catch today.",
-            "m_c is disappointed in r_c's subpar work lately.",
-            "m_c is let down by r_c's sloppy performance during a sparring session.",
-            "r_c was supposed to be showing m_c a cool battle move but messed up so badly it made m_c cringe.",
-            "m_c noticed that r_c ignored an easy hunting opportunity on a recent patrol.",
-            "r_c froze up during a hunting patrol with m_c.",
-            "r_c is visibly upset to be on a patrol with m_c.",
-            "When m_c's border patrol encountered another Clan, r_c acted like a fool.",
-            "m_c is frustrated after finishing a task that r_c was supposed to do.",
-            "m_c pranked r_c during a patrol.",
-            "m_c doubts r_c would be able to protect {PRONOUN\/m_c\/object} if something went wrong.",
-            "m_c calls out r_c for sleeping through a meeting.",
-            "m_c is upset that r_c slept through patrol assignments.",
-            "m_c thinks that r_c acted disrespectfully during a patrol.",
-            "m_c notices that r_c seems to disappear whenever difficult tasks are being discussed.",
-            "r_c was meant to take a piece of prey to a Clanmate, but m_c saw {PRONOUN\/r_c\/object} eat it.",
-            "r_c didn't finish a chore that m_c assigned {PRONOUN\/m_c\/object}.",
-            "The Clan notices that m_c and r_c won't talk to each other after coming back from a patrol.",
-            "m_c and r_c have very different approaches to hunting and argue about which is better."
+            "m_c a vu r_c rater une prise facile aujourd'hui.",
+            "m_c est déçu du travail médiocre de r_c ces derniers temps.",
+            "m_c est déçu par la performance bâclée de r_c lors d'un entraînement.",
+            "r_c devait montrer une technique de combat à m_c mais s'est tellement raté que m_c en a eu honte.",
+            "m_c a remarqué que r_c a ignoré une occasion de chasse facile lors d'une patrouille.",
+            "r_c est resté figé pendant une patrouille de chasse avec m_c.",
+            "r_c est visiblement contrarié d'être en patrouille avec m_c.",
+            "Quand la patrouille de m_c a rencontré un autre Clan, r_c s'est comporté comme un idiot.",
+            "m_c est frustré d'avoir fini une tâche que r_c était censé faire.",
+            "m_c a fait une farce à r_c pendant une patrouille.",
+            "m_c doute que r_c puisse protéger {PRONOUN\/m_c\/object} si quelque chose tourne mal.",
+            "m_c réprimande r_c pour avoir dormi pendant une réunion.",
+            "m_c est contrarié que r_c ait dormi pendant l'attribution des patrouilles.",
+            "m_c pense que r_c a été irrespectueux pendant une patrouille.",
+            "m_c remarque que r_c disparaît dès qu'on parle de tâches difficiles.",
+            "r_c devait apporter une proie à un camarade, mais m_c a vu {PRONOUN\/r_c\/object} la manger.",
+            "r_c n'a pas fini une corvée que m_c lui avait confiée.",
+            "Le Clan remarque que m_c et r_c ne se parlent plus après leur retour de patrouille.",
+            "m_c et r_c ont des approches très différentes de la chasse et se disputent à ce sujet."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -184,8 +184,8 @@
     {
         "id": "admire_adult_de_med2",
         "interactions": [
-            "m_c has noticed r_c isn't doing a lot of work lately.",
-            "m_c is disappointed in r_c's lack of initiative."
+            "m_c a remarqué que r_c ne travaille pas beaucoup ces derniers temps.",
+            "m_c est déçu du manque d'initiative de r_c."
         ],
         "main_status_constraint": [
             "elder",
@@ -211,36 +211,36 @@
         "id": "admire_de_high1",
         "intensity": "high",
         "interactions": [
-            "m_c heard an ugly rumor about r_c.",
-            "m_c overheard r_c spreading a hurtful rumor.",
-            "r_c won't stop complaining to m_c!",
-            "m_c thinks r_c did something incompetent.",
-            "r_c greatly embarrassed {PRONOUN\/r_c\/self} in front of m_c.",
-            "m_c learns about a terrible mistake r_c did.",
-            "m_c swears that r_c stole something from {PRONOUN\/m_c\/poss} nest.",
-            "m_c overhears r_c say something awful about a dead Clanmate.",
-            "m_c thinks r_c keeps getting in the way instead of helping others.",
-            "m_c knows that r_c fake-laughed at {PRONOUN\/m_c\/poss} joke."
+            "m_c a entendu une vilaine rumeur sur r_c.",
+            "m_c a surpris r_c en train de répandre une rumeur blessante.",
+            "r_c ne cesse de se plaindre à m_c !",
+            "m_c pense que r_c a fait preuve d'incompétence.",
+            "r_c s'est gravement embarrassé devant m_c.",
+            "m_c apprend une grosse erreur commise par r_c.",
+            "m_c est persuadé que r_c a volé quelque chose dans le nid de {PRONOUN\/m_c\/poss}.",
+            "m_c entend r_c dire quelque chose d'horrible sur un camarade décédé.",
+            "m_c pense que r_c gêne plus qu'il n'aide les autres.",
+            "m_c sait que r_c a fait semblant de rire à la blague de {PRONOUN\/m_c\/poss}."
         ]
     },
     {
         "id": "admire_de_high2",
         "intensity": "high",
         "interactions": [
-            "m_c had a difficult conversation with r_c, and they both ended up resentful of one another.",
-            "m_c was noticeably distracted while r_c was trying to tell a story.",
-            "m_c and r_c have a long discussion about goals and aspirations, and find that they don't agree on many things.",
-            "m_c asks r_c about something complicated and regrets it almost immediately when r_c misses the point.",
-            "m_c spent a long time talking with r_c, and was disappointed by r_c's lack of interest.",
-            "m_c scolds r_c about something {PRONOUN\/r_c\/object} did, but r_c doesn't take {PRONOUN\/m_c\/object} seriously.",
-            "r_c laughs at m_c's embarrassing mistake.",
-            "r_c told m_c something awful and m_c may never look at {PRONOUN\/r_c\/object} quite the same.",
-            "m_c got lost and r_c didn't look for {PRONOUN\/m_c\/object}.",
-            "m_c and r_c argue about religion in the middle of camp.",
-            "m_c realizes how hard it is to hold a conversation with r_c.",
-            "m_c lied to r_c's face.",
-            "m_c called r_c lazy, and r_c has retaliated by nitpicking everything that m_c does.",
-            "m_c had a bad day and lashed out at r_c."
+            "m_c a eu une conversation difficile avec r_c, et ils en sont tous deux ressortis rancuniers.",
+            "m_c était visiblement distrait pendant que r_c racontait une histoire.",
+            "m_c et r_c discutent de leurs objectifs et se rendent compte qu'ils ne sont pas d'accord sur grand-chose.",
+            "m_c pose une question compliquée à r_c et le regrette presque aussitôt car r_c ne comprend pas.",
+            "m_c a passé beaucoup de temps à parler avec r_c, mais a été déçu par le manque d'intérêt de r_c.",
+            "m_c gronde r_c pour quelque chose que {PRONOUN\/r_c\/object} a fait, mais r_c ne prend pas {PRONOUN\/m_c\/object} au sérieux.",
+            "r_c se moque de l'erreur embarrassante de m_c.",
+            "r_c a dit quelque chose d'horrible à m_c et m_c ne verra plus jamais {PRONOUN\/r_c\/object} de la même façon.",
+            "m_c s'est perdu et r_c n'est pas parti à la recherche de {PRONOUN\/m_c\/object}.",
+            "m_c et r_c se disputent à propos de la religion au milieu du camp.",
+            "m_c réalise à quel point il est difficile de discuter avec r_c.",
+            "m_c a menti en face de r_c.",
+            "m_c a traité r_c de paresseux, et r_c se venge en critiquant tout ce que fait m_c.",
+            "m_c a passé une mauvaise journée et s'est défoulé sur r_c."
         ],
         "reaction_random_cat": {
             "respect": "decrease"
@@ -272,42 +272,42 @@
         "id": "jel_inc_low1",
         "intensity": "low",
         "interactions": [
-            "m_c wishes {PRONOUN\/m_c\/subject} could get {PRONOUN\/m_c\/poss} pelt to shine like r_c's.",
-            "m_c notices one of {PRONOUN\/m_c\/poss} friends laughing with r_c.",
-            "m_c wants to asks a Clanmate to eat with {PRONOUN\/m_c\/object}, but they're busy with r_c.",
-            "A Clanmate that m_c wanted to get to know better is already friends with r_c.",
-            "m_c thinks Clanmates talk more highly of r_c than {PRONOUN\/m_c\/object}.",
-            "m_c suspects that r_c gets special treatment.",
-            "m_c sees a Clanmate complimenting r_c and feels a pang of envy.",
-            "m_c wishes that a Clanmate liked {PRONOUN\/m_c\/object} as much as they like r_c.",
-            "m_c was scolded for something that r_c gets praised for.",
-            "m_c's friend says nice things about r_c, but it just makes m_c jealous.",
-            "m_c thinks r_c looks nicer than {PRONOUN\/m_c\/object} today.",
-            "m_c notices one of {PRONOUN\/m_c\/poss} friends talking to r_c."
+            "m_c aimerait que son pelage brille autant que celui de r_c.",
+            "m_c remarque qu'un de ses amis rit avec r_c.",
+            "m_c veut demander à un camarade de Clan de manger avec {PRONOUN\/m_c\/object}, mais il est occupé avec r_c.",
+            "Un camarade que m_c voulait mieux connaître est déjà ami avec r_c.",
+            "m_c pense que les camarades parlent plus en bien de r_c que de {PRONOUN\/m_c\/object}.",
+            "m_c soupçonne que r_c reçoit un traitement de faveur.",
+            "m_c voit un camarade complimenter r_c et ressent une pointe de jalousie.",
+            "m_c aimerait qu'un camarade l'apprécie autant qu'il apprécie r_c.",
+            "m_c s'est fait gronder pour quelque chose pour lequel r_c a été félicité.",
+            "L'ami de m_c dit du bien de r_c, ce qui rend m_c jaloux.",
+            "m_c trouve que r_c est plus beau que {PRONOUN\/m_c\/object} aujourd'hui.",
+            "m_c remarque qu'un de ses amis parle à r_c."
         ]
     },
     {
         "id": "jel_inc_med1",
         "interactions": [
-            "m_c thinks the prey r_c is biting into on the other side of camp looks delicious.",
-            "m_c notices that r_c makes other Clanmates laugh more than {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}.",
-            "m_c worries that the Clan trusts r_c more than {PRONOUN\/m_c\/object}.",
-            "m_c thinks that r_c stole one of {PRONOUN\/m_c\/poss} ideas.",
-            "The Clan likes one of r_c's suggestions, but it was just m_c's reworded.",
-            "m_c tries to do something like r_c, but just ends up getting embarrassed.",
-            "A Clanmate accuses m_c of copying one of r_c's jokes.",
-            "m_c wishes {PRONOUN\/m_c\/subject} looked more like r_c.",
-            "m_c thinks that r_c is more talented than {PRONOUN\/m_c\/object}.",
-            "r_c has a talent that m_c wants to have.",
-            "m_c tried on an accessory that r_c threw away, but realized r_c looked a lot better in it.",
-            "m_c worries that one of {PRONOUN\/m_c\/poss} friends likes r_c more."
+            "m_c trouve que la proie que r_c mange de l'autre côté du camp a l'air délicieuse.",
+            "m_c remarque que r_c fait plus rire les autres camarades que {PRONOUN\/m_c\/subject} {VERB\/m_c\/do\/does}.",
+            "m_c craint que le Clan fasse plus confiance à r_c qu'à {PRONOUN\/m_c\/object}.",
+            "m_c pense que r_c a volé une de ses idées.",
+            "Le Clan aime une suggestion de r_c, mais c'était juste celle de m_c reformulée.",
+            "m_c essaie de faire comme r_c, mais finit par se ridiculiser.",
+            "Un camarade accuse m_c d'avoir copié une blague de r_c.",
+            "m_c aimerait ressembler davantage à r_c.",
+            "m_c pense que r_c est plus talentueux que {PRONOUN\/m_c\/object}.",
+            "r_c a un talent que m_c aimerait avoir.",
+            "m_c a essayé un accessoire jeté par r_c, mais se rend compte que r_c le portait bien mieux.",
+            "m_c craint qu'un de ses amis préfère r_c."
         ]
     },
     {
         "id": "jel_inc_med2",
         "interactions": [
-            "m_c is jealous that r_c got to go to the last Gathering.",
-            "r_c was complimented by another Clan during the recent Gathering, but m_c wasn't."
+            "m_c est jaloux que r_c ait pu aller à la dernière Assemblée.",
+            "r_c a été complimenté par un autre Clan lors de la dernière Assemblée, mais pas m_c."
         ],
         "main_status_constraint": [
             "mediator apprentice",
@@ -327,17 +327,17 @@
     {
         "id": "jealousy_inc_med3",
         "interactions": [
-            "m_c is jealous that r_c was praised by the leader.",
-            "m_c is jealous that r_c got to fight in a border skirmish when {PRONOUN\/m_c\/subject} didn't.",
-            "m_c is jealous that r_c got to go on border patrol this morning.",
-            "r_c caught a giant piece of prey that m_c wishes {PRONOUN\/m_c\/subject} did.",
-            "m_c tried to show off on a hunting patrol, but r_c got all the attention instead.",
-            "m_c wishes {PRONOUN\/m_c\/subject} could be as good a fighter as r_c.",
-            "m_c tries not to get envious hearing one of r_c's crazy patrol stories.",
-            "m_c had a plan during a patrol, but r_c's was a lot better.",
-            "The leader was more impressed by what r_c brought back from a hunting patrol than what m_c did.",
-            "m_c is jealous that r_c went on patrol without {PRONOUN\/m_c\/object}.",
-            "m_c doesn't understand how r_c got so good at hunting."
+            "m_c est jaloux que r_c ait été félicité par le chef.",
+            "m_c est jaloux que r_c ait pu se battre lors d'une escarmouche à la frontière alors que {PRONOUN\/m_c\/subject} n'a pas pu.",
+            "m_c est jaloux que r_c soit parti en patrouille frontalière ce matin.",
+            "r_c a attrapé une énorme proie que m_c aurait aimé attraper.",
+            "m_c a essayé de se mettre en valeur lors d'une patrouille de chasse, mais r_c a attiré toute l'attention.",
+            "m_c aimerait être aussi bon combattant que r_c.",
+            "m_c essaie de ne pas être envieux en entendant les histoires de patrouille de r_c.",
+            "m_c avait un plan pendant une patrouille, mais celui de r_c était bien meilleur.",
+            "Le chef a été plus impressionné par ce que r_c a rapporté de la patrouille de chasse que par ce que m_c a fait.",
+            "m_c est jaloux que r_c soit parti en patrouille sans {PRONOUN\/m_c\/object}.",
+            "m_c ne comprend pas comment r_c est devenu si bon à la chasse."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -353,12 +353,12 @@
     {
         "id": "jealousy_kit_inc_med1",
         "interactions": [
-            "m_c is jealous that r_c is getting more attention than {PRONOUN\/m_c\/object}.",
-            "r_c gets all the praise that m_c wishes {PRONOUN\/m_c\/subject} got.",
-            "r_c was told {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} growing bigger than m_c.",
-            "r_c is better at moss-ball than m_c.",
-            "The older Clanmates always believe r_c over m_c.",
-            "m_c is upset that r_c always wins in their games."
+            "m_c est jaloux que r_c reçoive plus d'attention que {PRONOUN\/m_c\/object}.",
+            "r_c reçoit tous les compliments que m_c aimerait recevoir.",
+            "On a dit à r_c que {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} grandit plus vite que m_c.",
+            "r_c est meilleur à la balle de mousse que m_c.",
+            "Les anciens croient toujours r_c plutôt que m_c.",
+            "m_c est contrarié que r_c gagne toujours à leurs jeux."
         ],
         "main_status_constraint": [
             "kitten"
@@ -370,10 +370,10 @@
     {
         "id": "jealousy_kit_inc_med2",
         "interactions": [
-            "m_c hisses at r_c for getting a bigger piece of prey.",
-            "m_c tells r_c {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} deserve all the attention from the older cats.",
-            "m_c says r_c's name is stupid, but m_c is just jealous.",
-            "An older Clanmate tells m_c to be nice to r_c."
+            "m_c feule sur r_c parce qu'il a eu un plus gros morceau de proie.",
+            "m_c dit à r_c que {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} mérite pas toute l'attention des anciens.",
+            "m_c dit que le nom de r_c est stupide, mais c'est juste par jalousie.",
+            "Un ancien dit à m_c d'être gentil avec r_c."
         ],
         "main_status_constraint": [
             "kitten"
@@ -388,12 +388,12 @@
     {
         "id": "jealousy_kit_inc_med3",
         "interactions": [
-            "m_c looks at r_c and remembers how easy it was to be a kitten.",
-            "m_c doesn't get why r_c gets away with so much more than m_c did as a kitten.",
-            "m_c is afraid that r_c is going to grow up bigger than {PRONOUN\/m_c\/object}.",
-            "r_c says that m_c said something mean, and no one will believe m_c's defense.",
-            "m_c gets scolded for not watching r_c when r_c does something naughty.",
-            "m_c is resentful that so much is expected of {PRONOUN\/m_c\/object}, yet no one expects anything of r_c."
+            "m_c regarde r_c et se souvient à quel point c'était facile d'être chaton.",
+            "m_c ne comprend pas pourquoi r_c a le droit de faire plus de bêtises que m_c n'en avait le droit étant chaton.",
+            "m_c a peur que r_c devienne plus grand que {PRONOUN\/m_c\/object}.",
+            "r_c dit que m_c a dit quelque chose de méchant, et personne ne croit la défense de m_c.",
+            "m_c se fait gronder pour ne pas avoir surveillé r_c alors que c'est r_c qui a fait une bêtise.",
+            "m_c est amer qu'on attende tant de {PRONOUN\/m_c\/object}, alors qu'on n'attend rien de r_c."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -411,13 +411,13 @@
         "id": "jel_inc_high1",
         "intensity": "high",
         "interactions": [
-            "m_c is jealous that r_c gets to do cool super secret medicine cat things.",
-            "m_c wants to commune with StarClan like r_c does.",
-            "r_c refuses to tell m_c too much about {PRONOUN\/r_c\/poss} medicine cat training.",
-            "m_c feels like r_c's life is easier as a medicine cat apprentice.",
-            "m_c tries to get free catmint from r_c, but gets snitched on instead.",
-            "m_c thinks r_c's training sounds way easier than what m_c does now.",
-            "m_c thinks it's unfair that r_c always gets to go to Gatherings."
+            "m_c est jaloux que r_c puisse faire des choses secrètes de guérisseur.",
+            "m_c aimerait communiquer avec le Clan des Étoiles comme r_c.",
+            "r_c refuse de trop en dire à m_c sur sa formation de guérisseur.",
+            "m_c a l'impression que la vie de r_c est plus facile en tant qu'apprenti guérisseur.",
+            "m_c essaie d'obtenir de l'herbe à chat gratuitement de r_c, mais se fait dénoncer.",
+            "m_c pense que la formation de r_c est bien plus facile que ce que m_c doit faire.",
+            "m_c trouve injuste que r_c aille toujours aux Assemblées."
         ],
         "main_status_constraint": [
             "apprentice",
@@ -431,25 +431,25 @@
         "id": "jel_inc_high2",
         "intensity": "high",
         "interactions": [
-            "m_c is complaining that r_c never does anything helpful.",
-            "m_c doesn't get why r_c gets more praise for doing the same thing everyone else does.",
-            "m_c can't stand hearing about how helpful r_c is.",
-            "m_c gets hit with waves of envy whenever r_c is laughing with friends.",
-            "m_c can't understand why Clanmates like r_c so much.",
-            "m_c notices that r_c always gets better fresh-kill to eat.",
-            "A Clanmate tells m_c that r_c's stories are better.",
-            "m_c knows that r_c would be saved before {PRONOUN\/m_c\/object} during an emergency.",
-            "m_c has big plans for the day, but they're thwarted by r_c doing something more important.",
-            "m_c wants to spend time with friends, but all of them have plans with r_c."
+            "m_c se plaint que r_c n'aide jamais personne.",
+            "m_c ne comprend pas pourquoi r_c reçoit plus de compliments pour faire la même chose que tout le monde.",
+            "m_c ne supporte plus d'entendre à quel point r_c est utile.",
+            "m_c ressent une vague d'envie chaque fois que r_c rit avec des amis.",
+            "m_c ne comprend pas pourquoi les camarades aiment autant r_c.",
+            "m_c remarque que r_c a toujours de meilleures proies à manger.",
+            "Un camarade dit à m_c que les histoires de r_c sont meilleures.",
+            "m_c sait que r_c serait sauvé avant {PRONOUN\/m_c\/object} en cas d'urgence.",
+            "m_c avait de grands projets pour la journée, mais ils sont ruinés parce que r_c fait quelque chose de plus important.",
+            "m_c veut passer du temps avec ses amis, mais ils ont tous prévu quelque chose avec r_c."
         ]
     },
     {
         "id": "jel_inc_high3",
         "intensity": "high",
         "interactions": [
-            "m_c sees r_c lazing about in the sunshine and is resentful at how little {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} expected to contribute.",
-            "m_c doesn't get why r_c gets big, juicy prey just because of {PRONOUN\/r_c\/poss} age.",
-            "m_c doesn't like that Clanmates trust r_c more just because {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} older."
+            "m_c voit r_c paresser au soleil et est jaloux de voir à quel point {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} n'a rien à faire.",
+            "m_c ne comprend pas pourquoi r_c a droit à de grosses proies juteuses juste à cause de son âge.",
+            "m_c n'aime pas que les camarades fassent plus confiance à r_c simplement parce que {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} plus âgé."
         ],
         "main_status_constraint": [
             "mediator apprentice",

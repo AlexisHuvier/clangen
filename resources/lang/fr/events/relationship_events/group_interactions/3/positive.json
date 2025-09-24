@@ -4,8 +4,8 @@
         "cat_amount": 3,
         "intensity": "high",
         "interactions": [
-            "m_c is convincing r_c1 that r_c2 isn't so bad once you get to know {PRONOUN\/r_c2\/object}.",
-            "m_c chats with r_c1 about how r_c2 is a nice cat."
+            "m_c convainc r_c1 que r_c2 n'est pas si mal une fois qu'on apprend à connaître {PRONOUN\/r_c2\/object}.",
+            "m_c discute avec r_c1 de la gentillesse de r_c2."
         ],
         "trait_constraint": {
             "m_c": [
@@ -43,8 +43,8 @@
         "cat_amount": 3,
         "intensity": "low",
         "interactions": [
-            "m_c confesses to r_c1 that {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} feelings for r_c2.",
-            "While m_c and r_c1 are talking, m_c gets the feeling that {PRONOUN\/m_c\/subject} can trust r_c1, and confesses that {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/likes} r_c2."
+            "m_c avoue à r_c1 que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/a} des sentiments pour r_c2.",
+            "Alors que m_c et r_c1 discutent, m_c sent que {PRONOUN\/m_c\/subject} peut faire confiance à r_c1, et avoue que {PRONOUN\/m_c\/subject} {VERB\/m_c\/like\/aime} r_c2."
         ],
         "status_constraint": {
             "m_c": [
@@ -93,8 +93,8 @@
         "cat_amount": 3,
         "intensity": "low",
         "interactions": [
-            "m_c, r_c1, and r_c2 had a nice talk, while eating.",
-            "m_c, r_c1, and r_c2 took a sunbath and had a little small talk."
+            "m_c, r_c1, et r_c2 ont eu une belle conversation en mangeant.",
+            "m_c, r_c1, et r_c2 ont pris un bain de soleil et ont eu une petite conversation."
         ],
         "general_reaction": {
             "comfort": "increase",

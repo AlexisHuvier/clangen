@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was running over the hills, when {PRONOUN\/m_c\/subject} tripped over {PRONOUN\/m_c\/poss} own legs and hit the ground hard.",
+        "event_text": "m_c courait sur les collines, quand {PRONOUN\/m_c\/subject} a trébuché sur ses propres pattes et est tombé violemment au sol.",
         "m_c": {
             "age": [
                 "any"
@@ -38,7 +38,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The ground inside the camp has turned into a muddy mess from the rain. m_c sprains {PRONOUN\/m_c\/poss} paw while trying to walk through the muck.",
+        "event_text": "Le sol à l'intérieur du camp est devenu une vraie gadoue à cause de la pluie. m_c se foule la patte en essayant de traverser la boue.",
         "m_c": {
             "age": [
                 "any"
@@ -67,7 +67,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c is feeling extremely sore from the long distances {PRONOUN\/m_c\/subject}{VERB\/m_c\/'ve\/'s} run lately.",
+        "event_text": "m_c se sent extrêmement endolori à force de parcourir de longues distances ces derniers temps.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -101,7 +101,7 @@
         "sub_type": [],
         "tags": [],
         "frequency": 1,
-        "event_text": "Playfully following a butterfly outside the camp, m_c accidentally steps into a rabbit burrow, severely injuring {PRONOUN\/m_c\/poss} leg and letting out a yelp of pain.",
+        "event_text": "En poursuivant un papillon en dehors du camp en jouant, m_c marche accidentellement dans un terrier de lapin, se blesse gravement à la patte et pousse un cri de douleur.",
         "m_c": {
             "age": [
                 "any"
@@ -132,9 +132,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred when {PRONOUN\/m_c\/subject} accidentally ran {PRONOUN\/m_c\/poss} leg into a rabbit burrow.",
-                "reg_death": "m_c died from wounds caused by when {PRONOUN\/m_c\/subject} accidentally ran into a rabbit burrow.",
-                "lead_death": "died after stepping in a rabbit burrow"
+                "scar": "m_c a été marqué lorsque {PRONOUN\/m_c\/subject} a accidentellement enfoncé sa patte dans un terrier de lapin.",
+                "reg_death": "m_c est mort des suites de blessures causées lorsque {PRONOUN\/m_c\/subject} a accidentellement couru dans un terrier de lapin.",
+                "lead_death": "est mort après avoir marché dans un terrier de lapin"
             }
         ]
     },
@@ -147,7 +147,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was running around excitedly on patrol, when {PRONOUN\/m_c\/poss} paw landed right in a rabbit hole, twisting uncomfortably. {PRONOUN\/m_c\/subject\/CAP} limped the whole way home.",
+        "event_text": "m_c courait partout, tout excité, lors d'une patrouille, quand la patte de {PRONOUN\/m_c\/poss} est tombée dans un terrier de lapin et s'est tordue douloureusement. {PRONOUN\/m_c\/subject\/CAP} a boité tout le chemin du retour.",
         "m_c": {
             "age": [
                 "adolescent"

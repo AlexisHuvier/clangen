@@ -14,7 +14,7 @@
             "clan:apprentice"
         ],
         "frequency": 3,
-        "event_text": "The apprentices are learning how to ambush enemies from tall trees.",
+        "event_text": "Les apprentis apprennent à tendre des embuscades aux ennemis depuis les grands arbres.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -32,7 +32,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "As a storm rages and the branches of the forest whip around outside, m_c is tucked up in the medicine cat den, {PRONOUN\/m_c\/poss} sleep anything but restful. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} seeing flashes of prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} with a shiver, wondering what {PRONOUN\/m_c\/poss} dreams mean for the Clan.",
+        "event_text": "Alors qu'une tempête fait rage et que les branches de la forêt fouettent dehors, m_c est blotti dans la tanière du guérisseur, son sommeil loin d'être paisible. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} voit des éclairs de prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} en frissonnant, se demandant ce que {PRONOUN\/m_c\/poss} rêves signifient pour le Clan.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -54,7 +54,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "The things {PRONOUN\/m_c\/subject} saw today, omen_list_sight\/m_c... m_c conceals {PRONOUN\/m_c\/self} in a hidden alcove under branches that drip all the way to the ground, needing privacy as {PRONOUN\/m_c\/subject} {VERB\/m_c\/consider\/considers} what these new omens foretell.",
+        "event_text": "Les choses que {PRONOUN\/m_c\/subject} a vues aujourd'hui, omen_list_sight\/m_c... m_c se cache dans une alcôve dissimulée sous des branches qui gouttent jusqu'au sol, cherchant de l'intimité alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/consider\/considers} ce que ces nouveaux présages annoncent.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -78,7 +78,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "Like a seed just beginning to sprout, m_c is now on {PRONOUN\/m_c\/poss} journey to becoming a full warrior of c_n. With a proud gaze, r_c presents {PRONOUN\/r_c\/poss} kit with acc_singular. r_c knows that one day m_c will grow big and strong, just like a little seed can grow into a strong tree.",
+        "event_text": "Comme une graine qui commence à germer, m_c entame maintenant {PRONOUN\/m_c\/poss} parcours pour devenir un guerrier à part entière de c_n. D’un regard fier, r_c offre à {PRONOUN\/r_c\/poss} chaton acc_singular. r_c sait qu’un jour m_c deviendra grand et fort, tout comme une petite graine peut devenir un arbre robuste.",
         "new_accessory": [
             "MAPLE SEED"
         ],
@@ -139,7 +139,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "A small flock of sparrows has decided to start frequenting the branches high above camp. To the annoyance of many, their preening has dropped plenty of feathers around camp; m_c thinks they're pretty, though, and decides to keep some.",
+        "event_text": "Un petit groupe de moineaux a décidé de fréquenter les branches hautes au-dessus du camp. Au grand agacement de beaucoup, leur toilettage a laissé de nombreuses plumes autour du camp ; m_c les trouve jolies et décide d’en garder quelques-unes.",
         "new_accessory": [
             "SPARROW FEATHERS"
         ]
@@ -156,7 +156,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c watched the sun set over the forest, wondering at how the sky gleamed despite the war.",
+        "event_text": "m_c observe le soleil se coucher sur la forêt, se demandant comment le ciel peut briller ainsi malgré la guerre.",
         "m_c": {
             "status": [
                 "leader"
@@ -188,7 +188,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c has been bolstering the edges of camp with new brambles.",
+        "event_text": "m_c a renforcé les abords du camp avec de nouvelles ronces.",
         "m_c": {}
     }
 ]

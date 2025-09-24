@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c tried to sneak out of the camp, but fell and got a bruise before {PRONOUN\/m_c\/subject} even left the safety of the camp walls.",
+        "event_text": "m_c a essayé de sortir du camp en cachette, mais est tombé et s'est fait un bleu avant même que {PRONOUN\/m_c\/subject} ne quitte la sécurité des murs du camp.",
         "m_c": {
             "status": [
                 "kitten"
@@ -39,7 +39,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c snuck out of camp and returned a bit bruised, but brimming with pride despite the scolding {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} given.",
+        "event_text": "m_c s'est faufilé hors du camp et est revenu avec quelques bleus, mais débordant de fierté malgré la réprimande que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} a reçue.",
         "m_c": {
             "status": [
                 "kitten"
@@ -70,7 +70,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c play-fought a bit too hard and got a little bruised.",
+        "event_text": "m_c s'est battu pour jouer un peu trop fort et s'est retrouvé avec quelques bleus.",
         "m_c": {
             "status": [
                 "kitten"
@@ -104,7 +104,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c tried to sneak out of the camp, but fell and scraped {PRONOUN\/m_c\/poss} paw before {PRONOUN\/m_c\/subject} even left the safety of the camp walls.",
+        "event_text": "m_c a essayé de sortir du camp en cachette, mais est tombé et s'est écorché la patte avant même que {PRONOUN\/m_c\/subject} ne quitte la sécurité des murs du camp.",
         "m_c": {
             "status": [
                 "kitten"
@@ -135,7 +135,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c snuck out of camp and returned scraped up, but brimming with pride despite the scolding {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} given.",
+        "event_text": "m_c s'est faufilé hors du camp et est revenu avec des écorchures, mais débordant de fierté malgré la réprimande que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} a reçue.",
         "m_c": {
             "status": [
                 "kitten"
@@ -166,7 +166,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c play-fought a bit too hard and scraped {PRONOUN\/m_c\/self} up.",
+        "event_text": "m_c s'est battu pour jouer un peu trop fort et s'est retrouvé avec quelques écorchures.",
         "m_c": {
             "status": [
                 "kitten"
@@ -200,7 +200,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c woke up with a mild headache, but got up to play anyways, trying to ignore the nagging pain.",
+        "event_text": "m_c s'est réveillé avec un léger mal de tête, mais s'est levé pour jouer quand même, essayant d'ignorer la douleur persistante.",
         "m_c": {
             "status": [
                 "kitten"
@@ -226,7 +226,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c woke up with a splitting headache, and couldn't get out of {PRONOUN\/m_c\/poss} nest. {PRONOUN\/m_c\/subject\/CAP} spent the entire day curled up in the nursery, trying to avoid light and noise so that the throbbing pain could subside.",
+        "event_text": "m_c s'est réveillé avec un mal de tête atroce, et n'a pas pu sortir de son nid. {PRONOUN\/m_c\/subject\/CAP} a passé toute la journée recroquevillé dans la pouponnière, essayant d'éviter la lumière et le bruit pour que la douleur lancinante s'atténue.",
         "m_c": {
             "status": [
                 "kitten"
@@ -252,7 +252,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c had a bad fall while taking a walk through the territory, returning to camp sore and bruised.",
+        "event_text": "m_c a fait une mauvaise chute en se promenant dans le territoire, et est revenu au camp endolori et couvert de bleus.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -286,7 +286,7 @@
             "clan:kitten"
         ],
         "frequency": 4,
-        "event_text": "m_c was play-fighting with the kits, but may have overdone it a bit. {PRONOUN\/m_c\/subject\/CAP}'ll be sore for the next few days.",
+        "event_text": "m_c jouait à se battre avec les chatons, mais y est peut-être allé un peu trop fort. {PRONOUN\/m_c\/subject\/CAP} sera endolori pour les prochains jours.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -345,7 +345,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The weather has been bad lately, and m_c can feel it in {PRONOUN\/m_c\/poss} bones.",
+        "event_text": "Le temps a été mauvais ces derniers temps, et m_c le sent dans ses os : {PRONOUN\/m_c\/poss} articulations sont douloureuses.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -372,7 +372,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c can feel {PRONOUN\/m_c\/poss} bones and joints aching. Bad weather must be on its way.",
+        "event_text": "m_c sent que ses os et ses articulations sont douloureux. Le mauvais temps doit approcher.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -402,7 +402,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c isn't as young as {PRONOUN\/m_c\/subject} used to be, and {PRONOUN\/m_c\/poss} aching joints are making that extremely clear.",
+        "event_text": "m_c n'est plus aussi jeune que {PRONOUN\/m_c\/subject} l'était, et ses articulations douloureuses le lui rappellent bien.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -432,7 +432,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c spent the day tending to the dens, and might have worked a bit too hard - {PRONOUN\/m_c\/poss} joints are now quite sore.",
+        "event_text": "m_c a passé la journée à s'occuper des tanières, et a peut-être un peu trop forcé - {PRONOUN\/m_c\/poss} articulations sont maintenant bien douloureuses.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -468,7 +468,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c had a bad fall while taking a walk through the territory and, once found, has to be carried back home.",
+        "event_text": "m_c a fait une mauvaise chute en se promenant dans le territoire et, une fois retrouvé, a dû être ramené au camp porté par d'autres.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -500,8 +500,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after taking a bad fall.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds a bad fall"
+                "reg_death": "m_c est mort des suites de ses blessures après une mauvaise chute.",
+                "lead_death": "est mort des suites de ses blessures après une mauvaise chute"
             }
         ]
     },
@@ -514,7 +514,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c has collected quite a lot of ticks in {PRONOUN\/m_c\/poss} pelt, and grumbles about the itchy bites dotted throughout.",
+        "event_text": "m_c a accumulé pas mal de tiques dans sa fourrure, et râle à propos des piqûres qui le démangent partout.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -544,7 +544,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c has been yowling about {PRONOUN\/m_c\/poss} ticks for the better part of the day, the itchy bites maddening to {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a passé la majeure partie de la journée à se plaindre de ses tiques, les piqûres qui démangent rendant {PRONOUN\/m_c\/object} fou.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -586,7 +586,7 @@
             "clan:apprentice"
         ],
         "frequency": 4,
-        "event_text": "m_c keeps pointedly reminding other cats that {PRONOUN\/m_c\/poss} ticks haven't been seen to yet, clearly uncomfortable with the itchy bites dotting {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "m_c ne cesse de rappeler aux autres chats que ses tiques n'ont pas encore été enlevées, visiblement gêné par les piqûres qui démangent sa fourrure.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -628,7 +628,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "m_c has been getting more and more frustrated by the number of ticks {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has}, but doesn't want to bother anyone with {PRONOUN\/m_c\/poss} troubles. Regardless, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} found out when someone spots {PRONOUN\/m_c\/object} scratching at the bites.",
+        "event_text": "m_c est de plus en plus frustré par le nombre de tiques que {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has}, mais ne veut déranger personne avec ses problèmes. Quoi qu'il en soit, {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} est découvert lorsque quelqu'un le surprend en train de se gratter les piqûres.",
         "m_c": {
             "age": [
                 "senior adult",
@@ -669,7 +669,7 @@
             "clan:warrior"
         ],
         "frequency": 2,
-        "event_text": "m_c tried to interject and de-escalate an argument between two Clanmates, but r_c retaliated at the interruption. m_c limps away, fresh clawmarks scored through {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "m_c a essayé d'intervenir et de désamorcer une dispute entre deux camarades du Clan, mais r_c a réagi violemment à l'interruption. m_c s'éloigne en boitant, de nouvelles traces de griffures marquant {PRONOUN\/m_c\/poss} pelage.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -728,9 +728,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after r_c hurt {PRONOUN\/m_c\/object} for trying to stop an argument.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds r_c gave {PRONOUN\/m_c\/object}"
+                "scar": "m_c a été marqué par r_c.",
+                "reg_death": "m_c est mort des suites de ses blessures après que r_c ait blessé {PRONOUN\/m_c\/object} pour avoir tenté d'arrêter une dispute.",
+                "lead_death": "est mort des blessures infligées par r_c à {PRONOUN\/m_c\/object}"
             }
         ],
         "relationships": [
@@ -761,7 +761,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was on a walk when {PRONOUN\/m_c\/subject} saw r_c being attacked by a rogue! {PRONOUN\/m_c\/subject\/CAP} helped r_c escape, but not before gaining a few wounds.",
+        "event_text": "m_c se promenait lorsqu'{PRONOUN\/m_c\/subject} a vu r_c se faire attaquer par un solitaire ! {PRONOUN\/m_c\/subject\/CAP} a aidé r_c à s'échapper, mais pas sans recevoir quelques blessures.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -811,9 +811,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred while trying to save r_c from a rogue.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after trying to save r_c from a rogue.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds given to {PRONOUN\/m_c\/object} by a rogue"
+                "scar": "m_c a été marqué en essayant de sauver r_c d'un solitaire.",
+                "reg_death": "m_c est mort des suites de ses blessures après avoir tenté de sauver r_c d'un solitaire.",
+                "lead_death": "est mort des blessures infligées par un solitaire à {PRONOUN\/m_c\/object}"
             }
         ],
         "relationships": [
@@ -864,7 +864,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c was on a walk when {PRONOUN\/m_c\/subject} saw r_c being attacked by a dog! {PRONOUN\/m_c\/subject\/CAP} helped r_c escape, but not before gaining a few wounds.",
+        "event_text": "m_c se promenait lorsque {PRONOUN\/m_c\/subject} a vu r_c se faire attaquer par un chien ! {PRONOUN\/m_c\/subject\/CAP} a aidé r_c à s'échapper, mais pas sans recevoir quelques blessures.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -917,9 +917,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred while trying to save r_c from a dog.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after trying to save r_c from a dog.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds"
+                "scar": "m_c a été marqué en essayant de sauver r_c d'un chien.",
+                "reg_death": "m_c est mort des suites de ses blessures après avoir tenté de sauver r_c d'un chien.",
+                "lead_death": "est mort des suites de ses blessures"
             }
         ],
         "relationships": [
@@ -950,7 +950,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overdid {PRONOUN\/m_c\/poss} last sparring session, and has been wincing all day. Seems {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} a bit bruised.",
+        "event_text": "m_c a un peu trop forcé lors de sa dernière séance d'entraînement, et grimace de douleur toute la journée. On dirait que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} un peu couvert de bleus.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -990,7 +990,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "A brutal battle against o_c_n leaves m_c injured.",
+        "event_text": "Une bataille brutale contre o_c_n laisse m_c blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1017,9 +1017,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred in a fight against o_c_n.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a battle with o_c_n.",
-                "lead_death": "{PRONOUN\/m_c\/poss} wounded after a battle with o_c_n"
+                "scar": "m_c a été marqué lors d'un combat contre o_c_n.",
+                "reg_death": "m_c est mort des suites de ses blessures après une bataille contre o_c_n.",
+                "lead_death": "{PRONOUN\/m_c\/poss} blessé après une bataille contre o_c_n"
             }
         ],
         "other_clan": {
@@ -1041,7 +1041,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c came out worse for wear after a border skirmish with o_c_n.",
+        "event_text": "m_c s'en est sorti mal en point après une escarmouche à la frontière avec o_c_n.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1068,9 +1068,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred in a fight against o_c_n.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a battle with o_c_n.",
-                "lead_death": "{PRONOUN\/m_c\/poss} wounded after a battle with o_c_n"
+                "scar": "m_c a été marqué lors d'un combat contre o_c_n.",
+                "reg_death": "m_c est mort des suites de ses blessures après une bataille contre o_c_n.",
+                "lead_death": "{PRONOUN\/m_c\/poss} blessé après une bataille contre o_c_n"
             }
         ],
         "other_clan": {
@@ -1089,7 +1089,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "On a border patrol near the o_c_n border, m_c could no longer take o_c_n's jeers and smirks. {PRONOUN\/m_c\/subject\/CAP} lashed out at the first jeering cat {PRONOUN\/m_c\/subject} saw, although the hotheaded move wasn't smart as m_c couldn't escape the skirmish without injury.",
+        "event_text": "En patrouille près de la frontière avec o_c_n, m_c n'a plus supporté les moqueries et sourires narquois de o_c_n. {PRONOUN\/m_c\/subject\/CAP} a attaqué le premier chat moqueur que {PRONOUN\/m_c\/subject} a vu, mais ce geste irréfléchi n'était pas malin et m_c n'a pas pu éviter la bagarre sans blessure.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1135,9 +1135,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred in a fight against o_c_n.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a battle with o_c_n.",
-                "lead_death": "{PRONOUN\/m_c\/poss} wounded after a battle with o_c_n"
+                "scar": "m_c a été marqué lors d'un combat contre o_c_n.",
+                "reg_death": "m_c est mort des suites de ses blessures après une bataille contre o_c_n.",
+                "lead_death": "{PRONOUN\/m_c\/poss} blessé après une bataille contre o_c_n"
             }
         ],
         "other_clan": {
@@ -1162,7 +1162,7 @@
             "clan:kitten"
         ],
         "frequency": 4,
-        "event_text": "While o_c_n attempted a surprise attack on the c_n camp, m_c fiercely guarded the nursery. However, it didn't end with m_c unscathed.",
+        "event_text": "Alors que o_c_n a tenté une attaque surprise sur le camp de c_n, m_c a farouchement protégé la pouponnière. Cependant, cela ne s'est pas terminé sans que m_c soit blessé.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1190,9 +1190,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred in a fight against o_c_n.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a battle with o_c_n.",
-                "lead_death": "{PRONOUN\/m_c\/poss} wounded after a battle with o_c_n"
+                "scar": "m_c a été marqué lors d'un combat contre o_c_n.",
+                "reg_death": "m_c est mort des suites de ses blessures après une bataille contre o_c_n.",
+                "lead_death": "{PRONOUN\/m_c\/poss} blessé après une bataille contre o_c_n"
             }
         ],
         "other_clan": {
@@ -1212,7 +1212,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c trips over an unseen rabbit hole, spraining {PRONOUN\/m_c\/poss} paw.",
+        "event_text": "m_c trébuche sur un terrier de lapin invisible et se foule la patte.",
         "injury": [
             {
                 "cats": [
@@ -1236,7 +1236,7 @@
             "leaf-bare"
         ],
         "frequency": 3,
-        "event_text": "m_c snuck out of camp and returned cold and shivering, frostbite nipping at {PRONOUN\/m_c\/poss} paws.",
+        "event_text": "m_c s'est faufilé hors du camp et est revenu grelottant de froid, les engelures mordant les pattes de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1265,8 +1265,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred as a kit by frostbite.",
-                "reg_death": "m_c died after {PRONOUN\/m_c\/subject} got frostbite sneaking out of camp."
+                "scar": "m_c a été marqué par des engelures alors qu'{PRONOUN\/m_c\/subject} était chaton.",
+                "reg_death": "m_c est mort après que {PRONOUN\/m_c\/subject} ait eu des engelures en sortant du camp en cachette."
             }
         ]
     },
@@ -1281,7 +1281,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was grabbed by a hawk, but luckily r_c saves {PRONOUN\/m_c\/object}! The kit is still left injured from the ordeal.",
+        "event_text": "m_c a été attrapé par une buse, mais heureusement r_c sauve {PRONOUN\/m_c\/object} ! Le chaton reste tout de même blessé après cette épreuve.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1318,8 +1318,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred as a kit, when an eagle tried to carry {PRONOUN\/m_c\/object} off.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after an eagle tried to carry {PRONOUN\/m_c\/object} off."
+                "scar": "m_c a été marqué alors qu'{PRONOUN\/m_c\/subject} était chaton, lorsqu'un aigle a essayé d'emporter {PRONOUN\/m_c\/object}.",
+                "reg_death": "m_c est mort des suites de ses blessures après qu'un aigle a essayé d'emporter {PRONOUN\/m_c\/object}."
             }
         ],
         "relationships": [
@@ -1354,7 +1354,7 @@
             "leaf-fall"
         ],
         "frequency": 2,
-        "event_text": "m_c fell into a river, and inhaled a lot of water before managing to get out. {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} been hacking and sputtering ever since.",
+        "event_text": "m_c est tombé dans une rivière et a avalé beaucoup d'eau avant de réussir à sortir. Depuis, {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'ve\/'s} tousse et crache sans arrêt.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1379,8 +1379,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from water-inhalation after falling in the river.",
-                "lead_death": "died from water-inhalation"
+                "reg_death": "m_c est mort par inhalation d'eau après être tombé dans la rivière.",
+                "lead_death": "est mort par inhalation d'eau"
             }
         ]
     },
@@ -1394,7 +1394,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "m_c was out wandering the territory for a bit too long and came back with frostbite.",
+        "event_text": "m_c était dehors à errer sur le territoire un peu trop longtemps et est revenu avec des engelures.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1422,9 +1422,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by frostbite.",
-                "reg_death": "m_c died after {PRONOUN\/m_c\/subject} got frostbite.",
-                "lead_death": "died from frostbite"
+                "scar": "m_c a été marqué par des engelures.",
+                "reg_death": "m_c est mort après que {PRONOUN\/m_c\/subject} a eu des engelures.",
+                "lead_death": "est mort des suites de ses engelures"
             }
         ]
     },
@@ -1439,7 +1439,7 @@
             "leaf-bare"
         ],
         "frequency": 3,
-        "event_text": "m_c went out for a walk, but slipped on the ice and broke a bone.",
+        "event_text": "m_c est sorti se promener, mais a glissé sur la glace et s'est cassé un os.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1464,8 +1464,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after slipping on ice.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after slipping on ice"
+                "reg_death": "m_c est mort de {PRONOUN\/m_c\/poss} blessures après avoir glissé sur la glace.",
+                "lead_death": "est mort de {PRONOUN\/m_c\/poss} blessures après avoir glissé sur la glace"
             }
         ]
     },
@@ -1479,7 +1479,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was grabbed and dropped by an eagle, but {PRONOUN\/m_c\/subject} somehow survived.",
+        "event_text": "m_c a été attrapé et lâché par un aigle, mais {PRONOUN\/m_c\/subject} a survécu d'une manière ou d'une autre.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1500,7 +1500,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after an eagle grabbed {PRONOUN\/m_c\/object}."
+                "reg_death": "m_c est mort de {PRONOUN\/m_c\/poss} blessures après qu'un aigle a attrapé {PRONOUN\/m_c\/object}."
             }
         ]
     },
@@ -1515,7 +1515,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was climbing a tree and got a splinter from one of the branches.",
+        "event_text": "m_c grimpait à un arbre et a eu une écharde d'une des branches.",
         "m_c": {
             "age": [
                 "any"
@@ -1543,7 +1543,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was climbing a tree when {PRONOUN\/m_c\/subject} fell. Luckily, {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} only bruised by the incident.",
+        "event_text": "m_c grimpait à un arbre quand {PRONOUN\/m_c\/subject} est tombé. Heureusement, {PRONOUN\/m_c\/subject} n'a eu que des contusions à la suite de l'incident.",
         "m_c": {
             "age": [
                 "any"
@@ -1571,7 +1571,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c couldn't help but try to show off by climbing the tallest tree {PRONOUN\/m_c\/subject} could find. {PRONOUN\/m_c\/poss\/CAP} plan backfired when {PRONOUN\/m_c\/subject} fell out of the tree.",
+        "event_text": "m_c n'a pas pu s'empêcher d'essayer de se vanter en grimpant à l'arbre le plus haut que {PRONOUN\/m_c\/subject} pouvait trouver. Le plan de {PRONOUN\/m_c\/poss\/CAP} a échoué lorsque {PRONOUN\/m_c\/subject} est tombé de l'arbre.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -1605,7 +1605,7 @@
                 "cats": [
                     "m_c"
                 ],
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after falling from a tall tree."
+                "reg_death": "m_c est mort de ses blessures après être tombé d'un arbre très haut."
             }
         ]
     },
@@ -1618,7 +1618,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c had a bad fall while taking a walk through the territory, and comes back to camp quite sore.",
+        "event_text": "m_c a fait une mauvaise chute en se promenant dans le territoire, et revient au camp bien endolori.",
         "m_c": {
             "age": [
                 "senior",
@@ -1653,7 +1653,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c fell from a cliff and somehow survived, though not without breaking {PRONOUN\/m_c\/poss} leg.",
+        "event_text": "m_c est tombé d'une falaise et a survécu par miracle, mais pas sans se casser la patte.",
         "m_c": {
             "age": [
                 "senior",
@@ -1684,9 +1684,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred when {PRONOUN\/m_c\/subject} fell off a cliff.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after falling off a cliff.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after falling off a cliff"
+                "scar": "m_c a été marqué lorsque {PRONOUN\/m_c\/subject} est tombé d'une falaise.",
+                "reg_death": "m_c est mort de ses blessures après être tombé d'une falaise.",
+                "lead_death": "est mort de ses blessures après être tombé d'une falaise"
             }
         ]
     },
@@ -1699,7 +1699,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c survived a vicious eagle attack - with the claw marks to prove it!",
+        "event_text": "m_c a survécu à une attaque féroce d'aigle - et en garde les marques de griffures pour le prouver !",
         "m_c": {
             "status": [
                 "kitten",
@@ -1724,9 +1724,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by an eagle.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting an eagle.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after fighting an eagle"
+                "scar": "m_c a été marqué par un aigle.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un aigle.",
+                "lead_death": "est mort de ses blessures après avoir combattu un aigle"
             }
         ]
     },
@@ -1739,7 +1739,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was moving some branches out of the way when {PRONOUN\/m_c\/subject} got a splinter.",
+        "event_text": "m_c déplaçait des branches lorsqu'{PRONOUN\/m_c\/subject} s'est planté une écharde.",
         "m_c": {
             "age": [
                 "senior",
@@ -1771,7 +1771,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "The ground inside the camp has turned into a muddy mess from the rain. m_c sprains {PRONOUN\/m_c\/poss} paw while trying to walk through the muck.",
+        "event_text": "Le sol à l'intérieur du camp est devenu une vraie boue à cause de la pluie. m_c se foule la patte en essayant de traverser la gadoue.",
         "m_c": {},
         "injury": [
             {
@@ -1793,7 +1793,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a rogue, but was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit bruised, but bruises are better than clawmarks.",
+        "event_text": "m_c s'est battu avec un solitaire, mais n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu couvert de bleus, mais les bleus valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1856,7 +1856,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a fox, but was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit bruised, but bruises are better than clawmarks.",
+        "event_text": "m_c s'est battu avec un renard, mais n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu couvert de bleus, mais les bleus valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1897,7 +1897,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a dog, but was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit bruised, but bruises are better than clawmarks.",
+        "event_text": "m_c s'est battu avec un chien, mais n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu couvert de bleus, mais les bleus valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -1938,7 +1938,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c saved r_c from an enemy warrior, both making it out with hardly even a scratch.",
+        "event_text": "m_c a sauvé r_c d'un guerrier ennemi, tous deux s'en sortant avec à peine une égratignure.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2014,7 +2014,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a dog, and was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit bruised, but bruises are better than clawmarks.",
+        "event_text": "m_c a sauvé r_c d'un chien, et n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu couvert de bleus, mais les bleus valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "warrior",
@@ -2087,7 +2087,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overdid {PRONOUN\/m_c\/poss} last sparring session, and has been wincing all day. Seems {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} a bit scraped up.",
+        "event_text": "m_c a un peu trop forcé lors de sa dernière séance d'entraînement, et grimace de douleur toute la journée. On dirait que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} un peu écorché.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2124,7 +2124,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a rogue, but was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit scraped up, but a few scrapes are better than clawmarks.",
+        "event_text": "m_c s'est battu avec un solitaire, mais n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu écorché, mais quelques écorchures valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2186,7 +2186,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a fox, but was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit scraped up, but a few scrapes are better than clawmarks.",
+        "event_text": "m_c s'est battu avec un renard, mais n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu écorché, mais quelques écorchures valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2227,7 +2227,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a fox, and was barely even hurt! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} a bit scraped up, but a few scrapes are better than clawmarks.",
+        "event_text": "m_c a sauvé r_c d'un renard, et n'a presque pas été blessé ! {PRONOUN\/m_c\/subject\/CAP}{VERB\/m_c\/'re\/'s} un peu écorché, mais quelques écorchures valent mieux que des marques de griffures.",
         "m_c": {
             "status": [
                 "warrior",
@@ -2300,7 +2300,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overdid {PRONOUN\/m_c\/poss} last sparring session and sprained a paw.",
+        "event_text": "m_c a trop forcé lors de sa dernière séance d'entraînement et s'est foulé une patte.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2337,7 +2337,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a dog and got hurt.",
+        "event_text": "m_c s'est battu avec un chien et a été blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2376,9 +2376,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a dog.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting a dog.",
-                "lead_death": "died after fighting a dog"
+                "scar": "m_c a été marqué par un chien.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un chien.",
+                "lead_death": "est mort après avoir combattu un chien"
             }
         ]
     },
@@ -2391,7 +2391,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a fox, but was hurt.",
+        "event_text": "m_c a sauvé r_c d'un renard, mais a été blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2446,9 +2446,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a fox while rescuing r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after saving r_c from a fox.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after saving r_c from a fox"
+                "scar": "m_c a été marqué par un renard en sauvant r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir sauvé r_c d'un renard.",
+                "lead_death": "est mort de ses blessures après avoir sauvé r_c d'un renard"
             }
         ],
         "relationships": [
@@ -2478,7 +2478,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was hurt while protecting r_c, the leader, from a fox.",
+        "event_text": "m_c a été blessé en protégeant r_c, le chef, d'un renard.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2526,8 +2526,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a fox while protecting r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after protecting r_c from a fox."
+                "scar": "m_c a été marqué par un renard en protégeant r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir protégé r_c d'un renard."
             }
         ],
         "relationships": [
@@ -2557,7 +2557,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a rogue and got hurt.",
+        "event_text": "m_c s'est battu avec un solitaire et a été blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2596,9 +2596,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a rogue.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting a rogue.",
-                "lead_death": "died after fighting a rogue"
+                "scar": "m_c a été marqué par un solitaire.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un solitaire.",
+                "lead_death": "est mort après avoir combattu un solitaire"
             }
         ],
         "new_cat": [
@@ -2633,7 +2633,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a big dog and was badly injured.",
+        "event_text": "m_c s'est battu contre un gros chien et a été gravement blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2672,9 +2672,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a big dog.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting a big dog.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after fighting a big dog"
+                "scar": "m_c a été marqué par un gros chien.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un gros chien.",
+                "lead_death": "est mort de ses blessures après avoir combattu un gros chien"
             }
         ]
     },
@@ -2687,7 +2687,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a big dog, but was badly injured.",
+        "event_text": "m_c a sauvé r_c d'un gros chien, mais a été gravement blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2744,9 +2744,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a big dog while rescuing r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after saving r_c from a big dog.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after saving r_c from a big dog"
+                "scar": "m_c a été marqué par un gros chien en sauvant r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir sauvé r_c d'un gros chien.",
+                "lead_death": "est mort de ses blessures après avoir sauvé r_c d'un gros chien"
             }
         ],
         "relationships": [
@@ -2777,7 +2777,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a hawk and got hurt.",
+        "event_text": "m_c s'est battu contre une buse et a été blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2816,9 +2816,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a hawk.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting a hawk.",
-                "lead_death": "died after fighting a hawk"
+                "scar": "m_c a été marqué par une buse.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu une buse.",
+                "lead_death": "est mort après avoir combattu une buse"
             }
         ]
     },
@@ -2831,7 +2831,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c saved r_c from a hawk, but was hurt.",
+        "event_text": "m_c a sauvé r_c d'une buse, mais a été blessé.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -2882,9 +2882,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a hawk while rescuing r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after saving r_c from a hawk.",
-                "lead_death": "died after protecting r_c from a hawk"
+                "scar": "m_c a été marqué par une buse en sauvant r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir sauvé r_c d'une buse.",
+                "lead_death": "est mort après avoir protégé r_c d'une buse"
             }
         ],
         "relationships": [
@@ -2914,7 +2914,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was hurt while protecting the leader, r_c, from a rogue.",
+        "event_text": "m_c a été blessé en protégeant le chef, r_c, d'un solitaire.",
         "m_c": {
             "status": [
                 "warrior",
@@ -2960,8 +2960,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a rogue while protecting r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after protecting r_c from a rogue."
+                "scar": "m_c a été marqué par un solitaire en protégeant r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir protégé r_c d'un solitaire."
             }
         ],
         "relationships": [
@@ -3011,7 +3011,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was wounded during a harsh training exercise lead by r_c.",
+        "event_text": "m_c a été blessé lors d'un exercice d'entraînement difficile mené par r_c.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3053,8 +3053,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred during a harsh training exercise with r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a harsh training exercise with r_c."
+                "scar": "m_c a été marqué lors d'un entraînement difficile avec r_c.",
+                "reg_death": "m_c est mort de ses blessures après un entraînement difficile avec r_c."
             }
         ],
         "relationships": [
@@ -3084,7 +3084,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was hurt by o_c_n warriors after being ordered by r_c to go over the border.",
+        "event_text": "m_c a été blessé par des guerriers de o_c_n après avoir été forcé par r_c de franchir la frontière.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3131,8 +3131,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by o_c_n warriors, after being ordered to go over the border by r_c.",
-                "reg_death": "m_c died from wounds caused by o_c_n warriors, after being ordered to go over the border by r_c."
+                "scar": "m_c a été marqué par des guerriers de o_c_n, après avoir été forcé de franchir la frontière par r_c.",
+                "reg_death": "m_c est mort des blessures infligées par des guerriers de o_c_n, après avoir été forcé de franchir la frontière par r_c."
             }
         ],
         "relationships": [
@@ -3169,7 +3169,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was injured after a fight with a Clanmate that r_c encouraged.",
+        "event_text": "m_c a été blessé après un combat avec un camarade du Clan que r_c a encouragé.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3224,8 +3224,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a Clanmate that r_c encouraged {PRONOUN\/m_c\/object} to fight.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a fight with a Clanmate that r_c encouraged."
+                "scar": "m_c a été marqué par un camarade du Clan que r_c a encouragé {PRONOUN\/m_c\/object} à combattre.",
+                "reg_death": "m_c est mort de ses blessures après un combat avec un camarade du Clan que r_c a encouragé."
             }
         ],
         "relationships": [
@@ -3255,7 +3255,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c's tail was badly hurt by a fox while {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} trying to follow r_c's orders.",
+        "event_text": "La queue de m_c a été gravement blessée par un renard alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} en train d'essayer de suivre les ordres de r_c.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -3307,8 +3307,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a fox, while trying to follow r_c's orders.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting a fox on r_c's orders."
+                "scar": "m_c a été marqué par un renard, en essayant de suivre les ordres de r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un renard sur les ordres de r_c."
             }
         ],
         "relationships": [
@@ -3338,7 +3338,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c's leg was badly injured after r_c forced {PRONOUN\/m_c\/object} to fight a big dog.",
+        "event_text": "La patte de m_c a été gravement blessée après que r_c ait forcé {PRONOUN\/m_c\/object} à combattre un gros chien.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3388,8 +3388,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a big dog, while trying to follow r_c's orders.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting a big dog on r_c's orders."
+                "scar": "m_c a été marqué par un gros chien, en essayant de suivre les ordres de r_c.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un gros chien sur les ordres de r_c."
             }
         ],
         "relationships": [
@@ -3419,7 +3419,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c mistook a hare for a rabbit while hunting and {PRONOUN\/m_c\/poss} eyes were scratched, a valuable lesson learnt.",
+        "event_text": "m_c a confondu un lièvre avec un lapin en chassant et s'est fait griffer les yeux, une leçon précieuse apprise.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3443,8 +3443,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred when a hare scratched {PRONOUN\/m_c\/poss} eyes.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a hare scratched {PRONOUN\/m_c\/poss} eyes."
+                "scar": "m_c a été marqué lorsqu'un lièvre a griffé les yeux de {PRONOUN\/m_c\/poss}.",
+                "reg_death": "m_c est mort de ses blessures après qu'un lièvre a griffé les yeux de {PRONOUN\/m_c\/poss}."
             }
         ]
     },
@@ -3460,7 +3460,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Heightened battle training has left m_c sore and tired.",
+        "event_text": "Un entraînement au combat intensif a laissé m_c endolori et fatigué.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3489,7 +3489,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "A harsh sparring session has left m_c bruised. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/worry\/worries} that {PRONOUN\/m_c\/subject} will do badly in a real fight against o_c_n.",
+        "event_text": "Une séance d'entraînement intense a laissé m_c couvert de bleus. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/worry\/worries} que {PRONOUN\/m_c\/subject} échoue lors d'un vrai combat contre o_c_n.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3518,7 +3518,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "A horrible battle occurred between c_n and o_c_n patrols after the two patrols traded insults at the border. m_c and r_c were left badly injured.",
+        "event_text": "Une bataille terrible a éclaté entre les patrouilles de c_n et o_c_n après que les deux groupes se soient échangés des insultes à la frontière. m_c et r_c ont été gravement blessés.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -3553,9 +3553,9 @@
                     "m_c",
                     "r_c"
                 ],
-                "scar": "m_c was scarred after a fight with o_c_n cats.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting with o_c_n cats.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after fighting with o_c_n cats"
+                "scar": "m_c a été marqué après un combat contre des chats de o_c_n.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu des chats de o_c_n.",
+                "lead_death": "est mort de ses blessures après avoir combattu des chats de o_c_n"
             }
         ],
         "other_clan": {
@@ -3574,7 +3574,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was injured recklessly fighting a rogue that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
+        "event_text": "m_c a été blessé en combattant imprudemment un solitaire que son mentor, r_c, l'a encouragé à attaquer.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3625,8 +3625,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred fighting a rogue that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor encouraged {PRONOUN\/m_c\/object} to fight a rogue."
+                "scar": "m_c a été marqué en combattant un solitaire que son mentor, r_c, l'a encouragé à attaquer.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a encouragé à combattre un solitaire."
             }
         ],
         "relationships": [
@@ -3677,7 +3677,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was injured recklessly fighting an enemy warrior that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
+        "event_text": "m_c a été blessé en combattant imprudemment un guerrier ennemi que son mentor, r_c, l'a encouragé à attaquer.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3729,8 +3729,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred fighting an enemy warrior that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor encouraged {PRONOUN\/m_c\/object} to fight an enemy warrior."
+                "scar": "m_c a été marqué en combattant un guerrier ennemi que son mentor, r_c, l'a encouragé à attaquer.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a encouragé à combattre un guerrier ennemi."
             }
         ],
         "relationships": [
@@ -3766,7 +3766,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was injured recklessly fighting a dog that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
+        "event_text": "m_c a été blessé en combattant imprudemment un chien que son mentor, r_c, l'a encouragé à attaquer.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3818,8 +3818,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred fighting a dog that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor encouraged {PRONOUN\/m_c\/object} to fight a dog."
+                "scar": "m_c a été marqué en combattant un chien que son mentor, r_c, l'a encouragé à attaquer.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a encouragé à combattre un chien."
             }
         ],
         "relationships": [
@@ -3849,7 +3849,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was injured recklessly fighting a fox that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
+        "event_text": "m_c a été blessé en combattant imprudemment un renard que son mentor, r_c, l'a encouragé à attaquer.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3901,8 +3901,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred fighting a fox that {PRONOUN\/m_c\/poss} mentor, r_c, encouraged {PRONOUN\/m_c\/object} to attack.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor encouraged {PRONOUN\/m_c\/object} to fight a fox."
+                "scar": "m_c a été marqué en combattant un renard que son mentor, r_c, l'a encouragé à attaquer.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a encouragé à combattre un renard."
             }
         ],
         "relationships": [
@@ -3932,7 +3932,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c could not handle r_c's harsh training, and was injured as a result.",
+        "event_text": "m_c n'a pas supporté l'entraînement sévère de r_c et a été blessé en conséquence.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -3991,8 +3991,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c's, harsh training.",
-                "reg_death": "m_c died from wounds caused by {PRONOUN\/m_c\/poss} mentor's harsh training."
+                "scar": "m_c a été marqué par l'entraînement sévère de {PRONOUN\/m_c\/poss} mentor, r_c.",
+                "reg_death": "m_c est mort des blessures causées par l'entraînement sévère de son mentor."
             }
         ],
         "relationships": [
@@ -4022,7 +4022,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c trained extra hard to impress {PRONOUN\/m_c\/poss} mentor, r_c, but was a bit too rough with {PRONOUN\/m_c\/poss} body, and has the bruises to show it.",
+        "event_text": "m_c s'est entraîné très dur pour impressionner son mentor, r_c, mais a été un peu trop brusque avec son corps, et en porte les bleus pour le prouver.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4065,7 +4065,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c took a tumble off a rock while practicing {PRONOUN\/m_c\/poss} battle moves. {PRONOUN\/m_c\/subject\/CAP}'ll be a bit tender for the next few days.",
+        "event_text": "m_c est tombé d'un rocher en s'entraînant à ses mouvements de combat. {PRONOUN\/m_c\/subject\/CAP} sera un peu endolori pour les prochains jours.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -4094,7 +4094,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was practicing {PRONOUN\/m_c\/poss} hunting pounce when {PRONOUN\/m_c\/subject} pounced right into a rock! Ow! {PRONOUN\/m_c\/subject\/CAP} might be sore for a while.",
+        "event_text": "m_c s'entraînait à bondir sur une proie quand {PRONOUN\/m_c\/subject} a sauté droit sur un rocher ! Aïe ! {PRONOUN\/m_c\/subject\/CAP} risque d'être endolori pendant un moment.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4120,7 +4120,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overdid {PRONOUN\/m_c\/poss} last battle training session, and has been wincing all day. Seems {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} a bit bruised.",
+        "event_text": "m_c a un peu trop forcé lors de sa dernière séance d'entraînement au combat, et a grimacé de douleur toute la journée. On dirait que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} un peu couvert de bleus.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4154,7 +4154,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overdid {PRONOUN\/m_c\/poss} last battle training session, and has been wincing all day. Seems {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} a bit scraped up.",
+        "event_text": "m_c a un peu trop forcé lors de sa dernière séance d'entraînement au combat, et a grimacé de douleur toute la journée. On dirait que {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} un peu écorché.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4188,7 +4188,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c trained extra hard to impress {PRONOUN\/m_c\/poss} mentor, r_c, but twisted {PRONOUN\/m_c\/poss} paw at an awkward angle.",
+        "event_text": "m_c s'est entraîné très dur pour impressionner son mentor, r_c, mais s'est tordu la patte dans un mauvais angle.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4231,7 +4231,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was rushing around the camp in excitement for a patrol when {PRONOUN\/m_c\/poss} paw landed wrong on a rock! {PRONOUN\/m_c\/subject\/CAP} took a tumble, and can't help limping the rest of the day.",
+        "event_text": "m_c courait partout dans le camp, excité à l'idée d'une patrouille, quand {PRONOUN\/m_c\/poss} patte a mal atterri sur une pierre ! {PRONOUN\/m_c\/subject\/CAP} a fait une chute et ne peut s'empêcher de boiter le reste de la journée.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4264,7 +4264,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c snuck out at night on a dare, but soon came hobbling back to camp, head lowered in embarrassment. Seems like {PRONOUN\/m_c\/poss} paw got caught on something in the dark and caused {PRONOUN\/m_c\/object} to trip!",
+        "event_text": "m_c s'est faufilé dehors la nuit à cause d'un défi, mais est vite revenu en boitant au camp, la tête basse de honte. On dirait que la patte de {PRONOUN\/m_c\/poss} s'est accrochée à quelque chose dans le noir et l'a fait trébucher !",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4303,7 +4303,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overdid {PRONOUN\/m_c\/poss} last battle training session and sprained a paw.",
+        "event_text": "m_c a trop forcé lors de sa dernière séance d'entraînement au combat et s'est foulé une patte.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4337,7 +4337,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c trained extra hard to impress {PRONOUN\/m_c\/poss} mentor, r_c, but now finds {PRONOUN\/m_c\/poss} paws to be sore and bleeding.",
+        "event_text": "m_c s'est entraîné très dur pour impressionner son mentor, r_c, mais a maintenant les pattes douloureuses et en sang.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4380,7 +4380,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c trained extra hard to impress {PRONOUN\/m_c\/poss} mentor, r_c, but is extremely sore when {PRONOUN\/m_c\/subject} {VERB\/m_c\/wake\/wakes} up the next morning.",
+        "event_text": "m_c s'est entraîné très dur pour impressionner son mentor, r_c, mais est extrêmement endolori lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/wake\/wakes} le lendemain matin.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4423,7 +4423,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was hurt by r_c for not defending the territory well enough.",
+        "event_text": "m_c a été blessé par r_c pour ne pas avoir suffisamment bien défendu le territoire.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4476,8 +4476,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c, for failing to defend the territory well enough.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor, r_c, hurt {PRONOUN\/m_c\/object} for failing to defend the territory well enough."
+                "scar": "m_c a été marqué par son mentor, r_c, pour ne pas avoir suffisamment bien défendu le territoire.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor, r_c, l'a blessé pour ne pas avoir suffisamment bien défendu le territoire."
             }
         ],
         "relationships": [
@@ -4507,7 +4507,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was hurt by {PRONOUN\/m_c\/poss} mentor, r_c, as a punishment for accidentally wandering over the border.",
+        "event_text": "m_c a été blessé par son mentor, r_c, en guise de punition pour avoir accidentellement franchi la frontière.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4554,8 +4554,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c, for accidentally crossing the border.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor hurt {PRONOUN\/m_c\/object} for accidentally crossing the border."
+                "scar": "m_c a été marqué par son mentor, r_c, pour avoir accidentellement franchi la frontière.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a blessé pour avoir accidentellement franchi la frontière."
             }
         ],
         "relationships": [
@@ -4585,7 +4585,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was hurt by {PRONOUN\/m_c\/poss} mentor, r_c, as a punishment for messing with a Twoleg object.",
+        "event_text": "m_c a été blessé par son mentor, r_c, en guise de punition pour avoir touché à un objet de Bipède.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -4644,8 +4644,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c, for messing with a Twoleg object.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor hurt {PRONOUN\/m_c\/object} for messing with a Twoleg object."
+                "scar": "m_c a été marqué par son mentor, r_c, pour avoir touché à un objet de Bipède.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a blessé pour avoir touché à un objet de Bipède."
             }
         ],
         "relationships": [
@@ -4675,7 +4675,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c were practicing battle moves. r_c insisted they keep their claws out, and m_c got hurt.",
+        "event_text": "m_c et r_c s'entraînaient aux techniques de combat. r_c a insisté pour qu'ils gardent les griffes sorties, et m_c a été blessé.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4727,8 +4727,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c, during battle training.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor insisted on training with unsheathed claws."
+                "scar": "m_c a été marqué par son mentor, r_c, lors d'un entraînement au combat.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor a insisté pour s'entraîner avec les griffes sorties."
             }
         ],
         "relationships": [
@@ -4758,7 +4758,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was hurt by {PRONOUN\/m_c\/poss} mentor, r_c, as a punishment for disobeying {PRONOUN\/r_c\/object}.",
+        "event_text": "m_c a été blessé par son mentor, r_c, en guise de punition pour avoir désobéi à {PRONOUN\/r_c\/object}.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4812,8 +4812,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c, for disobeying {PRONOUN\/r_c\/object}.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/poss} mentor hurt {PRONOUN\/m_c\/object} for disobeying {PRONOUN\/r_c\/object}."
+                "scar": "m_c a été marqué par son mentor, r_c, pour avoir désobéi à {PRONOUN\/r_c\/object}.",
+                "reg_death": "m_c est mort de ses blessures après que son mentor l'a blessé pour avoir désobéi à {PRONOUN\/r_c\/object}."
             }
         ],
         "relationships": [
@@ -4843,7 +4843,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c fought with {PRONOUN\/m_c\/poss} mentor, r_c, and was injured.",
+        "event_text": "m_c s'est battu avec son mentor, r_c, et a été blessé.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4895,8 +4895,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after fighting with {PRONOUN\/m_c\/poss} mentor, r_c.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after fighting with {PRONOUN\/m_c\/poss} mentor."
+                "scar": "m_c a été marqué après s'être battu avec son mentor, r_c.",
+                "reg_death": "m_c est mort de ses blessures après s'être battu avec son mentor."
             }
         ],
         "relationships": [
@@ -4926,7 +4926,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c could not handle {PRONOUN\/m_c\/poss} mentor's, r_c, harsh training, and was injured as a result.",
+        "event_text": "m_c n'a pas supporté l'entraînement sévère de son mentor, r_c, et a été blessé en conséquence.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -4985,8 +4985,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c's, harsh training.",
-                "reg_death": "m_c died from wounds caused by {PRONOUN\/m_c\/poss} mentor's harsh training."
+                "scar": "m_c a été marqué par l'entraînement sévère de son mentor, r_c.",
+                "reg_death": "m_c est mort des blessures causées par l'entraînement sévère de son mentor."
             }
         ],
         "relationships": [
@@ -5016,7 +5016,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c's leg was badly hurt after r_c, {PRONOUN\/m_c\/poss} mentor, used a Twoleg trap during a training exercise.",
+        "event_text": "La patte de m_c a été gravement blessée après que r_c, son mentor, a utilisé un piège de Bipède lors d'un exercice d'entraînement.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -5062,8 +5062,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by {PRONOUN\/m_c\/poss} mentor, r_c, when {PRONOUN\/r_c\/subject} used a Twoleg trap for training.",
-                "reg_death": "m_c died from wounds caused by {PRONOUN\/m_c\/poss} mentor using a Twoleg trap for training."
+                "scar": "m_c a été marqué par son mentor, r_c, lorsque {PRONOUN\/r_c\/subject} a utilisé un piège de Bipède pour l'entraînement.",
+                "reg_death": "m_c est mort des blessures causées par son mentor qui a utilisé un piège de Bipède pour l'entraînement."
             }
         ],
         "relationships": [
@@ -5093,7 +5093,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c stepped on some sharp stones while walking along the shoreline.",
+        "event_text": "m_c a marché sur des pierres pointues en longeant le rivage.",
         "m_c": {
             "age": [
                 "senior",
@@ -5126,7 +5126,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was bitten by a snake, and miraculously survived!",
+        "event_text": "m_c a été mordu par un serpent, et a survécu par miracle !",
         "m_c": {
             "age": [
                 "senior",
@@ -5157,9 +5157,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a snake bite.",
-                "reg_death": "m_c died after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} bitten by a snake.",
-                "lead_death": "after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} bitten by a snake"
+                "scar": "m_c a été marqué par une morsure de serpent.",
+                "reg_death": "m_c est mort après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} mordu par un serpent.",
+                "lead_death": "après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} mordu par un serpent"
             }
         ]
     },
@@ -5172,7 +5172,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c wasn't looking where {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} going and tripped over a small trunk, gaining a few bruises.",
+        "event_text": "m_c ne regardait pas où {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} allait et a trébuché sur une petite souche, récoltant quelques bleus.",
         "m_c": {
             "age": [
                 "senior",
@@ -5205,7 +5205,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c misstepped and slipped from a rock, dislocating a joint.",
+        "event_text": "m_c a mal posé sa patte et a glissé d'un rocher, se déboîtant une articulation.",
         "m_c": {
             "age": [
                 "senior",
@@ -5238,7 +5238,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c slipped on some rocks and dislocated {PRONOUN\/m_c\/poss} leg.",
+        "event_text": "m_c a glissé sur des rochers et s'est déboîté la patte de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "senior",
@@ -5271,7 +5271,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c slipped on some rocks and twisted {PRONOUN\/m_c\/poss} paw.",
+        "event_text": "m_c a glissé sur des rochers et s'est tordu la patte de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "senior",
@@ -5304,7 +5304,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c leapt from a rock, but {PRONOUN\/m_c\/subject} didn't land quite right.",
+        "event_text": "m_c a sauté d'un rocher, mais {PRONOUN\/m_c\/subject} n'a pas atterri correctement.",
         "m_c": {
             "age": [
                 "senior",
@@ -5337,7 +5337,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c misstepped and slipped from a rock, spraining {PRONOUN\/m_c\/poss} paw.",
+        "event_text": "m_c a mal posé sa patte et a glissé d'un rocher, se tordant la patte de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "senior",
@@ -5370,7 +5370,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c wasn't looking where {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} going and tripped over a small trunk, spraining {PRONOUN\/m_c\/poss} paw.",
+        "event_text": "m_c ne regardait pas où {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} allait et a trébuché sur une petite souche, se foulant la patte de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "senior",
@@ -5403,7 +5403,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c got {PRONOUN\/m_c\/poss} paw stuck in a Twoleg trap, but luckily escaped with only a sprain.",
+        "event_text": "m_c a coincé sa patte dans un piège à bipèdes, mais a heureusement échappé avec seulement une entorse.",
         "m_c": {
             "age": [
                 "senior",
@@ -5436,7 +5436,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c ran too fast over harsh ground and hurt {PRONOUN\/m_c\/poss} paws.",
+        "event_text": "m_c a couru trop vite sur un sol dur et s'est blessé les pattes.",
         "m_c": {
             "age": [
                 "any"
@@ -5465,7 +5465,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "The weather has been cold and dry, and m_c's paw pads have cracked as a result.",
+        "event_text": "Le temps a été froid et sec, et les coussinets de patte de m_c se sont fissurés en conséquence.",
         "m_c": {
             "age": [
                 "any"
@@ -5494,7 +5494,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c helped to strengthen the camp walls, but scraped up {PRONOUN\/m_c\/poss} paw pads in the process.",
+        "event_text": "m_c a aidé à renforcer les murs du camp, mais s'est écorché les coussinets de patte dans le processus.",
         "m_c": {
             "age": [
                 "senior",
@@ -5538,7 +5538,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c overexerted {PRONOUN\/m_c\/self}, and is feeling extremely sore.",
+        "event_text": "m_c a trop forcé et se sent extrêmement endolori.",
         "m_c": {
             "age": [
                 "senior",
@@ -5571,7 +5571,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was out on a walk alone when {PRONOUN\/m_c\/subject} heard a dog approaching! {PRONOUN\/m_c\/subject\/CAP} crawled into a thorny shrub to hide, but got some nasty scratches in the process.",
+        "event_text": "m_c se promenait seul lorsque {PRONOUN\/m_c\/subject} a entendu un chien approcher ! {PRONOUN\/m_c\/subject\/CAP} s'est glissé dans un buisson épineux pour se cacher, mais en est ressorti avec de vilaines égratignures.",
         "m_c": {
             "age": [
                 "senior",
@@ -5618,7 +5618,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was out on a walk alone when {PRONOUN\/m_c\/subject} heard a fox approaching! {PRONOUN\/m_c\/subject\/CAP} crawled into a thorny shrub to hide, but got some nasty scratches in the process.",
+        "event_text": "m_c se promenait seul lorsque {PRONOUN\/m_c\/subject} a entendu un renard approcher ! {PRONOUN\/m_c\/subject\/CAP} s'est glissé dans un buisson épineux pour se cacher, mais en est ressorti avec de vilaines égratignures.",
         "m_c": {
             "age": [
                 "senior",
@@ -5665,7 +5665,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c fought a rogue and, while {PRONOUN\/m_c\/subject} drove the trespasser away, {PRONOUN\/m_c\/subject} needed to be rushed to the medicine cat den afterwards.",
+        "event_text": "m_c s'est battu avec un solitaire et, bien que {PRONOUN\/m_c\/subject} ait réussi à chasser l'intrus, {PRONOUN\/m_c\/subject} a dû être transporté d'urgence à la tanière du guérisseur par la suite.",
         "m_c": {
             "age": [
                 "senior",
@@ -5718,9 +5718,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred when {PRONOUN\/m_c\/subject} fought a trespassing rogue.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/subject} fought a trespassing rogue.",
-                "lead_death": "couldn't survive {PRONOUN\/m_c\/poss} injuries after {PRONOUN\/m_c\/subject} fought a trespassing rogue"
+                "scar": "m_c a été marqué après avoir combattu un solitaire qui s'était introduit sur le territoire.",
+                "reg_death": "m_c est mort de ses blessures après avoir combattu un solitaire qui s'était introduit sur le territoire.",
+                "lead_death": "n'a pas survécu à ses blessures après avoir combattu un solitaire qui s'était introduit sur le territoire"
             }
         ]
     },
@@ -5733,7 +5733,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c got {PRONOUN\/m_c\/poss} paw stuck in a Twoleg trap, and while {PRONOUN\/m_c\/subject} eventually escaped, {PRONOUN\/m_c\/poss} leg is heavily injured.",
+        "event_text": "m_c a coincé sa patte dans un piège à Bipèdes, et même si {PRONOUN\/m_c\/subject} a fini par s'en sortir, sa patte est gravement blessée.",
         "m_c": {
             "age": [
                 "senior",
@@ -5764,9 +5764,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a Twoleg trap.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} injuries caused by a Twoleg trap.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} injuries caused by a Twoleg trap."
+                "scar": "m_c a été marqué par un piège de Bipède.",
+                "reg_death": "m_c est mort des blessures causées par un piège de Bipède.",
+                "lead_death": "est mort des blessures causées par un piège de Bipède"
             }
         ]
     },
@@ -5779,7 +5779,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was maimed by r_c for questioning {PRONOUN\/r_c\/poss} leadership.",
+        "event_text": "m_c a été mutilé par r_c pour avoir remis en question le leadership de {PRONOUN\/r_c\/poss}.",
         "m_c": {
             "age": [
                 "senior",
@@ -5833,8 +5833,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was maimed by r_c for questioning {PRONOUN\/r_c\/poss} leadership.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after being maimed by r_c for questioning {PRONOUN\/r_c\/poss} leadership."
+                "scar": "m_c a été mutilé par r_c pour avoir remis en question le leadership de {PRONOUN\/r_c\/poss}.",
+                "reg_death": "m_c est mort de ses blessures après avoir été mutilé par r_c pour avoir remis en question le leadership de {PRONOUN\/r_c\/poss}."
             }
         ],
         "relationships": [
@@ -5864,7 +5864,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c's tail was badly injured by a dog.",
+        "event_text": "La queue de m_c a été gravement blessée par un chien.",
         "m_c": {
             "age": [
                 "senior",
@@ -5898,9 +5898,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a dog.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} hurt by a dog.",
-                "lead_death": "died from {PRONOUN\/m_c\/poss} wounds after being hurt by a dog"
+                "scar": "m_c a été marqué par un chien.",
+                "reg_death": "m_c est mort de ses blessures après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} blessé par un chien.",
+                "lead_death": "est mort de ses blessures après avoir été blessé par un chien"
             }
         ]
     },
@@ -5913,7 +5913,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c's tail was badly injured by a fox.",
+        "event_text": "La queue de m_c a été gravement blessée par un renard.",
         "m_c": {
             "age": [
                 "senior",
@@ -5944,9 +5944,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a fox.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} hurt by a fox.",
-                "lead_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after being hurt by a fox"
+                "scar": "m_c a été marqué par un renard.",
+                "reg_death": "m_c est mort de ses blessures après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} blessé par un renard.",
+                "lead_death": "m_c est mort de ses blessures après avoir été blessé par un renard"
             }
         ]
     },
@@ -5959,7 +5959,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was hurt by r_c for disobeying orders.",
+        "event_text": "m_c a été blessé par r_c pour avoir désobéi aux ordres.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -6008,8 +6008,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by r_c for disobeying orders.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after being hurt by r_c for disobeying {PRONOUN\/r_c\/object}."
+                "scar": "m_c a été marqué par r_c pour avoir désobéi aux ordres.",
+                "reg_death": "m_c est mort de ses blessures après avoir été blessé par r_c pour avoir désobéi à {PRONOUN\/r_c\/object}."
             }
         ],
         "relationships": [
@@ -6040,7 +6040,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c was hurt by r_c for speaking out against {PRONOUN\/r_c\/object}.",
+        "event_text": "m_c a été blessé par r_c pour avoir parlé contre {PRONOUN\/r_c\/object}.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -6088,8 +6088,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by r_c for speaking out against {PRONOUN\/r_c\/object}.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after being hurt by r_c for {PRONOUN\/m_c\/poss} dissent."
+                "scar": "m_c a été marqué par r_c pour avoir parlé contre {PRONOUN\/r_c\/object}.",
+                "reg_death": "m_c est mort de ses blessures après avoir été blessé par r_c pour sa dissidence."
             }
         ],
         "relationships": [
@@ -6120,7 +6120,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c was hurt by r_c to make an example out of {PRONOUN\/m_c\/object}.",
+        "event_text": "m_c a été blessé par r_c pour servir d'exemple aux autres {PRONOUN\/m_c\/object}.",
         "m_c": {
             "age": [
                 "any"
@@ -6166,8 +6166,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by r_c to make an example out of {PRONOUN\/m_c\/object}.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after being hurt by r_c to make an example out of {PRONOUN\/m_c\/object}."
+                "scar": "m_c a été marqué par r_c pour servir d'exemple aux autres {PRONOUN\/m_c\/object}.",
+                "reg_death": "m_c est mort de ses blessures après avoir été blessé par r_c pour servir d'exemple aux autres {PRONOUN\/m_c\/object}."
             }
         ],
         "relationships": [
@@ -6198,7 +6198,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was helping reinforce the camp walls when {PRONOUN\/m_c\/subject} got a thorn stuck in {PRONOUN\/m_c\/poss} paw.",
+        "event_text": "m_c aidait à renforcer les murs du camp lorsque {PRONOUN\/m_c\/subject} s'est planté une épine dans la patte.",
         "m_c": {
             "age": [
                 "senior",
@@ -6231,7 +6231,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was trying to fluff up {PRONOUN\/m_c\/poss} nest when {PRONOUN\/m_c\/subject} discovered that {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} the victim of a prank. Fox-dung! There's now a sharp thorn embedded in {PRONOUN\/m_c\/poss} paw.",
+        "event_text": "m_c essayait de rendre son nid plus confortable quand {PRONOUN\/m_c\/subject} a découvert qu'{PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} la victime d'une farce. Crottes de renard ! Il y a maintenant une épine pointue plantée dans la patte de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "age": [
                 "any"
@@ -6261,7 +6261,7 @@
             "newleaf"
         ],
         "frequency": 4,
-        "event_text": "m_c found a patch of flowering catmint! No one else is around, so {PRONOUN\/m_c\/subject} {VERB\/m_c\/bend\/bends} down and {VERB\/m_c\/take\/takes} a big bite-- Yowch! A bee! {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/come\/comes} home with a swollen face...",
+        "event_text": "m_c a trouvé un parterre de cataire en fleurs ! Personne d'autre n'est là, alors {PRONOUN\/m_c\/subject} {VERB\/m_c\/bend\/bends} la tête et {VERB\/m_c\/take\/takes} une grande bouchée... Aïe ! Une abeille ! {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/come\/comes} au camp avec le visage gonflé...",
         "m_c": {
             "age": [
                 "any"
@@ -6288,9 +6288,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c, unbelievably, was scarred when {PRONOUN\/m_c\/subject} tried to eat a bee.",
-                "reg_death": "m_c died from complications caused by a bee sting.",
-                "lead_death": "died from complications caused by a bee sting"
+                "scar": "m_c a été marqué, incroyable mais vrai, en essayant de manger une abeille.",
+                "reg_death": "m_c est mort de complications causées par une piqûre d'abeille.",
+                "lead_death": "est mort de complications causées par une piqûre d'abeille"
             }
         ]
     },
@@ -6303,7 +6303,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c accidentally crossed the border on patrol and got {PRONOUN\/m_c\/poss} ear torn by an enemy warrior.",
+        "event_text": "m_c a accidentellement franchi la frontière lors d'une patrouille et s'est fait déchirer l'oreille par un guerrier ennemi.",
         "m_c": {
             "age": [
                 "any"
@@ -6335,9 +6335,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c's ear was torn when {PRONOUN\/m_c\/subject} accidentally crossed the border and was caught by an enemy warrior.",
-                "reg_death": "m_c died to an injury from an enemy warrior.",
-                "lead_death": "succumbed to an injury from an enemy warrior"
+                "scar": "L'oreille de m_c a été déchirée lorsque {PRONOUN\/m_c\/subject} a accidentellement franchi la frontière et a été attrapé par un guerrier ennemi.",
+                "reg_death": "m_c est mort d'une blessure infligée par un guerrier ennemi.",
+                "lead_death": "a succombé à une blessure infligée par un guerrier ennemi"
             }
         ],
         "other_clan": {
@@ -6357,7 +6357,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c caught a cat from another Clan trespassing on their territory and {PRONOUN\/m_c\/poss} ear was torn in the ensuing scuffle.",
+        "event_text": "m_c a attrapé un chat d'un autre Clan en train de pénétrer sur son territoire et son oreille a été déchirée lors de la bagarre qui a suivi.",
         "m_c": {
             "age": [
                 "any"
@@ -6389,9 +6389,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c's ear was torn in a scuffle when {PRONOUN\/m_c\/subject} chased off an enemy warrior.",
-                "reg_death": "m_c died after an enemy warrior injured {PRONOUN\/m_c\/object}.",
-                "lead_death": "after being injured by an enemy warrior"
+                "scar": "L'oreille de m_c a été déchirée lors d'une bagarre quand {PRONOUN\/m_c\/subject} a chassé un guerrier ennemi.",
+                "reg_death": "m_c est mort après qu'un guerrier ennemi a blessé {PRONOUN\/m_c\/object}.",
+                "lead_death": "après avoir été blessé par un guerrier ennemi"
             }
         ],
         "other_clan": {
@@ -6411,7 +6411,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was attacked by a group of rats! {PRONOUN\/m_c\/subject\/CAP} managed to fight them off, but didn't escape unscathed.",
+        "event_text": "m_c a été attaqué par un groupe de rats ! {PRONOUN\/m_c\/subject\/CAP} a réussi à les repousser, mais n'en est pas sorti indemne.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -6440,9 +6440,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attacked by a group of rats.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attacked by a group of rats.",
-                "lead_death": "couldn't survive {PRONOUN\/m_c\/poss} injuries after {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attacked by a group of rats"
+                "scar": "m_c a été marqué lorsque {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attaqué par un groupe de rats.",
+                "reg_death": "m_c est mort de ses blessures après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attaqué par un groupe de rats.",
+                "lead_death": "n'a pas survécu à ses blessures après que {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} attaqué par un groupe de rats"
             }
         ]
     },
@@ -6456,7 +6456,7 @@
             "newleaf"
         ],
         "frequency": 4,
-        "event_text": "The day is so nice out today that m_c decided to sneak out of camp and go play in the flowers without anyone noticing. {PRONOUN\/m_c\/subject\/CAP} come back with a swollen paw, having stepped on a bee.",
+        "event_text": "Il fait si beau aujourd'hui que m_c a décidé de sortir du camp en cachette pour aller jouer dans les fleurs sans que personne ne le remarque. {PRONOUN\/m_c\/subject\/CAP} revient avec une patte enflée, après avoir marché sur une abeille.",
         "m_c": {
             "age": [
                 "kitten"
@@ -6480,8 +6480,8 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c, unbelievably, was scarred when {PRONOUN\/m_c\/subject} stepped on a bee.",
-                "reg_death": "m_c died from complications caused by a bee sting."
+                "scar": "Incroyable mais vrai, m_c a été marqué en marchant sur une abeille.",
+                "reg_death": "m_c est mort de complications causées par une piqûre d'abeille."
             }
         ]
     },
@@ -6495,7 +6495,7 @@
             "newleaf"
         ],
         "frequency": 4,
-        "event_text": "Camp was supposed to be safe, but m_c found bees trying to form a hive in a corner of camp. Annoyed by their buzzing, m_c attacked them, and got swarmed by bees.",
+        "event_text": "Le camp était censé être sûr, mais m_c a trouvé des abeilles essayant de former une ruche dans un coin du camp. Agacé par leur bourdonnement, m_c les a attaquées et s'est fait attaquer par un essaim d'abeilles.",
         "m_c": {
             "age": [
                 "any"
@@ -6522,9 +6522,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred by a swarm of bees.",
-                "reg_death": "m_c died from complications caused by bee stings.",
-                "lead_death": "died from complications caused by bee stings"
+                "scar": "Incroyable mais vrai, m_c a été marqué par un essaim d'abeilles.",
+                "reg_death": "m_c est mort de complications causées par des piqûres d'abeilles.",
+                "lead_death": "est mort de complications causées par des piqûres d'abeilles"
             }
         ]
     },
@@ -6537,7 +6537,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c woke up with a mild headache, but went about {PRONOUN\/m_c\/poss} day anyway, trying to ignore the nagging pain.",
+        "event_text": "m_c s'est réveillé avec un léger mal de tête, mais a tout de même poursuivi sa journée, essayant d'ignorer la douleur persistante.",
         "m_c": {
             "age": [
                 "any"
@@ -6566,7 +6566,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c woke up with a splitting headache, and couldn't get out of {PRONOUN\/m_c\/poss} nest. {PRONOUN\/m_c\/subject\/CAP} spent the entire day curled up, trying to avoid light and noise so that the throbbing pain could subside.",
+        "event_text": "m_c s'est réveillé avec un mal de tête atroce, et n'a pas pu sortir de son nid. {PRONOUN\/m_c\/subject\/CAP} a passé toute la journée recroquevillé, essayant d'éviter la lumière et le bruit pour que la douleur lancinante s'atténue.",
         "m_c": {
             "age": [
                 "any"
@@ -6598,7 +6598,7 @@
             "war"
         ],
         "frequency": 1,
-        "event_text": "While patrolling the o_c_n borders, m_c stepped on a concealed pit trap set by what seemed to be o_c_n warriors. m_c freezes with shock as {PRONOUN\/m_c\/subject} {VERB\/m_c\/plunge\/plunges} into the depths of the trap. The other cats on the patrol flank {PRONOUN\/m_c\/object} as {PRONOUN\/m_c\/subject} {VERB\/m_c\/limp\/limps} back to the camp.",
+        "event_text": "En patrouillant près des frontières de o_c_n, m_c a marché sur un piège dissimulé, apparemment posé par des guerriers de o_c_n. m_c reste figé de stupeur alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/plunge\/plunges} dans la profondeur du piège. Les autres chats de la patrouille entourent {PRONOUN\/m_c\/object} tandis que {PRONOUN\/m_c\/subject} {VERB\/m_c\/limp\/limps} de retour au camp.",
         "m_c": {
             "age": [
                 "any"
@@ -6630,9 +6630,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after falling into a o_c_n trap.",
-                "reg_death": "m_c died after falling into a o_c_n trap.",
-                "lead_death": "died after falling into a o_c_n trap"
+                "scar": "m_c a été marqué après être tombé dans un piège de o_c_n.",
+                "reg_death": "m_c est mort après être tombé dans un piège de o_c_n.",
+                "lead_death": "est mort après être tombé dans un piège de o_c_n"
             }
         ],
         "other_clan": {
@@ -6654,7 +6654,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "During a skirmish with o_c_n, m_c took a blow meant for r_c.",
+        "event_text": "Lors d'une escarmouche avec o_c_n, m_c a encaissé un coup destiné à r_c.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -6701,9 +6701,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred in a fight against o_c_n.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a battle with o_c_n.",
-                "lead_death": "{PRONOUN\/m_c\/poss} wounded after a battle with o_c_n"
+                "scar": "m_c a été marqué lors d'un combat contre o_c_n.",
+                "reg_death": "m_c est mort des suites de ses blessures après une bataille contre o_c_n.",
+                "lead_death": "{PRONOUN\/m_c\/poss} blessé après une bataille contre o_c_n"
             }
         ],
         "relationships": [
@@ -6738,7 +6738,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was taking some prey from the fresh-kill pile only to find a horde of rats! {PRONOUN\/m_c\/subject\/CAP} called to r_c for help and together they fought off the rats, but not before being injured.",
+        "event_text": "m_c prenait une proie sur le tas de gibier frais lorsqu'{PRONOUN\/m_c\/subject} est tombé sur une horde de rats ! {PRONOUN\/m_c\/subject\/CAP} a appelé r_c à l'aide et ensemble ils ont repoussé les rats, mais pas sans être blessés.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -6773,9 +6773,9 @@
                     "m_c",
                     "r_c"
                 ],
-                "scar": "m_c {VERB\/m_c\/were\/was} hurt while defending the fresh-kill pile from rats.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after defending the fresh-kill pile from rats.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by rats while defending the fresh-kill pile"
+                "scar": "m_c a été blessé en défendant le tas de gibier frais contre des rats.",
+                "reg_death": "m_c est mort de ses blessures après avoir défendu le tas de gibier frais contre des rats.",
+                "lead_death": "a été tué par des rats en défendant le tas de gibier frais"
             }
         ],
         "supplies": [
@@ -6797,7 +6797,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was taking some prey from the fresh-kill pile only to find a horde of rats! While m_c managed to fight off every last rat, {PRONOUN\/m_c\/subject} got injured in the process.",
+        "event_text": "m_c prenait une proie sur le tas de gibier frais lorsqu'{PRONOUN\/m_c\/subject} est tombé sur une horde de rats ! Bien que m_c ait réussi à repousser tous les rats, {PRONOUN\/m_c\/subject} a été blessé dans la bagarre.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -6822,9 +6822,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c {VERB\/m_c\/were\/was} hurt while defending the fresh-kill pile from rats.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after defending the fresh-kill pile from rats.",
-                "lead_death": "{VERB\/m_c\/were\/was} killed by rats while defending the fresh-kill pile"
+                "scar": "m_c a été blessé en défendant le tas de gibier frais contre des rats.",
+                "reg_death": "m_c est mort de ses blessures après avoir défendu le tas de gibier frais contre des rats.",
+                "lead_death": "a été tué par des rats en défendant le tas de gibier frais"
             }
         ],
         "supplies": [
@@ -6852,7 +6852,7 @@
             "clan:medicine cat"
         ],
         "frequency": 2,
-        "event_text": "m_c was left badly hurt during a battle with o_c_n. Surprisingly, the o_c_n medicine cat cares for {PRONOUN\/m_c\/object} until {PRONOUN\/m_c\/poss} Clanmates get there.",
+        "event_text": "m_c a été gravement blessé lors d'une bataille contre o_c_n. Contre toute attente, le guérisseur de o_c_n prend soin de {PRONOUN\/m_c\/object} jusqu'à ce que les camarades de {PRONOUN\/m_c\/poss} arrivent.",
         "m_c": {
             "status": [
                 "warrior",
@@ -6886,9 +6886,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after a skirmish with a warring Clan.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a skirmish with a warring Clan.",
-                "lead_death": "died from wounds after a skirmish with a warring Clan"
+                "scar": "m_c a été marqué après une escarmouche avec un Clan en guerre.",
+                "reg_death": "m_c est mort de ses blessures après une escarmouche avec un Clan en guerre.",
+                "lead_death": "est mort de ses blessures après une escarmouche avec un Clan en guerre"
             }
         ],
         "other_clan": {
@@ -6910,7 +6910,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Having heard that o_c_n was running low on vital emergency herbs, m_c gathers up some excess stock and makes the trek. However, with a mouth full of leaves, m_c takes a claw to the face before {PRONOUN\/m_c\/subject} can explain {PRONOUN\/m_c\/poss} intentions.",
+        "event_text": "Ayant entendu dire que o_c_n manquait cruellement d'herbes d'urgence vitales, m_c rassemble un peu de stock en excès et fait le trajet. Cependant, la gueule pleine de feuilles, m_c reçoit un coup de griffe au visage avant que {PRONOUN\/m_c\/subject} ne puisse expliquer les intentions de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -6937,9 +6937,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after bringing herbs to a warring Clan.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after bringing herbs to a warring Clan.",
-                "lead_death": "died from wounds after bringing herbs to a warring Clan"
+                "scar": "m_c a été marqué après avoir apporté des herbes à un Clan en guerre.",
+                "reg_death": "m_c est mort de ses blessures après avoir apporté des herbes à un Clan en guerre.",
+                "lead_death": "est mort de ses blessures après avoir apporté des herbes à un Clan en guerre"
             }
         ],
         "supplies": [
@@ -6970,7 +6970,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Despite the Clan's alarmingly low stock of herbs, m_c brings what scant amount they have to o_c_n, having heard of their crisis. However, with a full mouth, m_c takes a claw to the face before {PRONOUN\/m_c\/subject} can explain {PRONOUN\/m_c\/poss} intentions.",
+        "event_text": "Malgré le stock d'herbes dangereusement bas du Clan, m_c apporte le peu qu'il reste à o_c_n, ayant entendu parler de leur crise. Cependant, la gueule pleine, m_c reçoit un coup de griffe au visage avant que {PRONOUN\/m_c\/subject} ne puisse expliquer les intentions de {PRONOUN\/m_c\/poss}.",
         "m_c": {
             "status": [
                 "medicine cat"
@@ -6997,9 +6997,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after bringing herbs to a warring Clan.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after bringing herbs to a warring Clan.",
-                "lead_death": "died from wounds after bringing herbs to a warring Clan"
+                "scar": "m_c a été marqué après avoir apporté des herbes à un Clan en guerre.",
+                "reg_death": "m_c est mort de ses blessures après avoir apporté des herbes à un Clan en guerre.",
+                "lead_death": "est mort de ses blessures après avoir apporté des herbes à un Clan en guerre"
             }
         ],
         "supplies": [
@@ -7030,7 +7030,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c gazes fearfully up at the o_c_n warrior, whose teeth are bared and ready to deliver the killing blow. Something in {PRONOUN\/m_c\/poss} eyes must have shaken them, however, as they bound away without finishing the job.",
+        "event_text": "m_c regarde avec effroi le guerrier de o_c_n, les crocs découverts, prêt à porter le coup fatal. Pourtant, quelque chose dans les yeux de {PRONOUN\/m_c\/poss} semble l'avoir troublé, car il s'éloigne sans achever son geste.",
         "m_c": {
             "status": [
                 "any"
@@ -7059,9 +7059,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after a vicious attack from a warring Clan.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after a vicious attack from a warring Clan.",
-                "lead_death": "died from wounds after an attack from a warring Clan"
+                "scar": "m_c a été marqué après une attaque vicieuse d'un Clan en guerre.",
+                "reg_death": "m_c est mort de ses blessures après une attaque vicieuse d'un Clan en guerre.",
+                "lead_death": "est mort de ses blessures après une attaque d'un Clan en guerre"
             }
         ],
         "other_clan": {
@@ -7080,7 +7080,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c acts without thinking, saving the life of a o_c_n warrior by chasing off the predator attempting to make them their lunch.",
+        "event_text": "m_c agit sans réfléchir et sauve la vie d'un guerrier de o_c_n en chassant le prédateur qui tentait d'en faire son repas.",
         "m_c": {
             "status": [
                 "warrior",
@@ -7116,9 +7116,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c was scarred after protecting an enemy warrior.",
-                "reg_death": "m_c died from {PRONOUN\/m_c\/poss} wounds after protecting an enemy warrior.",
-                "lead_death": "died from wounds after protecting an enemy warrior"
+                "scar": "m_c a été marqué après avoir protégé un guerrier ennemi.",
+                "reg_death": "m_c est mort de ses blessures après avoir protégé un guerrier ennemi.",
+                "lead_death": "est mort de ses blessures après avoir protégé un guerrier ennemi"
             }
         ]
     },
@@ -7134,7 +7134,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c was running around on patrol when {PRONOUN\/m_c\/poss} paw landed right in a rabbit hole. {PRONOUN\/m_c\/subject\/CAP} limped the whole way home.",
+        "event_text": "m_c courait partout lors d'une patrouille quand sa patte est tombée directement dans un terrier de lapin. {PRONOUN\/m_c\/subject\/CAP} a boité tout le chemin du retour.",
         "m_c": {
             "status": [
                 "apprentice",
@@ -7178,7 +7178,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "A o_c_n warrior nearly fell from a cliff during a border skirmish. m_c pulled {PRONOUN\/m_c\/poss} enemy back up from certain death, despite {PRONOUN\/m_c\/poss} battle injuries.",
+        "event_text": "Un guerrier de o_c_n a failli tomber d'une falaise lors d'une escarmouche à la frontière. Malgré ses blessures, m_c a tiré son ennemi vers le haut, lui sauvant la vie.",
         "m_c": {
             "status": [
                 "warrior",
@@ -7220,9 +7220,9 @@
                 "cats": [
                     "m_c"
                 ],
-                "scar": "m_c gained a scar from a border skirmish.",
-                "reg_death": "m_c died to {PRONOUN\/m_c\/poss} injuries from a border skirmish.",
-                "lead_death": "died to {PRONOUN\/m_c\/poss} injuries from a border skirmish"
+                "scar": "m_c a été marqué lors d'une escarmouche à la frontière.",
+                "reg_death": "m_c est mort de ses blessures après une escarmouche à la frontière.",
+                "lead_death": "est mort de ses blessures après une escarmouche à la frontière"
             }
         ],
         "other_clan": {

@@ -10,7 +10,7 @@
             "leaf-fall"
         ],
         "weight": 20,
-        "event_text": "Whilst m_c was poking around in the undergrowth, {PRONOUN\/m_c\/subject} ran nose first into a stinging nettle plant - Ouch!",
+        "event_text": "Alors que m_c fouillait dans les broussailles, {PRONOUN\/m_c\/subject} s'est cogné le museau contre un plant d'ortie - Aïe !",
         "m_c": {
             "status": [
                 "apprentice",
@@ -31,7 +31,7 @@
             "leaf-fall"
         ],
         "weight": 20,
-        "event_text": "m_c keeps seeing prophecy_list_sight\/m_c in the water underpaw... {PRONOUN\/m_c\/subject\/CAP} continues wading forward with {PRONOUN\/m_c\/poss} mission, debating the vision.",
+        "event_text": "m_c continue de voir prophecy_list_sight\/m_c dans l'eau sous ses pattes... {PRONOUN\/m_c\/subject\/CAP} avance prudemment avec {PRONOUN\/m_c\/poss} mission, réfléchissant à la vision.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -53,7 +53,7 @@
             "leaf-fall"
         ],
         "weight": 20,
-        "event_text": "The things m_c saw in the ripples of the marsh today, omen_list_sight\/m_c... {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/consider\/considers} what these omens may foretell.",
+        "event_text": "Ce que m_c a vu dans les ondulations du marais aujourd'hui, omen_list_sight\/m_c... {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/consider\/considers} ce que ces présages pourraient annoncer.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -75,7 +75,7 @@
             "leaf-fall"
         ],
         "weight": 10,
-        "event_text": "m_c took a walk out in the territory and saw a large blue heron fly close overhead! How lucky!",
+        "event_text": "m_c s'est promené dans le territoire et a vu un grand héron bleu voler tout près ! Quelle chance !",
         "m_c": {
             "age": [
                 "adolescent",

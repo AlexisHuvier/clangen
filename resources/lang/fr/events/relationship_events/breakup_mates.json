@@ -1,38 +1,38 @@
 {
     "had_fight": [
-        "m_c and r_c had a huge fight and broke up.",
-        "At the same spot in camp they announced their commitment to each other as mates, m_c and r_c announce their break up, looking coldly at each other with anger and hurt in their eyes.",
-        "m_c and r_c have been arguing with each other a lot as of late, making everyone uneasy around them. c_n is secretly relieved when they announce that they're no longer mates.",
-        "m_c and r_c had a huge fight in the middle of the clearing, exchanging hurtful words before calling off their relationship for good.",
-        "When a Clanmate asked m_c about r_c, m_c hissed angrily at them, saying {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} want to hear anything about that fox-heart again and they're no longer mates.",
-        "m_c and r_c had enough of each other's fox-dung after arguing about every little thing for the past moon now. m_c calls off their relationship."
+        "m_c et r_c ont eu une énorme dispute et se sont séparés.",
+        "Au même endroit du camp où ils avaient annoncé leur union, m_c et r_c annoncent leur rupture, se lançant des regards froids remplis de colère et de douleur.",
+        "m_c et r_c se disputaient beaucoup ces derniers temps, rendant tout le monde mal à l'aise autour d'eux. c_n est secrètement soulagé lorsqu'ils annoncent qu'ils ne sont plus compagnons.",
+        "m_c et r_c se sont violemment disputés au milieu de la clairière, échangeant des paroles blessantes avant de mettre fin à leur relation pour de bon.",
+        "Quand un camarade de Clan a demandé à m_c des nouvelles de r_c, m_c a feulé de colère, disant que {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} veut plus jamais entendre parler de ce cœur-de-renard et qu'ils ne sont plus compagnons.",
+        "m_c et r_c en ont eu assez des idioties de l'autre après s'être disputés pour tout et rien depuis une lune. m_c met fin à leur relation."
     ],
     "decided_to_be_friends": [
-        "m_c and r_c realized that they were better off as friends, so they decided to break up.",
-        "After thinking for some time, m_c told r_c that {PRONOUN\/m_c\/subject} now {VERB\/m_c\/see\/sees} {PRONOUN\/r_c\/object} as more like a close friend to {PRONOUN\/m_c\/object} than a mate. It turns out, r_c feels the same way, and they decide to remain close, but not together. As friends, not lovers.",
-        "m_c realizes that {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} have the mentality to keep a romantic relationship right now. After a little talk with r_c, they have decided that they should just be friends, for now at least.",
-        "m_c feels like {PRONOUN\/m_c\/subject} {VERB\/m_c\/aren't\/isn't} a good fit for r_c anymore. After a talk with {PRONOUN\/r_c\/object}, they've decided to just be friends.",
-        "m_c isn't so sure about continuing a romantic relationship with r_c anymore. After a little talk, they have decided that they should just be friends.",
-        "m_c and r_c announced their break up today. But before their friends could offer sympathy, m_c and r_c reassure them that they left off on good terms and will still be good friends!"
+        "m_c et r_c ont réalisé qu'ils étaient mieux en tant qu'amis, alors ils ont décidé de se séparer.",
+        "Après réflexion, m_c a dit à r_c que {PRONOUN\/m_c\/subject} voit désormais {PRONOUN\/r_c\/object} plus comme un proche ami que comme un compagnon. Il s'avère que r_c ressent la même chose, et ils décident de rester proches, mais seulement comme amis.",
+        "m_c se rend compte que {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} a pas l'état d'esprit pour maintenir une relation amoureuse en ce moment. Après une petite discussion avec r_c, ils décident qu'ils devraient juste rester amis, au moins pour l'instant.",
+        "m_c sent que {PRONOUN\/m_c\/subject} {VERB\/m_c\/aren't\/isn't} plus fait pour r_c. Après une discussion avec {PRONOUN\/r_c\/object}, ils décident de rester simplement amis.",
+        "m_c n'est plus sûr de vouloir continuer une relation amoureuse avec r_c. Après une petite discussion, ils décident qu'ils devraient juste rester amis.",
+        "m_c et r_c ont annoncé leur rupture aujourd'hui. Mais avant que leurs amis puissent leur offrir leur soutien, m_c et r_c les rassurent : ils sont restés en bons termes et resteront de bons amis !"
     ],
     "lost_feelings": [
-        "m_c and r_c lost feelings for each other overtime - they broke up this moon.",
-        "m_c and r_c realized that they are a lot different from each other than they initially thought, the realization steers them away from the relationship they once had and they break up.",
-        "One day, m_c and r_c were crazy in love with each other. The next day, they're distant, refusing to talk to one another. The distance continues for a while, making it clear that they're no longer mates.",
-        "Things sadly just didn't work out the way m_c and r_c thought it would... with heaviness in their hearts, they have decided to break up.",
-        "Sometimes, good things must come to an end, m_c and r_c realize as they announce to the Clan that they\u2019re no longer mates.",
-        "m_c isn't so sure about continuing a romantic relationship with r_c anymore. After talking with {PRONOUN\/r_c\/object}, they decided to break up.",
-        "m_c realizes that {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} have the mentality to keep a romantic relationship right now. After a little talk with r_c, they have decided to break up."
+        "m_c et r_c ont perdu leurs sentiments l'un pour l'autre avec le temps - ils se sont séparés cette lune.",
+        "m_c et r_c ont réalisé qu'ils étaient bien plus différents qu'ils ne le pensaient au départ, cette prise de conscience les éloigne et ils se séparent.",
+        "Un jour, m_c et r_c étaient fous amoureux. Le lendemain, ils sont distants, refusant de se parler. Cette distance dure un moment, rendant évident qu'ils ne sont plus compagnons.",
+        "Malheureusement, les choses ne se sont pas passées comme m_c et r_c l'espéraient... le cœur lourd, ils ont décidé de se séparer.",
+        "Parfois, les bonnes choses doivent prendre fin, réalisent m_c et r_c en annonçant au Clan qu'ils ne sont plus compagnons.",
+        "m_c n'est plus sûr de vouloir continuer une relation amoureuse avec r_c. Après avoir parlé avec {PRONOUN\/r_c\/object}, ils décident de se séparer.",
+        "m_c se rend compte que {PRONOUN\/m_c\/subject} {VERB\/m_c\/don't\/doesn't} a pas l'état d'esprit pour maintenir une relation amoureuse en ce moment. Après une petite discussion avec r_c, ils décident de se séparer."
     ],
     "bad_breakup": [
-        "Out of the blue, m_c bluntly tells r_c that {PRONOUN\/m_c\/subject} {VERB\/m_c\/aren't\/isn't} interested in {PRONOUN\/r_c\/object} anymore, so {PRONOUN\/m_c\/subject} {VERB\/m_c\/call\/calls} off their relationship and r_c walks away heartbroken and confused.",
-        "Some relationships turn out good, some don't, but for m_c and r_c's relationship, things really didn't turn out so well. They've broken up.",
-        "Things have become tense and sour in m_c and r_c\u2019s relationship. They decided to break up before any fight breaks out between them.",
-        "r_c broke up with m_c and m_c has taken it very hard. {PRONOUN\/m_c\/subject\/CAP} seem to be avoiding r_c as much as possible."
+        "Sans prévenir, m_c annonce froidement à r_c que {PRONOUN\/m_c\/subject} {VERB\/m_c\/aren't\/isn't} plus intéressé(e) par {PRONOUN\/r_c\/object}, alors {PRONOUN\/m_c\/subject} {VERB\/m_c\/call\/calls} fin à leur relation et r_c s'en va, le cœur brisé et confus.",
+        "Certaines relations se passent bien, d'autres non, mais pour m_c et r_c, ça s'est vraiment mal terminé. Ils se sont séparés.",
+        "L'ambiance est devenue tendue et amère entre m_c et r_c. Ils ont décidé de se séparer avant qu'une dispute n'éclate.",
+        "r_c a rompu avec m_c et m_c l'a très mal pris. {PRONOUN\/m_c\/subject\/CAP} semble éviter r_c autant que possible."
     ],
     "chill_breakup": [
-        "m_c and r_c broke up.",
-        "m_c and r_c have decided that they may not be the right fit for each other after all, they decide leave off on good terms and break up.",
-        "After explaining {PRONOUN\/m_c\/poss} feelings and thoughts to r_c, m_c broke up with {PRONOUN\/r_c\/object}, no hard feelings."
+        "m_c et r_c se sont séparés.",
+        "m_c et r_c ont décidé qu'ils n'étaient peut-être pas faits l'un pour l'autre après tout, ils se quittent en bons termes.",
+        "Après avoir expliqué ses sentiments et pensées à r_c, m_c a rompu avec {PRONOUN\/r_c\/object}, sans rancune."
     ]
 }

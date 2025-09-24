@@ -14,7 +14,7 @@
             "clan:apprentice"
         ],
         "frequency": 4,
-        "event_text": "The apprentices are learning how to weaponize stones and boulders in the mountainous landscape.",
+        "event_text": "Les apprentis apprennent à utiliser les pierres et les rochers comme armes dans le paysage montagneux.",
         "m_c": {
             "age": [
                 "any"
@@ -33,7 +33,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "As a storm rages across the mountain outside, m_c is tucked up in the medicine cat den, {PRONOUN\/m_c\/poss} sleep anything but restful. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} seeing flashes of prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} with a shiver, wondering what {PRONOUN\/m_c\/poss} dreams mean for the Clan.",
+        "event_text": "Alors qu'une tempête fait rage sur la montagne, m_c est blotti dans la tanière du guérisseur, son sommeil loin d'être paisible. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/keep\/keeps} voit des éclairs de prophecy_list_sight\/m_c. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} en frissonnant, se demandant ce que signifient ces rêves pour le Clan.",
         "m_c": {
             "age": [
                 "any"
@@ -56,7 +56,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The things {PRONOUN\/m_c\/subject} saw today, omen_list_sight\/m_c... m_c sits on an isolated mountain ledge, considering what the omens foretell.",
+        "event_text": "Ce que {PRONOUN\/m_c\/subject} a vu aujourd'hui, omen_list_sight\/m_c... m_c s'assoit sur un promontoire isolé, réfléchissant à ce que présagent les signes.",
         "m_c": {
             "age": [
                 "any"
@@ -82,7 +82,7 @@
             "clan:kitten"
         ],
         "frequency": 4,
-        "event_text": "Through the long, cold night, m_c brings the young cats of the Clan with {PRONOUN\/m_c\/object} down the tunnels. {PRONOUN\/m_c\/poss\/CAP} words paint an enchanting picture of the ancestors of c_n as {PRONOUN\/m_c\/subject} {VERB\/m_c\/point\/points} out the red pawprints of long dead heroes and villains, telling the Clan's triumphs and failures.",
+        "event_text": "Durant la longue nuit froide, m_c emmène les jeunes chats du Clan avec {PRONOUN\/m_c\/object} dans les tunnels. Les paroles de {PRONOUN\/m_c\/poss\/CAP} peignent un tableau enchanteur des ancêtres de c_n alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/point\/points} les empreintes rouges de héros et de méchants disparus, racontant les triomphes et échecs du Clan.",
         "m_c": {
             "age": [
                 "any"
@@ -108,7 +108,7 @@
             "accessory"
         ],
         "frequency": 1,
-        "event_text": "r_c found a little patch of acc_plural and decided to gift them to m_c.",
+        "event_text": "r_c a trouvé un petit parterre de acc_plural et a décidé de les offrir à m_c.",
         "new_accessory": [
             "POPPY",
             "ORANGE POPPY",
@@ -152,7 +152,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "m_c watched the sun set over the peaks, wondering at how the sky gleamed despite the war.",
+        "event_text": "m_c observe le soleil se coucher sur les sommets, se demandant comment le ciel peut briller malgré la guerre.",
         "m_c": {
             "status": [
                 "leader"

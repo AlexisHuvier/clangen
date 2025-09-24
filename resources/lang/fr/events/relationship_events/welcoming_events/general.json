@@ -2,23 +2,23 @@
     {
         "id": "gen1",
         "interactions": [
-            "m_c is welcoming r_c.",
-            "m_c sees r_c arrive in the Clan and {PRONOUN\/m_c\/subject} {VERB\/m_c\/offer\/offers} to show {PRONOUN\/r_c\/object} around.",
-            "m_c asks r_c if {PRONOUN\/r_c\/subject} could use some help getting introduced to the other Clan members."
+            "m_c accueille r_c.",
+            "m_c voit r_c arriver dans le Clan et {PRONOUN\/m_c\/subject} {VERB\/m_c\/offer\/offers} de faire visiter les environs à {PRONOUN\/r_c\/object}.",
+            "m_c demande à r_c si {PRONOUN\/r_c\/subject} a besoin d'aide pour rencontrer les autres membres du Clan."
         ]
     },
     {
         "id": "gen2",
         "interactions": [
-            "m_c offers r_c some feathers as a welcome gift that {PRONOUN\/r_c\/subject} can use to decorate {PRONOUN\/r_c\/poss} new nest.",
-            "m_c offers r_c some tips for building a new nest."
+            "m_c offre à r_c quelques plumes en cadeau de bienvenue que {PRONOUN\/r_c\/subject} pourra utiliser pour décorer {PRONOUN\/r_c\/poss} nouveau nid.",
+            "m_c donne à r_c quelques conseils pour construire un nouveau nid."
         ]
     },
     {
         "id": "gen_wander1",
         "new_cat_moons": "over_15",
         "interactions": [
-            "m_c asks r_c how it was to wander around."
+            "m_c demande à r_c comment c'était de voyager seul."
         ],
         "background": [
             "wandering_healer1"

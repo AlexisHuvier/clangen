@@ -73,7 +73,7 @@
             "tags": [],
             "lead_trait": [],
             "text": [
-                "m_c leaves to speak with the Dark Forest. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/shut\/shuts} {PRONOUN\/m_c\/poss} eyes and {VERB\/m_c\/are\/is} immediately surrounded by {PRONOUN\/m_c\/poss} loved ones, friends, and Clanmates who have passed on. Murk and shadows cling to their pelts like frost, and their eyes gleam dangerously as they greet the new leader."
+                "m_c part parler avec la Forêt Sombre. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/shut\/shuts} {PRONOUN\/m_c\/poss} yeux et {VERB\/m_c\/are\/is} immédiatement entouré(e) par {PRONOUN\/m_c\/poss} proches, amis et camarades de Clan disparus. La boue et les ombres s'accrochent à leur pelage comme le givre, et leurs yeux brillent dangereusement en saluant le nouveau chef."
             ]
         },
         "new_clan": {
@@ -82,7 +82,7 @@
             ],
             "lead_trait": [],
             "text": [
-                "As m_c dreams that night, {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} {PRONOUN\/m_c\/self} walking through darkness, mud and muck sticking to {PRONOUN\/m_c\/poss} paws. The world around {PRONOUN\/m_c\/object} is devoid of light, and bare branches claw at the empty sky above. A single, foreboding cat sits within a clearing."
+                "Alors que m_c rêve cette nuit-là, {PRONOUN\/m_c\/subject} {VERB\/m_c\/find\/finds} {PRONOUN\/m_c\/self} marchant dans l'obscurité, la boue et la fange collant à {PRONOUN\/m_c\/poss} pattes. Le monde autour de {PRONOUN\/m_c\/object} est dépourvu de lumière, et des branches nues griffent le ciel vide au-dessus. Un seul chat menaçant est assis au centre d'une clairière."
             ]
         },
         "bloodthirsty": {
@@ -91,12 +91,12 @@
                 "bloodthirsty"
             ],
             "text": [
-                "m_c leaves to speak with the Dark Forest. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/shut\/shuts} {PRONOUN\/m_c\/poss} eyes and {VERB\/m_c\/awaken\/awakens} under an oppressing darkness, devoid of the stars {PRONOUN\/m_c\/subject} left behind. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/turn\/turns} around to see a shadowy group of cats approaching, triumph in their eyes."
+                "m_c part parler avec la Forêt Sombre. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/shut\/shuts} {PRONOUN\/m_c\/poss} yeux et {VERB\/m_c\/awaken\/awakens} sous une obscurité oppressante, dépourvue des étoiles que {PRONOUN\/m_c\/subject} a laissées derrière. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/turn\/turns} pour voir un groupe d’ombres félines s’approcher, le triomphe brillant dans leurs yeux."
             ]
         }
     },
     "default_life": {
-        "text": "r_c stalks forward, eyes flashing. \"With this life, I grant you [virtue].\" {PRONOUN\/r_c\/subject} {VERB\/r_c\/meow\/meows}, before disappearing back into the darkness.",
+        "text": "r_c s'avance, les yeux brillants. « Avec cette vie, je t'accorde [virtue]. » {PRONOUN\/r_c\/subject} {VERB\/r_c\/meow\/meows}, avant de disparaître à nouveau dans l'obscurité.",
         "virtue": [
             "energy",
             "strength",
@@ -114,7 +114,7 @@
             "rank": [],
             "life_giving": [
                 {
-                    "text": "The cat stands and stalks towards m_c, circling {PRONOUN\/m_c\/object} as though a hunter appraising their next meal. \"You come here, ignorant to the lands you walk, expecting a gift? A boon? You'll all wallow here in the darkness with me one day,\" the cat's eyes pierce into m_c's pelt, \"You'll remember me as r_c, and you'll remember that I've granted you a life for [virtue]. And one day, we'll speak again.\"",
+                    "text": "Le chat se lève et s'avance vers m_c, tournant autour de {PRONOUN\/m_c\/object} comme un chasseur évaluant sa proie. « Tu viens ici, ignorant des terres sur lesquelles tu marches, en espérant un cadeau ? Une faveur ? Un jour, vous croupirez tous ici dans l'obscurité avec moi, » les yeux du chat transpercent le pelage de m_c, « Tu te souviendras de moi comme r_c, et tu te souviendras que je t'ai accordé une vie pour [virtue]. Et un jour, nous reparlerons. »",
                     "virtue": [
                         "strength unending",
                         "ruthless efficiency",
@@ -134,7 +134,7 @@
             "rank": [],
             "life_giving": [
                 {
-                    "text": "From the muck and mire the distorted shadows of long dead cats rise and loom. Red eyes pierce the haze and a choking hiss grates across the clearing, \"Kindly spirits' eyes have left you, so we come to grant your remaining lives. Do with them what you will,\" before the shadows are gone as quickly as they appeared.",
+                    "text": "Des ombres déformées de chats morts depuis longtemps émergent de la boue et de la fange. Des yeux rouges transpercent la brume et un sifflement étouffant résonne dans la clairière : « Les regards des esprits bienveillants t'ont abandonné, alors nous venons t'accorder tes vies restantes. Fais-en ce que tu veux. » Puis les ombres disparaissent aussi vite qu'elles sont apparues.",
                     "virtue": []
                 }
             ]
@@ -162,7 +162,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Despite looking quite out of place among the battle-hardened shadows, r_c still places {PRONOUN\/r_c\/poss} muzzle harshly against the new leader's head. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} a life for [virtue], hoping that {PRONOUN\/m_c\/subject} will remember {PRONOUN\/m_c\/poss} own kindness.",
+                    "text": "Bien que semblant bien déplacé parmi les ombres aguerries, r_c pose tout de même brutalement son museau contre la tête du nouveau chef. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} une vie pour [virtue], espérant que {PRONOUN\/m_c\/subject} se souviendra de sa propre gentillesse.",
                     "virtue": [
                         "affection",
                         "compassion",
@@ -204,7 +204,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c stalks up to the new leader, eyes burning with the increasingly familiar Dark Forest ferocity. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/touch\/touches} {PRONOUN\/r_c\/poss} nose to m_c's head, giving {PRONOUN\/m_c\/object} a life for [virtue]. m_c reels back with the emotion of the life that courses through {PRONOUN\/m_c\/object}.",
+                    "text": "r_c s'avance vers le nouveau chef, les yeux brûlant de la férocité désormais familière de la Forêt Sombre. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/touch\/touches} le bout de son museau contre la tête de m_c, accordant à {PRONOUN\/m_c\/object} une vie pour [virtue]. m_c recule, submergé(e) par l'émotion de la vie qui traverse {PRONOUN\/m_c\/object}.",
                     "virtue": [
                         "resilience",
                         "harsh judgement",

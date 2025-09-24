@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c wandered out of camp, only to come back with a stranger. After explaining how m_c saved {PRONOUN\/n_c:0\/poss} life, the new cat introduces {PRONOUN\/n_c:0\/self} as n_c:0, and asks to join c_n.",
+        "event_text": "m_c est parti·e hors du camp, pour revenir avec un·e inconnu·e. Après avoir expliqué comment m_c a sauvé la vie de {PRONOUN\/n_c:0\/poss}, le nouveau chat se présente comme n_c:0 et demande à rejoindre c_n.",
         "m_c": {
             "age": [
                 "young adult",
@@ -73,7 +73,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c comes back to camp with a sodden kit in {PRONOUN\/m_c\/poss} jaws, explaining that {PRONOUN\/m_c\/subject} spotted {PRONOUN\/n_c:0\/object} floundering in the water - no parents in sight - and couldn't just leave the little scrap to die.",
+        "event_text": "m_c revient au camp avec un chaton détrempé dans la gueule, expliquant que {PRONOUN\/m_c\/subject} a aperçu {PRONOUN\/n_c:0\/object} en train de se noyer dans l'eau - sans parents en vue - et ne pouvait pas laisser cette petite boule mourir.",
         "m_c": {
             "age": [
                 "young adult",
@@ -125,7 +125,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "After going for a walk, m_c returns to camp with a small kitten, explaining that {PRONOUN\/m_c\/subject} found {PRONOUN\/n_c:0\/object} abandoned, tucked away under a rocky ledge.",
+        "event_text": "Après une promenade, m_c revient au camp avec un petit chaton, expliquant que {PRONOUN\/m_c\/subject} a trouvé {PRONOUN\/n_c:0\/object} abandonné·e, caché·e sous un rebord rocheux.",
         "m_c": {
             "age": [
                 "young adult",

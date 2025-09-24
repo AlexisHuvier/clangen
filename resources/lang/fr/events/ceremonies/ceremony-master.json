@@ -303,5 +303,3089 @@
             "all_traits"
         ],
         "m_c se demande s'il/elle pourra s'en sortir sans mentor."
+    ],
+    "app_19": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "abandoned",
+            "all_traits"
+        ],
+        "m_c est tellement, tellement excité(e) d'avoir enfin un mentor, ce qui confirme {PRONOUN/m_c/object} comme membre du Clan. {PRONOUN/m_c/subject/CAP}{VERB/m_c/'re/'s} reconnaissant(e) d'être ici, vraiment... mais (mentor) ne pourra jamais remplacer le parent qui a confié {PRONOUN/m_c/object} à ce Clan, le parent qui aurait dû être là à scander {PRONOUN/m_c/poss} nom."
+    ],
+    "app_20": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "bloodthirsty",
+            "bold",
+            "daring",
+            "childish",
+            "cold",
+            "fierce",
+            "lonesome",
+            "shameless",
+            "sneaky",
+            "troublesome",
+            "vengeful",
+            "arrogant",
+            "grumpy",
+            "rebellious"
+        ],
+        "Alors que m_c touche le museau de (mentor), {PRONOUN/m_c/subject} {VERB/m_c/hope/hopes} que {PRONOUN/(mentor)/subject} sera un mentor cool qui ne donnera pas de tâches ennuyeuses. Tout sauf ramasser de la mousse ou enlever les tiques !"
+    ],
+    "app_21": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "bold",
+            "daring",
+            "fierce",
+            "playful",
+            "sincere"
+        ],
+        "(old_name) s'assoit fièrement devant le Clan, le cœur battant si fort que {PRONOUN/m_c/subject} {VERB/m_c/think/thinks} qu'il va exploser ! {PRONOUN/m_c/subject/CAP} touche le museau de (mentor) avec beaucoup d'enthousiasme, heureux(se) de commencer son apprentissage."
+    ],
+    "app_22": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate",
+            "loving",
+            "faithful",
+            "charismatic",
+            "loyal",
+            "nervous",
+            "responsible",
+            "righteous",
+            "strange",
+            "strict",
+            "wise",
+            "thoughtful"
+        ],
+        "À la surprise de (mentor), la première chose que fait m_c après sa cérémonie d'apprenti(e) est de ramasser de la mousse, juste pour s'assurer que tout le monde ait une litière fraîche."
+    ],
+    "app_23": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate",
+            "loving",
+            "faithful",
+            "ambitious",
+            "charismatic",
+            "loyal",
+            "responsible",
+            "righteous",
+            "strict",
+            "wise",
+            "thoughtful"
+        ],
+        "m_c touche le museau de (mentor) et espère que {PRONOUN/m_c/subject} pourra aller chasser en premier, pour s'assurer que le Clan soit nourri."
+    ],
+    "app_24": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate",
+            "loving",
+            "faithful",
+            "ambitious",
+            "calm",
+            "charismatic",
+            "confident",
+            "loyal",
+            "responsible",
+            "wise",
+            "cunning"
+        ],
+        "Désireux(se) d'apprendre les meilleures façons d'aider son Clan à prospérer, m_c touche le museau de (mentor) avec excitation."
+    ],
+    "app_25": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate",
+            "loving",
+            "faithful",
+            "charismatic",
+            "childish",
+            "playful",
+            "thoughtful",
+            "sincere"
+        ],
+        "m_c ronronne si fort que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} tremble en touchant le museau de (mentor)."
+    ],
+    "app_26": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate",
+            "loving",
+            "faithful",
+            "bold",
+            "daring",
+            "confident",
+            "fierce",
+            "loyal",
+            "righteous",
+            "wise",
+            "gloomy",
+            "sincere"
+        ],
+        "m_c jure silencieusement devant le Clan des Étoiles de faire de son mieux pour le Clan en touchant le museau de (mentor)."
+    ],
+    "app_27": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious",
+            "bloodthirsty",
+            "bold",
+            "daring",
+            "confident",
+            "fierce",
+            "loyal",
+            "righteous",
+            "troublesome",
+            "vengeful",
+            "thoughtful",
+            "arrogant",
+            "competitive",
+            "oblivious",
+            "flamboyant"
+        ],
+        "En touchant le museau de (mentor), {PRONOUN/m_c/subject} {VERB/m_c/hope/hopes} pouvoir faire quelque chose qui impressionnera vraiment le Clan dès le premier jour. Peut-être attraper un gros lapin ? Ou chasser un renard ! Voilà qui prouvera que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} le meilleur apprenti que le Clan ait jamais vu !"
+    ],
+    "app_28": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious",
+            "bloodthirsty",
+            "bold",
+            "daring",
+            "fierce",
+            "troublesome",
+            "vengeful",
+            "arrogant",
+            "competitive",
+            "grumpy"
+        ],
+        "m_c s'assoit avec excitation à côté de (mentor) à la fin de la réunion et espère que {PRONOUN/m_c/subject} commencera par quelque chose d'excitant comme l'entraînement au combat. {PRONOUN/m_c/poss/CAP} griffes le démangent déjà."
+    ],
+    "app_29": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious",
+            "calm",
+            "careful",
+            "cold",
+            "lonesome",
+            "compassionate",
+            "responsible",
+            "sneaky",
+            "strict",
+            "wise"
+        ],
+        "m_c touche le museau de son mentor, (mentor), l'air ennuyé et peu impressionné. Mais à l'intérieur, {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} fou de joie comme s'il/elle {VERB/m_c/were/was} encore un chaton !"
+    ],
+    "app_30": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious",
+            "shameless",
+            "troublesome",
+            "arrogant",
+            "competitive",
+            "grumpy",
+            "rebellious"
+        ],
+        "m_c a harcelé tout le monde pendant des lunes pour savoir quand {PRONOUN/m_c/subject} deviendrait enfin apprenti(e), et tout le monde est soulagé d'être enfin débarrassé des plaintes du jeune chat... Jusqu'à ce que {PRONOUN/m_c/subject} {VERB/m_c/start/starts} à demander quand {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} deviendra guerrier(ère) dès la fin de la réunion."
+    ],
+    "app_31": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "bold",
+            "daring",
+            "confident",
+            "strange",
+            "arrogant",
+            "rebellious"
+        ],
+        "Alors que son mentor va être choisi, m_c interrompt et annonce vouloir que (mentor) soit son mentor. {PRONOUN/m_c/subject/CAP} {VERB/m_c/stride/strides} vers l'avant avec confiance pour toucher le museau de (mentor) dès que c'est autorisé."
+    ],
+    "app_32": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "bold",
+            "daring",
+            "childish",
+            "playful",
+            "competitive",
+            "oblivious",
+            "flamboyant"
+        ],
+        "m_c n'arrive pas à croire que son apprentissage commence enfin ! Presque en trébuchant sur ses propres pattes, {PRONOUN/m_c/subject} {VERB/m_c/scurry/scurries} vers (mentor), touchant le museau de {PRONOUN/(mentor)/object} avec excitation."
+    ],
+    "app_33": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "insecure",
+            "nervous"
+        ],
+        "Tout juste nommé(e) apprenti(e), m_c ne peut s'empêcher de pousser un petit cri quand le nom de son mentor est annoncé. {PRONOUN/m_c/subject/CAP} {VERB/m_c/run/runs} les oreilles baissées, gêné(e), pour toucher le museau de (mentor)."
+    ],
+    "app_34": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le Clan se rassemble et encourage (old_name) à aller devant la foule. L'absence de chef n'est pas une excuse pour garder un chat de six lunes à la pouponnière. (old_name) est renommé(e) m_c, et le Clan vote pour faire de (mentor) son mentor."
+    ],
+    "app_35": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le Clan acclame le nouvel(le) apprenti(e), m_c. On lui permet de choisir son propre mentor : m_c choisit (mentor)."
+    ],
+    "app_36": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "La cérémonie d'apprenti(e) de m_c terminée, il reste à décider qui sera son mentor. (mentor) s'avance le premier, alors m_c touche le museau de {PRONOUN/(mentor)/object}."
+    ],
+    "app_37": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "alive1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Regardant avec fierté m_c être nommé(e) et confié(e) à (mentor) comme apprenti(e), p1 {VERB/p1/know/knows} que {PRONOUN/(mentor)/subject} {VERB/(mentor)/were/was} un bon choix."
+    ],
+    "app_38": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "alive1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) se plaint bruyamment alors que p1 l'attire pour lui faire une toilette rapide. {PRONOUN/m_c/subject/CAP} {VERB/m_c/manage/manages} à s'échapper et à se précipiter devant la foule pour sa cérémonie, où {PRONOUN/m_c/subject} {VERB/m_c/are/is} renommé(e) m_c et devient l'apprenti(e) de (mentor)."
+    ],
+    "app_39": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "alive1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Même si {PRONOUN/m_c/subject} {VERB/m_c/are/is} excité(e) de devenir enfin apprenti(e), il faut un peu d'encouragement de la part de p1 pour que (old_name) s'avance pour sa cérémonie. p1 regarde avec fierté alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} nommé(e) m_c et touche le museau de (mentor)."
+    ],
+    "app_40": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c espère que dead_par1 regarde depuis le Clan des Étoiles avec fierté alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) apprenti(e) de (mentor)."
+    ],
+    "app_41": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead1_parents",
+            "general_leader",
+            "clanborn",
+            "all_traits"
+        ],
+        "m_c aimerait pouvoir être plus heureux(se) d'être nommé(e) apprenti(e) en touchant le museau de (mentor), mais tout ce à quoi {PRONOUN/m_c/subject} pense, c'est à quel point {PRONOUN/m_c/subject} {VERB/m_c/wish/wishes} que dead_par1 soit encore là pour scander son nom avec le Clan."
+    ],
+    "app_42": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead1_parents",
+            "general_leader",
+            "clanborn",
+            "all_traits"
+        ],
+        "m_c essaie de garder un visage courageux alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} nommé(e) apprenti(e) de (mentor), mais {PRONOUN/m_c/subject} {VERB/m_c/keep/keeps} à jeter des regards vers la foule, comme pour chercher dead_par1 même en sachant que {PRONOUN/dead_par1/subject}{VERB/dead_par1/'re/'s} n'est plus là."
+    ],
+    "app_43": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c s'assoit à côté de son nouveau mentor (mentor) à la fin de la réunion. {PRONOUN/m_c/poss/CAP} griffes s'enfoncent dans le sol alors que {PRONOUN/m_c/subject} {VERB/m_c/glare/glares} vers le ciel, se demandant pourquoi dead_par1 ne peut pas être là avec {PRONOUN/m_c/object} à un moment si important."
+    ],
+    "app_44": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c sourit aux étoiles en s'asseyant à côté de (mentor). Les étoiles semblent briller plus fort en réponse : m_c sait que c'est un signe que dead_par1 veille toujours sur {PRONOUN/m_c/object}."
+    ],
+    "app_45": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "En touchant le museau de son nouveau mentor (mentor), m_c fait une promesse silencieuse à dead_par1 de le/la rendre fier(e) et de prendre soin du Clan en l'absence de {PRONOUN/dead_par1/poss}."
+    ],
+    "app_46": [
+        [
+            "apprentice",
+            "general_mentor",
+            "alive2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) court devant la foule, impatient(e) de recevoir son nouveau nom. Quand {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} appelé(e) m_c pour la première fois, les voix de p1 et p2 résonnent plus fort que toutes les autres pour accueillir le nouvel(le) apprenti(e)."
+    ],
+    "app_47": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c espère que dead_par1 et dead_par2 regardent depuis le Clan des Étoiles avec fierté alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) apprenti(e) de (mentor)."
+    ],
+    "app_48": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "clanborn",
+            "all_traits"
+        ],
+        "m_c aimerait pouvoir être plus heureux(se) d'être nommé(e) apprenti(e) en touchant le museau de (mentor), mais tout ce à quoi {PRONOUN/m_c/subject} pense, c'est à quel point {PRONOUN/m_c/subject} {VERB/m_c/wish/wishes} que dead_par1 et dead_par2 soient encore là pour scander son nom avec le Clan."
+    ],
+    "app_49": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "clanborn",
+            "all_traits"
+        ],
+        "m_c essaie de garder un visage courageux alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} nommé(e) apprenti(e) de (mentor), mais {PRONOUN/m_c/subject} {VERB/m_c/keep/keeps} à jeter des regards vers la foule, comme pour chercher dead_par1 et dead_par2 même en sachant qu'ils ne sont plus là."
+    ],
+    "app_50": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c s'assoit à côté de son nouveau mentor (mentor) à la fin de la réunion. {PRONOUN/m_c/poss/CAP} griffes s'enfoncent dans le sol alors que {PRONOUN/m_c/subject} {VERB/m_c/glare/glares} vers le ciel, se demandant pourquoi dead_par1 et dead_par2 ne peuvent pas être là avec {PRONOUN/m_c/object} à un moment si important."
+    ],
+    "app_51": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c sourit aux étoiles en s'asseyant à côté de (mentor). Les étoiles semblent briller plus fort en réponse : m_c sait que c'est un signe que dead_par1 et dead_par2 veillent toujours sur {PRONOUN/m_c/object}."
+    ],
+    "app_52": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "yes_leader_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "En touchant le museau de son nouveau mentor (mentor), m_c fait une promesse silencieuse à dead_par1 et dead_par2 de les rendre fiers et de prendre soin du Clan en l'absence de ses parents."
+    ],
+    "app_53": [
+        [
+            "apprentice",
+            "yes_leader_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(mentor) convoque une réunion. {PRONOUN/(mentor)/subject/CAP} {VERB/(mentor)/have/has} observé (old_name) depuis un moment et {VERB/(mentor)/have/has} décidé de le/la prendre comme apprenti(e) personnellement. Les yeux de m_c brillent de fierté."
+    ],
+    "app_54": [
+        [
+            "apprentice",
+            "yes_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "ambitious",
+            "daring",
+            "arrogant"
+        ],
+        "(old_name) a toujours rêvé d'être le héros de son Clan, un guerrier admiré de tous. En touchant le museau de m_c, (mentor) espère que {PRONOUN/m_c/subject} {VERB/m_c/are/is} restera prudent(e) face aux dangers du territoire et ne mettra pas {PRONOUN/m_c/self} en danger."
+    ],
+    "med_app_0": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name), comme tous les jeunes chatons, rêvait de devenir guerrier dès son plus jeune âge. Cependant, en grandissant, {PRONOUN/m_c/subject} a compris que sa destinée était dans la tanière du guérisseur. {PRONOUN/m_c/subject/CAP} {VERB/m_c/take/takes} avec joie sa nouvelle place d'apprenti guérisseur, impatient(e) de soigner ses camarades pour de nombreuses lunes à venir."
+    ],
+    "med_app_1": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a décidé que chasser et se battre n'est pas la façon dont {PRONOUN/m_c/subject} {VERB/m_c/want/wants} aider son Clan. À la place, {PRONOUN/m_c/subject} {VERB/m_c/have/has} choisi de servir son Clan en soignant et en communiquant avec le Clan des Étoiles. (mentor) devient fièrement son mentor."
+    ],
+    "med_app_2": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Déjà intéressé(e) par les herbes dès son enfance, m_c est ravi(e) d'être l'apprenti(e) de (mentor)."
+    ],
+    "med_app_3": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Passionné(e) par les mythes et histoires racontés par les anciens et les reines, m_c décide de devenir apprenti(e) guérisseur, espérant un jour parler à ceux qui sont partis. (mentor) aime sa détermination et son envie d'apprendre, et accepte de prendre {PRONOUN/m_c/object} comme apprenti(e)."
+    ],
+    "med_app_4": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "L'idée même de se battre et de blesser un autre chat fait frissonner m_c. {PRONOUN/m_c/subject/CAP} {VERB/m_c/decide/decides} de soigner plutôt que de combattre, et (mentor) prend {PRONOUN/m_c/object} sous son aile."
+    ],
+    "med_app_5": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious",
+            "arrogant"
+        ],
+        "Voulant se démarquer parmi ses camarades, m_c décide de devenir guérisseur et devient l'apprenti(e) de (mentor)."
+    ],
+    "med_app_6": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "bloodthirsty"
+        ],
+        "Pour avoir accès à la fois aux herbes qui sauvent et à celles qui tuent, m_c décide de devenir guérisseur et devient l'apprenti(e) de (mentor)."
+    ],
+    "med_app_7": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "nervous",
+            "insecure",
+            "gloomy"
+        ],
+        "Craignant de ne pas être un bon chasseur ou combattant mais voulant tout de même rendre son Clan fier, m_c décide de devenir apprenti(e) guérisseur sous la tutelle de (mentor)."
+    ],
+    "med_app_8": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(mentor) se tient devant le Clan et annonce qu'{PRONOUN/(mentor)/subject} ne sera pas là pour toujours et qu'il est temps de prendre un(e) apprenti(e). {PRONOUN/(mentor)/subject/CAP} {VERB/(mentor)/tell/tells} au Clan qu'{PRONOUN/(mentor)/subject} {VERB/(mentor)/have/has} spécifiquement choisi (old_name), désormais m_c, comme nouvel(le) apprenti(e)."
+    ],
+    "med_app_9": [
+        [
+            "medicine cat apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(mentor) n'a aucun doute sur qui doit être son nouvel(le) apprenti(e). (old_name) a toujours cherché une excuse pour être dans la tanière du guérisseur, posant mille questions sur chaque herbe. Lorsque (mentor) annonce que le nouveau m_c sera son apprenti(e), {PRONOUN/(mentor)/subject} {VERB/(mentor)/see/sees} les yeux de m_c briller de joie et d'excitation. (mentor) sait qu'{PRONOUN/(mentor)/subject} {VERB/(mentor)/were/was} fait le bon choix."
+    ],
+    "med_app_10": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Nommé(e) nouvel(le) apprenti(e) guérisseur, m_c apprend l'art de soigner grâce à la guidance du Clan des Étoiles."
+    ],
+    "med_app_11": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le Clan des Étoiles parle : le nouvel(le) apprenti(e) guérisseur sera m_c. m_c n'est pas sûr(e) d'être prêt(e) pour ce rôle sans mentor, mais les étoiles promettent de le/la guider."
+    ],
+    "med_app_12": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le Clan a besoin d'un nouveau guérisseur et m_c est choisi(e) pour ce rôle. m_c est stupéfait(e) d'avoir été choisi(e) mais {VERB/m_c/agree/agrees} quand même, sachant à quel point le Clan a besoin d'un guérisseur."
+    ],
+    "med_app_13": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a décidé que chasser et se battre n'est pas la façon dont {PRONOUN/m_c/subject} {VERB/m_c/want/wants} aider son Clan. À la place, {PRONOUN/m_c/subject} {VERB/m_c/have/has} choisi de servir son Clan en soignant et en communiquant avec le Clan des Étoiles – qui formera {PRONOUN/m_c/object} en l'absence d'un vrai mentor."
+    ],
+    "med_app_14": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Déjà passionné(e) par les herbes dès son enfance, m_c est ravi(e) d'être nommé(e) nouvel(le) apprenti(e) guérisseur et d'apprendre à soigner grâce à ceux qui l'ont précédé(e)."
+    ],
+    "med_app_15": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "L'idée même de se battre et de blesser un autre chat fait frissonner m_c. Sachant que le Clan a besoin d'un guérisseur, {PRONOUN/m_c/subject} {VERB/m_c/seize/seizes} l'occasion de faire le bien sans blesser les autres. {PRONOUN/m_c/subject/CAP} {VERB/m_c/take/takes} le rôle d'apprenti(e) guérisseur."
+    ],
+    "med_app_16": [
+        [
+            "medicine cat apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Sachant que le Clan a désespérément besoin d'un guérisseur et voulant se démarquer, m_c annonce en pleine assemblée que {PRONOUN/m_c/subject} {VERB/m_c/want/wants} devenir le/la nouvel(le) apprenti(e) guérisseur."
+    ],
+    "med_app_17": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c décide de devenir apprenti(e) guérisseur dans l'espoir de revoir dead_par1 au Clan des Étoiles."
+    ],
+    "med_app_18": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "En tant que nouvel(le) apprenti(e) guérisseur, m_c rêve du Clan des Étoiles pour la première fois. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} accueilli(e) par de nombreux chats du Clan des Étoiles, dont dead_par1, qui regarde avec fierté alors que les autres acceptent le/la nouvel(le) apprenti(e) guérisseur."
+    ],
+    "med_app_19": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c décide de devenir apprenti(e) guérisseur dans l'espoir de revoir dead_par1 et dead_par2 au Clan des Étoiles."
+    ],
+    "med_app_20": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "En tant que nouvel(le) apprenti(e) guérisseur, m_c rêve du Clan des Étoiles pour la première fois. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} accueilli(e) par de nombreux chats du Clan des Étoiles, dont dead_par1 et dead_par2, qui regardent avec fierté alors que les autres acceptent le/la nouvel(le) apprenti(e) guérisseur."
+    ],
+    "med_app_21": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "faithful"
+        ],
+        "m_c a toujours observé et s'est interrogé sur les mystères des étoiles depuis que {PRONOUN/m_c/subject} a ouvert les yeux. (mentor) lui promet qu'{PRONOUN/m_c/object} aura un jour sa place parmi elles en tant que guérisseur à part entière."
+    ],
+    "med_app_22": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "wise"
+        ],
+        "m_c ne voit aucune raison de salir ses griffes de sang, {PRONOUN/m_c/subject} {VERB/m_c/are/is} bien plus intéressé(e) par la connaissance et la sagesse qu'apporte la voie du guérisseur. (mentor) promet de lui enseigner tout ce qu'{PRONOUN/(mentor)/subject} {VERB/(mentor)/know/knows} et ils rejoignent la tanière du guérisseur juste après la cérémonie."
+    ],
+    "med_app_23": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "thoughtful"
+        ],
+        "m_c s'est toujours interrogé(e) sur les mystères de la vie et leur sens. (mentor) est impatient(e) de commencer à enseigner à {PRONOUN/m_c/object} ; {PRONOUN/m_c/subject} {VERB/m_c/sound/sounds} comme un(e) apprenti(e) idéal(e) !"
+    ],
+    "med_app_24": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "loving"
+        ],
+        "m_c n'a jamais été intéressé(e) par le combat et décide de consacrer sa vie à soigner et aider tous les chats de toutes les façons possibles. (mentor) est presque impressionné(e) en voyant la détermination et l'amour que m_c porte à tous ceux/celles qu'{PRONOUN/m_c/subject} {VERB/m_c/meet/meets} et est très fier(e) de devenir son mentor."
+    ],
+    "med_app_25": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "confident",
+            "arrogant",
+            "cunning",
+            "flamboyant",
+            "rebellious"
+        ],
+        "Après avoir touché le museau de (mentor), m_c {VERB/m_c/run/runs} immédiatement vers la tanière du guérisseur, se vantant qu'{PRONOUN/m_c/subject} sera le meilleur guérisseur que le Clan ait jamais vu."
+    ],
+    "med_app_26": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "bold",
+            "arrogant",
+            "rebellious"
+        ],
+        "Juste après sa cérémonie d'apprenti(e) guérisseur, m_c déclare qu'{PRONOUN/m_c/subject} n'hésitera pas à dire à (mentor) si {PRONOUN/(mentor)/subject}{VERB/(mentor)/'re/'s} agit comme un cervelle de souris. Tous les autres chats retiennent leur souffle en attendant la réaction de (mentor). Ils se détendent quand {PRONOUN/(mentor)/subject} se contente de rire et dit que m_c devra prouver qu'{PRONOUN/m_c/subject} {VERB/m_c/have/has} les compétences pour assumer ses paroles."
+    ],
+    "med_app_27": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "vengeful"
+        ],
+        "Même si m_c n'aime pas vraiment les autres chats, {PRONOUN/m_c/subject} {VERB/m_c/dislike/dislikes} encore plus le combat. {PRONOUN/m_c/subject/CAP} {VERB/m_c/prefer/prefers} une approche plus rusée, et être guérisseur lui en donne l'occasion. (mentor) prend {PRONOUN/m_c/object} comme apprenti(e), admirant sa langue acérée et l'éclat malin dans ses yeux."
+    ],
+    "med_app_28": [
+        [
+            "medicine cat apprentice",
+            "general_mentor",
+            "general_leader",
+            "general_backstory",
+            "adventurous"
+        ],
+        "m_c a toujours rêvé d'aventure et {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} que devenir apprenti(e) guérisseur sera la plus grande aventure de toutes. (mentor) accepte avec enthousiasme un(e) apprenti(e) aussi motivé(e)."
+    ],
+    "mediator_app_0": [
+        [
+            "mediator apprentice",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c décide de servir son Clan en tant que médiateur. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} ravi(e) de commencer son apprentissage."
+    ],
+    "mediator_app_1": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c se sent mal rien qu'à l'idée de se battre. {PRONOUN/m_c/subject/CAP} {VERB/m_c/decide/decides} de s'entraîner comme médiateur. (mentor) est nommé comme {PRONOUN/m_c/poss} mentor."
+    ],
+    "mediator_app_2": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c est fasciné(e) par la capacité de (mentor) à résoudre les conflits sans utiliser les griffes ou les crocs. (mentor) prend {PRONOUN/m_c/object} sous son aile – {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} clairement impatient(e) d'apprendre."
+    ],
+    "mediator_app_3": [
+        [
+            "mediator apprentice",
+            "no_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Plus que jamais, m_c réalise que le Clan a besoin d'un médiateur. {PRONOUN/m_c/subject/CAP} {VERB/m_c/decide/decides} de relever le défi."
+    ],
+    "mediator_app_4": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "thoughtful",
+            "compassionate"
+        ],
+        "Impressionné(e) par l'enthousiasme de m_c, (mentor) choisit m_c comme nouvel(le) apprenti(e) médiateur du Clan."
+    ],
+    "mediator_app_5": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "thoughtful",
+            "compassionate"
+        ],
+        "m_c a pris l'habitude de suivre (mentor) lors de ses tâches quotidiennes, fasciné(e) par la vie de médiateur. (mentor) est heureux(se) de former {PRONOUN/m_c/object}."
+    ],
+    "mediator_app_6": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a toujours voulu aider son Clan mais n'était pas doué(e) pour les plantes ou le combat : {PRONOUN/m_c/subject} a trouvé sa voie comme apprenti(e) médiateur sous la tutelle de (mentor), où m_c peut servir avec ses mots."
+    ],
+    "mediator_app_7": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Malgré ce choix étrange, m_c est déterminé(e) à devenir l'apprenti(e) de (mentor) : {PRONOUN/m_c/subject} {VERB/m_c/want/wants} aider le Clan par la parole et l'influence, pas par les griffes ou les crocs."
+    ],
+    "mediator_app_8": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Être apprenti(e) médiateur était tout ce que m_c pensait pouvoir faire : avec les conseils de (mentor), m_c espère pouvoir changer le Clan."
+    ],
+    "mediator_app_9": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c attendait ce moment depuis longtemps : {PRONOUN/m_c/subject} va enfin devenir apprenti(e) médiateur et être guidé(e) par (mentor) pour résoudre les problèmes du Clan – son unique but dans la vie."
+    ],
+    "mediator_app_10": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a toujours voulu aider ses camarades, mais ne voulait ni soigner ni se battre : {PRONOUN/m_c/subject} {VERB/m_c/chose/chooses} de devenir apprenti(e) médiateur, espérant que (mentor) pourra lui apprendre à résoudre les problèmes du Clan."
+    ],
+    "mediator_app_11": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) ne peut contenir l'énergie qui le/la traverse : {PRONOUN/m_c/subject} {VERB/m_c/are/is} officiellement sur le point de commencer sa formation de médiateur ! {PRONOUN/m_c/subject/CAP} {VERB/m_c/earn/earns} son nom d'apprenti(e), m_c, et sera guidé(e) par (mentor) dans son parcours."
+    ],
+    "mediator_app_12": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) se tient prêt(e) quand on l'appelle : {PRONOUN/m_c/subject} {VERB/m_c/know/knows} ce qu'{PRONOUN/m_c/subject} {VERB/m_c/want/wants} dans la vie – devenir médiateur. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c et confié(e) à (mentor) pour commencer sa formation."
+    ],
+    "mediator_app_13": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Sachant que le Clan avait besoin de quelqu'un pour régler les conflits, (old_name) a décidé de devenir apprenti(e) médiateur. {PRONOUN/m_c/subject/CAP} {VERB/m_c/earn/earns} son nom d'apprenti(e), m_c, et reçoit (mentor) comme mentor."
+    ],
+    "mediator_app_14": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) avait pris l'habitude de suivre (mentor) pendant ses tâches, posant des questions et écoutant. Ce n'est pas une surprise que {PRONOUN/m_c/subject} ait choisi de devenir apprenti(e) médiateur sous la tutelle de (mentor) après avoir reçu son nom d'apprenti(e) : m_c."
+    ],
+    "mediator_app_15": [
+        [
+            "mediator apprentice",
+            "yes_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) a toujours rêvé de devenir médiateur : maintenant que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} m_c, un(e) apprenti(e) formé(e) par (mentor), c'est un rêve qui devient réalité."
+    ],
+    "med_0": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) reçoit son nom complet de m_c et est accueilli(e) comme guérisseur(se) à part entière."
+    ],
+    "med_0_a": [
+        [
+            "medicine cat",
+            "unprepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) a eu du mal à apprendre les compétences de guérisseur(se), mais {PRONOUN/m_c/subject} {VERB/m_c/refuse/refuses} de s'entraîner comme guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} trop âgé(e) pour rester apprenti(e) et, alors que les autres guérisseurs regardent avec pitié, {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c à contrecœur."
+    ],
+    "med_0_b": [
+        [
+            "medicine cat",
+            "early",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) a montré des aptitudes et des compétences exceptionnelles durant son court apprentissage. Bien qu'il soit rare qu'un(e) apprenti(e) guérisseur(se) reçoive son nom si jeune, m_c mérite amplement cet honneur."
+    ],
+    "med_1": [
+        [
+            "medicine cat",
+            "prepared",
+            "dead_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Alors que (old_name) reçoit son nom complet de m_c et est accueilli(e) comme nouveau(elle) guérisseur(se) du Clan, {PRONOUN/m_c/subject} {VERB/m_c/look/looks} vers les étoiles et {VERB/m_c/hope/hopes} que (deadmentor) sera là avec le reste du Clan des Étoiles dans ses rêves."
+    ],
+    "med_2": [
+        [
+            "medicine cat",
+            "prepared",
+            "dead_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) n'arrive toujours pas à croire que son mentor n'est plus là. {PRONOUN/m_c/subject/CAP} {VERB/m_c/don't/doesn't} se sent prêt(e) à soigner le Clan, et refuse donc poliment de recevoir un nom pour l'instant. Cependant, lors de sa visite au Clan des Étoiles à la demi-lune, (deadmentor) apparaît à {PRONOUN/m_c/object} en rêve. {PRONOUN/(deadmentor)/subject/CAP} {VERB/(deadmentor)/assure/assures} (old_name) que {PRONOUN/m_c/subject}'ll s'en sortira sans {PRONOUN/(deadmentor)/object}, et que {PRONOUN/m_c/subject} {VERB/m_c/are/is} prêt(e) pour son nom complet. Posant son museau sur la tête de (old_name), (deadmentor) nomme {PRONOUN/m_c/object} m_c."
+    ],
+    "med_3": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Des murmures portés par le vent chatouillent les oreilles de (previous_mentor) alors que {PRONOUN/(previous_mentor)/subject} {VERB/(previous_mentor)/gaze/gazes} vers les étoiles, une voix résonnant doucement sur sa langue. Le Clan des Étoiles bénit m_c et l'accueille !"
+    ],
+    "med_4": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Sous la lumière douce des étoiles, (previous_mentor) donne à (old_name) son nom complet de m_c. Ils partagent le reste de la nuit avec le Clan des Étoiles, célébrant leur chance d'avoir un(e) nouveau(elle) guérisseur(se)."
+    ],
+    "med_5": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Inspiré(e) par l'énergie et le courage sans bornes de (old_name), (previous_mentor) nomme {PRONOUN/m_c/object} m_c et l'accueille comme guérisseur(se) à part entière."
+    ],
+    "med_6": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Ayant enfin terminé son apprentissage, le(la) nouveau(elle) guérisseur(se) m_c a l'impression qu'il y a encore tant à apprendre et s'inquiète de savoir si {PRONOUN/m_c/subject} {VERB/m_c/are/is} vraiment prêt(e). Avec des moustaches frémissantes, (previous_mentor) rassure {PRONOUN/m_c/object} que le Clan des Étoiles sera toujours là pour le(la) guider."
+    ],
+    "med_7_clan": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "clanborn",
+            "all_traits"
+        ],
+        "(previous_mentor) se souvient encore de (old_name) lorsqu'il(elle) n'était qu'un chaton dans la tanière du guérisseur, posant mille questions sur tout. (previous_mentor) rit avec tendresse alors que m_c demande pourquoi ce nouveau nom a été choisi, les yeux brillants et les moustaches frémissantes."
+    ],
+    "med_7_abandoned": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "abandoned",
+            "all_traits"
+        ],
+        "(previous_mentor) se souvient encore de (old_name) lorsqu'il(elle) n'était qu'un chaton dans la tanière du guérisseur, posant mille questions sur tout. (previous_mentor) rit avec tendresse alors que m_c demande pourquoi ce nouveau nom a été choisi, les yeux brillants et les moustaches frémissantes."
+    ],
+    "med_8": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) est emmené(e) pour parler avec le Clan des Étoiles. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c et {VERB/m_c/are/is} désormais guérisseur(se) à part entière du Clan."
+    ],
+    "med_9": [
+        [
+            "medicine cat",
+            "prepared",
+            "no_valid_previous_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le moment est venu pour (old_name) de recevoir son nom complet de guérisseur(se). (old_name) demande à l'un(e) des guérisseurs(ses) des autres Clans de le(la) nommer. Le(la) plus âgé(e) des guérisseurs(ses) s'avance et donne à (old_name) le nom de m_c."
+    ],
+    "med_10": [
+        [
+            "medicine cat",
+            "prepared",
+            "no_valid_previous_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Avec sa formation terminée, le Clan des Étoiles décide de permettre à (old_name) de choisir son propre nom. {PRONOUN/m_c/subject/CAP} {VERB/m_c/name/names} {PRONOUN/m_c/self} m_c, et {VERB/m_c/return/returns} au Clan le lendemain matin en tant que guérisseur(se) à part entière."
+    ],
+    "med_11": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous"
+        ],
+        "Peu importe les moqueries des apprentis guerriers, (old_name) savait la vérité. Il y a tant à voir et à faire en tant que guérisseur(se) à part entière et m_c a hâte de commencer, manquant presque de partir avant la fin de la cérémonie."
+    ],
+    "med_12": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "Aider les chats à guérir est ce que (old_name) fait de mieux. Son nom complet de m_c prouve au Clan que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} pleinement qualifié(e) pour cela, et que le Clan des Étoiles a accepté {PRONOUN/m_c/object}."
+    ],
+    "med_13": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "ambitious"
+        ],
+        "Alors que {PRONOUN/m_c/subject} {VERB/m_c/take/takes} ses premiers pas en tant que guérisseur(se) à part entière, (old_name) réfléchit en silence au fait que {PRONOUN/m_c/subject} occupe peut-être désormais la position la plus puissante du Clan, maintenant que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} m_c. Le Clan des Étoiles lui-même a accepté {PRONOUN/m_c/object}, parle à travers {PRONOUN/m_c/object}... et m_c s'en souviendra."
+    ],
+    "med_14": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "bloodthirsty"
+        ],
+        "Le Clan des Étoiles donne à {PRONOUN/m_c/object} la sagesse, son Clan lui donne la force. (old_name) utilisera ce pouvoir pour soigner ses guerriers après la bataille. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} maintenant m_c, et {VERB/m_c/swear/swears} de ne jamais reculer devant ce qui doit être fait."
+    ],
+    "med_15": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "bold",
+            "arrogant",
+            "rebellious"
+        ],
+        "(old_name) s'est peut-être disputé(e) avec presque tous les membres du Clan, mais savoir argumenter était une bénédiction en tant que guérisseur(se). m_c devra continuer à faire avaler des mélanges étranges à tout le monde, après tout. Le Clan des Étoiles observera {PRONOUN/m_c/object} avec fierté."
+    ],
+    "med_16": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "calm"
+        ],
+        "(old_name) a prouvé qu'{PRONOUN/m_c/subject} possède l'une des qualités les plus précieuses pour un guérisseur : garder la tête froide sous la pression. Les étoiles de la Toison Argentée scintillent de joie et d'acceptation alors que m_c reçoit son nom complet et ses devoirs de guérisseur(se)."
+    ],
+    "med_17": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "careful"
+        ],
+        "C'est l'attention aux détails de (old_name) qui lui vaut son nom de guérisseur(se) m_c. {PRONOUN/m_c/subject/CAP} servira le Clan longtemps et avec compétence, sans que personne ne doute des connaissances en herbes que {PRONOUN/m_c/subject}{VERB/m_c/'ve/'s} acquises au fil des lunes."
+    ],
+    "med_18": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "charismatic",
+            "flamboyant"
+        ],
+        "Le charme de (old_name) fait autant de bien à ses patients que ses compétences. {PRONOUN/m_c/subject/CAP} continuera de soigner par les mots et les herbes en tant que m_c, maintenant que {PRONOUN/m_c/subject} {VERB/m_c/are/is} guérisseur(se) à part entière de c_n."
+    ],
+    "med_19": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "childish",
+            "flamboyant"
+        ],
+        "Même si ses actions semblent légères, (old_name) a travaillé dur pour mériter son nom de m_c, et jure que {PRONOUN/m_c/subject}'ll protéger c_n en tant que guérisseur(se). {PRONOUN/m_c/subject/CAP} {VERB/m_c/start/starts} à rire juste après l'avoir dit, provoquant quelques ronronnements amusés chez les spectateurs, ici comme au Clan des Étoiles."
+    ],
+    "med_20": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "cold",
+            "gloomy"
+        ],
+        "Personne ne sait à quoi pense (old_name) lorsque {PRONOUN/m_c/subject} {VERB/m_c/receive/receives} son nom de guérisseur(se) m_c, seulement que ses yeux sont concentrés, clairs et aussi immuables que la glace. Personne ne doute que {PRONOUN/m_c/subject} sera à la hauteur des épreuves qui attendent tous les guérisseurs."
+    ],
+    "med_21": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "Les meilleurs guérisseurs ont autant de cœur que d'intelligence, et (old_name) prouve qu'{PRONOUN/m_c/subject} {VERB/m_c/have/has} les deux lorsqu'{PRONOUN/m_c/subject} {VERB/m_c/earn/earns} son nom de m_c, montrant qu'une patte douce fait autant de bien que la bonne herbe."
+    ],
+    "med_22": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "confident",
+            "arrogant",
+            "cunning",
+            "rebellious"
+        ],
+        "(old_name) est si sûr(e) de ses compétences de guérisseur(se) qu'{PRONOUN/m_c/subject} {VERB/m_c/ask/asks} à choisir son propre nom. Ce n'est peut-être pas traditionnel, mais personne ne trouve de nom plus adapté que celui que {PRONOUN/m_c/subject} s'est choisi, et m_c est chaleureusement accueilli(e) comme guérisseur(se) à part entière."
+    ],
+    "med_23": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "daring",
+            "rebellious"
+        ],
+        "Les méthodes de (old_name) sont peu conventionnelles, mais les résultats sont là. {PRONOUN/m_c/subject/CAP} {VERB/m_c/gain/gains} son nom de guérisseur(se) m_c, tandis que le(la) plus ancien(ne) guérisseur(se) des Clans le(la) met en garde de ne pas prendre trop de risques."
+    ],
+    "med_24": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "Il y a tant de souffrance à soulager dans c_n que (old_name) a décidé de tout guérir, quoi qu'il en coûte. Le Clan des Étoiles accepte sa passion et soutient {PRONOUN/m_c/object} avec le nom de m_c, espérant qu'il(elle) pourra alléger un peu le fardeau que m_c s'est imposé(e)."
+    ],
+    "med_25": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "faithful"
+        ],
+        "(old_name) a toujours su que le Clan des Étoiles veillait sur {PRONOUN/m_c/object} depuis le début de son apprentissage. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de sa foi. Ce soir plus que jamais, alors que {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} des pelages étoilés tournoyer autour de {PRONOUN/m_c/object} en murmurant son nouveau nom, {PRONOUN/m_c/subject} {VERB/m_c/know/knows} que le Clan des Étoiles guidera ses pas de guérisseur(se)."
+    ],
+    "med_26": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "fierce"
+        ],
+        "Pendant son apprentissage, (old_name) hésitait sur la meilleure façon de protéger c_n – par les crocs ou les remèdes – mais maintenant que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} m_c, {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} certain(e) d'avoir fait le bon choix. {PRONOUN/m_c/subject/CAP} continuera à s'entraîner à ce mouvement de combat... au cas où."
+    ],
+    "med_27": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "insecure",
+            "gloomy"
+        ],
+        "À l'approche de la fin de son apprentissage, (old_name) craint que le Clan des Étoiles ne l'accepte pas comme guérisseur(se) à part entière. Pourtant, la cérémonie se déroule sans accroc, et m_c est honoré(e) comme guérisseur(se) compétent(e)."
+    ],
+    "med_28": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "insecure",
+            "gloomy"
+        ],
+        "Même si le reste du Clan ne le comprend pas, (old_name) aime passer du temps seul(e) dans la tanière du guérisseur. En fait, maintenant que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} m_c, {PRONOUN/m_c/subject} a hâte d'y retourner – et de fuir le centre de l'attention."
+    ],
+    "med_29": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "insecure"
+        ],
+        "Soigner une entorse, réconforter un chaton meurtri, apaiser un ancien souffrant – tout cela donne un sens à la vie de (old_name) en tant que guérisseur(se). Le Clan des Étoiles honore son cœur attentionné avec le nom de m_c."
+    ],
+    "med_30": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "loyal"
+        ],
+        "c_n a élevé et pris soin de (old_name), et (old_name) ne souhaite rien de plus que de faire de même, prenant le nom de m_c comme guérisseur(se) à part entière. {PRONOUN/m_c/subject/CAP} pensera à prendre soin de c_n jusqu'au jour où {PRONOUN/m_c/subject} {VERB/m_c/depart/departs} pour le Clan des Étoiles, et peut-être même après."
+    ],
+    "med_31": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "nervous"
+        ],
+        "(old_name) connaît toutes les herbes, {PRONOUN/m_c/subject} {VERB/m_c/know/knows} comment soigner les morsures de rats, mais sûrement {PRONOUN/m_c/subject} {VERB/m_c/need/needs} encore apprendre ? Le Clan des Étoiles rassure {PRONOUN/m_c/object} : {PRONOUN/m_c/subject}'ll s'en sortira, et lui donne le nom de m_c en signe de confiance, même si m_c est persuadé(e) que c'est encore trop tôt."
+    ],
+    "med_32": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "C'est la capacité de (old_name) à écouter qui convainc les autres guérisseurs qu'il est temps de lui donner son nom de m_c. m_c les remercie avec gratitude et se recouche pour écouter le prochain chat parler."
+    ],
+    "med_33": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "playful"
+        ],
+        "Personne ne sait comment (old_name) a mis la patte dessus, mais {PRONOUN/m_c/subject} {VERB/m_c/manage/manages} à jouer avec un objet brillant de Bipède pendant toute la cérémonie. Quand on lui demande pourquoi, m_c répond qu'un de ses patients pourrait l'aimer, et qu'{PRONOUN/m_c/subject} voulait s'assurer que c'était sans danger."
+    ],
+    "med_34": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "responsible"
+        ],
+        "(old_name) assume toujours ses erreurs et fait tout pour les réparer, mais {PRONOUN/m_c/subject} {VERB/m_c/are/is} tout de même surpris(e) quand {PRONOUN/m_c/subject} {VERB/m_c/get/gets} son nom de guérisseur(se) m_c. {PRONOUN/m_c/subject/CAP} {VERB/m_c/promise/promises} de travailler deux fois plus pour en être digne."
+    ],
+    "med_35": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "righteous"
+        ],
+        "(old_name) adresse une prière silencieuse au Clan des Étoiles alors que {PRONOUN/m_c/subject} {VERB/m_c/receive/receives} son nom de guérisseur(se) m_c. Que le Clan des Étoiles protège {PRONOUN/m_c/object}, qu'il protège tout c_n, {PRONOUN/m_c/subject} {VERB/m_c/hope/hopes} recevoir encore des conseils dans les lunes à venir."
+    ],
+    "med_36": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "shameless",
+            "arrogant",
+            "grumpy",
+            "oblivious"
+        ],
+        "(old_name) annonce son nouveau nom de guérisseur(se) m_c en coupant la cérémonie en plein milieu, sans surprendre personne. Impossible de discuter avec m_c, alors les autres guérisseurs acclament {PRONOUN/m_c/object} en ronronnant d'amusement."
+    ],
+    "med_37": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "sneaky"
+        ],
+        "Les yeux de (old_name) brillent alors que {PRONOUN/m_c/subject} {VERB/m_c/get/gets} le nom de guérisseur(se) m_c. Personne ne semble remarquer que {PRONOUN/m_c/subject} {VERB/m_c/don't/didn't} accepter tous les vœux du serment : {PRONOUN/m_c/subject} ne fait que hocher la tête à certains et répondre à d'autres par un miaulement."
+    ],
+    "med_38": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "strange",
+            "oblivious"
+        ],
+        "Personne ne sait pourquoi (old_name) a apporté une boule de mousse à sa cérémonie de guérisseur(se). Le Clan des Étoiles lui accorde tout de même le nom de m_c, l'accueillant dans les mystères du Clan des Étoiles."
+    ],
+    "med_39": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "strict"
+        ],
+        "La posture de (old_name) est si raide qu'on pourrait l'utiliser pour renforcer les murs du camp. Même lorsque {PRONOUN/m_c/subject} {VERB/m_c/get/gets} son nom de guérisseur(se) m_c, {PRONOUN/m_c/subject} {VERB/m_c/don't/doesn't} se détend pas, et semble même se redresser encore plus."
+    ],
+    "med_40": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "thoughtful"
+        ],
+        "Même si c'est sa cérémonie de guérisseur(se), (old_name) ne pense qu'à ses camarades restés au camp. {PRONOUN/m_c/subject/CAP} {VERB/m_c/ask/asks} s'{PRONOUN/m_c/subject} peut rentrer plus tôt après avoir reçu son nom de m_c."
+    ],
+    "med_41": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "thoughtful"
+        ],
+        "Le Clan des Étoiles honore la façon dont (old_name) fait toujours de son mieux comme guérisseur(se), et lui donne le nom de m_c, sachant que m_c continuera à donner le meilleur de lui-même."
+    ],
+    "med_42": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "troublesome"
+        ],
+        "C'est un moment sérieux pour (old_name), sa cérémonie de guérisseur(se) ! Naturellement, {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} fait des blagues et se montre irrévérencieux(se) jusqu'à ce qu'{PRONOUN/m_c/subject} {VERB/m_c/get/gets} son nom de m_c, et ne se calme que pour réfléchir à une nouvelle plaisanterie."
+    ],
+    "med_43": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "vengeful"
+        ],
+        "Les autres guérisseurs prennent son calme pour de la sérénité, mais (old_name) n'est pas silencieux(se) parce qu'{PRONOUN/m_c/subject}{VERB/m_c/'re/'s} en paix, mais parce qu'{PRONOUN/m_c/subject} {VERB/m_c/are/is} en colère. Chaque remarque, chaque moquerie, chaque fois où {PRONOUN/m_c/subject} {VERB/m_c/were/was} traité(e) comme moins que rien, tout lui revient en tête. Maintenant que {PRONOUN/m_c/subject} {VERB/m_c/are/is} m_c, c_n ferait mieux de le(la) respecter, sinon il y aura des conséquences."
+    ],
+    "med_44": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "vengeful"
+        ],
+        "La formation de guérisseur(se) a toujours semblé naturelle à (old_name), plus comme un souvenir que comme un apprentissage : comme si {PRONOUN/m_c/subject} avait déjà fait cela auparavant. Lors de la cérémonie, {PRONOUN/m_c/subject} {VERB/m_c/ask/asks} à choisir son propre nom, et {VERB/m_c/choose/chooses} m_c. Ce nom lui semble juste."
+    ],
+    "med_45": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) est au bord des larmes en voyant dead_par1 sortir de la foule du Clan des Étoiles pour le(la) féliciter d'avoir terminé sa formation. dead_par1 pose son museau sur la tête de (old_name), nomme {PRONOUN/m_c/object} m_c, et l'accueille comme guérisseur(se) à part entière."
+    ],
+    "med_46": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Alors qu'un chat du Clan des Étoiles s'avance pour donner à (old_name) son nouveau nom de m_c, {PRONOUN/m_c/subject} {VERB/m_c/spot/spots} dead_par1 qui le(la) regarde fièrement parmi les chats étoilés."
+    ],
+    "med_47": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) est au bord des larmes en voyant dead_par1 et dead_par2 sortir de la foule pour le(la) féliciter d'avoir terminé sa formation. dead_par1 pose son museau sur la tête de (old_name), nomme {PRONOUN/m_c/object} m_c, et l'accueille comme guérisseur(se) à part entière."
+    ],
+    "med_48": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) est au bord des larmes en voyant dead_par1 et dead_par2 sortir de la foule étoilée pour le(la) féliciter d'avoir terminé sa formation. dead_par2 pose son museau sur la tête de (old_name), nomme {PRONOUN/m_c/object} m_c, et l'accueille comme guérisseur(se) à part entière."
+    ],
+    "med_50": [
+        [
+            "medicine cat",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Alors qu'un chat du Clan des Étoiles s'avance pour donner à (old_name) son nouveau nom de m_c, {PRONOUN/m_c/subject} {VERB/m_c/spot/spots} dead_par1 et dead_par2 qui le(la) regardent fièrement."
+    ],
+    "med_51": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) a attendu ce jour si longtemps ! Le cœur battant, {PRONOUN/m_c/subject} {VERB/m_c/listen/listens} attentivement alors que (previous_mentor) nomme {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "med_52": [
+        [
+            "medicine cat",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Inspiré(e) par le r_h de (old_name), (previous_mentor) nomme {PRONOUN/m_c/object} m_c et l'accueille comme guérisseur(se) à part entière."
+    ],
+    "warrior_0": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "c_n accueille m_c comme nouveau(elle) guerrier(ère), honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_0_a": [
+        [
+            "warrior",
+            "unprepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Bien que la formation de {PRONOUN/m_c/poss} ait été longue, (old_name) n'a pas réussi à maîtriser les compétences nécessaires d'un(e) guerrier(ère). Cependant, {PRONOUN/m_c/subject} {VERB/m_c/are/is} trop âgé(e) pour rester dans la tanière des apprentis. L'ambiance est tendue et gênante lorsque {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c et honoré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_0_b": [
+        [
+            "warrior",
+            "early",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) a excellé dans chaque tâche confiée à {PRONOUN/m_c/object}. Malgré son jeune âge, {PRONOUN/m_c/subject} {VERB/m_c/are/is} plus que prêt(e) à devenir guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c, honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_1": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "l_n convoque le Clan pour une assemblée et déclare que (old_name) devient guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} désormais appelé(e) m_c et {VERB/m_c/are/is} célébré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_2": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "l_n se tient au-dessus du Clan et proclame que (old_name) sera désormais connu(e) sous le nom de m_c, honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_3": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "l_n pose son museau sur la tête de m_c et déclare {PRONOUN/m_c/object} guerrier(ère) à part entière de c_n, honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_4": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "l_n a suivi les progrès de (old_name) pendant des lunes et estime qu'il est enfin temps pour {PRONOUN/m_c/object} de recevoir son nom de guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_5": [
+        [
+            "warrior",
+            "prepared",
+            "dead_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) se tient devant le chef. {PRONOUN/m_c/subject/CAP} devrait être plus heureux(se), mais alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} reçoit son nom de guerrier(ère), m_c en l'honneur de {PRONOUN/m_c/poss} r_h, {PRONOUN/m_c/subject} {VERB/m_c/jette/jette} un regard vers la foule. {PRONOUN/m_c/subject/CAP} {VERB/m_c/souhaite/souhaite} que (deadmentor) puisse être là pour voir {PRONOUN/m_c/object} maintenant."
+    ],
+    "warrior_6": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(previous_mentor) est assis(e) dans la foule, la poitrine gonflée de fierté alors que {PRONOUN/(previous_mentor)/subject} {VERB/(previous_mentor)/watch/watches} (old_name) être nommé(e) m_c et honoré(e) pour {PRONOUN/m_c/poss} r_h. {PRONOUN/(previous_mentor)/subject/CAP} {VERB/(previous_mentor)/consider/considers} {PRONOUN/(previous_mentor)/self} chanceux(se) d'avoir pu former un(e) jeune chat(te) aussi incroyable, et a hâte de voir le(la) guerrier(ère) que {PRONOUN/m_c/subject} {VERB/m_c/devient/devient}."
+    ],
+    "warrior_7": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(previous_mentor) donne un coup de museau amical à (old_name) lorsque le chef appelle le nom du jeune chat. {PRONOUN/(previous_mentor)/subject/CAP} {VERB/(previous_mentor)/watch/watches} avec fierté alors que (old_name) s'avance pour recevoir son nouveau nom, m_c, et {VERB/m_c/are/is} honoré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_8": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "adventurous",
+            "oblivious"
+        ],
+        "(old_name) s'assoit devant le Clan, impatient(e) de recevoir son nom, mais {PRONOUN/m_c/poss} esprit semble ailleurs, au-delà de l'horizon. {PRONOUN/m_c/subject/CAP} semble à peine prêter attention alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_9": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "l_n regarde (old_name) avec fierté. {PRONOUN/m_c/subject/CAP} {VERB/m_c/had/has} passé toute son apprentissage à aider le Clan, et {PRONOUN/m_c/subject} {VERB/m_c/are/is} donc nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_10": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "ambitious"
+        ],
+        "Les yeux de (old_name) brillent alors que {PRONOUN/m_c/subject} {VERB/m_c/regarde/regarde} l_n, se promettant en silence d'être un jour à sa place. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_11": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "bloodthirsty"
+        ],
+        "Bien que l'empressement de (old_name) à se battre ait parfois inquiété l_n, {PRONOUN/l_n/subject} {VERB/l_n/know/knows} que le Clan pourra compter sur le courage et les griffes acérées de (old_name) en cas de besoin. En l'honneur de {PRONOUN/m_c/poss} r_h, (old_name) reçoit le nom de m_c."
+    ],
+    "warrior_12": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "bold",
+            "arrogant",
+            "cunning"
+        ],
+        "(old_name) se tient droit(e) et bombe le torse alors que l_n annonce que {PRONOUN/m_c/subject} {VERB/m_c/are/is} prêt(e) pour son nom de guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_13": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "calm",
+            "cunning"
+        ],
+        "(old_name) s'assoit devant le Clan, les oreilles dressées et le regard calme alors que l_n s'adresse au Clan. {PRONOUN/m_c/subject/CAP} {VERB/m_c/baisse/baisse} la tête alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_14": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "careful"
+        ],
+        "(old_name) s'assoit sagement devant l_n alors que {PRONOUN/l_n/subject} {VERB/l_n/parle/parle} de la réussite de (old_name) à son évaluation. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_15": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "charismatic",
+            "flamboyant",
+            "rebellious"
+        ],
+        "(old_name) tient la tête haute alors que l_n annonce qu'il est temps pour {PRONOUN/m_c/object} de recevoir son nom de guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h, et le Clan explose en acclamations."
+    ],
+    "warrior_16": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "childish",
+            "oblivious"
+        ],
+        "(old_name) semble à peine prêter attention, absorbé(e) par une feuille qui vole. l_n doit répéter son nom plusieurs fois avant que {PRONOUN/m_c/subject} ne {VERB/m_c/prête/prête} attention assez longtemps pour faire son serment. Soupirant, le chef nomme {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_17": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "childish"
+        ],
+        "Bien que l_n ne soit pas certain(e) que (old_name) ait perdu ses manies enfantines ou son goût pour les farces, {PRONOUN/l_n/subject} {VERB/l_n/accueille/accueille} {PRONOUN/m_c/object} comme guerrier(ère) à part entière du Clan, nommant {PRONOUN/m_c/object} m_c pour sa légèreté et son r_h."
+    ],
+    "warrior_18": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "cold",
+            "grumpy",
+            "gloomy"
+        ],
+        "(old_name) reste complètement silencieux(se) alors que l_n nomme {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h. Avant que quiconque ne puisse féliciter {PRONOUN/m_c/object}, {PRONOUN/m_c/subject} {VERB/m_c/se retourne/se retourne} et {VERB/m_c/s'en va/s'en va} sans un mot pour faire sa veille silencieuse."
+    ],
+    "warrior_19": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "cold",
+            "cunning",
+            "gloomy"
+        ],
+        "(old_name) fixe l_n alors que {PRONOUN/l_n/subject} {VERB/l_n/speak/speaks}. l_n est sûr(e) que cela ne veut rien dire, mais le manque d'enthousiasme de (old_name) inquiète {PRONOUN/l_n/object}. Passant outre, l_n donne à {PRONOUN/m_c/object} le nom de m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_20": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "(old_name) était tellement occupé(e) à aider un autre chat que {PRONOUN/m_c/subject} {VERB/m_c/were/was} presque en retard à sa propre cérémonie de guerrier(ère). {PRONOUN/m_c/subject/CAP} {VERB/m_c/rush/rushes} pour s'asseoir, arrivant juste à temps. l_n regarde {PRONOUN/m_c/object} avec fierté alors que {PRONOUN/l_n/subject} {VERB/l_n/name/names} {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_21": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "compassionate",
+            "loving"
+        ],
+        "l_n a toujours pensé que (old_name) avait un cœur gentil, sachant que {PRONOUN/m_c/subject} {VERB/m_c/are/is} prêt(e) pour les temps de paix, mais ne sait pas comment ce cœur servira en temps de guerre. Néanmoins, {PRONOUN/l_n/subject} {VERB/l_n/name/names} {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_22": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "confident",
+            "arrogant"
+        ],
+        "(old_name) savoure toute l'attention alors que {PRONOUN/m_c/subject} {VERB/m_c/stand/stands} devant son Clan, impatient(e) de recevoir son nouveau nom. l_n donne à {PRONOUN/m_c/object} le nom de m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_23": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "daring",
+            "grumpy"
+        ],
+        "(old_name) regarde le chef avec fierté. {PRONOUN/m_c/subject/CAP} savait que tout ce travail acharné – prouver que {PRONOUN/m_c/subject} {VERB/m_c/were/was} le(la) meilleur(e) apprenti(e) du Clan – en valait la peine, même si cela lui a causé beaucoup d'ennuis. {PRONOUN/m_c/subject/CAP} {VERB/m_c/hold/holds} la tête haute alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_24": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "daring"
+        ],
+        "(old_name) s'assoit devant le Clan avec un air déterminé. l_n s'inquiète que le refus de {PRONOUN/m_c/poss} de reculer et sa tendance à foncer tête baissée dans le danger finissent mal pour {PRONOUN/m_c/object}, et espère que la veille de nuit changera cela. (old_name) est nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_25": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "(old_name) ronronne alors que {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} la joie et la fierté de ses camarades de Clan l'envahir. l_n regarde {PRONOUN/m_c/object} avec des yeux brillants de fierté alors que {PRONOUN/l_n/subject} {VERB/l_n/name/names} {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_26": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "faithful"
+        ],
+        "Les yeux de (old_name) brillent pendant que l_n parle de ses accomplissements. {PRONOUN/m_c/poss/CAP} regard n'est cependant pas fixé sur le chef, mais sur les étoiles qui brillent derrière {PRONOUN/l_n/object}. Alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c, {PRONOUN/m_c/subject} {VERB/m_c/wonder/wonders} si le Clan des Étoiles honore aussi {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_27": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "faithful"
+        ],
+        "Alors que l_n donne à (old_name) le nom de m_c, {PRONOUN/l_n/subject} {VERB/l_n/swear/swears} avoir vu quelques chats étoilés scander leur soutien parmi {PRONOUN/l_n/poss} autres camarades du Clan."
+    ],
+    "warrior_28": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "fierce",
+            "grumpy"
+        ],
+        "(old_name) s'assoit devant le chef, la queue fouettant d'impatience alors que {PRONOUN/m_c/subject} {VERB/m_c/await/awaits} son nom de guerrier(ère). {PRONOUN/m_c/subject/CAP}{VERB/m_c/'re/'s} pressé(e) que la cérémonie se termine pour pouvoir retourner travailler et protéger le Clan. Enfin, l_n regarde {PRONOUN/m_c/object} et nomme {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_29": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "insecure"
+        ],
+        "{PRONOUN/m_c/poss/CAP} formation est déjà terminée ? (old_name) n'est pas vraiment sûr(e) d'être aussi prêt(e) à devenir guerrier(ère) que le chef le prétend. La voix de {PRONOUN/m_c/subject} tremble lorsqu'{PRONOUN/m_c/subject} {VERB/m_c/take/takes} son serment. Alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} renommé(e) m_c, en l'honneur de {PRONOUN/m_c/poss} r_h, {PRONOUN/m_c/subject} ne peut s'empêcher de se demander si cela le(la) décrit vraiment."
+    ],
+    "warrior_30": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "lonesome",
+            "gloomy"
+        ],
+        "(old_name), désormais nommé(e) m_c pour {PRONOUN/m_c/poss} r_h, ne peut que remercier maladroitement ses camarades de Clan alors que {PRONOUN/m_c/subject} {VERB/m_c/weave/weaves} à travers la foule de chats ronronnants. Une fois la réunion terminée, {PRONOUN/m_c/subject} {VERB/m_c/slink/slinks} hors du camp pour être seul(e) un moment."
+    ],
+    "warrior_31": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "loving",
+            "sincere"
+        ],
+        "(old_name) est ravi(e) d'être enfin guerrier(ère). Après que l_n ait renommé {PRONOUN/m_c/object} et honoré {PRONOUN/m_c/poss} r_h, m_c frotte sa tête contre (previous_mentor), remerciant {PRONOUN/(previous_mentor)/object} pour {PRONOUN/(previous_mentor)/poss} guidance."
+    ],
+    "warrior_32": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "loyal"
+        ],
+        "(old_name) regarde ses camarades de Clan avec adoration pendant que l_n annonce que son nouveau nom sera m_c, en l'honneur de {PRONOUN/m_c/poss} r_h. m_c est heureux(se) d'être guerrier(ère) maintenant, mais surtout {PRONOUN/m_c/subject} veut juste célébrer avec son Clan, que ce soit pour {PRONOUN/m_c/object} ou non."
+    ],
+    "warrior_33": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "nervous"
+        ],
+        "(old_name) s'agite nerveusement alors que {PRONOUN/m_c/subject} {VERB/m_c/step/steps} devant le Clan. C'est un moment important, alors {PRONOUN/m_c/subject} {VERB/m_c/try/tries} de ne pas cacher son visage à la foule pendant que l_n donne à {PRONOUN/m_c/object} le nom de m_c en l'honneur de {PRONOUN/m_c/poss} r_h. {PRONOUN/m_c/subject/CAP} {VERB/m_c/scurry/scurries} rapidement dans la foule une fois la cérémonie terminée, espérant en silence que ce sera la dernière cérémonie que {PRONOUN/m_c/subject} {VERB/m_c/have/has} jamais."
+    ],
+    "warrior_34": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "nervous"
+        ],
+        "Alors que (old_name) s'approche nerveusement de son chef, l_n ne peut s'empêcher de penser que son hésitation pourrait lui coûter la vie au combat. Se ressaisissant, l_n donne à (old_name) le nom de m_c pour honorer {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_35": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "compassionate"
+        ],
+        "(old_name) reste impassible alors que l_n récite les longues paroles formelles de la cérémonie du guerrier. {PRONOUN/l_n/subject/CAP} {VERB/l_n/give/gives} à (old_name) le nom de m_c, honorant {PRONOUN/m_c/poss} r_h. m_c n'a aucune plainte à propos de la longue veille que {PRONOUN/m_c/subject} devra tenir cette nuit-là."
+    ],
+    "warrior_36": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "playful"
+        ],
+        "(old_name) bondit devant le Clan, plein(e) d'excitation. {PRONOUN/m_c/subject/CAP} {VERB/m_c/try/tries} de prendre cela un peu au sérieux, mais {PRONOUN/m_c/subject} {VERB/m_c/crack/cracks} quand même une blague sur quelque chose que dit le chef. l_n gronde doucement {PRONOUN/m_c/object} pour cela, mais ne peut s'empêcher de ronronner alors que {PRONOUN/l_n/subject} {VERB/l_n/name/names} {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_37": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "responsible"
+        ],
+        "(old_name) a fait preuve de plus de maturité que la plupart des chats de {PRONOUN/m_c/poss} âge, se portant toujours volontaire pour les pires corvées d'apprenti et comptant les proies dans la pile pour savoir combien il faut en attraper lors des patrouilles. l_n a été tenté(e) de faire de {PRONOUN/m_c/object} un(e) guerrier(ère) plus tôt, mais maintenant devra suffire. {PRONOUN/l_n/subject/CAP} {VERB/l_n/name/names} {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_38": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "righteous",
+            "sincere"
+        ],
+        "(old_name) se tient droit(e) devant le Clan, le regard déterminé alors que l_n déclare que {PRONOUN/m_c/subject} {VERB/m_c/are/is} prêt(e) pour son nom de guerrier(ère). (old_name) prend le serment très au sérieux et promet de toujours faire ce qui est le mieux pour tous. Fier(e), l_n nomme {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_39": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "shameless",
+            "sincere"
+        ],
+        "(old_name) est encore tout(e) ébouriffé(e) après s'être bagarré(e) avec quelqu'un et ne prend même pas la peine de se toiletter avant d'aller devant la foule. {PRONOUN/m_c/subject/CAP} {VERB/m_c/are/is} nommé(e) m_c et honoré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_40": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "sneaky"
+        ],
+        "(old_name) s'avance silencieusement avant de s'asseoir devant son chef. {PRONOUN/m_c/subject/CAP} {VERB/m_c/remain/remains} tout aussi discret(e) lorsqu'{PRONOUN/m_c/subject} s'avance pour que l_n nomme {PRONOUN/m_c/object} m_c et honore {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_41": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "strange"
+        ],
+        "(old_name) est presque en retard à sa cérémonie, ayant vérifié quelque chose pour une raison que personne ne connaît. l_n reste patient(e) alors que (old_name) s'assoit devant {PRONOUN/l_n/object}. l_n nomme {PRONOUN/m_c/object} m_c, honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_42": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "strict"
+        ],
+        "(old_name) grogne dans sa barbe alors que l_n change juste un mot dans la cérémonie. {PRONOUN/m_c/subject/CAP} {VERB/m_c/know/knows} qu'il ne faut pas corriger {PRONOUN/l_n/object} lors d'une cérémonie aussi importante, et {PRONOUN/m_c/subject} pourra en parler à l_n plus tard. Pour l'instant, {PRONOUN/m_c/subject} {VERB/m_c/listen/listens} alors qu'{PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c et honoré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_43": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "thoughtful"
+        ],
+        "l_n saute sur le promontoire pour découvrir que (old_name) y a installé de la mousse pour que l_n soit plus à l'aise pendant la longue cérémonie. Ronronnant, l_n donne à {PRONOUN/m_c/object} le nom de m_c pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_44": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "thoughtful",
+            "wise",
+            "cunning"
+        ],
+        "l_n se sent presque intimidé(e) par les connaissances que (old_name) a accumulées pendant ses lunes d'entraînement et se sent confiant(e) en nommant {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_45": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "troublesome",
+            "rebellious"
+        ],
+        "La tendance de (old_name) à provoquer ou à chercher des ennuis a presque poussé l_n à retarder sa nomination comme guerrier(ère). Cependant, l_n voit que (old_name) fait de vrais efforts pour se racheter, et il serait cruel de le(la) faire attendre plus longtemps. Ainsi, l_n nomme {PRONOUN/m_c/object} m_c en l'honneur de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_46": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "vengeful"
+        ],
+        "Alors que (old_name) prononce son serment et reçoit le nom de m_c en l'honneur de {PRONOUN/m_c/poss} r_h, {PRONOUN/m_c/poss} pensées sont moins tournées vers la protection du Clan que vers la certitude que quiconque lui fera du mal le paiera au centuple."
+    ],
+    "warrior_47": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "wise",
+            "cunning"
+        ],
+        "Les conseils de (old_name) ont aidé de nombreux chats durant son apprentissage. Même l_n a parfois demandé conseil à {PRONOUN/m_c/object}. l_n n'a aucun doute dans son esprit : (old_name) est prêt(e) à devenir guerrier(ère), et nomme {PRONOUN/m_c/object} m_c, honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_48": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "c_n se rassemble autour de (old_name) pour célébrer. Même sans chef, la vie continue, et (old_name) a prouvé que {PRONOUN/m_c/subject} {VERB/m_c/are/is} prêt(e) pour son nom de guerrier(ère). (old_name) peut choisir sa propre terminaison, et {PRONOUN/m_c/subject} {VERB/m_c/name/names} {PRONOUN/m_c/self} m_c. Le Clan acclame le(la) nouveau(elle) guerrier(ère), honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_49": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) s'assoit avec son Clan, ronronnant alors que {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} félicité(e) pour avoir terminé sa formation. Lorsqu'on lui propose de choisir son nom, cependant, (old_name) ne trouve pas vraiment de terminaison et demande des suggestions à ses camarades. Après avoir entendu quelques idées, (old_name) décide de s'appeler m_c. Le Clan acclame ce nouveau nom et honore {PRONOUN/m_c/object} pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_50": [
+        [
+            "warrior",
+            "prepared",
+            "dead_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Chef ou pas chef, c_n a besoin de guerriers, et (old_name) a travaillé incroyablement dur ces derniers temps. Le Clan est d'accord pour que {PRONOUN/m_c/subject} devienne guerrier(ère). Alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c, honorant {PRONOUN/m_c/poss} r_h, m_c aimerait que (deadmentor) soit là pour l'acclamer."
+    ],
+    "warrior_51": [
+        [
+            "warrior",
+            "prepared",
+            "dead_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Peu importe s'il n'y a pas de chef ; le Clan sait que (old_name) mérite son nom complet. Ils se rassemblent pour une cérémonie et nomment {PRONOUN/m_c/object} m_c, honorant {PRONOUN/m_c/poss} r_h. m_c est fier(e) de {PRONOUN/m_c/self}, même si une partie de {PRONOUN/m_c/object} aimerait que (deadmentor) soit encore là pour voir ce moment."
+    ],
+    "warrior_52": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Chef ou pas chef, c_n a besoin de guerriers, et (old_name) a travaillé incroyablement dur ces derniers temps. Le Clan se rassemble autour de l'apprenti(e), et (previous_mentor) est poussé(e) à l'avant pour avoir l'honneur de donner à {PRONOUN/m_c/object} son nom. Ronronnant de fierté pour son apprenti(e), (previous_mentor) pose son museau sur la tête de (old_name) et nomme {PRONOUN/m_c/object} m_c, honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_53": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "no_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "{PRONOUN/(previous_mentor)/subject/CAP} {VERB/(previous_mentor)/don't/doesn't} se soucie pas qu'il n'y ait pas de chef ; (previous_mentor) sait que (old_name) mérite son nom complet. {PRONOUN/(previous_mentor)/subject/CAP} {VERB/(previous_mentor)/gather/gathers} le Clan pour une cérémonie, nommant {PRONOUN/m_c/object} m_c et honorant {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_54": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "p1 a du mal à croire à quelle vitesse le temps a passé depuis que (old_name) était un chaton. C'est comme si hier encore {PRONOUN/m_c/subject} {VERB/m_c/were/was} en train de rouler dans la pouponnière, à courir après une boule de mousse ou la queue d'un autre chat. Les yeux embués de fierté et de joie, p1 lève la tête et tente d'acclamer plus fort que tous alors que (old_name) est nommé(e) m_c et honoré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_55": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive1_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Alors que le Clan acclame le(la) nouveau(elle) guerrier(ère), m_c, p1 ronronne bruyamment. Son petit est enfin guerrier(ère) ! Une nouvelle aventure commence pour m_c, et p1 sait que le r_h de m_c le(la) guidera à travers tout."
+    ],
+    "warrior_56": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "p1 et p2 échangent un regard et ronronnent de fierté alors que (old_name) s'avance pour recevoir son nouveau nom, m_c, et {VERB/m_c/are/is} honoré(e) pour {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_57": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Est-ce que dead_par1 et dead_par2 regardent depuis le Clan des Étoiles ? (old_name) se le demande alors que {PRONOUN/m_c/subject} {VERB/m_c/step/steps} devant le Clan. {PRONOUN/m_c/subject/CAP} {VERB/m_c/hope/hopes} que oui. {PRONOUN/m_c/subject/CAP} l'espère vraiment. Alors que {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h, m_c espère que ses parents sont là, acclamant avec leurs camarades parmi les étoiles leur petit."
+    ],
+    "warrior_58": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "clanborn",
+            "all_traits"
+        ],
+        "(old_name) essaie de garder la tête haute alors que {PRONOUN/m_c/subject} {VERB/m_c/step/steps} en avant et {VERB/m_c/are/is} nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h. Cela ne semble pas juste. dead_par1 et dead_par2 devraient être là avec {PRONOUN/m_c/object} ! Ils l'avaient promis ! m_c regarde les étoiles, sa colère et sa frustration disparaissant. Il semble que les étoiles brillent plus fort, et {PRONOUN/m_c/subject} {VERB/m_c/know/knows} que, même s'ils ne sont pas là en chair et en os, ses parents sont là en esprit."
+    ],
+    "warrior_59": [
+        [
+            "warrior",
+            "prepared",
+            "alive_leader_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(previous_mentor) rassemble le Clan pour une assemblée. {PRONOUN/(previous_mentor)/subject/CAP} {VERB/(previous_mentor)/have/has} passé de nombreuses lunes à former (old_name), et il est temps que {PRONOUN/m_c/object} reçoive son nom de guerrier(ère). (previous_mentor) donne à {PRONOUN/m_c/object} le nom de m_c et honore {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_60": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "yes_leader",
+            "general_backstory",
+            "righteous",
+            "faithful",
+            "loyal",
+            "responsible"
+        ],
+        "Alors que c_n scande le nouveau nom de m_c, l_n murmure que dead_par1 et dead_par2 seraient fiers de {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_61": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "dead2_parents",
+            "general_leader",
+            "general_backstory",
+            "righteous",
+            "faithful",
+            "loving",
+            "responsible",
+            "lonesome",
+            "strange",
+            "thoughtful",
+            "wise",
+            "sincere"
+        ],
+        "dead_par1 et dead_par2 veillent toujours sur (old_name). Alors que {PRONOUN/m_c/subject} {VERB/m_c/step/steps} en avant, le nom m_c se posant sur {PRONOUN/m_c/object} comme un rayon de soleil sur sa fourrure, {PRONOUN/m_c/subject} {VERB/m_c/carry/carries} l'héritage de ses parents avec {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_62": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "righteous",
+            "faithful",
+            "loving",
+            "responsible",
+            "lonesome",
+            "strange",
+            "thoughtful",
+            "wise",
+            "sincere"
+        ],
+        "dead_par1 veille toujours sur (old_name). Alors que {PRONOUN/m_c/subject} {VERB/m_c/step/steps} en avant, le nom m_c se posant sur {PRONOUN/m_c/object} comme un rayon de soleil sur sa fourrure, {PRONOUN/m_c/subject} {VERB/m_c/carry/carries} l'héritage de son parent avec {PRONOUN/m_c/poss} r_h."
+    ],
+    "warrior_63": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "dead1_parents",
+            "general_leader",
+            "general_backstory",
+            "faithful",
+            "loving",
+            "ambitious",
+            "lonesome",
+            "strange",
+            "thoughtful",
+            "wise",
+            "sincere"
+        ],
+        "Alors que (old_name) s'avance pour devenir m_c, {PRONOUN/m_c/subject} {VERB/m_c/feel/feels} le vent ébouriffer sa fourrure, comme une caresse d'approbation. {PRONOUN/m_c/subject/CAP} {VERB/m_c/wonder/wonders} si dead_par1 serait fier du r_h pour lequel m_c est honoré(e)."
+    ],
+    "warrior_64": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "general_leader",
+            "general_backstory",
+            "childish",
+            "lonesome",
+            "insecure",
+            "nervous",
+            "grumpy"
+        ],
+        "(old_name) croise le regard de p1 et p2 alors que {PRONOUN/m_c/subject} {VERB/m_c/swell/swells} de fierté, prenant sa place tant méritée sous les projecteurs devant tout c_n. Nommé(e) m_c en l'honneur de {PRONOUN/m_c/poss} r_h, {PRONOUN/m_c/subject} {VERB/m_c/bask/basks} dans la célébration de son nom de guerrier(ère), sa famille à ses côtés."
+    ],
+    "warrior_65": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "ambitious",
+            "bold",
+            "daring",
+            "righteous",
+            "adventurous",
+            "confident",
+            "shameless",
+            "arrogant",
+            "competitive",
+            "flamboyant"
+        ],
+        "Nommé(e) m_c pour {PRONOUN/m_c/poss} r_h, le(la) nouveau(elle) guerrier(ère) redresse les épaules devant c_n, le cœur gonflé de la joie durement gagnée d'entendre ses camarades scander son nom, des yeux plissés de fierté de p1 et de la voix de p2 menant l'appel. Tous les efforts pour en arriver là en valaient la peine. Ce n'est que le début."
+    ],
+    "warrior_66": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "yes_leader",
+            "general_backstory",
+            "troublesome",
+            "lonesome",
+            "cold",
+            "grumpy",
+            "gloomy",
+            "rebellious",
+            "strict",
+            "arrogant"
+        ],
+        "Peut-être que certains dans c_n tapent sur les nerfs de (old_name), mais {PRONOUN/m_c/subject} donnerait son sang, sa sueur et ses larmes pour les protéger, et l_n le sait. (old_name) est nommé(e) m_c pour {PRONOUN/m_c/poss} r_h, et s'avance pour prendre le manteau de guerrier(ère)."
+    ],
+    "warrior_67": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "insecure",
+            "nervous",
+            "calm",
+            "careful",
+            "gloomy"
+        ],
+        "Alors que l_n rassemble c_n, (old_name) tente désespérément de réprimer ses frissons. Et si {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} n'était pas prêt(e) ? Et si c'était une erreur ? Mais entendre p1 crier à p2 de se dépêcher aide (old_name) à retrouver son calme. {PRONOUN/m_c/subject/CAP} {VERB/m_c/belong/belongs} ici, et être honoré(e) pour {PRONOUN/m_c/poss} r_h avec le nom m_c remplit {PRONOUN/m_c/object} de confiance."
+    ],
+    "warrior_68": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "loving",
+            "compassionate",
+            "calm",
+            "careful",
+            "thoughtful",
+            "sincere"
+        ],
+        "Alors que p1 et p2 s'affairent à lisser la fourrure de (old_name), (old_name) ronronne. Entouré(e) de ses parents, l_n nomme {PRONOUN/m_c/object} m_c pour le r_h dont {PRONOUN/m_c/subject} {VERB/m_c/have/has} fait preuve durant son apprentissage, accueillant {PRONOUN/m_c/object} comme guerrier(ère) à part entière de c_n."
+    ],
+    "warrior_69": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "charismatic",
+            "ambitious",
+            "confident",
+            "childish",
+            "righteous",
+            "arrogant",
+            "competitive",
+            "flamboyant"
+        ],
+        "(old_name) rayonne littéralement de bonheur, savourant la gloire de sa cérémonie de nommage et l'attention et la fierté de ses parents. l_n nomme {PRONOUN/m_c/object} m_c pour {PRONOUN/m_c/poss} r_h alors que le(la) nouveau(elle) guerrier(ère) se pavane, fier(e) de son accomplissement."
+    ],
+    "warrior_70": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "charismatic",
+            "ambitious",
+            "confident",
+            "childish",
+            "righteous",
+            "arrogant",
+            "competitive",
+            "flamboyant"
+        ],
+        "(old_name) a relevé tous les défis sur sa route, et l_n remarque que {PRONOUN/m_c/subject} {VERB/m_c/have/has} le r_h d'un tigre, que cela lui serve bien. Il est temps pour (old_name) de prendre à la fois sa place d'adulte dans c_n et son nom complet de m_c."
+    ],
+    "warrior_71": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "oblivious",
+            "calm",
+            "wise"
+        ],
+        "Alors que le Clan scande le nouveau nom de guerrier(ère) de m_c, {PRONOUN/m_c/subject} {VERB/m_c/smile/smiles} et {VERB/m_c/nod/nods}, satisfait(e) mais sans excès. l_n saute pour féliciter {PRONOUN/m_c/object}. Quand leurs têtes se touchent, l_n murmure qu'un sens de soi équilibré et le r_h serviront bien m_c."
+    ],
+    "warrior_72": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "strict",
+            "responsible"
+        ],
+        "Alors que c_n est réuni pour célébrer, l_n met en avant le r_h de (old_name), son attachement à la vérité et au Code du Guerrier. C'est pour cela que l_n nomme {PRONOUN/m_c/object} m_c, accueillant {PRONOUN/m_c/object} comme guerrier(ère) à part entière de c_n."
+    ],
+    "warrior_73": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "charismatic",
+            "responsible",
+            "careful"
+        ],
+        "La prestance, la retenue et le r_h dont fait preuve (old_name) sont un honneur pour c_n, miaule l_n. (old_name) essaie d'être à la hauteur de ces beaux mots, mais tout ce à quoi {PRONOUN/m_c/subject} pense, ce sont les acclamations de m_c qui résonnent dans le camp."
+    ],
+    "warrior_74": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "childish",
+            "oblivious",
+            "insecure"
+        ],
+        "l_n appelle c_n à l'attention. Ils sont réunis pour célébrer le travail acharné, la persévérance et le r_h du(la) nouveau(elle) guerrier(ère) de c_n. La mâchoire de (old_name) tombe quand {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} appelé(e), et {PRONOUN/m_c/subject} {VERB/m_c/sit/sits}, incrédule mais ravi(e), alors que l_n lui donne le nom de m_c et que les acclamations éclatent."
+    ],
+    "warrior_75": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "responsible",
+            "sincere",
+            "loyal"
+        ],
+        "Tout le travail de {PRONOUN/m_c/poss} vie a mené à ce moment. m_c se tient droit(e) et fier(e), paré(e) de son nouveau nom et des félicitations de son Clan. Demain, {PRONOUN/m_c/subject} retournera à la responsabilité, au service et au r_h. Ce soir, c'est sa nuit pour célébrer."
+    ],
+    "warrior_76": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "ambitious",
+            "confident"
+        ],
+        "l_n appelle (old_name) à l'avant, honorant son r_h avec le nom de m_c. Un jour, ce sera à m_c de donner des noms aux guerriers de c_n. Ceci marque le premier objectif accompli sur ce chemin."
+    ],
+    "warrior_77": [
+        [
+            "warrior",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "troublesome",
+            "rebellious",
+            "daring",
+            "adventurous"
+        ],
+        "(old_name) ne peut s'empêcher de fouetter la queue, l'excitation débordant en énergie bondissante alors que le Clan se rassemble. l_n mentionne son r_h, mais ce qui importe à (old_name), c'est le <i>nom</i>. m_c signifie liberté, contrôle sur sa propre vie, la possibilité de partir chasser et explorer sans entrave. {PRONOUN/m_c/subject/CAP} a hâte !"
+    ],
+    "warrior_78": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "competitive",
+            "flamboyant",
+            "charismatic",
+            "righteous"
+        ],
+        "Entendre l_n parler de son r_h devant tout le Clan, voir l'approbation de (previous_mentor), les yeux brillants de fierté de p1, p2 ronronnant si fort qu'il s'en étouffe presque, tout cela se transforme en un moment de reconnaissance et de célébration alors que m_c reçoit son nom de guerrier(ère)."
+    ],
+    "warrior_79": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "alive2_parents",
+            "yes_leader",
+            "general_backstory",
+            "grumpy",
+            "gloomy",
+            "cold",
+            "strange"
+        ],
+        "Même lors de sa propre cérémonie de nommage, m_c n'aime pas être le centre de l'attention, le bout de sa queue tressaillant d'inconfort. Mais {PRONOUN/m_c/subject} accepte tout de même les félicitations de (previous_mentor) et les ronronnements fiers de ses parents, esquissant un léger sourire quand l_n loue son r_h."
+    ],
+    "warrior_80": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "alive1_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(previous_mentor) s'écarte, laissant p1 la place de serrer (old_name) sous son menton une dernière fois, alors que p1 murmure à quel point {PRONOUN/p1/subject} {VERB/p1/are/is} fier(e). l_n appelle (old_name) à l'avant avec des mots honorant son r_h, alors que {PRONOUN/m_c/subject} {VERB/m_c/take/takes} le nom de m_c et {VERB/m_c/step/steps} dans ses nouvelles fonctions de guerrier(ère)."
+    ],
+    "warrior_81": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "loyal",
+            "faithful",
+            "sincere",
+            "loving"
+        ],
+        "Alors que l_n exalte le r_h de (old_name), (old_name) pose discrètement la tête contre l'épaule de (previous_mentor), plein(e) de respect. Cela semble irréel de recevoir son nom complet, et m_c continuera à demander conseil à (previous_mentor) pendant de nombreuses lunes."
+    ],
+    "warrior_82": [
+        [
+            "warrior",
+            "prepared",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "fierce",
+            "bloodthirsty",
+            "vengeful",
+            "loyal"
+        ],
+        "Ensemble, (old_name) et (previous_mentor) ont usé leurs griffes et fait leurs preuves, et alors que (old_name) est honoré(e) pour son r_h et nommé(e) m_c, ils n'ont pas l'intention de s'arrêter de sitôt !"
+    ],
+    "mediator_0": [
+        [
+            "mediator",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) a prouvé qu'{PRONOUN/m_c/self} {VERB/m_c/are/is} doué(e) pour gérer les conflits du Clan. {PRONOUN/m_c/subject/CAP} reçoit le nom de m_c, et le Clan honore son(son/sa) nouveau(elle) médiateur(trice)."
+    ],
+    "mediator_0_a": [
+        [
+            "mediator",
+            "unprepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Bien que (old_name) ne soit pas encore prêt(e) à devenir médiateur(trice) à part entière, {PRONOUN/m_c/subject} {VERB/m_c/are/is} trop âgé(e) pour rester dans la tanière des apprentis. Une assemblée est convoquée, et {PRONOUN/m_c/subject} {VERB/m_c/are/is} nommé(e) m_c. L'ambiance est tendue et pleine de pitié."
+    ],
+    "mediator_0_b": [
+        [
+            "mediator",
+            "early",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(old_name) s'est lancé(e) dans sa formation de médiateur(trice) comme un poisson dans l'eau. Bien que jeune, {PRONOUN/m_c/subject} {VERB/m_c/are/is} prêt(e) à assumer les responsabilités d'un(e) médiateur(trice) à part entière. {PRONOUN/m_c/subject/CAP} reçoit le nom de m_c, et le Clan célèbre."
+    ],
+    "mediator_1": [
+        [
+            "mediator",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c est accueilli(e) comme médiateur(trice) pleinement formé(e) du Clan."
+    ],
+    "mediator_2": [
+        [
+            "mediator",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Bien que certains membres du Clan doutent des capacités de (old_name), l_n donne à {PRONOUN/m_c/object} le nom de m_c et accueille {PRONOUN/m_c/object} comme nouveau(elle) médiateur(trice) du Clan."
+    ],
+    "mediator_3": [
+        [
+            "mediator",
+            "prepared",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Maintenant que (old_name) a terminé sa formation de médiateur(trice), l_n donne à {PRONOUN/m_c/object} le nom de m_c en l'honneur de {PRONOUN/m_c/poss} r_h, accueillant {PRONOUN/m_c/object} comme nouveau(elle) médiateur(trice) du Clan."
+    ],
+    "mediator_4": [
+        [
+            "mediator",
+            "alive_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "(previous_mentor) informe l_n que (old_name) a terminé sa formation de médiateur(trice). l_n donne à {PRONOUN/m_c/object} le nom de m_c en l'honneur de {PRONOUN/m_c/poss} r_h, accueillant {PRONOUN/m_c/object} comme nouveau(elle) médiateur(trice) du Clan."
+    ],
+    "elder_0": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a souhaité rejoindre les anciens. Le Clan honore {PRONOUN/m_c/object} et tout le service que m_c leur a rendu."
+    ],
+    "elder_1": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "l_n convoque fièrement une assemblée du Clan pour honorer le service de m_c. Il est temps que {PRONOUN/m_c/subject} {VERB/m_c/retire/retires} paisiblement dans la tanière des anciens."
+    ],
+    "elder_2": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c souhaite rejoindre les anciens. l_n convoque une assemblée et le Clan honore {PRONOUN/m_c/object} et tout le service que m_c leur a rendu."
+    ],
+    "elder_3": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c a résisté à l'idée de prendre sa retraite, mais les douleurs de l'âge ont eu raison de {PRONOUN/m_c/object}. {PRONOUN/m_c/subject/CAP} {VERB/m_c/approach/approaches} l_n, et {VERB/m_c/are/is} honoré(e) pour son service inlassable."
+    ],
+    "elder_4": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c attendait avec impatience ses lunes de repos en tant qu'ancien(ne). {PRONOUN/m_c/subject/CAP} {VERB/m_c/retire/retires} avec joie et s'installe rapidement dans la tanière des anciens."
+    ],
+    "elder_5": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Le temps a fait son œuvre et m_c a remarqué qu'{PRONOUN/m_c/self} ralentit. {PRONOUN/m_c/subject/CAP} {VERB/m_c/have/has} travaillé sans relâche pendant de nombreuses lunes, mais il est temps pour {PRONOUN/m_c/object} de prendre sa retraite."
+    ],
+    "elder_6": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "yes_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "m_c garde la tête haute alors que l_n appelle le Clan des Étoiles à témoigner du service de m_c envers c_n. Cette retraite est bien méritée."
+    ],
+    "elder_7": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "all_traits"
+        ],
+        "Alors que m_c entre dans le crépuscule de sa vie, {PRONOUN/m_c/subject} {VERB/m_c/join/joins} les rangs des anciens sans regret, attendant avec impatience le repos qu'{PRONOUN/m_c/subject} {VERB/m_c/have/has} mérité."
+    ],
+    "elder_8": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "flamboyant",
+            "rebellious",
+            "sneaky",
+            "shameless",
+            "charismatic"
+        ],
+        "m_c sourit pendant la célébration de sa retraite, impatient(e) de devenir le(la) plus grand(e) bavard(e) des anciens de ce côté-ci du soleil levant."
+    ],
+    "elder_9": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "responsible",
+            "ambitious",
+            "strict",
+            "insecure"
+        ],
+        "m_c retient sa queue de tressaillir alors que sa retraite est annoncée. {PRONOUN/m_c/subject/CAP} {VERB/m_c/know/knows} que c_n ira bien sans {PRONOUN/m_c/object} en première ligne, {PRONOUN/m_c/subject} {VERB/m_c/know/knows} que c'est le bon moment pour détendre ses griffes et laisser ses responsabilités derrière {PRONOUN/m_c/poss} pattes, mais... c'est difficile de lâcher prise."
+    ],
+    "elder_10": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "gloomy",
+            "nervous",
+            "lonesome",
+            "insecure"
+        ],
+        "m_c prend une profonde inspiration et essaie de voir la célébration de sa retraite comme un compliment, et non comme un exil dans la tanière des anciens. {PRONOUN/m_c/subject/CAP} {VERB/m_c/know/knows} que ce n'est pas le cas."
+    ],
+    "elder_11": [
+        [
+            "elder",
+            "general_mentor",
+            "general_parents",
+            "general_leader",
+            "general_backstory",
+            "loyal",
+            "righteous",
+            "fierce",
+            "bloodthirsty",
+            "vengeful",
+            "sincere"
+        ],
+        "m_c s'assoit, la fourrure gonflée de fierté, en entendant c_n célébrer ses accomplissements. Prendre sa retraite signifie faire confiance aux plus jeunes pour protéger c_n, mais {PRONOUN/m_c/subject} {VERB/m_c/think/thinks} avoir fait de son mieux pour transmettre ses leçons."
     ]
 }

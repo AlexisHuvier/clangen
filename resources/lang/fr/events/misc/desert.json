@@ -8,7 +8,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c swept the dust out of {PRONOUN\/m_c\/poss} den using {PRONOUN\/m_c\/poss} tail.",
+        "event_text": "m_c a balayé la poussière de sa tanière avec sa queue.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -34,7 +34,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "The way that the plantlife withers in the dry season is stark, but sometimes beautiful. m_c added a acc_singular to {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "La façon dont la végétation se fane pendant la saison sèche est frappante, mais parfois belle. m_c a ajouté un acc_singular à sa fourrure.",
         "new_accessory": [
             "RYE STALK",
             "MAPLE SEED",
@@ -62,7 +62,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "The way that the plantlife withers in the dry season is stark, but sometimes beautiful. m_c added acc_plural to {PRONOUN\/m_c\/poss} pelt.",
+        "event_text": "La façon dont la végétation se fane pendant la saison sèche est frappante, mais parfois belle. m_c a ajouté acc_plural à sa fourrure.",
         "new_accessory": [
             "DRY HERBS",
             "OAK LEAVES"
@@ -89,7 +89,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c hunts down one of the first flowers that fortell the arrival of the coming rains, proudly wearing the acc_singular back to camp.",
+        "event_text": "m_c chasse l'une des premières fleurs annonçant l'arrivée des pluies, arborant fièrement le acc_singular au retour au camp.",
         "new_accessory": [
             "LAVENDER",
             "JUNIPER",
@@ -119,7 +119,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "As the world bursts to life with the rains, m_c is unable to resist capturing a little bit of that beauty for {PRONOUN\/m_c\/self}, snagging a acc_singular to adorn {PRONOUN\/m_c\/object}.",
+        "event_text": "Alors que le monde renaît avec les pluies, m_c ne peut résister à capturer un peu de cette beauté pour {PRONOUN\/m_c\/self}, attrapant un acc_singular pour orner {PRONOUN\/m_c\/object}.",
         "new_accessory": [
             "DAISY",
             "LAUREL",
@@ -150,7 +150,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "As the world bursts to life with the rains, m_c is unable to resist capturing a little bit of that beauty for {PRONOUN\/m_c\/self}, snagging acc_plural to adorn {PRONOUN\/m_c\/object}.",
+        "event_text": "Alors que le monde renaît avec les pluies, m_c ne peut résister à capturer un peu de cette beauté pour {PRONOUN\/m_c\/self}, attrapant acc_plural pour orner {PRONOUN\/m_c\/object}.",
         "new_accessory": [
             "CLOVER",
             "FORGET ME NOTS"
@@ -177,7 +177,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c takes a acc_singular to remember the last blooms of the wet season.",
+        "event_text": "m_c prend un acc_singular pour se souvenir des dernières fleurs de la saison humide.",
         "new_accessory": [
             "BULB WHITE",
             "BULB YELLOW",
@@ -207,7 +207,7 @@
             "accessory"
         ],
         "frequency": 4,
-        "event_text": "m_c proudly shows off {PRONOUN\/m_c\/poss} acc_singular. {PRONOUN\/m_c\/subject\/CAP} caught it all by {PRONOUN\/m_c\/self}!",
+        "event_text": "m_c montre fièrement son acc_singular. {PRONOUN\/m_c\/subject\/CAP} l'a attrapé tout seul !",
         "new_accessory": [
             "MOTH WINGS",
             "CICADA WINGS",
@@ -233,7 +233,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "As nightfall leeches burning heat from the rocks, m_c tells stories of far off Clans, of cats for whom the dry season brings green leaves and bounty instead of withering heat.",
+        "event_text": "Alors que la nuit fait disparaître la chaleur brûlante des rochers, m_c raconte des histoires de Clans lointains, de chats pour qui la saison sèche apporte des feuilles vertes et l'abondance au lieu de la chaleur desséchante.",
         "m_c": {
             "age": [
                 "any"
@@ -274,7 +274,7 @@
             "leaf-fall"
         ],
         "frequency": 4,
-        "event_text": "Sunset splays the red of life's blood across the sky, as m_c softly tells of The Dreaming.",
+        "event_text": "Le coucher du soleil étale le rouge du sang de la vie dans le ciel, tandis que m_c raconte doucement l'histoire du Rêve.",
         "m_c": {
             "age": [
                 "any"
@@ -315,7 +315,7 @@
             "leaf-fall"
         ],
         "frequency": 2,
-        "event_text": "A brief duststorm leaves the world blurred around c_n, their eyes stinging with grit, their scents wiped from existence.",
+        "event_text": "Une brève tempête de poussière brouille le monde autour de c_n, leurs yeux piquent à cause du sable, leurs odeurs effacées.",
         "m_c": {
             "age": [
                 "any"
@@ -334,7 +334,7 @@
             "leaf-bare"
         ],
         "frequency": 3,
-        "event_text": "m_c stands guard over camp, miserably enduring the endless wet heartbeat of the rain.",
+        "event_text": "m_c monte la garde au camp, endurant misérablement le battement de pluie sans fin.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -373,7 +373,7 @@
             "leaf-fall"
         ],
         "frequency": 3,
-        "event_text": "m_c watches carefully over camp, trying to avoid the worst of the sun's rays while on guard duty.",
+        "event_text": "m_c surveille attentivement le camp, essayant d'éviter les pires rayons du soleil pendant sa garde.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -410,7 +410,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c spotted a monitor lizard close to camp and raised the alarm.",
+        "event_text": "m_c aperçoit un varan près du camp et donne l'alerte.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -447,7 +447,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c tracks the scent of a dingo until it safely crosses out of c_n territory.",
+        "event_text": "m_c suit la piste d'un dingo jusqu'à ce qu'il quitte le territoire de c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -484,7 +484,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c notices a red-bellied black snake while on guard duty and intimidates it away from c_n's camp.",
+        "event_text": "m_c remarque un serpent noir à ventre rouge pendant sa garde et l'intimide pour l'éloigner du camp de c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -521,7 +521,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c watches the kangaroo mob leap across the landscape from {PRONOUN\/m_c\/poss} guarding perch near camp.",
+        "event_text": "m_c observe la troupe de kangourous bondir à travers le paysage depuis son poste de garde près du camp.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -544,7 +544,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "From the guard post above camp, m_c lets out a warning chitter as a hawk passes overhead.",
+        "event_text": "Depuis le poste de garde au-dessus du camp, m_c pousse un cri d'alerte alors qu'une buse passe au-dessus.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -581,7 +581,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c bristles on guard duty, but the brown hyena takes no notice of c_n.",
+        "event_text": "m_c se hérisse en surveillant, mais la hyène brune ne prête aucune attention à c_n.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -618,7 +618,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The vivid red dust of the outback temporarily stains m_c's fur an unnatural hue.",
+        "event_text": "La poussière rouge vif de l'outback tache temporairement la fourrure de m_c d'une teinte étrange.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -641,7 +641,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c watches the sun rise over the desert, wondering what unknowns it can see beyond the edge of the world.",
+        "event_text": "m_c regarde le soleil se lever sur le désert, se demandant quels mystères se cachent au-delà de l'horizon.",
         "m_c": {
             "age": [
                 "any"
@@ -666,7 +666,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c holds {PRONOUN\/m_c\/self} apart from the Clan, {PRONOUN\/m_c\/poss} mood strange and irritable.",
+        "event_text": "m_c s'isole du Clan, son humeur étrange et irritable.",
         "m_c": {
             "age": [
                 "any"
@@ -691,7 +691,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c slips into The Dreaming, joining the spirits of land and place for one eternal brief moment. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} with memory draining irrevocably from {PRONOUN\/m_c\/poss} tight grasp, losing everything but a glimpse of clair_list\/m_c.",
+        "event_text": "m_c glisse dans Le Rêve, rejoignant les esprits de la terre et du lieu pour un bref instant éternel. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/wake\/wakes} avec le souvenir qui s'efface irrémédiablement de {PRONOUN\/m_c\/poss} poigne, ne gardant qu'un aperçu de clair_list\/m_c.",
         "m_c": {
             "age": [
                 "any"
@@ -717,7 +717,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c's body curls in {PRONOUN\/m_c\/poss} nest, but {PRONOUN\/m_c\/poss} spirit walks in The Dreaming, calling the chorus of 'Weowie', 'Weowie', entreating the water serpent down from the mountain.",
+        "event_text": "Le corps de m_c se love dans {PRONOUN\/m_c\/poss} nid, mais son esprit marche dans Le Rêve, appelant le chœur de 'Weowie', 'Weowie', implorant le serpent d'eau de descendre de la montagne.",
         "m_c": {
             "age": [
                 "any"
@@ -743,7 +743,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c dreams of the creation song, of the before-times, of the featureless plain that ancestral spirits molded into Country and land in The Dreaming.",
+        "event_text": "m_c rêve du chant de la création, des temps d'avant, de la plaine sans forme que les esprits ancestraux ont façonnée en Pays et en terre dans Le Rêve.",
         "m_c": {
             "age": [
                 "any"
@@ -765,7 +765,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "In the twilight of the day, m_c tells the stories of The Dreaming, the ancestral spirits both good and bad who live again when their history is recited.",
+        "event_text": "Au crépuscule, m_c raconte les histoires du Rêve, les esprits ancestraux bons et mauvais qui revivent lorsque leur histoire est récitée.",
         "m_c": {
             "age": [
                 "any"
@@ -803,7 +803,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The Dreaming is past, present, future, all. It leads and warns and predicts, it guides and shares and strengthens. m_c is the voice today, but {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} only one step in the unbroken connections to past generations.",
+        "event_text": "Le Rêve est passé, présent, futur, tout à la fois. Il guide, avertit et prédit, il partage et renforce. m_c est la voix aujourd'hui, mais {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} seulement un maillon dans la chaîne ininterrompue des générations passées.",
         "m_c": {
             "age": [
                 "any"
@@ -841,7 +841,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c spotted a cat silouetted against the setting sun with the light shining partway through their semitransparent fur. Next blink, the figure is gone.",
+        "event_text": "m_c aperçoit un chat silhouetté contre le soleil couchant, la lumière traversant partiellement sa fourrure translucide. Un battement de paupière plus tard, la silhouette a disparu.",
         "m_c": {
             "age": [
                 "any"
@@ -868,7 +868,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Along the border with o_c_n, c_n quietly prepares the cacti and thornbushes to work to their advantage.",
+        "event_text": "Le long de la frontière avec o_c_n, c_n prépare discrètement les cactus et les buissons épineux pour en tirer avantage.",
         "m_c": {},
         "other_clan": {
             "current_rep": [
@@ -889,7 +889,7 @@
             "war"
         ],
         "frequency": 4,
-        "event_text": "Though few think o_c_n will go so far as to attack c_n's water sources, the gossip in camp swirls around that possibility.",
+        "event_text": "Peu pensent que o_c_n ira jusqu'à attaquer les points d'eau de c_n, mais les rumeurs circulent dans le camp à ce sujet.",
         "m_c": {},
         "other_clan": {
             "current_rep": [
@@ -910,7 +910,7 @@
             "clan:warrior"
         ],
         "frequency": 3,
-        "event_text": "As the adults catch the evening breeze on their hot pelts, m_c emerges from the nursery, finally allowed to play once the sun's rays slip from the sky.",
+        "event_text": "Alors que les adultes profitent de la brise du soir sur leur pelage brûlant, m_c sort enfin de la pouponnière, autorisé à jouer une fois le soleil couché.",
         "m_c": {
             "status": [
                 "kitten"
@@ -926,7 +926,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c play predator-and-warrior, wearing a shed snake skin.",
+        "event_text": "m_c et r_c jouent au prédateur et au guerrier, portant une peau de serpent abandonnée.",
         "m_c": {
             "status": [
                 "kitten"
@@ -962,7 +962,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c and r_c try to climb the rocks around camp, to limited success.",
+        "event_text": "m_c et r_c essaient de grimper sur les rochers autour du camp, avec un succès limité.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1003,7 +1003,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c emerge from the nursury as the cool of the night takes over, their bouncy energy contrasting the tired warriors napping on the sun-warmed rocks.",
+        "event_text": "m_c et r_c sortent de la pouponnière alors que la fraîcheur de la nuit s'installe, leur énergie bondissante contrastant avec les guerriers fatigués qui somnolent sur les rochers chauffés par le soleil.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1044,7 +1044,7 @@
             "clan:warrior"
         ],
         "frequency": 4,
-        "event_text": "m_c doesn't care what the warriors say, thunder is definitely dangerous and horrible. r_c agrees, the kittens finding comfort in each other.",
+        "event_text": "m_c se moque de ce que disent les guerriers, le tonnerre est vraiment effrayant et dangereux. r_c est d'accord, les chatons se réconfortent mutuellement.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1082,7 +1082,7 @@
             "leaf-bare"
         ],
         "frequency": 4,
-        "event_text": "The night's temperature dips cold enough to leave a layer of thick frost on everything. m_c and r_c are mystified and hesitant, but eventually the frost becomes another slippery toy in their world.",
+        "event_text": "La nuit est si froide qu'une couche de givre recouvre tout. m_c et r_c sont d'abord hésitants, mais finissent par transformer le givre en un nouveau jeu glissant.",
         "m_c": {
             "status": [
                 "kitten"
@@ -1120,7 +1120,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c faceplants right into the shaded water well in the rocks {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} drinking from and is hauled up by r_c, spluttering and embarassed.",
+        "event_text": "m_c tombe la tête la première dans le puits d'eau ombragé où {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} buvait et est repêché par r_c, trempé et embarrassé.",
         "m_c": {
             "age": [
                 "kitten",
@@ -1163,7 +1163,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c sneaks out at night - r_c follows. But {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} tattle on m_c, instead joining {PRONOUN\/m_c\/object} as {PRONOUN\/m_c\/subject} {VERB\/m_c\/run\/runs} through the cool sharp night air.",
+        "event_text": "m_c se faufile dehors la nuit - r_c le suit. Mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/don't\/doesn't} dénonce pas m_c, préférant l'accompagner alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/run\/runs} dans l'air frais et vif de la nuit.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -1200,7 +1200,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The sun rises over the desert - and over m_c and r_c, who definitely aren't allowed out of camp this early and alone.",
+        "event_text": "Le soleil se lève sur le désert – et sur m_c et r_c, qui n'ont clairement pas le droit d'être hors du camp si tôt et seuls.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -1238,7 +1238,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c sneaks out of camp on a dare, meeting r_c with a lashing tail, {PRONOUN\/m_c\/poss} chin raised proudly.",
+        "event_text": "m_c se faufile hors du camp sur un pari, retrouvant r_c avec la queue agitée, le menton fièrement relevé.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -1276,7 +1276,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c and r_c bond over how much they both hate mouse bile.",
+        "event_text": "m_c et r_c se rapprochent en partageant leur dégoût pour la bile de souris.",
         "m_c": {
             "age": [
                 "adolescent"
@@ -1319,7 +1319,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "On the border, a loner has sprayed a shrub with {PRONOUN\/n_c:0\/poss} scent.",
+        "event_text": "À la frontière, un solitaire a marqué un buisson de son odeur {PRONOUN/n_c:0/poss}.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1367,7 +1367,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c hasn't seen a o_c_n cat for, stars, almost the entire moon. Wonder how they're doing.",
+        "event_text": "m_c n'a pas vu de chat de o_c_n depuis, étoiles, presque toute la lune. Il se demande comment ils vont.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1394,7 +1394,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "Wild pigs rampage along the border with o_c_n, leaving a gigantic mess that c_n dutifully cleans up.",
+        "event_text": "Des cochons sauvages dévastent la frontière avec o_c_n, laissant un énorme désordre que c_n nettoie consciencieusement.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -1420,7 +1420,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "The sudden drop in temperature at night didn't used to bother m_c, but {PRONOUN\/m_c\/subject}{VERB\/m_c\/'re\/'s} not as young as {PRONOUN\/m_c\/subject} used to be.",
+        "event_text": "La chute soudaine de température la nuit ne dérangeait pas m_c avant, mais {PRONOUN/m_c/subject}{VERB/m_c/'re/'s} n'est plus aussi jeune que {PRONOUN/m_c/subject} l'était.",
         "m_c": {
             "age": [
                 "senior"
@@ -1442,7 +1442,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "Hawks help themselves to the fresh-kill pile. No one intended that food to go to them, but at least there wasn't violence.",
+        "event_text": "Des buses se servent dans la réserve de gibier frais. Personne ne voulait leur donner cette nourriture, mais au moins il n'y a pas eu de violence.",
         "supplies": [
             {
                 "type": "freshkill",
@@ -1465,7 +1465,7 @@
             "clan_wide"
         ],
         "frequency": 2,
-        "event_text": "A dingo pack raids camp. Thankfully there are no injuries, the dens holding firm, but the fresh-kill pile is nearly ruined.",
+        "event_text": "Une meute de dingos attaque le camp. Heureusement, il n'y a pas de blessés, les tanières tiennent bon, mais la réserve de gibier frais est presque ruinée.",
         "supplies": [
             {
                 "type": "freshkill",
@@ -1488,7 +1488,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "A camel brazenly wanders into camp, sticks its head into the herb stores, and slobbers up half c_n's stored supplies as the Clan screeches with impotent fury.",
+        "event_text": "Un chameau s'aventure effrontément dans le camp, plonge sa tête dans les réserves d'herbes et engloutit la moitié des provisions de c_n sous les cris impuissants du Clan.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -1513,7 +1513,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "A sandstorm hits camp, whipped up by towering winds. It floods the herb stores with grit and dust while c_n tries to save as many of their healing supplies as possible.",
+        "event_text": "Une tempête de sable frappe le camp, soulevée par des vents puissants. Elle envahit les réserves d'herbes de poussière et de sable pendant que c_n tente de sauver autant de remèdes que possible.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -1538,7 +1538,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "Ants, desperate to extablish a nest before the dry season fully kicks in, try to do so in c_n's herb stores. No one is pleased at the results.",
+        "event_text": "Des fourmis, cherchant désespérément à établir un nid avant la saison sèche, s'installent dans les réserves d'herbes de c_n. Personne n'est content du résultat.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -1563,7 +1563,7 @@
             "clan_wide"
         ],
         "frequency": 1,
-        "event_text": "The sun withers all it touches - and the herb stores have unfortunately caught its gaze. Many of the supplies are little more than withered kindling now.",
+        "event_text": "Le soleil dessèche tout ce qu'il touche – et les réserves d'herbes n'ont pas été épargnées. Beaucoup de provisions ne sont plus que des brindilles desséchées.",
         "supplies": [
             {
                 "type": "all_herb",
@@ -1588,7 +1588,7 @@
             "transition"
         ],
         "frequency": 2,
-        "event_text": "Under the full heat of the sun, m_c declares {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} no she-cat.",
+        "event_text": "Sous la chaleur écrasante du soleil, m_c déclare que {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} n'est pas une femelle.",
         "m_c": {
             "age": [
                 "young adult"
@@ -1614,7 +1614,7 @@
             "transition"
         ],
         "frequency": 2,
-        "event_text": "The nature of things is ever changing, like sand blown on the wind. 'Tom' is no longer accurate for m_c.",
+        "event_text": "La nature des choses change sans cesse, comme le sable porté par le vent. 'Mâle' ne décrit plus m_c.",
         "m_c": {
             "gender": [
                 "male"
@@ -1636,7 +1636,7 @@
             "leaf-fall"
         ],
         "weight": 20,
-        "event_text": "m_c was nipped on the nose when {PRONOUN\/m_c\/subject} investigated an odd, lizard-shaped lump in the sand.",
+        "event_text": "m_c s'est fait pincer le museau en inspectant une étrange bosse en forme de lézard dans le sable.",
         "m_c": {
             "status": [
                 "warrior",
@@ -1661,7 +1661,7 @@
             "clan:apprentice"
         ],
         "weight": 15,
-        "event_text": "The apprentices of the Clan are taking special training to learn how to blind their enemies with dust from the ground.",
+        "event_text": "Les apprentis du Clan suivent un entraînement spécial pour apprendre à aveugler leurs ennemis avec la poussière du sol.",
         "m_c": {
             "status": [
                 "apprentice"
@@ -1678,7 +1678,7 @@
             "greenleaf"
         ],
         "weight": 20,
-        "event_text": "While out gathering valuable herbs, m_c sees a vision of prophecy_list_sight\/m_c.",
+        "event_text": "En récoltant des herbes précieuses, m_c a une vision de prophecy_list_sight\/m_c.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -1700,7 +1700,7 @@
             "leaf-fall"
         ],
         "weight": 20,
-        "event_text": "The things {PRONOUN\/m_c\/subject} saw in the sand today, omen_list_sight\/m_c... {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/consider\/considers} what these omens may entail for c_n.",
+        "event_text": "Ce que {PRONOUN\/m_c\/subject} a vu aujourd'hui dans le sable, omen_list_sight\/m_c... {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/consider\/considers} ce que ces présages pourraient signifier pour c_n.",
         "m_c": {
             "status": [
                 "medicine cat",

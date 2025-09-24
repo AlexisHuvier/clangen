@@ -11,7 +11,7 @@
             "adoption"
         ],
         "frequency": 1,
-        "event_text": "A loner named n_c:0 leaves {PRONOUN\/n_c:0\/poss} litter to the Clan. m_c decides to adopt them as {PRONOUN\/m_c\/poss} own.",
+        "event_text": "Un solitaire nommé n_c:0 confie sa portée au Clan. m_c décide de les adopter comme les siens.",
         "m_c": {
             "age": [
                 "young adult",
@@ -57,7 +57,7 @@
             "adoption"
         ],
         "frequency": 1,
-        "event_text": "A rogue named n_c:0 leaves {PRONOUN\/n_c:0\/poss} litter to the Clan. m_c decides to adopt them as {PRONOUN\/m_c\/poss} own.",
+        "event_text": "Un vagabond nommé n_c:0 confie sa portée au Clan. m_c décide de les adopter comme les siens.",
         "m_c": {
             "age": [
                 "young adult",
@@ -103,7 +103,7 @@
             "adoption"
         ],
         "frequency": 1,
-        "event_text": "A o_c_n queen decides to leave their litter with c_n. m_c takes them as {PRONOUN\/m_c\/poss} own.",
+        "event_text": "Une reine de o_c_n décide de confier sa portée à c_n. m_c les prend comme les siens.",
         "m_c": {
             "age": [
                 "young adult",
@@ -149,7 +149,7 @@
             "adoption"
         ],
         "frequency": 1,
-        "event_text": "A kittypet named n_c:0 leaves {PRONOUN\/n_c:0\/poss} litter to the Clan. m_c decides to adopt them as {PRONOUN\/m_c\/poss} own.",
+        "event_text": "Un chat domestique nommé n_c:0 confie sa portée au Clan. m_c décide de les adopter comme les siens.",
         "m_c": {
             "age": [
                 "young adult",
@@ -195,7 +195,7 @@
             "adoption"
         ],
         "frequency": 1,
-        "event_text": "m_c finds an abandoned litter, and decides to adopt them as {PRONOUN\/m_c\/poss} own.",
+        "event_text": "m_c trouve une portée abandonnée et décide de les adopter comme les siens.",
         "m_c": {
             "age": [
                 "young adult",
@@ -232,7 +232,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds an abandoned kit and names {PRONOUN\/n_c:0\/object} n_c:0.",
+        "event_text": "m_c trouve un chaton abandonné et le nomme n_c:0.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -262,7 +262,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds a loner near the border. It seems {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/were\/was} bringing {PRONOUN\/n_c:0\/poss} kit named n_c:1 to the Clan, as {PRONOUN\/n_c:0\/subject} could no longer care for {PRONOUN\/n_c:1\/object}.",
+        "event_text": "m_c trouve un solitaire près de la frontière. Il semble que {PRONOUN/n_c:0/subject} {VERB/n_c:0/were/was} amenait son chaton nommé n_c:1 au Clan, car {PRONOUN/n_c:0/subject} ne pouvait plus s'en occuper.",
         "m_c": {
             "status": [
                 "leader",
@@ -305,7 +305,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds a kittypet near the border. It seems {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/were\/was} bringing {PRONOUN\/n_c:0\/poss} kit named n_c:1 to the Clan, as {PRONOUN\/n_c:0\/subject} could no longer care for {PRONOUN\/n_c:1\/object}.",
+        "event_text": "m_c trouve un chat domestique près de la frontière. Il semble que {PRONOUN/n_c:0/subject} {VERB/n_c:0/were/was} amenait son chaton nommé n_c:1 au Clan, car {PRONOUN/n_c:0/subject} ne pouvait plus s'en occuper.",
         "m_c": {
             "status": [
                 "leader",
@@ -348,7 +348,7 @@
             "any"
         ],
         "frequency": 1,
-        "event_text": "m_c finds a rogue near the border. It seems {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/were\/was} bringing {PRONOUN\/n_c:0\/poss} kit named n_c:1 to the Clan, as {PRONOUN\/n_c:0\/subject} could no longer care for {PRONOUN\/n_c:1\/object}.",
+        "event_text": "m_c trouve un vagabond près de la frontière. Il semble que {PRONOUN/n_c:0/subject} {VERB/n_c:0/were/was} amenait son chaton nommé n_c:1 au Clan, car {PRONOUN/n_c:0/subject} ne pouvait plus s'en occuper.",
         "m_c": {
             "status": [
                 "leader",
@@ -394,7 +394,7 @@
             "romance"
         ],
         "frequency": 1,
-        "event_text": "m_c and r_c, in the early hours of the day, informed whoever else was awake that they had to handle something and ventured out of camp. Hours later, m_c, r_c, and another cat confidently strode into camp, tails entwined with each other. m_c introduced n_c:0 to the Clan, stating that {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/are\/is} staying.",
+        "event_text": "m_c et r_c, aux premières heures du jour, annoncent à ceux déjà réveillés qu'ils doivent s'absenter et quittent le camp. Des heures plus tard, m_c, r_c et un autre chat reviennent, queues enlacées. m_c présente n_c:0 au Clan, déclarant que {PRONOUN/n_c:0/subject} {VERB/n_c:0/are/is} reste.",
         "m_c": {
             "age": [
                 "young adult",
@@ -494,7 +494,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "m_c finds a loner named n_c:0, who joins the Clan. The loner decides to keep {PRONOUN\/n_c:0\/poss} old name.",
+        "event_text": "m_c trouve un solitaire nommé n_c:0, qui rejoint le Clan. Le solitaire décide de garder son ancien nom.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -531,7 +531,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A loner waits on the border for a patrol and, finding one led by m_c, asks to join the Clan. The loner decides to take on a more Clan-like name and is now called n_c:0.",
+        "event_text": "Un solitaire attend à la frontière un patrouille menée par m_c et demande à rejoindre le Clan. Le solitaire prend un nom plus adapté au Clan et s'appelle désormais n_c:0.",
         "m_c": {
             "status": [
                 "warrior",
@@ -565,7 +565,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A loner waits on the border for a patrol and, finding one led by m_c, asks to join the Clan. The loner decides to keep {PRONOUN\/n_c:0\/poss} old name, n_c:0.",
+        "event_text": "Un solitaire attend à la frontière un patrouille menée par m_c et demande à rejoindre le Clan. Le solitaire décide de garder son ancien nom, n_c:0.",
         "m_c": {
             "status": [
                 "leader",
@@ -599,7 +599,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds a loner who asks to join the Clan. The loner decides to take on a more Clan-like name and is now called n_c:0.",
+        "event_text": "m_c trouve un solitaire qui demande à rejoindre le Clan. Le solitaire prend un nom plus adapté au Clan et s'appelle désormais n_c:0.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -637,7 +637,7 @@
             "any"
         ],
         "frequency": 3,
-        "event_text": "While the Clan has no love for outsiders, sometimes new blood is needed. A patrol led by m_c heads out and finds a wandering cat to bring into the Clan. The new cat takes on a more Clan-like name and is now known as n_c:0.",
+        "event_text": "Bien que le Clan n'apprécie guère les étrangers, du sang neuf est parfois nécessaire. Une patrouille menée par m_c part et trouve un chat errant à intégrer au Clan. Le nouveau chat prend un nom plus adapté au Clan et s'appelle désormais n_c:0.",
         "m_c": {
             "status": [
                 "leader",
@@ -669,7 +669,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds a kittypet named n_c:0 who joins the Clan. The kittypet decides to keep {PRONOUN\/n_c:0\/poss} old name.",
+        "event_text": "m_c trouve un chat domestique nommé n_c:0 qui rejoint le Clan. Le chat domestique décide de garder son ancien nom.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -706,7 +706,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds a kittypet who joins the Clan. The kittypet decides to take on a more Clan-like name and is now called n_c:0.",
+        "event_text": "m_c trouve un chat domestique qui rejoint le Clan. Le chat domestique prend un nom plus adapté au Clan et s'appelle désormais n_c:0.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -744,7 +744,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A kittypet waits on the border for a patrol and, finding one led by m_c, asks to join the Clan. The kittypet decides to keep {PRONOUN\/n_c:0\/poss} old name, n_c:0.",
+        "event_text": "Un chat domestique attend à la frontière un patrouille menée par m_c et demande à rejoindre le Clan. Le chat domestique décide de garder son ancien nom, n_c:0.",
         "m_c": {
             "status": [
                 "leader",
@@ -777,7 +777,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A kittypet waits on the border for a patrol and, finding one led by m_c, asks to join the Clan. The kittypet decides to take on a more Clan-like name and is now called n_c:0.",
+        "event_text": "Un chat domestique attend à la frontière un patrouille menée par m_c et demande à rejoindre le Clan. Le chat domestique prend un nom plus adapté au Clan et s'appelle désormais n_c:0.",
         "m_c": {
             "status": [
                 "leader",
@@ -810,7 +810,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds a rogue named n_c:0, who joins the Clan. The rogue decides to keep {PRONOUN\/n_c:0\/poss} old name.",
+        "event_text": "m_c trouve un vagabond nommé n_c:0, qui rejoint le Clan. Le vagabond décide de garder son ancien nom.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -848,7 +848,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds a rogue who asks to join the Clan. The rogue decides to take on a more Clan-like name and is now called n_c:0.",
+        "event_text": "m_c trouve un vagabond qui demande à rejoindre le Clan. Le vagabond prend un nom plus adapté au Clan et s'appelle désormais n_c:0.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -886,7 +886,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A rogue waits on the border for a patrol and, finding one led by m_c, asks to join the Clan. The rogue decides to keep {PRONOUN\/n_c:0\/poss} old name, n_c:0.",
+        "event_text": "Un vagabond attend à la frontière un patrouille menée par m_c et demande à rejoindre le Clan. Le vagabond décide de garder son ancien nom, n_c:0.",
         "m_c": {
             "status": [
                 "leader",
@@ -919,7 +919,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "A rogue waits on the border for a patrol and, finding one led by m_c, asks to join the Clan. The rogue decides to take a new name and is now called n_c:0.",
+        "event_text": "Un vagabond attend à la frontière un patrouille menée par m_c et demande à rejoindre le Clan. Le vagabond prend un nouveau nom et s'appelle désormais n_c:0.",
         "m_c": {
             "status": [
                 "leader",
@@ -952,7 +952,7 @@
             "any"
         ],
         "frequency": 4,
-        "event_text": "m_c finds a warrior from o_c_n named n_c:0, who asks to join the Clan.",
+        "event_text": "m_c trouve un guerrier de o_c_n nommé n_c:0, qui demande à rejoindre le Clan.",
         "m_c": {
             "age": [
                 "adolescent",
@@ -989,7 +989,7 @@
             "any"
         ],
         "frequency": 2,
-        "event_text": "m_c meets an injured warrior from o_c_n who asks to join the Clan, in exchange for healing.",
+        "event_text": "m_c rencontre un guerrier blessé de o_c_n qui demande à rejoindre le Clan en échange de soins.",
         "m_c": {
             "status": [
                 "medicine cat",
@@ -1040,7 +1040,7 @@
             "war"
         ],
         "frequency": 3,
-        "event_text": "A member of o_c_n defects in the war and chooses to join c_n, m_c finds {PRONOUN\/n_c:0\/object} waiting at the border. {PRONOUN\/n_c:0\/subject\/CAP} {VERB\/n_c:0\/decide\/decides} to keep {PRONOUN\/n_c:0\/poss} name.",
+        "event_text": "Un membre de o_c_n fait défection pendant la guerre et choisit de rejoindre c_n, m_c trouve {PRONOUN/n_c:0/object} à la frontière. {PRONOUN/n_c:0/subject/CAP} {VERB/n_c:0/decide/decides} de garder son nom.",
         "m_c": {
             "status": [
                 "leader",
@@ -1079,7 +1079,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "n_c:0, the deputy of o_c_n, has defected to c_n in the war, m_c finds {PRONOUN\/n_c:0\/object} at the border. {PRONOUN\/n_c:0\/subject\/CAP} {VERB\/n_c:0\/decide\/decides} to keep {PRONOUN\/n_c:0\/poss} name.",
+        "event_text": "n_c:0, le lieutenant de o_c_n, a fait défection vers c_n pendant la guerre, m_c trouve {PRONOUN/n_c:0/object} à la frontière. {PRONOUN/n_c:0/subject/CAP} {VERB/n_c:0/decide/decides} de garder son nom.",
         "m_c": {
             "status": [
                 "leader",
@@ -1118,7 +1118,7 @@
             "war"
         ],
         "frequency": 3,
-        "event_text": "n_c:0, the medicine cat of o_c_n, has defected to c_n in the war, {PRONOUN\/n_c:0\/subject} {VERB\/n_c:0\/meet\/meets} m_c at the border. {PRONOUN\/n_c:0\/subject\/CAP} {VERB\/n_c:0\/decide\/decides} to keep {PRONOUN\/n_c:0\/poss} name.",
+        "event_text": "n_c:0, le guérisseur de o_c_n, a fait défection vers c_n pendant la guerre, {PRONOUN/n_c:0/subject} {VERB/n_c:0/meet/meets} m_c à la frontière. {PRONOUN/n_c:0/subject/CAP} {VERB/n_c:0/decide/decides} de garder son nom.",
         "m_c": {
             "status": [
                 "leader",
@@ -1157,7 +1157,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "A desperate queen from o_c_n slinks into c_n's territory, {PRONOUN\/n_c:0\/poss} newborn kits mewling fearfully. After a private discussion, both {PRONOUN\/n_c:0\/subject} and {PRONOUN\/n_c:0\/poss} kits are welcomed to the Clan.",
+        "event_text": "Une reine désespérée de o_c_n pénètre sur le territoire de c_n, ses chatons nouveau-nés miaulant de peur. Après une discussion privée, elle et ses petits sont accueillis dans le Clan.",
         "new_cat": [
             [
                 "new_name",
@@ -1191,7 +1191,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "m_c slinks into o_c_n's nursery in the dead of night, making off with an entire litter of their kits. Rumour has it that their parent abandoned their Clan to try and track down the kits - even better for c_n!",
+        "event_text": "m_c s'infiltre dans la pouponnière de o_c_n en pleine nuit et s'enfuit avec toute une portée de chatons. La rumeur dit que leur parent a quitté son Clan pour tenter de retrouver les petits - tant mieux pour c_n !",
         "m_c": {
             "status": [
                 "leader",
@@ -1257,7 +1257,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "During a raid on the o_c_n camp, m_c finds {PRONOUN\/m_c\/self} in their nursery. Whilst the goal had simply been to sow chaos and discontent, picking up a helpless ball of fluff in {PRONOUN\/m_c\/poss} jaws and sprinting back to c_n certainly does that. The kit is so helpless and pathetic, so unlike the strong c_n kittens. m_c will just have to keep {PRONOUN\/n_c:0\/object}.",
+        "event_text": "Lors d'un raid sur le camp de o_c_n, m_c se retrouve dans leur pouponnière. Bien que le but était de semer le chaos, ramener une boule de poils sans défense à c_n y contribue aussi. Le chaton est si faible, si différent des chatons de c_n. m_c devra garder {PRONOUN/n_c:0/object}.",
         "m_c": {
             "status": [
                 "leader",
@@ -1315,7 +1315,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "Word of c_n's war with o_c_n has spread throughout the area, with one particular loner deciding to share a few of {PRONOUN\/n_c:0\/poss} herbs with c_n.",
+        "event_text": "La guerre entre c_n et o_c_n s'est répandue dans la région, un solitaire décide de partager quelques-unes de ses herbes avec c_n.",
         "new_cat": [
             [
                 "loner",
@@ -1371,7 +1371,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "Word of c_n's war with o_c_n has spread throughout the area, with several loners pooling herbs together to give to c_n.",
+        "event_text": "La guerre entre c_n et o_c_n s'est répandue dans la région, plusieurs solitaires rassemblent des herbes pour les donner à c_n.",
         "new_cat": [
             [
                 "loner",
@@ -1467,7 +1467,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "Word of c_n's war with o_c_n has spread throughout the area, with one particular loner deciding to share some of {PRONOUN\/n_c:0\/poss} fresh-kill with c_n.",
+        "event_text": "La guerre entre c_n et o_c_n s'est répandue dans la région, un solitaire décide de partager une partie de son gibier avec c_n.",
         "new_cat": [
             [
                 "loner",
@@ -1523,7 +1523,7 @@
             "war"
         ],
         "frequency": 2,
-        "event_text": "Word of c_n's war with o_c_n has spread throughout the area, with several loners deciding to share their fresh-kill with c_n.",
+        "event_text": "La guerre entre c_n et o_c_n s'est répandue dans la région, plusieurs solitaires décident de partager leur gibier avec c_n.",
         "new_cat": [
             [
                 "loner",

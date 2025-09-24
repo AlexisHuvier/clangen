@@ -10,7 +10,7 @@
         "intensity": "high",
         "cat_amount": 5,
         "interactions": [
-            "m_c, r_c1, and r_c2 decide they're going to get r_c3 and r_c4 together. They talk about how much r_c3 loves r_c4 in front of r_c4, and, to their pleasure, find the two talking later."
+            "m_c, r_c1 et r_c2 décident de rapprocher r_c3 et r_c4. Ils parlent de combien r_c3 aime r_c4 devant r_c4 et, à leur grand plaisir, voient les deux discuter ensemble plus tard."
         ],
         "status_constraint": {
             "m_c": [
