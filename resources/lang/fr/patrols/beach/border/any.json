@@ -16,8 +16,8 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As the patrol is marking the border lines, a gang of rogues burst from the beach grass! An ambush!",
-        "decline_text": "The patrol turns tail and races away! The borders are left open for the rogues to muddy.",
+        "intro_text": "Alors que la patrouille marque les frontières, une bande de vagabonds surgit des herbes de la plage ! Une embuscade !",
+        "decline_text": "La patrouille détale et s'enfuit ! Les frontières sont laissées ouvertes pour que les vagabonds les souillent.",
         "chance_of_success": 10,
         "success_outcomes": [
             {

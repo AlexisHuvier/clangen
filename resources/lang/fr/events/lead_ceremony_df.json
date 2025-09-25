@@ -60,12 +60,12 @@
             "wisdom"
         ],
         "prev_lead_virtues": [
-            "endurance in the face of hardship",
-            "knowing when to fight and when to choose peace",
-            "leadership through the darkest times",
-            "loyalty to their Clan",
-            "the strength to overcome their fears",
-            "tireless energy"
+            "l'endurance face aux épreuves",
+            "savoir quand se battre et quand choisir la paix",
+            "le leadership dans les moments les plus sombres",
+            "la loyauté envers leur Clan",
+            "la force de surmonter leurs peurs",
+            "une énergie infatigable"
         ]
     },
     "intros": {
@@ -245,7 +245,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c jovially jaunts up to the new leader. The dark murk on {PRONOUN\/r_c\/poss} fur or the red eyes did not seem to dampen {PRONOUN\/r_c\/poss} spirit one bit. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/touch\/touches} {PRONOUN\/r_c\/poss} nose to m_c's head, giving {PRONOUN\/m_c\/object} a life for [virtue]. When m_c looks up, r_c is walking away from the scene in high spirits.",
+                    "text": "r_c s'approche du nouveau chef avec entrain. La boue sombre sur son pelage ou ses yeux rouges ne semblent pas entamer sa bonne humeur. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/touch\/touches} le bout de son museau contre la tête de m_c, accordant à {PRONOUN\/m_c\/object} une vie pour [virtue]. Quand m_c relève la tête, r_c s'éloigne de la scène, toujours aussi joyeux.",
                     "virtue": [
                         "humor",
                         "seeing the brighter side of a dark situation",
@@ -284,7 +284,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c seemed to appear to m_c out of nowhere in the shadowy gloom of the Dark Forest, and quietly gives {PRONOUN\/m_c\/object} a life for [virtue]. As quickly as {PRONOUN\/r_c\/subject} appeared, r_c vanished when the life was given.",
+                    "text": "r_c semble apparaître à m_c de nulle part dans la pénombre sombre de la Forêt Sombre, et accorde silencieusement à {PRONOUN\/m_c\/object} une vie pour [virtue]. Aussi rapidement que {PRONOUN\/r_c\/subject} est apparu(e), r_c disparaît une fois la vie accordée.",
                     "virtue": [
                         "resilience",
                         "harsh judgment",
@@ -320,7 +320,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c walks up to m_c next, giving {PRONOUN\/m_c\/object} a life for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/growl\/growls} a word of encouragement about the destruction of c_n's enemies before returning to the line of shadows.",
+                    "text": "r_c s'approche ensuite de m_c, lui accordant une vie pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/growl\/growls} un mot d'encouragement sur la destruction des ennemis de c_n avant de retourner dans la ligne d'ombres.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -344,7 +344,7 @@
                     ]
                 },
                 {
-                    "text": "r_c approaches. Pain surges through m_c's pelt as {PRONOUN\/m_c\/subject} {VERB\/m_c\/receive\/receives} a life for [virtue]. r_c watches with no sympathy, grunting to live with the wounds earned.",
+                    "text": "r_c s'approche. La douleur traverse le pelage de m_c tandis que {PRONOUN\/m_c\/subject} {VERB\/m_c\/receive\/receives} une vie pour [virtue]. r_c regarde sans sympathie, grognant de vivre avec les blessures méritées.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -387,7 +387,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c places {PRONOUN\/r_c\/poss} muzzle against m_c, giving a harsh life for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/leave\/leaves} with a whisper that the borders are not to be trusted.",
+                    "text": "r_c pose {PRONOUN\/r_c\/poss} museau contre m_c, accordant une vie brutale pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/leave\/leaves} avec un murmure que les frontières ne sont pas à faire confiance.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -430,7 +430,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c's dark eyes glisten with the light of a thousand unrealized ambitions. As {PRONOUN\/r_c\/subject} {VERB\/r_c\/inflict\/inflicts} a life for [virtue] on m_c, r_c hisses those goals into {PRONOUN\/m_c\/poss} ear.",
+                    "text": "Les yeux sombres de r_c brillent de la lumière de milliers d'ambitions non réalisées. Tandis que {PRONOUN\/r_c\/subject} {VERB\/r_c\/inflict\/inflicts} une vie pour [virtue] à m_c, r_c siffle ces objectifs dans l'oreille de {PRONOUN\/m_c\/poss}.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -468,7 +468,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c bares {PRONOUN\/r_c\/poss} teeth. For a moment, it looks like {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} about to fight m_c, but {PRONOUN\/r_c\/subject} only {VERB\/r_c\/press\/presses} {PRONOUN\/r_c\/poss} nose against m_c and snarls a life for [virtue].",
+                    "text": "r_c montre {PRONOUN\/r_c\/poss} dents. Pendant un moment, on dirait que {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} sur le point de se battre avec m_c, mais {PRONOUN\/r_c\/subject} ne fait que presser {PRONOUN\/r_c\/poss} museau contre m_c et grogne une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -511,7 +511,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "The air becomes unsettlingly still as r_c, a cat with a nefarious reputation, draws near. With deceptively calm steps, {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c, extending an offer of a life infused with the virtue of [virtue]. As the life surges through m_c, r_c vanishes into the veils of darkness from which {PRONOUN\/r_c\/subject} emerged.",
+                    "text": "L'air devient troublant de calme alors que r_c, un chat à la réputation néfaste, s'approche. Avec des pas d'un calme trompeur, {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c, offrant une vie imprégnée de la vertu de [virtue]. Alors que la vie déferle à travers m_c, r_c disparaît dans les voiles d'obscurité d'où {PRONOUN\/r_c\/subject} a émergé(e).",
                     "virtue": [
                         "ambition",
                         "certainty",
@@ -529,7 +529,7 @@
                     ]
                 },
                 {
-                    "text": "Eerily composed, r_c approaches, {PRONOUN\/r_c\/poss} calmness tinged with a malevolent presence. {PRONOUN\/r_c\/poss\/CAP} cool facade gleams at m_c, as {PRONOUN\/r_c\/subject} {VERB\/r_c\/extend\/extends} an offer of a life, infused with the virtue of [virtue].",
+                    "text": "Étrangement composé(e), r_c s'approche, {PRONOUN\/r_c\/poss} calme teinté d'une présence malveillante. {PRONOUN\/r_c\/poss\/CAP} façade froide brille vers m_c, tandis que {PRONOUN\/r_c\/subject} {VERB\/r_c\/extend\/extends} l'offre d'une vie, imprégnée de la vertu de [virtue].",
                     "virtue": [
                         "ambition",
                         "certainty",
@@ -566,7 +566,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c steps forth with hypnotic grace, {PRONOUN\/r_c\/poss} presence pulling the very air into a hushed stillness. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/exude\/exudes} an unsettling tranquility, {PRONOUN\/r_c\/poss} eyes shining with ravening intelligence. {PRONOUN\/r_c\/subject\/CAP} slowly {VERB\/r_c\/draw\/draws} nearer with calculated movements, giving m_c a life for [virtue].",
+                    "text": "r_c s'avance avec une grâce hypnotique, {PRONOUN\/r_c\/poss} présence attirant l'air même dans un silence feutré. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/exude\/exudes} une tranquillité troublante, {PRONOUN\/r_c\/poss} yeux brillant d'une intelligence vorace. {PRONOUN\/r_c\/subject\/CAP} se rapproche lentement avec des mouvements calculés, accordant à m_c une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -587,7 +587,7 @@
                     ]
                 },
                 {
-                    "text": "r_c moves forward with deliberate precision, the relentless focus of a predator stalking its prey. Eyes glinting with enmity, r_c surveys m_c, leaving no detail unnoticed. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/inch\/inches} closer, offering a life for [virtue]. Before the malevolent spirit vanishes, m_c sees {PRONOUN\/r_c\/object} dip {PRONOUN\/r_c\/poss} head.",
+                    "text": "r_c avance avec une précision délibérée, la concentration implacable d'un prédateur traquant sa proie. Les yeux brillant d'hostilité, r_c examine m_c, ne laissant aucun détail inaperçu. {PRONOUN\/r_c\/subject\/CAP} se rapproche centimètre par centimètre, offrant une vie pour [virtue]. Avant que l'esprit malveillant ne disparaisse, m_c voit {PRONOUN\/r_c\/object} incliner {PRONOUN\/r_c\/poss} tête.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -627,7 +627,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Slinking across the ground to close the distance between them, r_c grins like {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} watching a tiny, trapped mouse. r_c gives m_c a life for [virtue], vanishing before that maw can strike at {PRONOUN\/m_c\/poss} throat.",
+                    "text": "Se glissant sur le sol pour réduire la distance entre eux, r_c sourit comme si {PRONOUN\/r_c\/subject} {VERB\/r_c\/are\/is} en train de regarder une petite souris prise au piège. r_c donne à m_c une vie pour [virtue], disparaissant avant que cette gueule puisse frapper à {PRONOUN\/m_c\/poss} gorge.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -670,7 +670,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c bounds up to the new leader with a wicked grin. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/place\/places} {PRONOUN\/r_c\/poss} nose against m_c's head, jabbering quickly on about a life for [virtue] before asking what m_c's favorite game is. Another shadowy spirit shoves r_c aside for the next life giver before {PRONOUN\/m_c\/subject} can answer.",
+                    "text": "r_c bondit vers le nouveau chef avec un sourire malicieux. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/place\/places} {PRONOUN\/r_c\/poss} museau contre la tête de m_c, bavardant rapidement sur une vie pour [virtue] avant de demander quel est le jeu préféré de m_c. Un autre esprit ombragé pousse r_c de côté pour le prochain donneur de vie avant que {PRONOUN\/m_c\/subject} puisse répondre.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -713,7 +713,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Draped in an aura of chilling indifference, r_c slinks forward with stoic grace. {PRONOUN\/r_c\/poss\/CAP} measured steps seem to reverberate with an unsettling stillness that sends shivers down m_c's spine. Closing the haunting distance between them, r_c extends an offer of a life in name of [virtue].",
+                    "text": "Drapé(e) dans une aura d'indifférence glaciale, r_c se glisse en avant avec une grâce stoïque. {PRONOUN\/r_c\/poss\/CAP} pas mesurés semblent résonner d'un calme troublant qui fait frissonner l'échine de m_c. Réduisant la distance hantée entre eux, r_c offre une vie au nom de [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -737,7 +737,7 @@
                     ]
                 },
                 {
-                    "text": "r_c approaches, {PRONOUN\/r_c\/poss} feral grace exuding a calculated composure that conceals the wickedness that thrives within. As {PRONOUN\/r_c\/subject} {VERB\/r_c\/close\/closes} in, an icy grip envelops m_c's being, challenging {PRONOUN\/m_c\/poss} very resolve. Yet, amidst the chilling embrace, a surge of life courses through m_c's veins, a vitality nourished by the unwavering virtue of [virtue].",
+                    "text": "r_c s'approche, {PRONOUN\/r_c\/poss} grâce sauvage exsudant un sang-froid calculé qui dissimule la méchanceté qui prospère à l'intérieur. Alors que {PRONOUN\/r_c\/subject} se rapproche, une emprise glaciale enveloppe l'être de m_c, défiant {PRONOUN\/m_c\/poss} résolution même. Pourtant, au milieu de cette étreinte glaciale, une vague de vie traverse les veines de m_c, une vitalité nourrie par la vertu inébranlable de [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -780,7 +780,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c steps forward with unusual warmth and affection shining in {PRONOUN\/r_c\/poss} eyes. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/rest\/rests} {PRONOUN\/r_c\/poss} muzzle on m_c's head, giving {PRONOUN\/m_c\/object} a life for [virtue]. As {PRONOUN\/r_c\/subject} {VERB\/r_c\/withdraw\/withdraws}, {PRONOUN\/r_c\/subject} {VERB\/r_c\/whisper\/whispers} that m_c must put {PRONOUN\/m_c\/poss} loved ones above all else - at all costs.",
+                    "text": "r_c s'avance avec une chaleur et une affection inhabituelles brillant dans {PRONOUN\/r_c\/poss} yeux. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/rest\/rests} {PRONOUN\/r_c\/poss} museau sur la tête de m_c, lui donnant une vie pour [virtue]. Alors que {PRONOUN\/r_c\/subject} se retire, {PRONOUN\/r_c\/subject} {VERB\/r_c\/whisper\/whispers} que m_c doit placer {PRONOUN\/m_c\/poss} êtres chers au-dessus de tout - à tout prix.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -823,7 +823,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c strolls up to m_c, eyeing the soon-to-be leader with a smirk. Satisfied with {PRONOUN\/r_c\/poss} evaluation, {PRONOUN\/r_c\/subject} {VERB\/r_c\/rest\/rests} {PRONOUN\/r_c\/poss} muzzle on m_c's head and gives a life for [virtue].",
+                    "text": "r_c se promène vers m_c, regardant le futur chef avec un sourire narquois. Satisfait(e) de {PRONOUN\/r_c\/poss} évaluation, {PRONOUN\/r_c\/subject} {VERB\/r_c\/rest\/rests} {PRONOUN\/r_c\/poss} museau sur la tête de m_c et accorde une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -866,7 +866,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c lunges from the impenetrable gloom, stopping with {PRONOUN\/r_c\/poss} claws a whisker away from m_c's face. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/laugh\/laughs} sharply when {PRONOUN\/r_c\/subject} {VERB\/r_c\/realize\/realizes} m_c had moved to retaliate, even when surrounded by the oppressive murk. r_c grazes {PRONOUN\/r_c\/poss} claws over m_c's throat to bestow a life for [virtue], leaving as suddenly as {PRONOUN\/r_c\/subject} appeared.",
+                    "text": "r_c bondit de la pénombre impénétrable, s'arrêtant avec {PRONOUN\/r_c\/poss} griffes à une moustache du visage de m_c. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/laugh\/laughs} sèchement quand {PRONOUN\/r_c\/subject} {VERB\/r_c\/realize\/realizes} que m_c avait bougé pour riposter, même entouré(e) par l'obscurité oppressante. r_c effleure {PRONOUN\/r_c\/poss} griffes sur la gorge de m_c pour accorder une vie pour [virtue], partant aussi soudainement que {PRONOUN\/r_c\/subject} était apparu(e).",
                     "virtue": [
                         "ambition",
                         "confidence",
@@ -887,7 +887,7 @@
                     ]
                 },
                 {
-                    "text": "r_c locks eyes with m_c through the darkness before striding forward, shadows and goop sticking strongly to {PRONOUN\/r_c\/poss} fur. m_c is the one who initiates the nose-touch - though r_c doesn't so much as blink, allowing the life of [virtue] to flow into m_c with a fanged grin.",
+                    "text": "r_c croise le regard de m_c à travers l'obscurité avant de s'avancer à grands pas, les ombres et la boue collant fortement à {PRONOUN\/r_c\/poss} fourrure. C'est m_c qui initie le contact museau-à-museau - bien que r_c ne cligne même pas des yeux, permettant à la vie de [virtue] de s'écouler dans m_c avec un sourire aux crocs.",
                     "virtue": [
                         "ambition",
                         "confidence",
@@ -927,7 +927,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c's eyes glitter with bleak conviction as {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c. Offering a life for [virtue], r_c murmurs that m_c must follow {PRONOUN\/m_c\/poss} beliefs - no matter what path those beliefs may lead {PRONOUN\/m_c\/object} down.",
+                    "text": "Les yeux de r_c brillent d'une conviction lugubre tandis que {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c. Offrant une vie pour [virtue], r_c murmure que m_c doit suivre {PRONOUN\/m_c\/poss} croyances - peu importe le chemin où ces croyances peuvent mener {PRONOUN\/m_c\/object}.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -970,7 +970,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "According to r_c's ferocious growl, only the strongest could survive being leader. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/press\/presses} {PRONOUN\/r_c\/poss} claws against m_c's neck while giving a life for [virtue], encouraging the new leader to become a legend that haunts the kits from the other Clans.",
+                    "text": "Selon le grognement féroce de r_c, seuls les plus forts pourraient survivre en tant que chef. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/press\/presses} {PRONOUN\/r_c\/poss} griffes contre le cou de m_c tout en accordant une vie pour [virtue], encourageant le nouveau chef à devenir une légende qui hante les chatons des autres Clans.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -994,7 +994,7 @@
                     ]
                 },
                 {
-                    "text": "r_c's claws dig into the shadowy ooze underneath {PRONOUN\/r_c\/object} when {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c. The dark spirit gives a life for [virtue]. It feels like the claws of all the foxes in the world are raking down m_c's pelt.",
+                    "text": "Les griffes de r_c s'enfoncent dans la boue sombre sous {PRONOUN\/r_c\/object} quand {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c. L'esprit sombre accorde une vie pour [virtue]. C'est comme si les griffes de tous les renards du monde griffaient le pelage de m_c.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1037,7 +1037,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches, shooting a nervous look over {PRONOUN\/r_c\/poss} shoulder to study the gloom for one fleeting moment. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/turn\/turns} back to m_c and {VERB\/r_c\/thrust\/thrusts} {PRONOUN\/r_c\/poss} muzzle against {PRONOUN\/m_c\/inposs}, hard enough to bruise. r_c forces a life for [virtue] onto {PRONOUN\/m_c\/object} before withdrawing.",
+                    "text": "r_c s'approche, jetant un regard nerveux par-dessus {PRONOUN\/r_c\/poss} épaule pour étudier l'obscurité un bref instant. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/turn\/turns} vers m_c et {VERB\/r_c\/thrust\/thrusts} {PRONOUN\/r_c\/poss} museau contre {PRONOUN\/m_c\/inposs}, assez fort pour faire un bleu. r_c force une vie pour [virtue] sur {PRONOUN\/m_c\/object} avant de se retirer.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1080,7 +1080,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c slinks forward with an air of unsettling detachment. Rarely does a sound escape {PRONOUN\/r_c\/poss} lips: {PRONOUN\/r_c\/subject} {VERB\/r_c\/speak\/speaks} only to hand m_c a life for [virtue], then fades into the shadows once more. {PRONOUN\/r_c\/poss\/CAP} haunting presence lingers, leaving behind a trail of curiosity and unspoken whispers.",
+                    "text": "r_c se glisse en avant avec un air de détachement troublant. Rarement un son s'échappe de {PRONOUN\/r_c\/poss} lèvres : {PRONOUN\/r_c\/subject} {VERB\/r_c\/speak\/speaks} seulement pour remettre à m_c une vie pour [virtue], puis s'estompe à nouveau dans les ombres. {PRONOUN\/r_c\/poss\/CAP} présence hantée persiste, laissant derrière une traînée de curiosité et de murmures inexprimés.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1104,7 +1104,7 @@
                     ]
                 },
                 {
-                    "text": "Though lacking words, r_c's presence emanates an unspoken offer of a life for m_c, embedded with the virtue of [virtue]. The departure leaves a trail of mystery and reverential awe in r_c's aftermath.",
+                    "text": "Bien que manquant de mots, la présence de r_c émane une offre silencieuse d'une vie pour m_c, imprégnée de la vertu de [virtue]. Le départ laisse une traînée de mystère et de respect admiratif dans le sillage de r_c.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1128,7 +1128,7 @@
                     ]
                 },
                 {
-                    "text": "With steady footing, r_c approaches m_c, {PRONOUN\/r_c\/poss} velvet paws treading noiselessly upon the spongy ground. r_c's brooding demeanor and ominous silence allude to the dark past that remains locked within {PRONOUN\/r_c\/poss} enigmatic spirit. {PRONOUN\/r_c\/subject\/CAP} silently {VERB\/r_c\/give\/gives} a life for [virtue], then {VERB\/r_c\/leave\/leaves} without ever making a sound.",
+                    "text": "Avec un appui ferme, r_c s'approche de m_c, {PRONOUN\/r_c\/poss} pattes de velours marchant silencieusement sur le sol spongieux. L'attitude sombre et le silence de mauvais augure de r_c font allusion au passé sombre qui reste enfermé dans {PRONOUN\/r_c\/poss} esprit énigmatique. {PRONOUN\/r_c\/subject\/CAP} donne silencieusement une vie pour [virtue], puis {VERB\/r_c\/leave\/leaves} sans jamais faire de bruit.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1171,7 +1171,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches m_c and entwines {PRONOUN\/r_c\/poss} tail with {PRONOUN\/m_c\/inposs}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/promise\/promises} m_c that {PRONOUN\/m_c\/poss} destiny awaits, if only {PRONOUN\/m_c\/subject} will be ruthless enough to seize it. r_c gives a life for [virtue]. r_c feels sure that this gift of [virtue] is the first pawprint on the path.",
+                    "text": "r_c s'approche de m_c et entrelace {PRONOUN\/r_c\/poss} queue avec {PRONOUN\/m_c\/inposs}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/promise\/promises} à m_c que {PRONOUN\/m_c\/poss} destin l'attend, si seulement {PRONOUN\/m_c\/subject} sera assez impitoyable pour le saisir. r_c donne une vie pour [virtue]. r_c est sûr(e) que ce don de [virtue] est la première empreinte de patte sur le chemin.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1214,7 +1214,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c presses {PRONOUN\/r_c\/poss} nose against m_c's forehead, the virtue of [virtue] burning away the leader's previous life. Loyalty to {PRONOUN\/m_c\/poss} Clan must be absolute, and no weakness can be tolerated.",
+                    "text": "r_c presse {PRONOUN\/r_c\/poss} museau contre le front de m_c, la vertu de [virtue] brûlant l'ancienne vie du chef. La loyauté envers le Clan de {PRONOUN\/m_c\/poss} doit être absolue, et aucune faiblesse ne peut être tolérée.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1257,7 +1257,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c only watches the new leader with a rather forlorn look before giving {PRONOUN\/m_c\/object} a life for [virtue]. m_c doesn't even have a chance to talk to the Dark Forest cat before {PRONOUN\/r_c\/subject} {VERB\/r_c\/vanish\/vanishes} into smoke.",
+                    "text": "r_c ne fait que regarder le nouveau chef avec un regard plutôt désolé avant de donner à {PRONOUN\/m_c\/object} une vie pour [virtue]. m_c n'a même pas la chance de parler au chat de la Forêt Sombre avant que {PRONOUN\/r_c\/subject} {VERB\/r_c\/vanish\/vanishes} en fumée.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1299,7 +1299,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A dark tail passes in front of m_c's eyes as another cat approaches from behind. The shadows distort the life giver's voice, but {PRONOUN\/m_c\/subject} swears {PRONOUN\/m_c\/subject} can hear r_c teasing {PRONOUN\/m_c\/object}. The life of [virtue] soaked in before m_c can see if it was really {PRONOUN\/r_c\/object}.",
+                    "text": "Une queue sombre passe devant les yeux de m_c alors qu'un autre chat s'approche par derrière. Les ombres déforment la voix du donneur de vie, mais {PRONOUN\/m_c\/subject} jure que {PRONOUN\/m_c\/subject} peut entendre r_c taquiner {PRONOUN\/m_c\/object}. La vie de [virtue] s'imprègne avant que m_c puisse voir si c'était vraiment {PRONOUN\/r_c\/object}.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1340,7 +1340,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches m_c, a stern glow in {PRONOUN\/r_c\/poss} dark gaze. As {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} {PRONOUN\/r_c\/poss} life for [virtue], {PRONOUN\/r_c\/subject} {VERB\/r_c\/remind\/reminds} m_c that true greatness can only be achieved through hard work and discipline.",
+                    "text": "r_c s'approche de m_c, une lueur sévère dans {PRONOUN\/r_c\/poss} regard sombre. Alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} {PRONOUN\/r_c\/poss} vie pour [virtue], {PRONOUN\/r_c\/subject} {VERB\/r_c\/remind\/reminds} à m_c que la vraie grandeur ne peut être atteinte que par le travail acharné et la discipline.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1383,7 +1383,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "m_c pins {PRONOUN\/m_c\/poss} ears back as the shadowy figure of r_c appears from the gloom. r_c's flint-sharp eyes reveal nothing as {PRONOUN\/r_c\/subject} {VERB\/r_c\/lift\/lifts} a paw with unsheathed claws up to m_c's head. The touch is light, gifting a life for [virtue], but the pain that rips through m_c makes {PRONOUN\/m_c\/object} want to scream.",
+                    "text": "m_c plaque {PRONOUN\/m_c\/poss} oreilles en arrière alors que la silhouette sombre de r_c apparaît de l'obscurité. Les yeux acérés comme du silex de r_c ne révèlent rien tandis que {PRONOUN\/r_c\/subject} {VERB\/r_c\/lift\/lifts} une patte aux griffes sorties vers la tête de m_c. Le contact est léger, offrant une vie pour [virtue], mais la douleur qui déchire m_c lui donne envie de crier.",
                     "virtue": [
                         "detachment",
                         "vehemence",
@@ -1411,7 +1411,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c raises up from beneath m_c, gloom sticking to {PRONOUN\/r_c\/object} like dried blood. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/curl\/curls} like a snake about to strike, tail-tip flicking. As r_c makes contact with m_c, a life for [virtue] floods into {PRONOUN\/m_c\/object}, just as venom might.",
+                    "text": "r_c se dresse de sous m_c, l'obscurité collant à {PRONOUN\/r_c\/object} comme du sang séché. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/curl\/curls} comme un serpent sur le point de frapper, le bout de la queue battant. Lorsque r_c entre en contact avec m_c, une vie pour [virtue] afflue dans {PRONOUN\/m_c\/object}, comme pourrait le faire du venin.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1454,7 +1454,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A pair of piercing eyes gleam from the darkness, hinting at the wickedness that lies within. With calculated stealth, r_c approaches m_c as if stalking prey, each paw touching the ground with an unsettling grace. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} a life for [virtue], {PRONOUN\/r_c\/poss} malevolent presence disappearing as quickly as it approached.",
+                    "text": "Une paire d'yeux perçants brille dans l'obscurité, laissant entrevoir la méchanceté qui se cache à l'intérieur. Avec une furtivité calculée, r_c s'approche de m_c comme s'il traquait une proie, chaque patte touchant le sol avec une grâce troublante. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} une vie pour [virtue], {PRONOUN\/r_c\/poss} présence malveillante disparaissant aussi rapidement qu'elle s'est approchée.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1478,7 +1478,7 @@
                     ]
                 },
                 {
-                    "text": "With every sinew of {PRONOUN\/r_c\/poss} body tensed, r_c approaches with calculated stealth, leaving naught but silence in {PRONOUN\/r_c\/poss} wake. The very air seems to hold its breath as the profound essence of [virtue] unfolds in the precious gift of a life for m_c.",
+                    "text": "Avec chaque tendon de {PRONOUN\/r_c\/poss} corps tendu, r_c s'approche avec une furtivité calculée, ne laissant que le silence dans {PRONOUN\/r_c\/poss} sillage. L'air même semble retenir son souffle alors que l'essence profonde de [virtue] se déploie dans le précieux cadeau d'une vie pour m_c.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1521,7 +1521,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A shape begins to form in the distance. Then, in the space of a pawstep, r_c is suddenly directly in front of m_c's muzzle. Before m_c can flinch away, the unearthly spirit gives a life for [virtue], then vanishes into the darkness like smoke gusted by the breeze. A trace of {PRONOUN\/r_c\/poss} glowing eyes remains, only for a heartbeat.",
+                    "text": "Une forme commence à se dessiner au loin. Puis, en l'espace d'un pas de patte, r_c se trouve soudain directement devant le museau de m_c. Avant que m_c puisse tressaillir, l'esprit surnaturel donne une vie pour [virtue], puis disparaît dans l'obscurité comme de la fumée emportée par la brise. Une trace de {PRONOUN\/r_c\/poss} yeux brillants demeure, seulement l'espace d'un battement de cœur.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1564,7 +1564,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c looms over m_c, a fierce light kindled in the depths of {PRONOUN\/r_c\/poss} gaze. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/snarl\/snarls} that m_c, as leader, is now the keeper of the Code itself, and must shape it to {PRONOUN\/m_c\/poss} will. This duty must not be shirked. With that warning, r_c gives a life for [virtue].",
+                    "text": "r_c domine m_c, une lumière féroce allumée dans les profondeurs de {PRONOUN\/r_c\/poss} regard. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/snarl\/snarls} que m_c, en tant que chef, est maintenant le gardien du Code lui-même, et doit le façonner selon {PRONOUN\/m_c\/poss} volonté. Ce devoir ne doit pas être esquivé. Avec cet avertissement, r_c donne une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1607,7 +1607,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c watches m_c with piercing eyes, as though the dark spirit can see right through all of m_c's thoughts! {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/are\/is} silent as {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} a life for [virtue].",
+                    "text": "r_c regarde m_c avec des yeux perçants, comme si l'esprit sombre pouvait voir à travers toutes les pensées de m_c ! {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/are\/is} silencieux alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1650,7 +1650,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c gives m_c a life for [virtue], simultaneously whispering a prank into {PRONOUN\/m_c\/poss} ear that would be <i>so funny<\/i> to pull on the other Clans.",
+                    "text": "r_c donne à m_c une vie pour [virtue], chuchotant simultanément une farce dans l'oreille de {PRONOUN\/m_c\/poss} qui serait <i>si drôle</i> de faire aux autres Clans.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1693,7 +1693,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c stalks up to m_c, {PRONOUN\/r_c\/poss} cold, foul breath misting over {PRONOUN\/m_c\/poss} face. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/recite\/recites} a list of names of the living - the kin of those that wronged r_c moons ago. With the burden of vengeance now weighing on m_c, r_c offers a life for [virtue].",
+                    "text": "r_c traque m_c, {PRONOUN\/r_c\/poss} souffle froid et fétide brumant sur le visage de {PRONOUN\/m_c\/poss}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/recite\/recites} une liste de noms des vivants - la parenté de ceux qui ont fait du tort à r_c il y a des lunes. Avec le fardeau de la vengeance pesant maintenant sur m_c, r_c offre une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1736,7 +1736,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c's presence is like a cool wave of dark water, lapping at m_c's pawsteps. The dark spirit approaches with little fanfare and rests {PRONOUN\/r_c\/poss} muzzle on m_c's head to deliver a gift for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/murmur\/murmurs} a word of advice, soft and cold as snowfall, then vanishes into the mist.",
+                    "text": "La présence de r_c est comme une vague fraîche d'eau sombre, clapotant aux pas de m_c. L'esprit sombre s'approche sans fanfare et pose {PRONOUN\/r_c\/poss} museau sur la tête de m_c pour offrir un cadeau pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/murmur\/murmurs} un mot de conseil, doux et froid comme la chute de neige, puis disparaît dans la brume.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1779,7 +1779,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches with a scornful gaze, already finding m_c lacking. Nevertheless, {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} a life for [virtue] and {VERB\/r_c\/warn\/warns} m_c not to screw things up too much.",
+                    "text": "r_c s'approche avec un regard méprisant, trouvant déjà m_c insuffisant(e). Néanmoins, {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} une vie pour [virtue] et {VERB\/r_c\/warn\/warns} à m_c de ne pas trop tout gâcher.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1817,7 +1817,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c knows that m_c will never be able to outdo {PRONOUN\/r_c\/object}, even with the Dark Forest on the new leader's side. Even as the life for [virtue] fades into a dull, painful ache, r_c whispers how {PRONOUN\/r_c\/subject} will be here, watching m_c fail again and again.",
+                    "text": "r_c sait que m_c ne pourra jamais surpasser {PRONOUN\/r_c\/object}, même avec la Forêt Sombre du côté du nouveau chef. Même alors que la vie pour [virtue] s'estompe en une douleur sourde et pénible, r_c chuchote comment {PRONOUN\/r_c\/subject} sera ici, regardant m_c échouer encore et encore.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1860,7 +1860,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches in a howl of cold wind, a shower of blood-red sparkles, and a flurry of shrieking bats. r_c whispers that {PRONOUN\/r_c\/subject} would've given m_c a life for making great entrances if {PRONOUN\/r_c\/subject} were allowed to, but as it stands, m_c will have to make do with a life for [virtue].",
+                    "text": "r_c s'approche dans un hurlement de vent froid, une pluie d'étincelles rouge sang, et un tourbillon de chauves-souris stridents. r_c chuchote que {PRONOUN\/r_c\/subject} aurait donné à m_c une vie pour faire de grandes entrées si {PRONOUN\/r_c\/subject} y était autorisé(e), mais en l'état, m_c devra se contenter d'une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1903,7 +1903,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A sour wind blows over m_c, then a spirit appears with an even sourer expression. The shadows coalesce to form r_c, who approaches with a grunt of greeting and doles out a life for [virtue]. With a parting scowl, r_c vanishes.",
+                    "text": "Un vent aigre souffle sur m_c, puis un esprit apparaît avec une expression encore plus aigre. Les ombres se fondent pour former r_c, qui s'approche avec un grognement de salutation et distribue une vie pour [virtue]. Avec un regard de mépris d'adieu, r_c disparaît.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1946,7 +1946,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c steps out of the oily water, looking sleek and deadly. m_c steps back, but not in time to dodge the shower of sticky droplets that {PRONOUN\/r_c\/subject} {VERB\/r_c\/shake\/shakes} out of {PRONOUN\/r_c\/poss} pelt. With a soggy nose-touch, r_c gives a life for [virtue] and reminds m_c that as leader, {PRONOUN\/m_c\/subject} no longer {VERB\/m_c\/have\/has} to listen to another cat's rules ever again.",
+                    "text": "r_c sort de l'eau huileuse, l'air élégant et mortel. m_c recule, mais pas assez rapidement pour éviter la pluie de gouttelettes collantes que {PRONOUN\/r_c\/subject} {VERB\/r_c\/shake\/shakes} de {PRONOUN\/r_c\/poss} pelage. Avec un contact museau-à-museau détrempé, r_c donne une vie pour [virtue] et rappelle à m_c qu'en tant que chef, {PRONOUN\/m_c\/subject} n'a plus jamais à écouter les règles d'un autre chat.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -1989,7 +1989,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c prowls out of the shadows. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/offer\/offers} no honeyed words nor silken promises about the path ahead - only the cold warning that leadership requires absolute strength. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} m_c a life for [virtue].",
+                    "text": "r_c sort de l'ombre en rôdant. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/offer\/offers} ni mots mielleux ni promesses soyeuses sur le chemin à venir - seulement l'avertissement glacial que le leadership exige une force absolue. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} à m_c une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2030,7 +2030,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c walks up to m_c next, offering a life for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} a wicked grin, telling m_c that {PRONOUN\/m_c\/poss} Clan will survive any threat.",
+                    "text": "r_c s'approche de m_c ensuite, offrant une vie pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} un sourire maléfique, disant à m_c que {PRONOUN\/m_c\/poss} Clan survivra à toute menace.",
                     "virtue": [
                         "bravery",
                         "certainty",
@@ -2048,7 +2048,7 @@
                     ]
                 },
                 {
-                    "text": "Another cat approaches. r_c steps forward to give m_c a life for [virtue]. m_c grits {PRONOUN\/m_c\/poss} teeth as the life rushes into {PRONOUN\/m_c\/object}.",
+                    "text": "Un autre chat s'approche. r_c s'avance pour donner à m_c une vie pour [virtue]. m_c serre {PRONOUN\/m_c\/poss} dents alors que la vie se précipite en {PRONOUN\/m_c\/object}.",
                     "virtue": [
                         "bravery",
                         "certainty",
@@ -2066,7 +2066,7 @@
                     ]
                 },
                 {
-                    "text": "r_c hisses a raspy greeting. Energy surges through m_c's pelt as {PRONOUN\/m_c\/subject} {VERB\/m_c\/receive\/receives} a life for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/spit\/spits} at m_c that {PRONOUN\/m_c\/poss} pain is almost over.",
+                    "text": "r_c siffle un salut rauque. L'énergie déferle à travers le pelage de m_c alors que {PRONOUN\/m_c\/subject} {VERB\/m_c\/receive\/receives} une vie pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/spit\/spits} à m_c que {PRONOUN\/m_c\/poss} douleur est presque terminée.",
                     "virtue": [
                         "bravery",
                         "certainty",
@@ -2103,7 +2103,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Another cat approaches. r_c steps forward to give m_c a life for [virtue]. m_c yowls in pain as the life rushes into {PRONOUN\/m_c\/object}.",
+                    "text": "Un autre chat s'approche. r_c s'avance pour donner à m_c une vie pour [virtue]. m_c hurle de douleur alors que la vie se précipite en {PRONOUN\/m_c\/object}.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2146,7 +2146,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c narrows {PRONOUN\/r_c\/poss} eyes as {PRONOUN\/r_c\/subject} {VERB\/r_c\/stalk\/stalks} up to m_c. After a cryptic warning to keep {PRONOUN\/m_c\/poss} eyes on {PRONOUN\/m_c\/poss} <i>own<\/i> Clan, rather than the horizons, {PRONOUN\/m_c\/subject} {VERB\/m_c\/receive\/receives} a life for [virtue].",
+                    "text": "r_c plisse {PRONOUN\/r_c\/poss} yeux alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/stalk\/stalks} vers m_c. Après un avertissement cryptique de garder {PRONOUN\/m_c\/poss} yeux sur {PRONOUN\/m_c\/poss} <i>propre<\/i> Clan, plutôt que sur les horizons, {PRONOUN\/m_c\/subject} {VERB\/m_c\/receive\/receives} une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2170,7 +2170,7 @@
                     ]
                 },
                 {
-                    "text": "r_c approaches next and growls under {PRONOUN\/r_c\/poss} breath about the soft-hearted kittypets stalking around the borders. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} a life for [virtue] and hurriedly steps away.",
+                    "text": "r_c s'approche ensuite et grogne sous {PRONOUN\/r_c\/poss} souffle à propos des chats domestiques au cœur tendre qui rôdent autour des frontières. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} une vie pour [virtue] et s'éloigne précipitamment.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2213,7 +2213,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "With a taunting laugh, r_c approaches and gives m_c a life for [virtue]. r_c asks if {PRONOUN\/m_c\/poss} ambition to lead the Clan was worth the pain, but leaves before m_c could answer.",
+                    "text": "Avec un rire moqueur, r_c s'approche et donne à m_c une vie pour [virtue]. r_c demande si {PRONOUN\/m_c\/poss} ambition de diriger le Clan valait la peine, mais part avant que m_c puisse répondre.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2237,7 +2237,7 @@
                     ]
                 },
                 {
-                    "text": "There is a proud gleam in r_c's eyes as {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} the new leader. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} a life for [virtue], and encouragement to raise m_c's ambitions even higher than the stars themselves.",
+                    "text": "Il y a une lueur fière dans les yeux de r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} le nouveau chef. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} une vie pour [virtue], et encourage à élever les ambitions de m_c encore plus haut que les étoiles elles-mêmes.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2280,7 +2280,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c steps up to the new leader with a chilling grin stretching {PRONOUN\/r_c\/poss} maw apart. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} m_c a life for [virtue], encouraging m_c to boldly do what no Stars-loving cat could never dare to try.",
+                    "text": "r_c s'avance vers le nouveau chef avec un sourire glacial qui étire {PRONOUN\/r_c\/poss} gueule. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/give\/gives} à m_c une vie pour [virtue], encourageant m_c à faire audacieusement ce qu'aucun chat qui aime les Étoiles n'oserait jamais tenter.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2304,7 +2304,7 @@
                     ]
                 },
                 {
-                    "text": "Murk slides down r_c's face as {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} m_c a life for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/open\/opens} {PRONOUN\/r_c\/poss} mouth to say something, but only shakes {PRONOUN\/r_c\/poss} head before disappearing into the choking smog.",
+                    "text": "La boue sombre glisse sur le visage de r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} à m_c une vie pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/open\/opens} {PRONOUN\/r_c\/poss} gueule pour dire quelque chose, mais ne fait que secouer {PRONOUN\/r_c\/poss} tête avant de disparaître dans le brouillard étouffant.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2347,7 +2347,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches, black slime dripping from {PRONOUN\/r_c\/poss} fur, blood oozing from the corners of {PRONOUN\/r_c\/poss} eyes. Even m_c feels shaken to see such a vile form draw near, closing {PRONOUN\/m_c\/poss} eyes as r_c reaches out to give a life for [virtue].",
+                    "text": "r_c s'approche, une bave noire dégoulinant de {PRONOUN\/r_c\/poss} fourrure, du sang suintant des coins de {PRONOUN\/r_c\/poss} yeux. Même m_c se sent ébranlé(e) de voir une forme si vile s'approcher, fermant {PRONOUN\/m_c\/poss} yeux alors que r_c tend la patte pour donner une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2390,7 +2390,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c appears so suddenly that m_c's heart jumps into {PRONOUN\/m_c\/poss} throat. With a wicked grin, r_c assures m_c that {PRONOUN\/m_c\/poss} wariness will be an asset - so long as m_c isn't a mouse-heart, of course. m_c meets {PRONOUN\/r_c\/poss} gaze coolly, accepting r_c's life for [virtue].",
+                    "text": "r_c apparaît si soudainement que le cœur de m_c bondit dans {PRONOUN\/m_c\/poss} gorge. Avec un sourire maléfique, r_c assure à m_c que {PRONOUN\/m_c\/poss} méfiance sera un atout - tant que m_c n'est pas un cœur de souris, bien sûr. m_c croise {PRONOUN\/r_c\/poss} regard froidement, acceptant la vie de r_c pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2433,7 +2433,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c chokes out a bitter laugh, taunting the new leader about if {PRONOUN\/m_c\/poss} honeyed words can help {PRONOUN\/m_c\/object} in a real fight. r_c presses {PRONOUN\/r_c\/poss} nose against m_c's head and sneers out a life for [virtue].",
+                    "text": "r_c étouffe un rire amer, narguer le nouveau chef pour savoir si {PRONOUN\/m_c\/poss} mots mielleux peuvent aider {PRONOUN\/m_c\/object} dans un vrai combat. r_c presse {PRONOUN\/r_c\/poss} museau contre la tête de m_c et ricane une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2457,7 +2457,7 @@
                     ]
                 },
                 {
-                    "text": "r_c could not help but praise m_c as {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} {PRONOUN\/m_c\/object}. Encouraging the use of m_c's silver tongue and barbed threats, the dark spirit gives a life for [virtue].",
+                    "text": "r_c ne peut s'empêcher de louer m_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} {PRONOUN\/m_c\/object}. Encourageant l'utilisation de la langue de miel et des menaces acérées de m_c, l'esprit sombre donne une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2500,7 +2500,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c wants to claw the silly smile right off of m_c's face. Instead, {PRONOUN\/r_c\/subject} {VERB\/r_c\/make\/makes} sure that {PRONOUN\/r_c\/poss} life for [virtue] is as painful as possible.",
+                    "text": "r_c veut arracher ce sourire idiot du visage de m_c avec ses griffes. Au lieu de cela, {PRONOUN\/r_c\/subject} {VERB\/r_c\/make\/makes} en sorte que {PRONOUN\/r_c\/poss} vie pour [virtue] soit aussi douloureuse que possible.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2524,7 +2524,7 @@
                     ]
                 },
                 {
-                    "text": "Staring coldly from the murk, r_c prowls towards m_c and shoves {PRONOUN\/m_c\/object} into the dark goo surrounding them both. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/growl\/growls} out {PRONOUN\/r_c\/poss} life for [virtue], demanding that m_c stops treating everything like a game.",
+                    "text": "Fixant froidement depuis l'obscurité, r_c rôde vers m_c et pousse {PRONOUN\/m_c\/object} dans la substance sombre qui les entoure tous les deux. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/growl\/growls} {PRONOUN\/r_c\/poss} vie pour [virtue], exigeant que m_c arrête de traiter tout comme un jeu.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2567,7 +2567,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c stalks forward with unsheathed claws, but m_c doesn't let {PRONOUN\/m_c\/poss} fur rise. With a hiss of challenge, r_c thrusts {PRONOUN\/r_c\/poss} muzzle forward to give m_c a life for [virtue]. m_c meets the challenge with cold, unblinking eyes, and r_c stalks away, unsatisfied by {PRONOUN\/m_c\/poss} lack of response.",
+                    "text": "r_c traque vers l'avant avec des griffes sorties, mais m_c ne laisse pas {PRONOUN\/m_c\/poss} fourrure se hérisser. Avec un sifflement de défi, r_c pousse {PRONOUN\/r_c\/poss} museau vers l'avant pour donner à m_c une vie pour [virtue]. m_c relève le défi avec des yeux froids et fixes, et r_c s'éloigne en traquant, insatisfait(e) par {PRONOUN\/m_c\/poss} manque de réaction.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2610,7 +2610,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "One of the core philosophies of the Dark Forest is that compassion is a weakness. And as pain arches through m_c's body from r_c's life for [virtue], that harsh lesson burns through {PRONOUN\/m_c\/poss} body like a raging inferno.",
+                    "text": "L'une des philosophies fondamentales de la Forêt Sombre est que la compassion est une faiblesse. Et alors que la douleur traverse le corps de m_c à cause de la vie de r_c pour [virtue], cette leçon impitoyable brûle à travers {PRONOUN\/m_c\/poss} corps comme un brasier dévorant.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2634,7 +2634,7 @@
                     ]
                 },
                 {
-                    "text": "A sneer crosses r_c's face as {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c. Cruelly pressing {PRONOUN\/r_c\/poss} nose against the new leader's head, {PRONOUN\/r_c\/subject} {VERB\/r_c\/snarl\/snarls} out a life for [virtue]. Perhaps that would keep m_c from being too friendly with the other Clans.",
+                    "text": "Un rictus traverse le visage de r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/approach\/approaches} m_c. Pressant cruellement {PRONOUN\/r_c\/poss} museau contre la tête du nouveau chef, {PRONOUN\/r_c\/subject} {VERB\/r_c\/snarl\/snarls} une vie pour [virtue]. Peut-être que cela empêcherait m_c d'être trop amical avec les autres Clans.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2658,7 +2658,7 @@
                     ]
                 },
                 {
-                    "text": "r_c's tired gaze watches m_c. Whispering how m_c's compassionate nature will only hurt c_n in the end, r_c presses {PRONOUN\/r_c\/poss} nose against the new leader and sighs out a life for [virtue].",
+                    "text": "Le regard fatigué de r_c observe m_c. Murmurant comment la nature compatissante de m_c ne fera que blesser c_n à la fin, r_c presse {PRONOUN\/r_c\/poss} museau contre le nouveau chef et soupire une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2701,7 +2701,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Overconfidence can blind even the most loyal of StarClan-loving cats. And that is just what r_c is counting on as the cruel life of [virtue] burns through m_c's mind.",
+                    "text": "L'excès de confiance peut aveugler même les plus loyaux des chats qui aiment le Clan des Étoiles. Et c'est exactement sur quoi r_c compte alors que la vie cruelle de [virtue] brûle à travers l'esprit de m_c.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2725,7 +2725,7 @@
                     ]
                 },
                 {
-                    "text": "r_c whispers sweetly for m_c to deafen {PRONOUN\/m_c\/self} from the cowardly, cautious cries of {PRONOUN\/m_c\/poss} Clan as the dark spirit gives a life for [virtue].",
+                    "text": "r_c murmure doucement à m_c de {PRONOUN\/m_c\/self} rendre sourd aux cris lâches et prudents de {PRONOUN\/m_c\/poss} Clan alors que l'esprit sombre donne une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2768,7 +2768,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c meets m_c's eyes with a smirk, sliding through the murk like a claw through fresh-kill to give a life for [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/hiss\/hisses} a quiet praise to m_c's more reckless tendencies, encouraging the new leader to think with {PRONOUN\/m_c\/poss} claws, not {PRONOUN\/m_c\/poss} head.",
+                    "text": "r_c croise le regard de m_c avec un rictus, glissant à travers l'obscurité comme une griffe à travers du gibier frais pour donner une vie pour [virtue]. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/hiss\/hisses} un éloge silencieux aux tendances plus téméraires de m_c, encourageant le nouveau chef à penser avec {PRONOUN\/m_c\/poss} griffes, pas {PRONOUN\/m_c\/poss} tête.",
                     "virtue": [
                         "ambition",
                         "confidence",
@@ -2808,7 +2808,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A cold chill washes over m_c as r_c approaches to give a life. m_c meets {PRONOUN\/r_c\/poss} calculating stare, unflinching. r_c hisses a warning about clinging too tightly to {PRONOUN\/m_c\/poss} precious rules - what matters is not faith, but <i>strength<\/i>. m_c bites {PRONOUN\/m_c\/poss} tongue as r_c gives {PRONOUN\/m_c\/object} a life for [virtue].",
+                    "text": "Un frisson glacial envahit m_c alors que r_c s'approche pour donner une vie. m_c rencontre {PRONOUN\/r_c\/poss} regard calculateur, sans ciller. r_c siffle un avertissement sur le fait de s'accrocher trop étroitement à {PRONOUN\/m_c\/poss} règles précieuses - ce qui compte n'est pas la foi, mais la <i>force<\/i>. m_c se mord {PRONOUN\/m_c\/poss} langue alors que r_c donne à {PRONOUN\/m_c\/object} une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2851,7 +2851,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "The next dark spirit could not even meet m_c's ferocious gaze. The trembling shadow of r_c hastily gives a life for [virtue] before scrambling away from the might of c_n's newest leader.",
+                    "text": "Le prochain esprit sombre ne pouvait même pas soutenir le regard féroce de m_c. L'ombre tremblante de r_c donne hâtivement une vie pour [virtue] avant de s'éloigner précipitamment de la puissance du nouveau chef de c_n.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2894,7 +2894,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c croons into m_c's ear, whispering about how now {PRONOUN\/m_c\/subject}'ll be able to prove everyone in the Clan wrong about {PRONOUN\/m_c\/poss} weak-willed mentality. A dark chuckle escapes r_c's throat as {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} {PRONOUN\/m_c\/subject} a life for [virtue].",
+                    "text": "r_c roucoule dans l'oreille de m_c, murmurant sur la façon dont maintenant {PRONOUN\/m_c\/subject} sera capable de prouver que tout le monde dans le Clan avait tort sur {PRONOUN\/m_c\/poss} mentalité faible. Un ricanement sombre s'échappe de la gorge de r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} à {PRONOUN\/m_c\/subject} une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2918,7 +2918,7 @@
                     ]
                 },
                 {
-                    "text": "An almost demented laugh escapes from r_c's maw as {PRONOUN\/r_c\/subject} {VERB\/r_c\/press\/presses} {PRONOUN\/r_c\/poss} muzzle against m_c's head. This cat? A leader? Don't make {PRONOUN\/r_c\/object} laugh! r_c's howling cackle echoes in m_c's ears as the dark spirit leaves {PRONOUN\/m_c\/object} behind.",
+                    "text": "Un rire presque dément s'échappe de la gueule de r_c alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/press\/presses} {PRONOUN\/r_c\/poss} museau contre la tête de m_c. Ce chat ? Un chef ? Ne me fais pas rire ! Le ricanement hurlant de r_c résonne dans les oreilles de m_c alors que l'esprit sombre laisse {PRONOUN\/m_c\/object} derrière.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2942,7 +2942,7 @@
                     ]
                 },
                 {
-                    "text": "There is a strange softness in r_c's eyes beyond the crimson gloom that shines forth. Smearing muck against m_c's forehead, the spirit whispers a life for [virtue]. The Dark Forest might not believe in {PRONOUN\/m_c\/object} but r_c always will.",
+                    "text": "Il y a une étrange douceur dans les yeux de r_c au-delà de la pénombre cramoisie qui brille. Étalant de la boue contre le front de m_c, l'esprit murmure une vie pour [virtue]. La Forêt Sombre ne croit peut-être pas en {PRONOUN\/m_c\/object} mais r_c y croira toujours.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -2985,7 +2985,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches m_c with a threatening air, winding around {PRONOUN\/m_c\/object} and hissing in {PRONOUN\/m_c\/poss} ear that power is lonely. m_c breathes a sigh of relief. r_c isn't sure how to respond and quickly gives a life for [virtue] before vanishing into the darkness.",
+                    "text": "r_c s'approche de m_c avec un air menaçant, s'enroulant autour de {PRONOUN\/m_c\/object} et sifflant dans {PRONOUN\/m_c\/poss} oreille que le pouvoir est solitaire. m_c respire un soupir de soulagement. r_c n'est pas sûr(e) de comment réagir et donne rapidement une vie pour [virtue] avant de disparaître dans l'obscurité.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3028,7 +3028,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c arrives in a plume of gray smoke, prowling up to m_c with a snarl rumbling in {PRONOUN\/r_c\/poss} chest. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/warn\/warns} m_c that {PRONOUN\/m_c\/poss} soft-hearted nature will be a weakness if {PRONOUN\/m_c\/subject} {VERB\/m_c\/want\/wants} to hold onto power. With a last contemptuous look, r_c gives a life for [virtue].",
+                    "text": "r_c arrive dans un panache de fumée grise, rôdant vers m_c avec un grognement résonnant dans {PRONOUN\/r_c\/poss} poitrine. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/warn\/warns} m_c que {PRONOUN\/m_c\/poss} nature au cœur tendre sera une faiblesse si {PRONOUN\/m_c\/subject} {VERB\/m_c\/want\/wants} s'accrocher au pouvoir. Avec un dernier regard méprisant, r_c donne une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3071,7 +3071,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Loyalty to the shadows of the Dark Forest is what r_c values so highly in the murk. So seeing m_c so poised for loyalty to the darkness only makes r_c purr as the life for [virtue] is given freely.",
+                    "text": "La loyauté envers les ombres de la Forêt Sombre est ce que r_c valorise si hautement dans l'obscurité. Alors voir m_c si prêt(e) pour la loyauté envers les ténèbres ne fait que faire ronronner r_c alors que la vie pour [virtue] est donnée librement.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3114,7 +3114,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A disdainful look crosses r_c's face when it is {PRONOUN\/r_c\/poss} turn to give a life for [virtue]. The lack of a preamble and the violent press of r_c's maw into {PRONOUN\/m_c\/poss} fur only makes m_c more anxious about {PRONOUN\/m_c\/poss} new role as leader.",
+                    "text": "Un regard dédaigneux traverse le visage de r_c quand c'est {PRONOUN\/r_c\/poss} tour de donner une vie pour [virtue]. L'absence de préambule et la pression violente de la gueule de r_c dans {PRONOUN\/m_c\/poss} fourrure ne fait que rendre m_c plus anxieux(se) à propos {PRONOUN\/m_c\/poss} nouveau rôle de chef.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3138,7 +3138,7 @@
                     ]
                 },
                 {
-                    "text": "A guttural snarl escapes r_c's throat when {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} a life for [virtue], almost making m_c quiver and shake in {PRONOUN\/m_c\/poss} fur.",
+                    "text": "Un grognement guttural s'échappe de la gorge de r_c quand {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} une vie pour [virtue], faisant presque trembler et frémir m_c dans {PRONOUN\/m_c\/poss} fourrure.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3222,7 +3222,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "m_c's eyes glide to where r_c pads out of the gloom. The shadowy cat's eyes light up in surprise before darkening once more. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/scoff\/scoffs}, remarking that {PRONOUN\/r_c\/subject} never thought {PRONOUN\/r_c\/subject}'d see m_c in these dark woods before giving a life for [virtue].",
+                    "text": "Les yeux de m_c glissent là où r_c sort de la pénombre. Les yeux du chat ombragé s'illuminent de surprise avant de s'assombrir à nouveau. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/scoff\/scoffs}, remarquant que {PRONOUN\/r_c\/subject} n'a jamais pensé voir m_c dans ces bois sombres avant de donner une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "determination",
@@ -3241,7 +3241,7 @@
                     ]
                 },
                 {
-                    "text": "A cold prickle passes through m_c's pelt as r_c slinks into view. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/let\/lets} out a shrill hiss that turns into a cackle. {PRONOUN\/r_c\/subject\/CAP} didn't know that code-following kitties could show up here, {PRONOUN\/r_c\/subject} {VERB\/r_c\/scoff\/scoffs}. The life for [virtue] that {PRONOUN\/r_c\/subject} {VERB\/r_c\/offer\/offers} rushes through m_c like a lightning bolt.",
+                    "text": "Un frisson glacial traverse le pelage de m_c alors que r_c se glisse dans le champ de vision. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/let\/lets} échapper un sifflement strident qui se transforme en ricanement. {PRONOUN\/r_c\/subject\/CAP} ne savait pas que les chatons qui suivent le code pouvaient apparaître ici, {PRONOUN\/r_c\/subject} {VERB\/r_c\/scoff\/scoffs}. La vie pour [virtue] que {PRONOUN\/r_c\/subject} {VERB\/r_c\/offer\/offers} traverse m_c comme un éclair.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3265,7 +3265,7 @@
                     ]
                 },
                 {
-                    "text": "m_c feels {PRONOUN\/m_c\/poss} pelt prickle with apprehension as r_c stalks closer. The dark form snorts derisively before sweeping {PRONOUN\/r_c\/poss} tail across m_c's whiskers, giving a life for [virtue]. m_c wobbles as a sickening feeling spreads through {PRONOUN\/m_c\/object}, but it's gone as soon as it began.",
+                    "text": "m_c sent {PRONOUN\/m_c\/poss} pelage se hérisser d'appréhension alors que r_c traque plus près. La forme sombre renifle avec dérision avant de balayer {PRONOUN\/r_c\/poss} queue à travers les moustaches de m_c, donnant une vie pour [virtue]. m_c vacille alors qu'une sensation écœurante se répand à travers {PRONOUN\/m_c\/object}, mais elle disparaît dès qu'elle a commencé.",
                     "virtue": [
                         "ruthlessness",
                         "indifference",
@@ -3303,7 +3303,7 @@
                     ]
                 },
                 {
-                    "text": "m_c keeps {PRONOUN\/m_c\/poss} eyes slitted as r_c pads up. The dark cat regards {PRONOUN\/m_c\/object} coldly, mewing that {PRONOUN\/m_c\/poss} righteousness is a sure way to gain authority in c_n. {PRONOUN\/r_c\/subject\/CAP} briefly {VERB\/r_c\/brush\/brushes} {PRONOUN\/r_c\/poss} muzzle against m_c's, a life for [virtue] ripping through {PRONOUN\/m_c\/poss} body with the intensity of a fire.",
+                    "text": "m_c garde {PRONOUN\/m_c\/poss} yeux plissés alors que r_c s'approche. Le chat sombre regarde {PRONOUN\/m_c\/object} froidement, miaulant que {PRONOUN\/m_c\/poss} droiture est un moyen sûr de gagner de l'autorité dans c_n. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/brush\/brushes} brièvement {PRONOUN\/r_c\/poss} museau contre celui de m_c, une vie pour [virtue] déchirant {PRONOUN\/m_c\/poss} corps avec l'intensité d'un feu.",
                     "virtue": [
                         "sharp claws",
                         "sharp fangs"
@@ -3329,7 +3329,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c circles m_c, eyes glittering with amusement. Of course m_c would become leader, {PRONOUN\/r_c\/subject} {VERB\/r_c\/purr\/purrs}, {PRONOUN\/m_c\/subject} {VERB\/m_c\/have\/has} nothing to lose! r_c presses against m_c, a life given for [virtue] coursing through {PRONOUN\/m_c\/poss} limbs.",
+                    "text": "r_c tourne autour de m_c, les yeux brillants d'amusement. Bien sûr que m_c deviendrait chef, {PRONOUN\/r_c\/subject} {VERB\/r_c\/purr\/purrs}, {PRONOUN\/m_c\/subject} n'a rien à perdre ! r_c se presse contre m_c, une vie donnée pour [virtue] parcourant {PRONOUN\/m_c\/poss} membres.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3353,7 +3353,7 @@
                     ]
                 },
                 {
-                    "text": "The shadows part temporarily to let r_c pad in. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/seem\/seems} almost sad to see m_c here, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/sigh\/sighs} and touches a mud-clogged nose to {PRONOUN\/m_c\/object} anyway, for [virtue].",
+                    "text": "Les ombres s'écartent temporairement pour laisser r_c s'approcher. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/seem\/seems} presque triste de voir m_c ici, mais {PRONOUN\/r_c\/subject} {VERB\/r_c\/sigh\/sighs} et touche avec un museau bouché de boue {PRONOUN\/m_c\/object} quand même, pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3396,7 +3396,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "m_c keeps {PRONOUN\/m_c\/poss} head on a swivel, catching sight of r_c just as the dark spirit attempts to get the drop on {PRONOUN\/m_c\/object}. r_c snarls a threatening purr, recognizing the skills that the two of them share. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/assure\/assures} {PRONOUN\/m_c\/object} these skills will serve {PRONOUN\/m_c\/object} well as leader, and gives a life for [virtue].",
+                    "text": "m_c garde {PRONOUN\/m_c\/poss} tête qui pivote, apercevant r_c juste au moment où l'esprit sombre tente de prendre {PRONOUN\/m_c\/object} par surprise. r_c grogne un ronronnement menaçant, reconnaissant les compétences qu'ils partagent tous les deux. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/assure\/assures} à {PRONOUN\/m_c\/object} que ces compétences serviront bien {PRONOUN\/m_c\/object} en tant que chef, et donne une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3439,7 +3439,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "m_c does not seem startled at the shadowy spirit that approaches {PRONOUN\/m_c\/object}. r_c narrows {PRONOUN\/r_c\/poss} crimson eyes at the bravado, but gives a life for [virtue] regardless.",
+                    "text": "m_c ne semble pas sursauter face à l'esprit ombragé qui s'approche de {PRONOUN\/m_c\/object}. r_c plisse {PRONOUN\/r_c\/poss} yeux cramoisis face à cette bravade, mais donne une vie pour [virtue] malgré tout.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3463,7 +3463,7 @@
                     ]
                 },
                 {
-                    "text": "In the middle of r_c's monologue about the Forest's strength and cunning, m_c interrupts {PRONOUN\/r_c\/object} to ask about the oozing shadows across {PRONOUN\/r_c\/poss} pelt and if it tastes like anything. r_c is stunned into silence and simply gives the new leader a life for [virtue].",
+                    "text": "Au milieu du monologue de r_c sur la force et la ruse de la Forêt, m_c interrompt {PRONOUN\/r_c\/object} pour demander à propos des ombres suintantes sur {PRONOUN\/r_c\/poss} pelage et si cela a un goût. r_c est sidéré(e) dans le silence et donne simplement au nouveau chef une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3530,7 +3530,7 @@
                     ]
                 },
                 {
-                    "text": "r_c begins {PRONOUN\/r_c\/poss} prepared speech for {PRONOUN\/r_c\/poss} life, when m_c interrupts the speech to point out a word out of place. Disgruntled, r_c gives m_c a life for [virtue].",
+                    "text": "r_c commence {PRONOUN\/r_c\/poss} discours préparé pour {PRONOUN\/r_c\/poss} vie, quand m_c interrompt le discours pour signaler un mot mal placé. Mécontent(e), r_c donne à m_c une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3573,7 +3573,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "If m_c wastes all of {PRONOUN\/m_c\/poss} nine lives thinking, {PRONOUN\/m_c\/subject} will never be able to save c_n. That is the lie r_c speaks as {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} a life for [virtue].",
+                    "text": "Si m_c gaspille toutes {PRONOUN\/m_c\/poss} neuf vies à réfléchir, {PRONOUN\/m_c\/subject} ne pourra jamais sauver c_n. C'est le mensonge que r_c prononce alors que {PRONOUN\/r_c\/subject} {VERB\/r_c\/give\/gives} une vie pour [virtue].",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3616,7 +3616,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "While such antics would be frowned upon by StarClan, r_c and the Dark Forest welcome the newest troublemaker with open arms. r_c gives a life for [virtue], encouraging m_c to take {PRONOUN\/m_c\/poss} plots to new heights.",
+                    "text": "Bien que de telles facéties seraient désapprouvées par le Clan des Étoiles, r_c et la Forêt Sombre accueillent le plus récent fauteur de troubles à bras ouverts. r_c donne une vie pour [virtue], encourageant m_c à porter {PRONOUN\/m_c\/poss} complots vers de nouveaux sommets.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3659,7 +3659,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "r_c approaches, casting a shrewd eye over m_c. Whatever this evaluation is looking for, r_c seems satisfied. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/promise\/promises} m_c that this new life for [virtue] will ensure {PRONOUN\/m_c\/subject} can deal out justice at {PRONOUN\/m_c\/poss} discretion.",
+                    "text": "r_c s'approche, jetant un regard avisé sur m_c. Quelle que soit ce que cette évaluation recherche, r_c semble satisfait(e). {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/promise\/promises} à m_c que cette nouvelle vie pour [virtue] s'assurera que {PRONOUN\/m_c\/subject} puisse rendre la justice à {PRONOUN\/m_c\/poss} discrétion.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3702,7 +3702,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "What does wisdom have in the face of raw power? r_c sneers this in m_c's face as the life for [virtue] is given like a claw through the throat.",
+                    "text": "Que vaut la sagesse face au pouvoir brut ? r_c ricane cela au visage de m_c alors que la vie pour [virtue] est donnée comme une griffe à travers la gorge.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3767,7 +3767,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "m_c is the best of the warriors in c_n. The best in the whole Clan entirely. Maybe even the best warrior of all of history! That is what r_c croons into the new leader's ears as the life for [virtue] is given freely.",
+                    "text": "m_c est le meilleur des guerriers de c_n. Le meilleur de tout le Clan entièrement. Peut-être même le meilleur guerrier de toute l'histoire ! C'est ce que r_c roucoule dans les oreilles du nouveau chef alors que la vie pour [virtue] est donnée librement.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -3952,7 +3952,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "Is this a joke? The murk-covered form of r_c can't believe that m_c has been chosen to be leader. r_c rolls {PRONOUN\/r_c\/poss} eyes and gives a life for [virtue] with an incredulous sigh.",
+                    "text": "Est-ce une blague ? La forme couverte de boue de r_c n'arrive pas à croire que m_c ait été choisi(e) pour être chef. r_c roule {PRONOUN\/r_c\/poss} yeux et donne une vie pour [virtue] avec un soupir incrédule.",
                     "virtue": [
                         "ambition",
                         "bravery",
@@ -4028,7 +4028,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A young cat is next to give a life. Crimson gloom reflects off {PRONOUN\/r_c\/poss} youthful eyes. r_c stretches up to give a life for [virtue].",
+                    "text": "Un jeune chat est le suivant à donner une vie. La pénombre cramoisie se reflète dans {PRONOUN\/r_c\/poss} yeux juvéniles. r_c s'étire pour donner une vie pour [virtue].",
                     "virtue": [
                         "happiness",
                         "honesty",
@@ -4053,7 +4053,7 @@
             ],
             "life_giving": [
                 {
-                    "text": "A young cat is next to give a life. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/hesitate\/hesitates}, before an older cat shoves {PRONOUN\/r_c\/object} forward, growling in {PRONOUN\/r_c\/poss} ear. r_c stretches up to give a life for [virtue].",
+                    "text": "Un jeune chat est le suivant à donner une vie. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/hesitate\/hesitates}, avant qu'un chat plus âgé ne pousse {PRONOUN\/r_c\/object} vers l'avant, grognant dans {PRONOUN\/r_c\/poss} oreille. r_c s'étire pour donner une vie pour [virtue].",
                     "virtue": [
                         "happiness",
                         "honesty",
@@ -4249,7 +4249,7 @@
             "tags": [],
             "lead_trait": [],
             "text": [
-                "r_c hails m_c by {PRONOUN\/m_c\/poss} new name, m_c_star, telling {PRONOUN\/m_c\/object} that {PRONOUN\/m_c\/poss} old pathetic life is no more. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} granted guardianship of c_n, and {VERB\/m_c\/are\/is} told to use {PRONOUN\/m_c\/poss} new power however {PRONOUN\/m_c\/subject} {VERB\/m_c\/wish\/wishes}. The group of shadowy cats yowls m_c_star's name in support. m_c_star wakes up feeling a new strength within {PRONOUN\/m_c\/poss} body and knows that {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} now ready to lead the Clan."
+                "r_c salue m_c par {PRONOUN\/m_c\/poss} nouveau nom, m_c_star, lui disant que {PRONOUN\/m_c\/poss} ancienne vie pathétique n'est plus. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} accordé(e) la tutelle de c_n, et on lui dit d'utiliser {PRONOUN\/m_c\/poss} nouveau pouvoir comme {PRONOUN\/m_c\/subject} le souhaite. Le groupe de chats ombrageux hurle le nom de m_c_star en soutien. m_c_star se réveille en sentant une nouvelle force dans {PRONOUN\/m_c\/poss} corps et sait que {PRONOUN\/m_c\/subject} {VERB\/m_c\/are\/is} maintenant prêt(e) à diriger le Clan."
             ]
         },
         "new_clan": {
@@ -4258,7 +4258,7 @@
             ],
             "lead_trait": [],
             "text": [
-                "m_c_star wakes, a hissing echo of {PRONOUN\/m_c\/poss} new name lingering in the air."
+                "m_c_star se réveille, un écho sifflant de {PRONOUN\/m_c\/poss} nouveau nom traînant dans l'air."
             ]
         },
         "bloodthirsty": {
@@ -4267,7 +4267,7 @@
                 "bloodthirsty"
             ],
             "text": [
-                "r_c hails m_c by {PRONOUN\/m_c\/poss} new name, m_c_star, telling {PRONOUN\/m_c\/object} that {PRONOUN\/m_c\/poss} old pathetic life is no more. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} granted guardianship of c_n, and {VERB\/m_c\/are\/is} told to use {PRONOUN\/m_c\/poss} new power however {PRONOUN\/m_c\/subject} {VERB\/m_c\/wish\/wishes}. The Dark Forest's hissing and yowls echo in the dusky clearing as the new leader begins to wake up. m_c_star stands, feeling a new strength within {PRONOUN\/m_c\/poss} body, and grins."
+                "r_c salue m_c par {PRONOUN\/m_c\/poss} nouveau nom, m_c_star, lui disant que {PRONOUN\/m_c\/poss} ancienne vie pathétique n'est plus. {PRONOUN\/m_c\/subject\/CAP} {VERB\/m_c\/are\/is} accordé(e) la tutelle de c_n, et on lui dit d'utiliser {PRONOUN\/m_c\/poss} nouveau pouvoir comme {PRONOUN\/m_c\/subject} le souhaite. Les sifflements et hurlements de la Forêt Sombre résonnent dans la clairière crépusculaire alors que le nouveau chef commence à se réveiller. m_c_star se lève, sentant une nouvelle force dans {PRONOUN\/m_c\/poss} corps, et sourit."
             ]
         }
     }
