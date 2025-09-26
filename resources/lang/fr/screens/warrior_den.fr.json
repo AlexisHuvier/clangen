@@ -1,16 +1,16 @@
 {
     "fr": {
-        "help_tooltip": "This screen allows you to manage your warriors more effectively! You can give them a specific focus, which will provide some benefits (and possibly some negatives) to your Clan.  Some focuses are not available in classic mode.  Click on each focus to see a description of what they will do.  Focuses that target other Clans will allow you to choose which Clans you target.  Your focus can only be changed every 3 moons, so choose carefully.",
-        "change_focus": "Change Focus",
-        "current_focus": "<b>Current Focus:<\/b> %{name}%{desc}",
-        "focus_last_changed": "<b>Focus Last Changed:<\/b> %{last_changed}<br>%{next_change}",
+        "help_tooltip": "Cet écran vous permet de gérer vos guerriers plus efficacement ! Vous pouvez leur attribuer une spécialisation, qui apportera certains avantages (et parfois des inconvénients) à votre Clan. Certaines spécialisations ne sont pas disponibles en mode classique. Cliquez sur chaque spécialisation pour voir une description de ses effets. Les spécialisations visant d'autres Clans vous permettront de choisir lesquels cibler. Vous ne pouvez changer de spécialisation que tous les 3 lunes, alors choisissez avec soin.",
+        "change_focus": "Changer la spécialisation",
+        "current_focus": "<b>Spécialisation actuelle :<\/b> %{name}%{desc}",
+        "focus_last_changed": "<b>Dernier changement de spécialisation :<\/b> %{last_changed}<br>%{next_change}",
         "next_change": {
-            "zero": "(can change again now)",
-            "one": "(next change in %{moons})",
-            "many": "(next change in %{moons})"
+            "zero": "(peut être changé maintenant)",
+            "one": "(prochain changement dans %{moons})",
+            "many": "(prochain changement dans %{moons})"
         },
-        "involved_clans": "<br><b>Involved Clans:<\/b> %{clans}",
-        "what_to_focus": "What should your warriors focus on?",
-        "selected_info": "<b>Selected information:<\/b>\n%{info}"
+        "involved_clans": "<br><b>Clans impliqués :<\/b> %{clans}",
+        "what_to_focus": "Sur quoi vos guerriers doivent-ils se concentrer ?",
+        "selected_info": "<b>Informations sélectionnées :<\/b>\n%{info}"
     }
 }
