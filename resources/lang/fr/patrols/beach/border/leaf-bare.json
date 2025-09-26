@@ -16,12 +16,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As r_c crosses a beach, shivering with the cold, {PRONOUN\/r_c\/subject} {VERB\/r_c\/hear\/hears} a creaking, rushing sound, like a wave - but out of sync with the ocean.",
-        "decline_text": "r_c decides to head back early.",
+        "intro_text": "Alors que r_c traverse une plage, grelottant de froid, {PRONOUN\/r_c\/subject} {VERB\/r_c\/hear\/entend} un bruit de craquement et de ruée, semblable à une vague - mais décalé par rapport à l'océan.",
+        "decline_text": "r_c décide de rentrer plus tôt.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "r_c leaps forward, dashing to the other side of the beach and up onto the rocks. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/make\/makes} it in time to watch the beach get lost under a tide of water from inland.",
+                "text": "r_c bondit en avant, filant de l'autre côté de la plage et grimpant sur les rochers. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/make\/fait} cela juste à temps pour voir la plage disparaître sous une vague d'eau venant de l'intérieur des terres.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -29,7 +29,7 @@
                 ]
             },
             {
-                "text": "s_c scrambles back the way {PRONOUN\/s_c\/subject} came and watches the beach disappear under a flood of water. It leaves behind a changed landscape, tons of debris - and a large dead sheep. s_c pounces on the opportunity to scavenge.",
+                "text": "s_c rebrousse chemin précipitamment et regarde la plage disparaître sous une vague d'eau. Cela laisse derrière un paysage transformé, des tonnes de débris - et un grand mouton mort. s_c saute sur l'occasion pour récupérer de la nourriture.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -40,7 +40,7 @@
                 ]
             },
             {
-                "text": "s_c shrieks at the strange sound, paws digging into the sand as {PRONOUN\/s_c\/subject} {VERB\/s_c\/turn\/turns} and {VERB\/s_c\/run\/runs} for home. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/are\/is} proven right when the beach disappears under a flood of water from inland. {PRONOUN\/s_c\/poss\/CAP} caution saved {PRONOUN\/s_c\/poss} life.",
+                "text": "s_c pousse un cri face au bruit étrange, ses pattes s'enfonçant dans le sable alors que {PRONOUN\/s_c\/subject} {VERB\/s_c\/turn\/se retourne} et {VERB\/s_c\/run\/court} vers le camp. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/are\/est} bien avisé, car la plage disparaît sous une vague d'eau venue de l'intérieur des terres. La prudence de {PRONOUN\/s_c\/poss} lui a sauvé la vie.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -55,15 +55,15 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c is in the middle of the beach when the flood hits {PRONOUN\/r_c\/object}. Freezing water rushes from inland, sweeping {PRONOUN\/r_c\/object} straight out to sea to die in the cold ocean.",
+                "text": "r_c se trouve au milieu de la plage lorsque la crue frappe {PRONOUN\/r_c\/object}. Une eau glacée déferle depuis l'intérieur des terres, emportant {PRONOUN\/r_c\/object} directement vers la mer où {PRONOUN\/r_c\/subject} meurt dans l'océan froid.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c was swept out to sea by a flood.",
-                    "lead_death": "{VERB\/m_c\/were\/was} swept out to sea by a flood"
+                    "reg_death": "m_c a été emporté vers la mer par une crue.",
+                    "lead_death": "{VERB\/m_c\/were\/a été} emporté vers la mer par une crue"
                 }
             }
         ]

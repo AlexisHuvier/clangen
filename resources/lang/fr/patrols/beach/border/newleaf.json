@@ -16,8 +16,8 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As r_c crosses a beach, shivering with the cold, {PRONOUN\/r_c\/subject} {VERB\/r_c\/hear\/hears} a creaking, rushing sound, like a wave - but out of sync with the ocean.",
-        "decline_text": "r_c decides to head back early.",
+        "intro_text": "Alors que r_c traverse une plage, grelottant de froid, {PRONOUN\/r_c\/subject} {VERB\/r_c\/hear\/hears} un bruit de craquement et de ruissellement, semblable à une vague - mais décalé par rapport à l'océan.",
+        "decline_text": "r_c décide de rentrer plus tôt.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
