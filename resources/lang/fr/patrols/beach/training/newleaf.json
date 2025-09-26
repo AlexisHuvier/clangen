@@ -29,12 +29,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "As the sun creeps over the horizon, p_l leads the patrol carefully towards a familiar beach, stopping the cats on the clifftop. Below them, the sand is hidden under a mass of boulders, as long as twenty cats and as wide as ten.",
-        "decline_text": "They return to camp to report the new beach layout.",
+        "intro_text": "Alors que le soleil se lève à l'horizon, p_l conduit la patrouille prudemment vers une plage familière, arrêtant les chats au sommet de la falaise. En contrebas, le sable est caché sous une masse de rochers, longue d'une vingtaine de chats et large d'une dizaine.",
+        "decline_text": "Ils retournent au camp pour signaler la nouvelle configuration de la plage.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "As the cats watch, the silence is broken when one of the massive boulders rears up and snorts. app1's fur stands on end and app2 looks seconds away from fleeing, but p_l flicks {PRONOUN\/p_l\/poss} tail encouragingly. These are nosy-seals, {PRONOUN\/p_l\/subject} {VERB\/p_l\/explain\/explains}, and the beach full of 'boulders' suddenly seems far more intimidating, but less disturbing.",
+                "text": "Alors que les chats observent, le silence est brisé quand un des énormes rochers se dresse et renifle. Le poil d'app1 se hérisse et app2 semble sur le point de fuir, mais p_l agite {PRONOUN/p_l/poss} queue d'un air encourageant. Ce sont des phoques curieux, {PRONOUN/p_l/subject} {VERB/p_l/explain/explains}, et la plage pleine de 'rochers' paraît soudain bien plus intimidante, mais moins inquiétante.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -56,7 +56,7 @@
                 ]
             },
             {
-                "text": "app1 and app2's jaws drop in disbelief when p_l explains these are animals, not a rockslide. They stare as a nosy-seal wakes from his slumber and bellows a challenge to his neighbor, flinching as the monolithic animals crash towards each other. Each drips enough blood to fill the veins of an entire cat, crashing and careening off each other.",
+                "text": "Les mâchoires d'app1 et d'app2 tombent d'incrédulité quand p_l explique qu'il s'agit d'animaux, pas d'un éboulement. Ils regardent fixement un phoque curieux qui sort de son sommeil et lance un défi à son voisin, sursautant alors que ces animaux monolithiques se précipitent l'un vers l'autre. Chacun laisse couler assez de sang pour remplir les veines d'un chat entier, s'entrechoquant et ricochant l'un sur l'autre.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -78,7 +78,7 @@
                 ]
             },
             {
-                "text": "As the 'rocks' wake and reveal themselves to be the most massive animals app1 and app2 have ever seen, s_c reassures them - they may never have seen these frightening seals before, but c_n has. s_c spends the morning quizzing the apprentices until each is able to identify a male nosy-seal with his trunk versus the comparatively smaller females.",
+                "text": "Alors que les 'rochers' se réveillent et se révèlent être les animaux les plus massifs qu'app1 et app2 aient jamais vus, s_c les rassure - ils n'ont peut-être jamais vu ces phoques effrayants auparavant, mais c_n oui. s_c passe la matinée à interroger les apprentis jusqu'à ce que chacun soit capable d'identifier un mâle nosy-seal à sa trompe par rapport aux femelles, relativement plus petites.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -106,7 +106,7 @@
                 ]
             },
             {
-                "text": "As the sun hits them and the massive boulders wake with grumbling snorts, app1 and app2 both look about to run. s_c quickly calms them, explaining that these massive yearly visitors to c_n are nosy-seals and that if the cats don't bother them, they won't bother the cats.",
+                "text": "Quand le soleil les frappe et que les énormes rochers se réveillent en grognant, app1 et app2 ont tous deux l'air prêts à fuir. s_c les calme rapidement, expliquant que ces énormes visiteurs annuels de c_n sont des phoques curieux et que si les chats ne les dérangent pas, ils ne dérangeront pas les chats.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -141,7 +141,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "When one of the boulders abruptly starts roaring, app1 shrieks and bolts. It takes the rest of the patrol to find {PRONOUN\/app1\/object}, and the teaching moment is forgotten as the cats gather to comfort {PRONOUN\/app1\/object}.",
+                "text": "Quand un des rochers se met soudainement à rugir, app1 pousse un cri et s'enfuit. Il faut au reste de la patrouille pour retrouver {PRONOUN/app1/object}, et le moment d'enseignement est oublié tandis que les chats se rassemblent pour consoler {PRONOUN/app1/object}.",
                 "exp": 0,
                 "weight": 20
             }
@@ -175,12 +175,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l suggests to r_c that the weather's perfect for a swim in the ocean together.",
-        "decline_text": "r_c isn't convinced and suggests they should probably focus on the patrol instead.",
+        "intro_text": "p_l suggère à r_c que le temps est parfait pour aller nager ensemble dans l'océan.",
+        "decline_text": "r_c n'est pas convaincu et suggère qu'ils devraient probablement se concentrer sur la patrouille à la place.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "p_l flashes r_c a playful look and leaps smoothly into the water. When p_l emerges from the water, {PRONOUN\/p_l\/poss} slicked fur clinging to {PRONOUN\/p_l\/poss} muscles, r_c can't help but admire p_l for {PRONOUN\/p_l\/poss} strength. With the way r_c's heart is fluttering, it may not just be p_l's strength {PRONOUN\/r_c\/subject} {VERB\/r_c\/admire\/admires}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/brush\/brushes} it aside and {VERB\/r_c\/plunge\/plunges} in after {PRONOUN\/p_l\/object}.",
+                "text": "p_l lance à r_c un regard enjoué et saute avec aisance dans l'eau. Quand p_l émerge de l'eau, {PRONOUN/p_l/poss} fourrure luisante collée sur {PRONOUN/p_l/poss} muscles, r_c ne peut s'empêcher d'admirer p_l pour {PRONOUN/p_l/poss} force. Avec le cœur de r_c qui bat la chamade, ce n'est peut‑être pas seulement la force de p_l que {PRONOUN/r_c/subject} {VERB/r_c/admire/admires}. {PRONOUN/r_c/subject/CAP} {VERB/r_c/brush/brushes} ça d'un revers de patte et {VERB/r_c/plunge/plunges} se jette à l'eau après {PRONOUN/p_l/object}.",
                 "exp": 5,
                 "weight": 20,
                 "relationships": [
@@ -200,7 +200,7 @@
                 ]
             },
             {
-                "text": "Silence meets {PRONOUN\/p_l\/poss} question, and just as p_l is about to turn and ask again, r_c shoves {PRONOUN\/p_l\/object} into the water. Spluttering from the cold saltwater, p_l can't keep a scowl on {PRONOUN\/p_l\/poss} face, captivated by the sound of r_c's joyous laughter and the sunlight catching on {PRONOUN\/r_c\/poss} pelt in just the right way.",
+                "text": "Un silence répond à la question de {PRONOUN/p_l/poss}, et juste au moment où p_l s'apprête à se retourner et à redemander, r_c pousse {PRONOUN/p_l/object} dans l'eau. Crachant de l'eau salée froide, p_l ne peut retenir une moue sur {PRONOUN/p_l/poss} visage, captivé par le son du rire joyeux de r_c et par la façon dont le soleil se reflète sur le pelage de {PRONOUN/r_c/poss}.",
                 "exp": 5,
                 "weight": 5,
                 "relationships": [
@@ -222,7 +222,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c dips one paw in the water and hisses, announcing that it's much too cold and urging p_l to come back to camp with {PRONOUN\/r_c\/object} instead.",
+                "text": "r_c trempe une patte dans l'eau et siffle, annonçant qu'elle est beaucoup trop froide et pressant p_l de revenir au camp avec {PRONOUN/r_c/object} à la place.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -242,7 +242,7 @@
                 ]
             },
             {
-                "text": "s_c tries to show off {PRONOUN\/s_c\/poss} swimming skills, but {PRONOUN\/s_c\/poss} companion just isn't paying attention, too focused on {PRONOUN\/r_c\/poss} own swimming to notice. s_c gives up, discouraged.",
+                "text": "s_c essaie de montrer {PRONOUN/s_c/poss} compétences en natation, mais {PRONOUN/s_c/poss} compagnon n'y prête pas attention, trop concentré sur sa propre nage pour le remarquer. s_c abandonne, découragé.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -302,11 +302,11 @@
             "SWIMMER,1",
             "RUNNER,1"
         ],
-        "intro_text": "app1 doesn't understand what 'footing' training is supposed to mean. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/know\/knows} how to <i>walk<\/i>. What're they <i>really<\/i> here to train?",
-        "decline_text": "Unable to convince app1 of the importance of training to keep {PRONOUN\/app1\/poss} footing, p_l gives up and takes the patrol home.",
+        "intro_text": "app1 ne comprend pas ce que la formation de 'stabilité' est censée signifier. {PRONOUN/app1/subject/CAP} {VERB/app1/know/knows} comment <i>marcher</i>. Qu'est-ce qu'ils viennent <i>vraiment</i> s'entraîner à faire ?",
+        "decline_text": "N'arrivant pas à convaincre app1 de l'importance de l'entraînement pour garder {PRONOUN/app1/poss} équilibre, p_l abandonne et ramène la patrouille au camp.",
         "success_outcomes": [
             {
-                "text": "s_c rolls {PRONOUN\/s_c\/poss} eyes. Yes, they <i>are<\/i> really here to walk and run and jump around the rockpools. It rained last night, and the rock is slippery, so these are perfect conditions. s_c tells the tale of a kit once saved by a warrior sprinting along the rocks in a storm, as app1 falls over and skids harmlessly into a pool.",
+                "text": "s_c roule des yeux. Oui, ils sont <i>vraiment</i> ici pour marcher, courir et sauter autour des bassins rocheux. Il a plu la nuit dernière, et la roche est glissante, donc les conditions sont parfaites. s_c raconte l'histoire d'un chaton jadis sauvé par un guerrier qui avait sprinté le long des rochers dans une tempête, tandis qu'app1 tombe et glisse sans mal dans un bassin.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_train_soggykitty_happy_app",
@@ -358,7 +358,7 @@
                 ]
             },
             {
-                "text": "s_c chides app1 for {PRONOUN\/app1\/poss} skepticism. Rock scrambling is its own art form, in c_n's territory. What if app1 needs to cross an exposed area during a storm, or if a battle between Clans occurred in the tide pools? app1 concedes and pays attention as s_c teaches, gaining sure-footed confidence that will serve {PRONOUN\/app1\/object} well.",
+                "text": "s_c réprimande app1 pour son scepticisme. L'escalade des rochers est un art en soi, sur le territoire de c_n. Et si app1 devait traverser une zone exposée pendant une tempête, ou si une bataille entre Clans survenait dans les flaques de marée ? app1 cède et prête attention pendant que s_c enseigne, gagnant une assurance en ses pas qui servira bien {PRONOUN/app1/object}.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_train_soggykitty_happy_app",
@@ -399,7 +399,7 @@
                 ]
             },
             {
-                "text": "s_c laughs. No, they're here for something way cooler - literally. Wetter, too. Here the rock pools are of deceptively different depths, so s_c's going to teach app1 how to judge which ones are deep enough to dive into and which ones won't even get {PRONOUN\/app1\/poss} belly fur wet.",
+                "text": "s_c rit. Non, ils sont ici pour quelque chose de bien plus cool - littéralement. Plus humide aussi. Ici, les bassins rocheux ont des profondeurs trompeuses, donc s_c va apprendre à app1 à juger lesquels sont assez profonds pour plonger et lesquels n'imbiberaient même pas le ventre de {PRONOUN/app1/poss}.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_train_soggykitty_happy_app",
@@ -440,7 +440,7 @@
                 ]
             },
             {
-                "text": "If app1 thinks {PRONOUN\/app1\/subject} {VERB\/app1\/know\/knows} how to walk on the rocks, {PRONOUN\/app1\/subject}'ll have to prove it - and catch s_c. app1 scrambles after {PRONOUN\/s_c\/object}, around and around the slick rocks. But s_c is always a fox-length away, taunting and encouraging by turns, and app1 is left panting, exhausted, and admiring.",
+                "text": "Si app1 pense que {PRONOUN/app1/subject} {VERB/app1/know/knows} comment marcher sur les rochers, {PRONOUN/app1/subject} devra le prouver - et attraper s_c. app1 se précipite après {PRONOUN/s_c/object}, autour et autour des rochers glissants. Mais s_c est toujours à une longueur de renard, se moquant et encourageant à tour de rôle, et app1 reste haletant, épuisé, et admiratif.",
                 "exp": 30,
                 "weight": 20,
                 "art": "fst_hunt_fun1",
@@ -483,7 +483,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "In {PRONOUN\/app1\/poss} haste to prove {PRONOUN\/app1\/subject} {VERB\/app1\/need\/needs} no lessons on rock scrambling, app1... miscalculates. p_l hauls {PRONOUN\/app1\/object} from the rockpool by the scruff, hoping the fall will make the lesson stick when {PRONOUN\/p_l\/poss} teaching couldn't.",
+                "text": "Dans sa hâte à prouver que {PRONOUN/app1/subject} {VERB/app1/need/needs} aucune leçon sur l'escalade des rochers, app1... se trompe dans son calcul. p_l tire {PRONOUN/app1/object} hors de la mare rocheuse par la nuque, espérant que la chute fera passer la leçon quand l'enseignement de {PRONOUN/p_l/poss} n'y est pas parvenu.",
                 "exp": 0,
                 "weight": 20,
                 "art": "gen_train_soggykitty_mad_app",
@@ -548,7 +548,7 @@
                 ]
             },
             {
-                "text": "In {PRONOUN\/app1\/poss} haste to prove {PRONOUN\/app1\/subject} {VERB\/app1\/need\/needs} no lessons on rock scrambling, app1... miscalculates. The water in newleaf isn't leaf-bare chill, but the cold makes {PRONOUN\/app1\/poss} mouth open in surprise, and by the time p_l hauls {PRONOUN\/app1\/object} out {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} inhaled sea water.",
+                "text": "Dans sa hâte à prouver que {PRONOUN/app1/subject} {VERB/app1/need/needs} aucune leçon sur l'escalade des rochers, app1... se trompe dans son calcul. L'eau au Nouvel-Feuille n'est pas glaciale, mais le froid fait ouvrir la bouche de {PRONOUN/app1/poss} de surprise, et au moment où p_l tire {PRONOUN/app1/object} hors de l'eau, {PRONOUN/app1/subject}{VERB/app1/'ve/'s} a inhalé de l'eau de mer.",
                 "exp": 0,
                 "weight": 20,
                 "art": "gen_train_soggykitty_mad_app",
@@ -591,8 +591,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c died from complications caused by inhaling water after falling into a rock pool.",
-                    "lead_death": "complications caused by inhaling water after falling into a rock pool"
+                    "reg_death": "m_c est décédé des suites de complications causées par l'inhalation d'eau après être tombé dans une mare rocheuse.",
+                    "lead_death": "complications causées par l'inhalation d'eau après être tombé dans une mare rocheuse"
                 },
                 "relationships": [
                     {

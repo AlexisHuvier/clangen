@@ -31,12 +31,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l goes out with a warrior escort to look for useful fresh supplies that have survived leaf-bare so far, both for safety and for carrying capacity should {PRONOUN\/p_l\/subject} find anything.",
-        "decline_text": "{PRONOUN\/p_l\/poss\/CAP} escort is called away on a different mission, and p_l decides to reorganize the herb store instead.",
+        "intro_text": "p_l part avec un guerrier en escorte pour chercher des provisions fraîches qui ont survécu à la mauvaise saison, à la fois pour la sécurité et pour porter ce que {PRONOUN/p_l/subject} pourrait trouver.",
+        "decline_text": "L'escorte de {PRONOUN/p_l/poss/CAP} est appelée pour une autre mission, et p_l décide de réorganiser la réserve d'herbes à la place.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Surprisingly, r_c actually starts up a conversation with {PRONOUN\/p_l\/object} about the herbs {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} looking for. p_l launches into the usual spiel, and to {PRONOUN\/p_l\/poss} astonishment, r_c is actually interested, and it makes {PRONOUN\/p_l\/poss} heart feel lighter getting to share {PRONOUN\/p_l\/poss} knowledge and skills with someone who respects {PRONOUN\/p_l\/object}.",
+                "text": "Étonnamment, r_c commence une conversation avec {PRONOUN/p_l/object} sur les herbes que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} cherche. p_l se lance dans son discours habituel, et à {PRONOUN/p_l/poss} grande surprise, r_c est vraiment intéressé, ce qui réchauffe le cœur de p_l de partager ses connaissances et compétences avec quelqu'un qui le respecte.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -61,7 +61,7 @@
                 ]
             },
             {
-                "text": "p_l and r_c have a pleasant conversation, swapping knowledge and insight from their unique perspectives. They return to camp with a growing fondness of each other - and mouths full of herbs.",
+                "text": "p_l et r_c ont une conversation agréable, échangeant connaissances et points de vue. Ils rentrent au camp avec une affection grandissante l'un pour l'autre – et la bouche pleine d'herbes.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -87,7 +87,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with {PRONOUN\/s_c\/object}. It's just an herb gathering patrol, but p_l feels more relaxed than {PRONOUN\/p_l\/subject}{VERB\/p_l\/'ve\/'s} felt in moons when {PRONOUN\/p_l\/subject} {VERB\/p_l\/come\/comes} back to camp, smiling softly.",
+                "text": "s_c a toujours été doué pour parler, donc ce n'est pas une surprise que p_l trouve si facile de discuter avec {PRONOUN/s_c/object}. Ce n'est qu'une patrouille de collecte d'herbes, mais p_l se sent plus détendu que {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} ne l'a été depuis des lunes quand {PRONOUN/p_l/subject} {VERB/p_l/come/comes} rentre au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -121,7 +121,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common, and the other cat bluntly refuses to talk about boring herbs.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun, et l'autre chat refuse franchement de parler d'herbes ennuyeuses.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -143,7 +143,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious, troublesome, childish... and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, mais p_l veut étrangler s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} est insupportable, turbulent, enfantin... et simplement pas quelqu'un que p_l aime côtoyer.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -209,12 +209,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l heads out, leading a patrol of medicine cats to go find any fresh herbs that have survived leaf-bare so far.",
-        "decline_text": "... And they're called back almost immediately, as one of the elders has started hacking something up.",
+        "intro_text": "p_l part, menant une patrouille de guérisseurs pour trouver des herbes fraîches qui ont survécu à la mauvaise saison.",
+        "decline_text": "... Et ils sont rappelés presque immédiatement, car un ancien commence à tousser quelque chose.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The ground is slippery with frost, and as p_l falls, r_c catches {PRONOUN\/p_l\/object}. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+                "text": "Le sol est glissant de givre, et alors que p_l tombe, r_c rattrape {PRONOUN/p_l/object}. C'est un bon rappel que la responsabilité de veiller sur le Clan est partagée, et ce sauvetage fait aussi frissonner agréablement p_l.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -239,7 +239,7 @@
                 ]
             },
             {
-                "text": "p_l and r_c have a pleasant conversation, sharing possible new treatments and messages from StarClan. They return to camp with a growing fondness of each other - and mouths full of herbs.",
+                "text": "p_l et r_c ont une conversation agréable, partageant de nouveaux traitements possibles et des messages du Clan des Étoiles. Ils rentrent au camp avec une affection grandissante l'un pour l'autre – et la bouche pleine d'herbes.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -265,7 +265,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, so it isn't a big surprise that p_l finds it so easy to chat with {PRONOUN\/s_c\/object}. It's just an herb gathering patrol, but p_l feels more relaxed than {PRONOUN\/p_l\/subject}{VERB\/p_l\/'ve\/'s} felt in moons when {PRONOUN\/p_l\/subject} {VERB\/p_l\/come\/comes} back to camp, smiling softly.",
+                "text": "s_c a toujours été doué pour parler, donc ce n'est pas une surprise que p_l trouve si facile de discuter avec {PRONOUN/s_c/object}. Ce n'est qu'une patrouille de collecte d'herbes, mais p_l se sent plus détendu que {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} ne l'a été depuis des lunes quand {PRONOUN/p_l/subject} {VERB/p_l/come/comes} rentre au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -299,7 +299,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -321,7 +321,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious, troublesome, childish... and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, mais p_l veut étrangler s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} est insupportable, turbulent, enfantin... et simplement pas quelqu'un que p_l aime côtoyer.",
                 "exp": 0,
                 "weight": 40,
                 "stat_trait": [
@@ -381,12 +381,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "Hmm. p_l heads out, deciding that {PRONOUN\/p_l\/subject} {VERB\/p_l\/need\/needs} more blackberry leaves in {PRONOUN\/p_l\/poss} stores.",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/have\/has} second thoughts about leaving {PRONOUN\/p_l\/poss} patients behind and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Hmm. p_l part, décidant que {PRONOUN/p_l/subject} {VERB/p_l/need/needs} plus de feuilles de mûre dans {PRONOUN/p_l/poss} réserves.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/have/has} des doutes sur le fait de laisser {PRONOUN/p_l/poss} patients et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "While blackberries don't lose their leaves completely, leaf-bare is hard on every plant. p_l has to balance the plant's needs, the Clan's needs, and {PRONOUN\/p_l\/poss} own frozen paws, as {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries} to gather what {PRONOUN\/p_l\/subject} can.",
+                "text": "Bien que les mûriers ne perdent pas toutes leurs feuilles, la mauvaise saison est dure pour chaque plante. p_l doit équilibrer les besoins de la plante, du Clan et ses propres pattes gelées, alors que {PRONOUN/p_l/subject} {VERB/p_l/try/tries} de récolter ce que {PRONOUN/p_l/subject} peut.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -394,7 +394,7 @@
                 ]
             },
             {
-                "text": "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still-living leaves from the blackberry plant.",
+                "text": "En grimpant sur un rocher gelé et glissant pour prendre de la hauteur, p_l parvient à cueillir quelques feuilles encore vivantes du mûrier.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -402,7 +402,7 @@
                 ]
             },
             {
-                "text": "s_c spots a sheltered corner that has protected a branch of blackberry from the cold and expertly maneuvers in to pluck the leaves for c_n.",
+                "text": "s_c repère un coin abrité qui a protégé une branche de mûrier du froid et s'y faufile habilement pour cueillir les feuilles pour c_n.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -415,23 +415,23 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The blackberry bramble has died back, withered and dry, and p_l can't get any fresh leaves from this. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/note\/notes} with growing concern that leaf-bare might have killed the plant.",
+                "text": "Le buisson de mûre est mort, desséché et sec, et p_l ne peut pas obtenir de feuilles fraîches. {PRONOUN/p_l/subject/CAP} {VERB/p_l/note/notes} avec une inquiétude croissante que la mauvaise saison ait tué la plante.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "p_l carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/overcompensate\/overcompensates} {PRONOUN\/p_l\/poss} balance, falling into a deep snowbank that {PRONOUN\/p_l\/subject} just can't seem to claw {PRONOUN\/p_l\/poss} way out of.",
+                "text": "p_l s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/p_l/subject/CAP} {VERB/p_l/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/p_l/subject} ne parvient pas à sortir.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after getting stuck in a snowbank."
+                    "reg_death": "m_c est mort gelé après être resté coincé dans une congère."
                 }
             },
             {
-                "text": "p_l carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/overcompensate\/overcompensates} {PRONOUN\/p_l\/poss} balance, falling into a deep snowbank that {PRONOUN\/p_l\/subject} {VERB\/p_l\/emerge\/emerges} from with a deep shiver racking {PRONOUN\/p_l\/poss} body.",
+                "text": "p_l s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/p_l/subject/CAP} {VERB/p_l/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/p_l/subject} {VERB/p_l/emerge/emerges} avec un frisson intense parcourant son corps.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -451,8 +451,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 }
             }
         ]
@@ -495,12 +495,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "Hmm. p_l heads out with app1, deciding that they need more blackberry leaves in their stores.",
-        "decline_text": "p_l has second thoughts leaving {PRONOUN\/p_l\/poss} patients behind, especially since {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} also bringing {PRONOUN\/p_l\/poss} apprentice, and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Hmm. p_l part avec app1, décidant qu'ils ont besoin de plus de feuilles de mûre dans leurs réserves.",
+        "decline_text": "p_l a des doutes à laisser {PRONOUN/p_l/poss} patients, surtout que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} emmène aussi son apprenti, et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "While blackberries don't lose their leaves completely, leaf-bare is hard on every plant. p_l has to balance the plant's needs, the Clan's needs, and {PRONOUN\/p_l\/poss} own frozen paws, as {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries} to gather what {PRONOUN\/p_l\/subject} can. It's a great help having app1 with {PRONOUN\/p_l\/object}, though {PRONOUN\/p_l\/subject} {VERB\/p_l\/stay\/stays} cognizant that the younger cat can't be out in the cold as long as {PRONOUN\/p_l\/object}.",
+                "text": "Bien que les mûriers ne perdent pas toutes leurs feuilles, la mauvaise saison est dure pour chaque plante. p_l doit équilibrer les besoins de la plante, du Clan et ses propres pattes gelées, alors que {PRONOUN/p_l/subject} {VERB/p_l/try/tries} de récolter ce que {PRONOUN/p_l/subject} peut. C'est d'une grande aide d'avoir app1 avec {PRONOUN/p_l/object}, même si {PRONOUN/p_l/subject} {VERB/p_l/stay/stays} attentif à ce que le jeune chat ne reste pas trop longtemps dans le froid.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -526,7 +526,7 @@
                 ]
             },
             {
-                "text": "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still-living leaves from the blackberry plant. app1 holds {PRONOUN\/app1\/poss} breath, hoping {PRONOUN\/app1\/poss} mentor comes down unscathed.",
+                "text": "En grimpant sur un rocher gelé et glissant pour prendre de la hauteur, p_l parvient à cueillir quelques feuilles encore vivantes du mûrier. app1 retient son souffle, espérant que son mentor descende indemne.",
                 "exp": 30,
                 "weight": 5,
                 "herbs": [
@@ -552,7 +552,7 @@
                 ]
             },
             {
-                "text": "s_c spots a sheltered corner that has protected a branch of blackberry from the cold and expertly maneuvers in to pluck the leaves for c_n. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/leave\/leaves} app1 outside, not wanting to risk {PRONOUN\/s_c\/poss} apprentice in the snow and thorns.",
+                "text": "s_c repère un coin abrité qui a protégé une branche de mûrier du froid et s'y faufile habilement pour cueillir les feuilles pour c_n. {PRONOUN/s_c/subject/CAP} {VERB/s_c/leave/leaves} app1 dehors, ne voulant pas risquer son apprenti dans la neige et les ronces.",
                 "exp": 30,
                 "weight": 40,
                 "stat_skill": [
@@ -586,19 +586,19 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The blackberry bramble has died back, withered and dry, and p_l can't get any fresh leaves from this. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/note\/notes} with growing concern that leaf-bare might have killed the plant, exchanging a worried glance with app1.",
+                "text": "Le buisson de mûre est mort, desséché et sec, et p_l ne peut pas obtenir de feuilles fraîches. {PRONOUN/p_l/subject/CAP} {VERB/p_l/note/notes} avec une inquiétude croissante que la mauvaise saison ait tué la plante, échangeant un regard inquiet avec app1.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "p_l carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/overcompensate\/overcompensates} {PRONOUN\/p_l\/poss} balance, falling into a deep snowbank that {PRONOUN\/p_l\/subject} just can't seem to claw {PRONOUN\/p_l\/poss} way out of, even with app1's help.",
+                "text": "p_l s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/p_l/subject/CAP} {VERB/p_l/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/p_l/subject} ne parvient pas à sortir, même avec l'aide d'app1.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after getting stuck in a snowbank."
+                    "reg_death": "m_c est mort gelé après être resté coincé dans une congère."
                 },
                 "relationships": [
                     {
@@ -620,7 +620,7 @@
                 ]
             },
             {
-                "text": "Under {PRONOUN\/app1\/poss} mentor's orders, app1 carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/overcompensate\/overcompensates} {PRONOUN\/app1\/poss} balance, falling into a deep snowbank that {PRONOUN\/app1\/subject} {VERB\/app1\/emerge\/emerges} from with a deep shiver racking {PRONOUN\/app1\/poss} body.",
+                "text": "Sous les ordres de son mentor, app1 s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/app1/subject/CAP} {VERB/app1/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/app1/subject} {VERB/app1/emerge/emerges} avec un frisson intense parcourant son corps.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -640,8 +640,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -663,7 +663,7 @@
                 ]
             },
             {
-                "text": "p_l carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/overcompensate\/overcompensates} {PRONOUN\/p_l\/poss} balance, falling into a deep snowbank that {PRONOUN\/p_l\/subject} {VERB\/p_l\/emerge\/emerges} from with a deep shiver racking {PRONOUN\/p_l\/poss} body.",
+                "text": "p_l s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/p_l/subject/CAP} {VERB/p_l/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/p_l/subject} {VERB/p_l/emerge/emerges} avec un frisson intense parcourant son corps.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -683,8 +683,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -706,14 +706,14 @@
                 ]
             },
             {
-                "text": "Under {PRONOUN\/app1\/poss} mentor's orders, app1 carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/overcompensate\/overcompensates} {PRONOUN\/app1\/poss} balance, falling into a deep snowbank that {PRONOUN\/app1\/subject} just can't seem to claw {PRONOUN\/app1\/poss} way out of, even with p_l's help.",
+                "text": "Sous les ordres de son mentor, app1 s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/app1/subject/CAP} {VERB/app1/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/app1/subject} ne parvient pas à sortir, même avec l'aide de p_l.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after getting stuck in a snowbank."
+                    "reg_death": "m_c est mort gelé après être resté coincé dans une congère."
                 },
                 "relationships": [
                     {
@@ -766,12 +766,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "Hmm. p_l heads out, deciding that {PRONOUN\/p_l\/subject} {VERB\/p_l\/need\/needs} more blackberry leaves in {PRONOUN\/p_l\/poss} stores, bringing along anyone who isn't busy with other work.",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP}{VERB\/p_l\/'re\/'s} stopped before {PRONOUN\/p_l\/subject} {VERB\/p_l\/leave\/leaves} camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
+        "intro_text": "Hmm. p_l part, décidant que {PRONOUN/p_l/subject} {VERB/p_l/need/needs} plus de feuilles de mûre dans {PRONOUN/p_l/poss} réserves, emmenant tous ceux qui ne sont pas occupés ailleurs.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP}{VERB/p_l/'re/'s} est arrêté avant que {PRONOUN/p_l/subject} {VERB/p_l/leave/leaves} le camp – ces guerriers sont nécessaires ailleurs. L'expédition de p_l devra attendre.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "While blackberries don't lose their leaves completely, leaf-bare is hard on every plant. p_l has to balance the plant's needs, the Clan's needs, and {PRONOUN\/p_l\/poss} own frozen paws, as {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries} to gather what {PRONOUN\/p_l\/subject} can. The patrol sees {PRONOUN\/p_l\/poss} stress and gathers around to support {PRONOUN\/p_l\/object}.",
+                "text": "Bien que les mûriers ne perdent pas toutes leurs feuilles, la mauvaise saison est dure pour chaque plante. p_l doit équilibrer les besoins de la plante, du Clan et ses propres pattes gelées, alors que {PRONOUN/p_l/subject} {VERB/p_l/try/tries} de récolter ce que {PRONOUN/p_l/subject} peut. La patrouille voit le stress de p_l et se rassemble pour le soutenir.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -795,7 +795,7 @@
                 ]
             },
             {
-                "text": "Edging out on a slippery frozen rock to get more height, p_l manages to pick away some still-living leaves from the blackberry plant. The rest of the patrol gingerly follows {PRONOUN\/p_l\/poss} lead, and together they manage as decent a harvest as anyone can expect from leaf-bare.",
+                "text": "En grimpant sur un rocher gelé et glissant pour prendre de la hauteur, p_l parvient à cueillir quelques feuilles encore vivantes du mûrier. Le reste de la patrouille suit prudemment son exemple, et ensemble ils récoltent autant que possible en cette mauvaise saison.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -819,7 +819,7 @@
                 ]
             },
             {
-                "text": "s_c spots a sheltered corner that has protected a branch of blackberry from the cold and expertly maneuvers in to pluck the leaves for c_n. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/pass\/passes} them out to the members of the patrol from within the thicket, and {PRONOUN\/s_c\/poss} entourage ensures that s_c is able to bring a huge quantity of fresh blackberry leaves home.",
+                "text": "s_c repère un coin abrité qui a protégé une branche de mûrier du froid et s'y faufile habilement pour cueillir les feuilles pour c_n. {PRONOUN/s_c/subject/CAP} {VERB/s_c/pass/passes} les feuilles aux membres de la patrouille depuis le fourré, et son entourage permet à s_c de ramener une grande quantité de feuilles de mûre fraîches.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -851,19 +851,19 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The blackberry bramble has died back, withered and dry, and p_l can't get any fresh leaves from this. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/note\/notes} with growing concern that leaf-bare might have killed the plant. {PRONOUN\/p_l\/subject\/CAP}'ll have to try a different blackberry bush on another day.",
+                "text": "Le buisson de mûre est mort, desséché et sec, et p_l ne peut pas obtenir de feuilles fraîches. {PRONOUN/p_l/subject/CAP} {VERB/p_l/note/notes} avec une inquiétude croissante que la mauvaise saison ait tué la plante. {PRONOUN/p_l/subject/CAP} devra essayer un autre buisson de mûre un autre jour.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "r_c carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/overcompensate\/overcompensates} {PRONOUN\/r_c\/poss} balance, falling into a deep snowbank that {PRONOUN\/r_c\/subject} just can't seem to claw {PRONOUN\/r_c\/poss} way out of, even with the other cats' help.",
+                "text": "r_c s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/r_c/subject/CAP} {VERB/r_c/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/r_c/subject} ne parvient pas à sortir, même avec l'aide des autres chats.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after getting stuck in a snowbank."
+                    "reg_death": "m_c est mort gelé après être resté coincé dans une congère."
                 },
                 "relationships": [
                     {
@@ -885,7 +885,7 @@
                 ]
             },
             {
-                "text": "r_c carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/overcompensate\/overcompensates} {PRONOUN\/r_c\/poss} balance, falling into a deep snowbank that {PRONOUN\/r_c\/subject} {VERB\/r_c\/emerge\/emerges} from with a deep shiver racking {PRONOUN\/r_c\/poss} body.",
+                "text": "r_c s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/r_c/subject/CAP} {VERB/r_c/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/r_c/subject} {VERB/r_c/emerge/emerges} avec un frisson intense parcourant son corps.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -905,8 +905,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -928,14 +928,14 @@
                 ]
             },
             {
-                "text": "p_l carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/overcompensate\/overcompensates} {PRONOUN\/p_l\/poss} balance, falling into a deep snowbank that {PRONOUN\/p_l\/subject} just can't seem to claw {PRONOUN\/p_l\/poss} way out of, even with the other cats' help.",
+                "text": "p_l s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/p_l/subject/CAP} {VERB/p_l/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/p_l/subject} ne parvient pas à sortir, même avec l'aide des autres chats.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after getting stuck in a snowbank."
+                    "reg_death": "m_c est mort gelé après être resté coincé dans une congère."
                 },
                 "relationships": [
                     {
@@ -957,7 +957,7 @@
                 ]
             },
             {
-                "text": "p_l carefully edges out onto a slippery, frozen rock, trying to get closer to a branch of blackberry leaves that are still green. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/overcompensate\/overcompensates} {PRONOUN\/p_l\/poss} balance, falling into a deep snowbank that {PRONOUN\/p_l\/subject} {VERB\/p_l\/emerge\/emerges} from with a deep shiver racking {PRONOUN\/p_l\/poss} body.",
+                "text": "p_l s'avance prudemment sur un rocher gelé et glissant, essayant d'atteindre une branche de feuilles de mûre encore vertes. {PRONOUN/p_l/subject/CAP} {VERB/p_l/overcompensate/overcompensates} son équilibre, tombant dans une congère profonde dont {PRONOUN/p_l/subject} {VERB/p_l/emerge/emerges} avec un frisson intense parcourant son corps.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -977,8 +977,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1031,12 +1031,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "As the snows of leaf-bare blow around camp, p_l eyes {PRONOUN\/p_l\/poss} herb stores. {PRONOUN\/p_l\/subject\/CAP} should still be able to dig up burdock. p_l heads out to replenish the Clan's stocks.",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/have\/has} second thoughts about leaving {PRONOUN\/p_l\/poss} patients behind and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Alors que la neige de la mauvaise saison souffle autour du camp, p_l observe {PRONOUN/p_l/poss} réserves d'herbes. {PRONOUN/p_l/subject/CAP} devrait encore pouvoir déterrer de la bardane. p_l part pour reconstituer les stocks du Clan.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/have/has} des doutes sur le fait de laisser {PRONOUN/p_l/poss} patients et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "p_l's pawpads are nearly frozen, trying to dig up burdock in the cold, but somehow {PRONOUN\/p_l\/subject} {VERB\/p_l\/manage\/manages} it, and it's worth all the effort and misery to know how crucial these fresh herbs could be for the Clan.",
+                "text": "Les coussinets de p_l sont presque gelés à force de creuser pour trouver de la bardane dans le froid, mais {PRONOUN/p_l/subject} {VERB/p_l/manage/manages} y arrive, et tout cet effort et cette misère valent la peine pour savoir à quel point ces herbes fraîches pourraient être cruciales pour le Clan.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -1044,7 +1044,7 @@
                 ]
             },
             {
-                "text": "It's very difficult, especially with the plant's leafy top-half gone until newleaf, but p_l somehow manages to find a burdock plant and bring its roots home.",
+                "text": "C'est très difficile, surtout avec la partie feuillue de la plante disparue jusqu'à la nouvelle saison, mais p_l parvient à trouver une bardane et à ramener ses racines au camp.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -1052,7 +1052,7 @@
                 ]
             },
             {
-                "text": "s_c remembers exactly where the burdock plant grew in greenleaf, even if it's buried under snow now. After all, s_c is after the roots, and those are still perfectly harvestable in leaf-bare.",
+                "text": "s_c se souvient exactement où la bardane poussait pendant la saison verte, même si elle est maintenant sous la neige. Après tout, s_c cherche les racines, et elles sont encore parfaitement récoltables pendant la mauvaise saison.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -1065,12 +1065,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Maybe {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} just coming down with a runny nose, but p_l doesn't manage to sniff out any burdock, and it feels like a wasted afternoon.",
+                "text": "Peut-être que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} couve juste un rhume, mais p_l ne parvient pas à trouver de bardane, et la journée semble perdue.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "p_l digs and digs and digs, but eventually {PRONOUN\/p_l\/subject} {VERB\/p_l\/have\/has} to admit failure and give up the search for burdock root. The cold has leached all the heat from {PRONOUN\/p_l\/poss} pelt, and {PRONOUN\/p_l\/subject} {VERB\/p_l\/arrive\/arrives} back at camp miserable and cold.",
+                "text": "p_l creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. Le froid a aspiré toute la chaleur de {PRONOUN/p_l/poss} pelage, et {PRONOUN/p_l/subject} {VERB/p_l/arrive/arrives} au camp misérable et gelé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1090,19 +1090,19 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 }
             },
             {
-                "text": "p_l digs and digs and digs, but eventually {PRONOUN\/p_l\/subject} {VERB\/p_l\/have\/has} to admit failure and give up the search for burdock root. The cold has leached all the heat from {PRONOUN\/p_l\/poss} pelt, and though {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries}, p_l eventually loses the strength to get home as well.",
+                "text": "p_l creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. Le froid a aspiré toute la chaleur du pelage de p_l, et même si {PRONOUN/p_l/subject} {VERB/p_l/try/tries}, p_l finit par perdre la force de rentrer au camp.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 }
             }
         ]
@@ -1145,12 +1145,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "As the snows of leaf-bare blow around camp, p_l eyes {PRONOUN\/p_l\/poss} herb stores. {PRONOUN\/p_l\/subject\/CAP} should still be able to dig up burdock. p_l heads out to replenish the Clan's stocks, bringing app1 along.",
-        "decline_text": "p_l has second thoughts leaving {PRONOUN\/p_l\/poss} patients behind, especially since {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} also bringing {PRONOUN\/p_l\/poss} apprentice, and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Alors que la neige de la mauvaise saison souffle autour du camp, p_l observe {PRONOUN/p_l/poss} réserves d'herbes. {PRONOUN/p_l/subject/CAP} devrait encore pouvoir déterrer de la bardane. p_l part pour reconstituer les stocks du Clan, emmenant app1 avec lui.",
+        "decline_text": "p_l a des doutes à laisser {PRONOUN/p_l/poss} patients, surtout que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} emmène aussi son apprenti, et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "p_l's and app1's pawpads are nearly frozen, trying to dig up burdock in the cold, but somehow they manage it, and it's worth all the effort and misery to know how crucial these fresh herbs could be for the Clan.",
+                "text": "Les coussinets de p_l et app1 sont presque gelés à force de creuser pour trouver de la bardane dans le froid, mais ils y arrivent, et tout cet effort et cette misère valent la peine pour savoir à quel point ces herbes fraîches pourraient être cruciales pour le Clan.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -1176,7 +1176,7 @@
                 ]
             },
             {
-                "text": "It's very difficult, especially with the plant's leafy top-half gone until newleaf, but p_l somehow manages to find a burdock plant and bring its roots home. Laying the thin roots out in a neat pile in the herb stores makes p_l's entire body thrum with a contented purr, as does seeing how hard app1 is working to learn herbcraft.",
+                "text": "C'est très difficile, surtout avec la partie feuillue de la plante disparue jusqu'à la nouvelle saison, mais p_l parvient à trouver une bardane et à ramener ses racines au camp. Disposer les racines fines en pile dans la réserve d'herbes fait ronronner p_l de contentement, tout comme voir à quel point app1 travaille dur pour apprendre l'herboristerie.",
                 "exp": 30,
                 "weight": 5,
                 "herbs": [
@@ -1202,7 +1202,7 @@
                 ]
             },
             {
-                "text": "s_c remembers exactly where the burdock plant grew in greenleaf, even if it's buried under snow now. After all, s_c and app1 are after the roots, and those are still perfectly harvestable in leaf-bare.",
+                "text": "s_c se souvient exactement où la bardane poussait pendant la saison verte, même si elle est maintenant sous la neige. Après tout, s_c et app1 cherchent les racines, et elles sont encore parfaitement récoltables pendant la mauvaise saison.",
                 "exp": 30,
                 "weight": 40,
                 "stat_skill": [
@@ -1236,7 +1236,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Maybe {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} just coming down with a runny nose, but p_l doesn't manage to sniff out any burdock, and it feels like a wasted afternoon. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/avoid\/avoids} snapping at app1, who seems unable to identify the common herb, but {PRONOUN\/p_l\/subject} definitely {VERB\/p_l\/come\/comes} close.",
+                "text": "Peut-être que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} couve juste un rhume, mais p_l ne parvient pas à trouver de bardane, et la journée semble perdue. {PRONOUN/p_l/subject/CAP} {VERB/p_l/avoid/avoids} de s'énerver contre app1, qui semble incapable d'identifier l'herbe commune, mais {PRONOUN/p_l/subject} est tout de même sur le point de craquer.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1259,7 +1259,7 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. p_l in particular is shivering and chilled to the bone by the time {PRONOUN\/p_l\/subject} and app1 return to camp, empty-pawed and miserable.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. p_l en particulier tremble de froid en rentrant au camp avec app1, les pattes vides et misérables.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1279,8 +1279,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1302,14 +1302,14 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. The cold has leached all the heat from p_l's pelt, and even with app1's help, {PRONOUN\/p_l\/subject} just {VERB\/p_l\/don't\/doesn't} have the energy to make it back to camp.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. Le froid a aspiré toute la chaleur du pelage de p_l, et même avec l'aide d'app1, {PRONOUN/p_l/subject} {VERB/p_l/don't/doesn't} a plus l'énergie de rentrer au camp.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1331,7 +1331,7 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. app1 in particular is shivering and chilled to the bone by the time {PRONOUN\/app1\/subject} and p_l return to camp, empty-pawed and miserable.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. app1 en particulier tremble de froid en rentrant au camp avec p_l, les pattes vides et misérables.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1351,8 +1351,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1374,14 +1374,14 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. The cold has leached all the heat from app1's pelt, and even with p_l's help, {PRONOUN\/app1\/subject} just {VERB\/app1\/don't\/doesn't} have the energy to make it back to camp.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. Le froid a aspiré toute la chaleur du pelage d'app1, et même avec l'aide de p_l, {PRONOUN/app1/subject} {VERB/app1/don't/doesn't} a plus l'énergie de rentrer au camp.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1434,12 +1434,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "As the snows of leaf-bare blow around camp, p_l eyes {PRONOUN\/p_l\/poss} herb stores. {PRONOUN\/p_l\/subject\/CAP} should still be able to dig up burdock. p_l heads out to replenish the Clan's stocks, bringing along anyone who isn't busy with other work.",
-        "decline_text": "The patrol is stopped before it can leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
+        "intro_text": "Alors que la neige de la mauvaise saison souffle autour du camp, p_l observe {PRONOUN/p_l/poss} réserves d'herbes. {PRONOUN/p_l/subject/CAP} devrait encore pouvoir déterrer de la bardane. p_l part pour reconstituer les stocks du Clan, emmenant tous ceux qui ne sont pas occupés ailleurs.",
+        "decline_text": "La patrouille est arrêtée avant de quitter le camp – ces guerriers sont nécessaires ailleurs. L'expédition de p_l devra attendre.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "p_l's pawpads are nearly frozen, trying to dig up burdock in the cold, but somehow {PRONOUN\/p_l\/subject} {VERB\/p_l\/manage\/manages} it, and it's worth all the effort and misery to know how crucial these fresh herbs could be for the Clan. {PRONOUN\/p_l\/poss\/CAP} Clanmates purr at the sight of the dirty roots, having spent just as much energy digging for them as p_l.",
+                "text": "Les coussinets de p_l sont presque gelés à force de creuser pour trouver de la bardane dans le froid, mais {PRONOUN/p_l/subject} {VERB/p_l/manage/manages} y arrive, et tout cet effort et cette misère valent la peine pour savoir à quel point ces herbes fraîches pourraient être cruciales pour le Clan. Les camarades de Clan de p_l ronronnent à la vue des racines sales, ayant dépensé autant d'énergie à creuser que p_l.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -1463,7 +1463,7 @@
                 ]
             },
             {
-                "text": "It's very difficult, especially with the plant's leafy top-half gone until newleaf, but p_l somehow manages to find a burdock plant and bring its roots home. Laying the thin roots out in a neat pile in the herb stores makes p_l's entire body thrum with a contented purr, and {PRONOUN\/p_l\/poss} Clanmates smile, appreciating the hard-working medicine cat.",
+                "text": "C'est très difficile, surtout avec la partie feuillue de la plante disparue jusqu'à la nouvelle saison, mais p_l parvient à trouver une bardane et à ramener ses racines au camp. Disposer les racines fines en pile dans la réserve d'herbes fait ronronner p_l de contentement, et ses camarades de Clan sourient, appréciant le travail du guérisseur.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -1487,7 +1487,7 @@
                 ]
             },
             {
-                "text": "s_c wows the patrol by remembering exactly where the burdock plant grew in greenleaf, even if it's buried under snow now. After all, it's the roots that the patrol is after, and those are still perfectly harvestable in leaf-bare.",
+                "text": "s_c impressionne la patrouille en se souvenant exactement où la bardane poussait pendant la saison verte, même si elle est maintenant sous la neige. Après tout, ce sont les racines que la patrouille cherche, et elles sont encore parfaitement récoltables pendant la mauvaise saison.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -1519,7 +1519,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Maybe {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} just coming down with a runny nose, but p_l doesn't manage to sniff out any burdock, and no one else on the patrol is very helpful either. They all return to camp without any burdock, pelts prickling with frustration.",
+                "text": "Peut-être que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} couve juste un rhume, mais p_l ne parvient pas à trouver de bardane, et personne d'autre dans la patrouille n'est très utile non plus. Ils rentrent tous au camp sans bardane, le pelage hérissé de frustration.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1540,7 +1540,7 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. r_c in particular is shivering and chilled to the bone by the time {PRONOUN\/r_c\/subject} {VERB\/r_c\/return\/returns}, empty-pawed and miserable.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. r_c en particulier tremble de froid en rentrant au camp, les pattes vides et misérables.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1560,8 +1560,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1581,7 +1581,7 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. p_l in particular is shivering and chilled to the bone by the time {PRONOUN\/p_l\/subject} {VERB\/p_l\/return\/returns}, empty-pawed and miserable.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. p_l en particulier tremble de froid en rentrant au camp, les pattes vides et misérables.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1601,8 +1601,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1622,14 +1622,14 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. The cold has leached all the heat from p_l's pelt, and even with the other cats' help, {PRONOUN\/p_l\/subject} just {VERB\/p_l\/don't\/doesn't} have the energy to make it back to camp.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. Le froid a aspiré toute la chaleur du pelage de p_l, et même avec l'aide des autres chats, {PRONOUN/p_l/subject} {VERB/p_l/don't/doesn't} a plus l'énergie de rentrer au camp.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1651,14 +1651,14 @@
                 ]
             },
             {
-                "text": "The patrol digs and digs and digs, but eventually has to admit failure and give up the search for burdock root. The cold has leached all the heat from r_c's pelt, and even with the other cats' help, {PRONOUN\/r_c\/subject} just {VERB\/r_c\/don't\/doesn't} have the energy to make it back to camp.",
+                "text": "La patrouille creuse et creuse, mais finit par devoir admettre l'échec et abandonner la recherche de racine de bardane. Le froid a aspiré toute la chaleur du pelage de r_c, et même avec l'aide des autres chats, {PRONOUN/r_c/subject} {VERB/r_c/don't/doesn't} a plus l'énergie de rentrer au camp.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1711,12 +1711,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "In the leaf-bare snow, the chances of finding any usable daisies seem slim. p_l hesitates - should {PRONOUN\/p_l\/subject} even try to look?",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/have\/has} second thoughts about leaving {PRONOUN\/p_l\/poss} patients behind and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Dans la neige de la mauvaise saison, les chances de trouver des pâquerettes utilisables semblent minces. p_l hésite – {PRONOUN/p_l/subject} devrait-il même essayer de chercher ?",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/have/has} des doutes sur le fait de laisser {PRONOUN/p_l/poss} patients et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "It's miserable work, scraping away snowy pawful by awful, cold pawful. However, p_l manages to find a patch of wilted, soggy, but still green daisies to harvest leaves from.",
+                "text": "C'est un travail misérable, grattant la neige patte après patte, froide et pénible. Pourtant, p_l parvient à trouver un coin de pâquerettes fanées, détrempées mais encore vertes pour récolter des feuilles.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -1724,7 +1724,7 @@
                 ]
             },
             {
-                "text": "It feels nearly impossible, but the glimpse of soggy green stuff at the end of {PRONOUN\/p_l\/poss} cold search makes it all worth it! Or... kind of worth it. p_l is <i>sure<\/i> it'll seem worth it once {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} back in {PRONOUN\/p_l\/poss} nice, warm nest.",
+                "text": "Cela semble presque impossible, mais l'aperçu de verdure détrempée à la fin de la recherche glacée de {PRONOUN/p_l/poss} rend tout cela utile ! Ou... presque utile. p_l est <i>certain</i> que ça semblera utile une fois que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} sera de retour dans son nid chaud.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -1732,7 +1732,7 @@
                 ]
             },
             {
-                "text": "It's not just spotting things that s_c is talented at - finding daisies in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN\/s_c\/subject} {VERB\/s_c\/manage\/manages} it.",
+                "text": "Ce n'est pas seulement repérer les choses que s_c sait faire – trouver des pâquerettes en mauvaise saison est déjà difficile, mais trouver de bonnes feuilles non fanées est presque impossible, et c'est la marque du talent unique de s_c que {PRONOUN/s_c/subject} {VERB/s_c/manage/manages} y arrive.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -1745,12 +1745,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only does p_l end up soaked to the skin, but {PRONOUN\/p_l\/subject} can't even find any daisies under the snow. A wasted and horribly chilly day.",
+                "text": "Non seulement p_l finit trempé jusqu'aux os, mais {PRONOUN/p_l/subject} ne trouve aucune pâquerette sous la neige. Une journée perdue et horriblement froide.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Not only does p_l end up soaked to the skin, {PRONOUN\/p_l\/subject} can't even find any daisies under the snow, and {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} left shivering violently by the time {PRONOUN\/p_l\/subject} {VERB\/p_l\/return\/returns} to camp.",
+                "text": "Non seulement p_l finit trempé jusqu'aux os, {PRONOUN/p_l/subject} ne trouve aucune pâquerette sous la neige, et {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} finit à grelotter violemment en rentrant au camp.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1770,19 +1770,19 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 }
             },
             {
-                "text": "Not only does p_l end up soaked to the skin, {PRONOUN\/p_l\/subject} can't even find any daisies under the snow. Left exhausted after the fruitless search, p_l collapses on {PRONOUN\/p_l\/poss} way back to camp, and is unable to get up no matter how hard {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries}.",
+                "text": "Non seulement p_l finit trempé jusqu'aux os, {PRONOUN/p_l/subject} ne trouve aucune pâquerette sous la neige. Épuisé après cette recherche infructueuse, p_l s'effondre sur le chemin du retour au camp, incapable de se relever peu importe les efforts de {PRONOUN/p_l/subject} {VERB/p_l/try/tries}.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 }
             }
         ]
@@ -1825,12 +1825,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "In the leaf-bare snow, the chances of finding any usable daisies seem slim. p_l hesitates - should {PRONOUN\/p_l\/subject} even try to look? And is bringing app1 a good idea?",
-        "decline_text": "p_l has second thoughts leaving {PRONOUN\/p_l\/poss} patients behind, especially since {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} also bringing {PRONOUN\/p_l\/poss} apprentice, and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Dans la neige de la mauvaise saison, les chances de trouver des pâquerettes utilisables semblent minces. p_l hésite – {PRONOUN/p_l/subject} devrait-il même essayer de chercher ? Et emmener app1 est-il une bonne idée ?",
+        "decline_text": "p_l a des doutes à laisser {PRONOUN/p_l/poss} patients, surtout que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} emmène aussi son apprenti, et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "It's miserable work, scraping away snowy pawful by awful, cold pawful. However, p_l manages to find a patch of wilted, soggy, but still green daisies to harvest leaves from. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/share\/shares} an exhausted look of commiseration with app1.",
+                "text": "C'est un travail misérable, grattant la neige patte après patte, froide et pénible. Pourtant, p_l parvient à trouver un coin de pâquerettes fanées, détrempées mais encore vertes pour récolter des feuilles. {PRONOUN/p_l/subject/CAP} {VERB/p_l/share/shares} un regard épuisé de commisération avec app1.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -1856,7 +1856,7 @@
                 ]
             },
             {
-                "text": "It feels nearly impossible, but the glimpse of soggy green stuff at the end of {PRONOUN\/p_l\/poss} cold search makes it all worth it! Or... kind of worth it. p_l is <i>sure<\/i> it'll seem worth it once {PRONOUN\/p_l\/subject} and app1 - who's been a real trooper today - are back in their nice, warm nests.",
+                "text": "Cela semble presque impossible, mais l'aperçu de verdure détrempée à la fin de la recherche glacée de {PRONOUN/p_l/poss} rend tout cela utile ! Ou... presque utile. p_l est <i>certain</i> que ça semblera utile une fois que {PRONOUN/p_l/subject} et app1 – qui a été très courageux aujourd'hui – seront de retour dans leurs nids chauds.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -1882,7 +1882,7 @@
                 ]
             },
             {
-                "text": "It's not just spotting things that s_c is talented at - finding daisies in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN\/s_c\/subject} {VERB\/s_c\/manage\/manages} it. app1 trails in {PRONOUN\/s_c\/poss} wake, wide-eyed and impressed.",
+                "text": "Ce n'est pas seulement repérer les choses que s_c sait faire – trouver des pâquerettes en mauvaise saison est déjà difficile, mais trouver de bonnes feuilles non fanées est presque impossible, et c'est la marque du talent unique de s_c que {PRONOUN/s_c/subject} {VERB/s_c/manage/manages} y arrive. app1 suit {PRONOUN/s_c/poss} mentor, impressionné.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -1916,7 +1916,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only do p_l and app1 end up soaked to the skin, but they can't even find any daisies under the snow. A wasted and horribly chilly day.",
+                "text": "Non seulement p_l et app1 finissent trempés jusqu'aux os, mais ils ne trouvent aucune pâquerette sous la neige. Une journée perdue et horriblement froide.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1939,7 +1939,7 @@
                 ]
             },
             {
-                "text": "Not only do both cats end up soaked to the skin, they can't even find any daisies under the snow, and p_l's left shivering violently by the time {PRONOUN\/p_l\/subject} and app1 return to camp.",
+                "text": "Non seulement les deux chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige, et p_l finit à grelotter violemment en rentrant au camp avec app1.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1959,8 +1959,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -1982,14 +1982,14 @@
                 ]
             },
             {
-                "text": "Not only do both cats end up soaked to the skin, they can't even find any daisies under the snow. p_l's left so exhausted that {PRONOUN\/p_l\/subject} {VERB\/p_l\/collapse\/collapses} on the way back to camp, unable to go any further even with app1's help.",
+                "text": "Non seulement les deux chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige. p_l finit si épuisé que {PRONOUN/p_l/subject} {VERB/p_l/collapse/collapses} sur le chemin du retour au camp, incapable d'aller plus loin même avec l'aide d'app1.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2011,7 +2011,7 @@
                 ]
             },
             {
-                "text": "Not only do both cats end up soaked to the skin, they can't even find any daisies under the snow, and app1's left shivering violently by the time {PRONOUN\/app1\/subject} and p_l return to camp.",
+                "text": "Non seulement les deux chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige, et app1 finit à grelotter violemment en rentrant au camp avec p_l.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2031,8 +2031,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2054,14 +2054,14 @@
                 ]
             },
             {
-                "text": "Not only do both cats end up soaked to the skin, they can't even find any daisies under the snow. app1's left so exhausted that {PRONOUN\/app1\/subject} {VERB\/app1\/collapse\/collapses} on the way back to camp, unable to go any further even with p_l's help.",
+                "text": "Non seulement les deux chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige. app1 finit si épuisé que {PRONOUN/app1/subject} {VERB/app1/collapse/collapses} sur le chemin du retour au camp, incapable d'aller plus loin même avec l'aide de p_l.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2114,12 +2114,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "In the leaf-bare snow, the chances of finding any usable daisies seem slim. p_l hesitates - should {PRONOUN\/p_l\/poss} patrol even try to look?",
-        "decline_text": "The patrol is stopped before it can leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
+        "intro_text": "Dans la neige de la mauvaise saison, les chances de trouver des pâquerettes utilisables semblent minces. p_l hésite – la patrouille devrait-elle même essayer de chercher ?",
+        "decline_text": "La patrouille est arrêtée avant de quitter le camp – ces guerriers sont nécessaires ailleurs. L'expédition de p_l devra attendre.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "It's miserable work, scraping away snowy pawful by awful, cold pawful. However, p_l manages to find a patch of wilted, soggy, but still green daisies to harvest leaves from. {PRONOUN\/p_l\/poss\/CAP} Clanmates purr at the sight of the mushy green leaves, having spent just as much energy digging for them as p_l.",
+                "text": "C'est un travail misérable, grattant la neige patte après patte, froide et pénible. Pourtant, p_l parvient à trouver un coin de pâquerettes fanées, détrempées mais encore vertes pour récolter des feuilles. Les camarades de Clan de p_l ronronnent à la vue des feuilles vertes, ayant dépensé autant d'énergie à creuser que p_l.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -2143,7 +2143,7 @@
                 ]
             },
             {
-                "text": "It feels nearly impossible, but the glimpse of soggy green stuff at the end of their cold search makes it all worth it! Or... kind of worth it. p_l is <i>sure<\/i> it'll seem worth it once they're all back in their nice, warm nests.",
+                "text": "Cela semble presque impossible, mais l'aperçu de verdure détrempée à la fin de leur recherche glacée rend tout cela utile ! Ou... presque utile. p_l est <i>certain</i> que ça semblera utile une fois qu'ils seront tous de retour dans leurs nids chauds.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -2167,7 +2167,7 @@
                 ]
             },
             {
-                "text": "It's not just spotting things that s_c is talented at - finding daisies in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN\/s_c\/subject} {VERB\/s_c\/manage\/manages} it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat.",
+                "text": "Ce n'est pas seulement repérer les choses que s_c sait faire – trouver des pâquerettes en mauvaise saison est déjà difficile, mais trouver de bonnes feuilles non fanées est presque impossible, et c'est la marque du talent unique de s_c que {PRONOUN/s_c/subject} {VERB/s_c/manage/manages} y arrive. Cela rappelle à tous dans la patrouille à quel point c_n a de la chance d'avoir s_c comme guérisseur.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -2199,7 +2199,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only do the cats end up soaked to the skin, but they can't even find any daisies under the snow. A wasted and horribly chilly day.",
+                "text": "Non seulement les chats finissent trempés jusqu'aux os, mais ils ne trouvent aucune pâquerette sous la neige. Une journée perdue et horriblement froide.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2220,7 +2220,7 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any daisies under the snow, and p_l's left shivering violently by the time {PRONOUN\/p_l\/subject} and the others return to camp.",
+                "text": "Non seulement les chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige, et p_l finit à grelotter violemment en rentrant au camp avec les autres.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2240,8 +2240,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2263,14 +2263,14 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any daisies under the snow. p_l's left so exhausted that {PRONOUN\/p_l\/subject} {VERB\/p_l\/collapse\/collapses} on the way back to camp, unable to go any further even with the other cats' help.",
+                "text": "Non seulement les chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige. p_l finit si épuisé que {PRONOUN/p_l/subject} {VERB/p_l/collapse/collapses} sur le chemin du retour au camp, incapable d'aller plus loin même avec l'aide des autres chats.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2292,7 +2292,7 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any daisies under the snow, and r_c's left shivering violently by the time {PRONOUN\/r_c\/subject} and the others return to camp.",
+                "text": "Non seulement les chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige, et r_c finit à grelotter violemment en rentrant au camp avec les autres.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2312,8 +2312,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2335,14 +2335,14 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any daisies under the snow. r_c's left so exhausted that {PRONOUN\/r_c\/subject} {VERB\/r_c\/collapse\/collapses} on the way back to camp, unable to go any further even with the other cats' help.",
+                "text": "Non seulement les chats finissent trempés jusqu'aux os, ils ne trouvent aucune pâquerette sous la neige. r_c finit si épuisé que {PRONOUN/r_c/subject} {VERB/r_c/collapse/collapses} sur le chemin du retour au camp, incapable d'aller plus loin même avec l'aide des autres chats.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2395,12 +2395,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead. If {PRONOUN\/p_l\/subject} can get {PRONOUN\/p_l\/poss} paws on a plant, the roots will still hold fresh, milky-white sap.",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/have\/has} second thoughts about leaving {PRONOUN\/p_l\/poss} patients behind and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Le froid de la mauvaise saison a peut-être tué beaucoup de verdure, mais p_l sait que les pissenlits ne font que semblant d'être morts. Si {PRONOUN/p_l/subject} peut mettre la patte sur une plante, les racines contiendront encore de la sève fraîche et blanche.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/have/has} des doutes sur le fait de laisser {PRONOUN/p_l/poss} patients et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "p_l can't say it's <i>fun,<\/i> swiping away snow to scrounge for the stems and roots of wilted dandelions below, but what matters currently is that it's <i>possible.<\/i>",
+                "text": "p_l ne peut pas dire que c'est <i>amusant,</i> de balayer la neige pour chercher les tiges et racines de pissenlits fanés dessous, mais ce qui compte, c'est que c'est <i>possible.</i>",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -2408,7 +2408,7 @@
                 ]
             },
             {
-                "text": "It's a truly miserable, gray day, but even the colds of leaf-bare can't dampen p_l's joy when {PRONOUN\/p_l\/subject} {VERB\/p_l\/manage\/manages} to uncover a couple good dandelion plants.",
+                "text": "C'est une journée vraiment misérable et grise, mais même le froid de la mauvaise saison ne peut pas atténuer la joie de p_l quand {PRONOUN/p_l/subject} {VERB/p_l/manage/manages} à déterrer quelques bons pissenlits.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -2416,7 +2416,7 @@
                 ]
             },
             {
-                "text": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN\/s_c\/subject} {VERB\/s_c\/manage\/manages} it.",
+                "text": "Ce n'est pas seulement repérer les choses que s_c sait faire – trouver des pissenlits en mauvaise saison est déjà difficile, mais trouver de bonnes feuilles non fanées est presque impossible, et c'est la marque du talent unique de s_c que {PRONOUN/s_c/subject} {VERB/s_c/manage/manages} y arrive.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -2429,12 +2429,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only does p_l end up soaked to the skin, but {PRONOUN\/p_l\/subject} can't even find any dandelions under the snow. A wasted and horribly chilly day.",
+                "text": "Non seulement p_l finit trempé jusqu'aux os, mais {PRONOUN/p_l/subject} ne trouve aucun pissenlit sous la neige. Une journée perdue et horriblement froide.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Not only does p_l end up soaked to the skin, {PRONOUN\/p_l\/subject} can't even find any dandelions under the snow, and {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} left shivering violently by the time {PRONOUN\/p_l\/subject} {VERB\/p_l\/return\/returns} to camp.",
+                "text": "Non seulement p_l finit trempé jusqu'aux os, {PRONOUN/p_l/subject} ne trouve aucun pissenlit sous la neige, et {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} finit à grelotter violemment en rentrant au camp.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2454,19 +2454,19 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 }
             },
             {
-                "text": "Not only does p_l end up soaked to the skin, {PRONOUN\/p_l\/subject} can't even find any dandelions under the snow. Left exhausted after the fruitless search, p_l collapses on {PRONOUN\/p_l\/poss} way back to camp, and is unable to get up no matter how hard {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries}.",
+                "text": "Non seulement p_l finit trempé jusqu'aux os, {PRONOUN/p_l/subject} ne trouve aucun pissenlit sous la neige. Épuisé après cette recherche infructueuse, p_l s'effondre sur le chemin du retour au camp, incapable de se relever peu importe les efforts de {PRONOUN/p_l/subject} {VERB/p_l/try/tries}.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 }
             }
         ]
@@ -2509,12 +2509,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead. If {PRONOUN\/p_l\/subject} can get {PRONOUN\/p_l\/poss} paws on a plant, the roots will still hold fresh, milky-white sap. Seems it's time for app1 to learn about what resources are still available to gather during leaf-bare.",
-        "decline_text": "p_l has second thoughts leaving {PRONOUN\/p_l\/poss} patients behind, especially since {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} also bringing {PRONOUN\/p_l\/poss} apprentice, and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "Le froid de la mauvaise saison a peut-être tué beaucoup de verdure, mais p_l sait que les pissenlits ne font que semblant d'être morts. Si {PRONOUN/p_l/subject} peut mettre la patte sur une plante, les racines contiendront encore de la sève fraîche et blanche. Il est temps qu'app1 apprenne quelles ressources sont encore disponibles à récolter pendant la mauvaise saison.",
+        "decline_text": "p_l a des doutes à laisser {PRONOUN/p_l/poss} patients, surtout que {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} emmène aussi son apprenti, et {VERB/p_l/decide/decides} de partir un autre jour.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "p_l can't say it's <i>fun,<\/i> swiping away snow to scrounge for the stems and roots of wilted dandelions below, but what matters currently is that it's <i>possible.<\/i> Still, {PRONOUN\/p_l\/subject} heavily {VERB\/p_l\/praise\/praises} app1 as the two of them head back home with their harvest - {PRONOUN\/app1\/subject} {VERB\/app1\/have\/has}n't uttered a single word of complaint about the miserable conditions, and p_l couldn't be prouder.",
+                "text": "p_l ne peut pas dire que c'est <i>amusant,</i> de balayer la neige pour chercher les tiges et racines de pissenlits fanés dessous, mais ce qui compte, c'est que c'est <i>possible.</i> Pourtant, {PRONOUN/p_l/subject} félicite fortement app1 alors qu'ils rentrent avec leur récolte – {PRONOUN/app1/subject} {VERB/app1/have/has} n'a pas prononcé un mot de plainte sur les conditions misérables, et p_l ne pourrait pas être plus fier.",
                 "exp": 40,
                 "weight": 20,
                 "herbs": [
@@ -2540,7 +2540,7 @@
                 ]
             },
             {
-                "text": "It's a truly miserable, gray day, but even the colds of leaf-bare can't dampen app1's happiness when {PRONOUN\/app1\/subject} {VERB\/app1\/manage\/manages} to uncover a couple good dandelion plants. Watching app1 find joy in safeguarding the Clan gives p_l a swoop of pride and affection for the apprentice. The path of a medicine cat suits the young cat well.",
+                "text": "C'est une journée vraiment misérable et grise, mais même le froid de la mauvaise saison ne peut pas atténuer le bonheur d'app1 quand {PRONOUN/app1/subject} {VERB/app1/manage/manages} à déterrer quelques bons pissenlits. Voir app1 trouver de la joie à protéger le Clan donne à p_l un élan de fierté et d'affection pour l'apprenti. La voie de guérisseur convient bien au jeune chat.",
                 "exp": 40,
                 "weight": 5,
                 "herbs": [
@@ -2566,7 +2566,7 @@
                 ]
             },
             {
-                "text": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN\/s_c\/subject} {VERB\/s_c\/manage\/manages} it. app1 trails in {PRONOUN\/s_c\/poss} wake, wide-eyed and impressed.",
+                "text": "Ce n'est pas seulement repérer les choses que s_c sait faire – trouver des pissenlits en mauvaise saison est déjà difficile, mais trouver de bonnes feuilles non fanées est presque impossible, et c'est la marque du talent unique de s_c que {PRONOUN/s_c/subject} {VERB/s_c/manage/manages} y arrive. app1 suit s_c, impressionné.",
                 "exp": 40,
                 "weight": 40,
                 "stat_skill": [
@@ -2600,7 +2600,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only does the duo end up soaked to the skin, they can't even find any dandelions under the snow. A wasted and horribly chilly day.",
+                "text": "Non seulement le duo finit trempé jusqu'aux os, ils ne trouvent aucun pissenlit sous la neige. Une journée perdue et horriblement froide.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2623,14 +2623,14 @@
                 ]
             },
             {
-                "text": "Not only does the duo end up soaked to the skin, they can't even find any dandelions under the snow. p_l's left so exhausted that {PRONOUN\/p_l\/subject} {VERB\/p_l\/collapse\/collapses} on the way back to camp, unable to go any further even with app1's help.",
+                "text": "Non seulement le duo finit trempé jusqu'aux os, ils ne trouvent aucun pissenlit sous la neige. p_l finit si épuisé que {PRONOUN/p_l/subject} {VERB/p_l/collapse/collapses} sur le chemin du retour au camp, incapable d'aller plus loin même avec l'aide d'app1.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2652,14 +2652,14 @@
                 ]
             },
             {
-                "text": "Not only does the duo end up soaked to the skin, they can't even find any dandelions under the snow. app1's left so exhausted that {PRONOUN\/app1\/subject} {VERB\/app1\/collapse\/collapses} on the way back to camp, unable to go any further even with p_l's help.",
+                "text": "Non seulement le duo finit trempé jusqu'aux os, ils ne trouvent aucun pissenlit sous la neige. app1 finit si épuisé que {PRONOUN/app1/subject} {VERB/app1/collapse/collapses} sur le chemin du retour au camp, incapable d'aller plus loin même avec l'aide de p_l.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2681,7 +2681,7 @@
                 ]
             },
             {
-                "text": "Not only does the duo end up soaked to the skin, they can't even find any dandelions under the snow, and p_l's left shivering violently by the time {PRONOUN\/p_l\/subject} and app1 return to camp.",
+                "text": "Non seulement le duo finit trempé jusqu'aux os, ils ne trouvent aucun pissenlit sous la neige, et p_l finit à grelotter violemment en rentrant au camp avec app1.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2701,8 +2701,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2724,7 +2724,7 @@
                 ]
             },
             {
-                "text": "Not only does the duo end up soaked to the skin, they can't even find any dandelions under the snow, and app1's left shivering violently by the time {PRONOUN\/app1\/subject} and p_l return to camp.",
+                "text": "Non seulement le duo finit trempé jusqu'aux os, ils ne trouvent aucun pissenlit sous la neige, et app1 finit à grelotter violemment en rentrant au camp avec p_l.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2744,8 +2744,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -2798,12 +2798,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead. If {PRONOUN\/p_l\/subject} can get {PRONOUN\/p_l\/poss} paws on a plant, the roots will still hold fresh, milky-white sap. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/bring\/brings} along a patrol of shivering Clanmates - more paws will make light work of digging through the snow.",
+        "intro_text": "The cold of leaf-bare might have killed off a lot of greenery, but p_l knows that the dandelions are only playing dead. If {PRONOUN/p_l/subject} can get {PRONOUN/p_l/poss} paws on a plant, the roots will still hold fresh, milky-white sap. {PRONOUN/p_l/subject/CAP} {VERB/p_l/bring/brings} along a patrol of shivering Clanmates - more paws will make light work of digging through the snow.",
         "decline_text": "The patrol is stopped before it can leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "p_l can't say it's <i>fun,<\/i> swiping away snow to scrounge for the stems and roots of wilted dandelions below, but what matters currently is that it's <i>possible.<\/i> {PRONOUN\/p_l\/subject\/CAP} specifically {VERB\/p_l\/ensure\/ensures}  that, when {PRONOUN\/p_l\/subject} {VERB\/p_l\/return\/returns} to camp with the additions to the herb stores, the whole camp sees {PRONOUN\/p_l\/object} praising {PRONOUN\/p_l\/poss} long-suffering patrol to the leader.",
+                "text": "p_l can't say it's <i>fun,</i> swiping away snow to scrounge for the stems and roots of wilted dandelions below, but what matters currently is that it's <i>possible.</i> {PRONOUN/p_l/subject/CAP} specifically {VERB/p_l/ensure/ensures}  that, when {PRONOUN/p_l/subject} {VERB/p_l/return/returns} to camp with the additions to the herb stores, the whole camp sees {PRONOUN/p_l/object} praising {PRONOUN/p_l/poss} long-suffering patrol to the leader.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -2829,7 +2829,7 @@
                 ]
             },
             {
-                "text": "It's a truly miserable, gray day, but even the colds of leaf-bare can't dampen p_l's joy when {PRONOUN\/p_l\/subject} {VERB\/p_l\/manage\/manages} to uncover a couple good dandelion plants. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/make\/makes} sure to check up on the pawpads of the warriors who helped {PRONOUN\/p_l\/object} once everyone is back in camp, wanting to make sure everyone is alright and not too chilled.",
+                "text": "It's a truly miserable, gray day, but even the colds of leaf-bare can't dampen p_l's joy when {PRONOUN/p_l/subject} {VERB/p_l/manage/manages} to uncover a couple good dandelion plants. {PRONOUN/p_l/subject/CAP} {VERB/p_l/make/makes} sure to check up on the pawpads of the warriors who helped {PRONOUN/p_l/object} once everyone is back in camp, wanting to make sure everyone is alright and not too chilled.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -2855,7 +2855,7 @@
                 ]
             },
             {
-                "text": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN\/s_c\/subject} {VERB\/s_c\/manage\/manages} it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat.",
+                "text": "It's not just spotting things that s_c is talented at - finding dandelions in leaf-bare is hard enough, but finding good, non-wilted leaves is next to impossible, and it's a mark of s_c's unique skills that {PRONOUN/s_c/subject} {VERB/s_c/manage/manages} it. It reminds everyone on the patrol just how lucky c_n is to have s_c as a medicine cat.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -2912,7 +2912,7 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow, and p_l is left shivering violently by the time {PRONOUN\/p_l\/subject} and the others return to camp.",
+                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow, and p_l is left shivering violently by the time {PRONOUN/p_l/subject} and the others return to camp.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -2955,7 +2955,7 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow. r_c's left so exhausted that {PRONOUN\/r_c\/subject} {VERB\/r_c\/collapse\/collapses} on the way back to camp, unable to go any further even with the other cats' help.",
+                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow. r_c's left so exhausted that {PRONOUN/r_c/subject} {VERB/r_c/collapse/collapses} on the way back to camp, unable to go any further even with the other cats' help.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
@@ -2984,7 +2984,7 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow. p_l's left so exhausted that {PRONOUN\/p_l\/subject} {VERB\/p_l\/collapse\/collapses} on the way back to camp, unable to go any further even with the other cats' help.",
+                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow. p_l's left so exhausted that {PRONOUN/p_l/subject} {VERB/p_l/collapse/collapses} on the way back to camp, unable to go any further even with the other cats' help.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
@@ -3013,7 +3013,7 @@
                 ]
             },
             {
-                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow, and r_c is left shivering violently by the time {PRONOUN\/r_c\/subject} and the others return to camp.",
+                "text": "Not only do the cats end up soaked to the skin, they can't even find any dandelions under the snow, and r_c is left shivering violently by the time {PRONOUN/r_c/subject} and the others return to camp.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3088,11 +3088,11 @@
         },
         "weight": 20,
         "intro_text": "It's not finding fresh juniper that's the problem. As an evergreen plant,  juniper is known to grow reliably even during the cold seasons - the problem is that juniper grows in shrubs that are sometimes large enough to be trees, and trying to climb in these slippery conditions is a disaster just waiting to happen.",
-        "decline_text": "p_l has second thoughts about leaving {PRONOUN\/p_l\/poss} patients behind and decides to go another day.",
+        "decline_text": "p_l has second thoughts about leaving {PRONOUN/p_l/poss} patients behind and decides to go another day.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "At least p_l doesn't have to dig through the snow for these leaves. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/sigh\/sighs}, slowly and carefully snipping off juniper among the tree's branches.",
+                "text": "At least p_l doesn't have to dig through the snow for these leaves. {PRONOUN/p_l/subject/CAP} {VERB/p_l/sigh/sighs}, slowly and carefully snipping off juniper among the tree's branches.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -3100,7 +3100,7 @@
                 ]
             },
             {
-                "text": "Sometimes, p_l finds {PRONOUN\/p_l\/self} near giddy with gratitude for evergreens, plants that scoff at leaf-bare and grow in spite of it. It's not an effect of the plant - juniper calms, it doesn't induce euphoria - just the relief of still having a fresh herb source in leaf-bare.",
+                "text": "Sometimes, p_l finds {PRONOUN/p_l/self} near giddy with gratitude for evergreens, plants that scoff at leaf-bare and grow in spite of it. It's not an effect of the plant - juniper calms, it doesn't induce euphoria - just the relief of still having a fresh herb source in leaf-bare.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -3108,7 +3108,7 @@
                 ]
             },
             {
-                "text": "Sometimes, it's not finding plants to harvest that is the problem, it's finding plants to <i>safely<\/i> harvest. s_c finds a juniper tree on a slope with easily accessible lower branches to harvest from without needing to risk {PRONOUN\/s_c\/object} climbing in leaf-bare.",
+                "text": "Sometimes, it's not finding plants to harvest that is the problem, it's finding plants to <i>safely</i> harvest. s_c finds a juniper tree on a slope with easily accessible lower branches to harvest from without needing to risk {PRONOUN/s_c/object} climbing in leaf-bare.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -3199,12 +3199,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "It's not finding fresh juniper that's the problem. As an evergreen plant,  juniper is known to grow reliably even during the cold seasons - the problem is that juniper grows in large shrubs sometimes large enough to be trees, and trying to climb in these slippery conditions is a disaster just waiting to happen. p_l hesitates, worried about bringing app1 along under these conditions, but tells {PRONOUN\/p_l\/self} it's a learning opportunity.",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/have\/has} second thoughts leaving {PRONOUN\/p_l\/poss} patients behind, especially since {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} also bringing {PRONOUN\/p_l\/poss} apprentice, and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "It's not finding fresh juniper that's the problem. As an evergreen plant,  juniper is known to grow reliably even during the cold seasons - the problem is that juniper grows in large shrubs sometimes large enough to be trees, and trying to climb in these slippery conditions is a disaster just waiting to happen. p_l hesitates, worried about bringing app1 along under these conditions, but tells {PRONOUN/p_l/self} it's a learning opportunity.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/have/has} second thoughts leaving {PRONOUN/p_l/poss} patients behind, especially since {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} also bringing {PRONOUN/p_l/poss} apprentice, and {VERB/p_l/decide/decides} to go another day.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "At least {PRONOUN\/p_l\/subject} {VERB\/p_l\/don't\/doesn't} have to dig through the snow for these leaves. p_l sighs, slowly and carefully snipping off juniper among the tree's branches. app1 is very hesitant to join {PRONOUN\/p_l\/object} up there, but eventually overcomes {PRONOUN\/app1\/poss} fear to leaf gather on a lower branch... <i>very<\/i> carefully.",
+                "text": "At least {PRONOUN/p_l/subject} {VERB/p_l/don't/doesn't} have to dig through the snow for these leaves. p_l sighs, slowly and carefully snipping off juniper among the tree's branches. app1 is very hesitant to join {PRONOUN/p_l/object} up there, but eventually overcomes {PRONOUN/app1/poss} fear to leaf gather on a lower branch... <i>very</i> carefully.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -3230,7 +3230,7 @@
                 ]
             },
             {
-                "text": "Sometimes, p_l finds {PRONOUN\/p_l\/self} near giddy with gratitude for evergreens, plants that scoff at leaf-bare and grow in spite of it. It's not an effect of the plant - juniper calms, it doesn't induce euphoria - just the relief of still having a fresh herb source in leaf-bare. app1 gives {PRONOUN\/p_l\/object} a weird look, though, prompting p_l to explain {PRONOUN\/p_l\/poss} wide smile.",
+                "text": "Sometimes, p_l finds {PRONOUN/p_l/self} near giddy with gratitude for evergreens, plants that scoff at leaf-bare and grow in spite of it. It's not an effect of the plant - juniper calms, it doesn't induce euphoria - just the relief of still having a fresh herb source in leaf-bare. app1 gives {PRONOUN/p_l/object} a weird look, though, prompting p_l to explain {PRONOUN/p_l/poss} wide smile.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -3256,7 +3256,7 @@
                 ]
             },
             {
-                "text": "Sometimes, it's not finding plants to harvest that is the problem, it's finding plants to <i>safely<\/i> harvest. s_c finds a juniper tree on a slope with easily accessible lower branches to harvest from without having to risk {PRONOUN\/p_l\/poss} or app1's safety climbing in leaf-bare.",
+                "text": "Sometimes, it's not finding plants to harvest that is the problem, it's finding plants to <i>safely</i> harvest. s_c finds a juniper tree on a slope with easily accessible lower branches to harvest from without having to risk {PRONOUN/p_l/poss} or app1's safety climbing in leaf-bare.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -3489,7 +3489,7 @@
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "At least {PRONOUN\/p_l\/subject} {VERB\/p_l\/don't\/doesn't} have to dig through the snow for these leaves. p_l sighs, slowly and carefully snipping off juniper among the tree's branches. The patrol joins {PRONOUN\/p_l\/object}, tense and focused, and it's a weary group that returns back to camp as the sun dips toward the horizon, exhausted - but successful.",
+                "text": "At least {PRONOUN/p_l/subject} {VERB/p_l/don't/doesn't} have to dig through the snow for these leaves. p_l sighs, slowly and carefully snipping off juniper among the tree's branches. The patrol joins {PRONOUN/p_l/object}, tense and focused, and it's a weary group that returns back to camp as the sun dips toward the horizon, exhausted - but successful.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -3515,7 +3515,7 @@
                 ]
             },
             {
-                "text": "Sometimes, p_l finds {PRONOUN\/p_l\/self} near giddy with gratitude for evergreens, plants that scoff at leaf-bare and grow in spite of it. It's not an effect of the plant - juniper calms, it doesn't induce euphoria - just the relief of still having a fresh herb source in leaf-bare, and the warmth of having {PRONOUN\/p_l\/poss} Clanmates there to help {PRONOUN\/p_l\/object} gather it.",
+                "text": "Sometimes, p_l finds {PRONOUN/p_l/self} near giddy with gratitude for evergreens, plants that scoff at leaf-bare and grow in spite of it. It's not an effect of the plant - juniper calms, it doesn't induce euphoria - just the relief of still having a fresh herb source in leaf-bare, and the warmth of having {PRONOUN/p_l/poss} Clanmates there to help {PRONOUN/p_l/object} gather it.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -3541,7 +3541,7 @@
                 ]
             },
             {
-                "text": "Sometimes, it's not finding plants to harvest that is the problem, it's finding plants to <i>safely<\/i> harvest. s_c finds a juniper tree on a slope with easily accessible lower branches to harvest from without any cat needing to risk their safety climbing in leaf-bare.",
+                "text": "Sometimes, it's not finding plants to harvest that is the problem, it's finding plants to <i>safely</i> harvest. s_c finds a juniper tree on a slope with easily accessible lower branches to harvest from without any cat needing to risk their safety climbing in leaf-bare.",
                 "exp": 10,
                 "weight": 40,
                 "stat_skill": [
@@ -3769,8 +3769,8 @@
             ]
         },
         "weight": 20,
-        "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, but if {PRONOUN\/p_l\/subject} can remember where the wild garlic grew in greenleaf, it's {PRONOUN\/p_l\/inposs} for the taking.",
-        "decline_text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/have\/has} second thoughts about leaving {PRONOUN\/p_l\/poss} patients behind and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, but if {PRONOUN/p_l/subject} can remember where the wild garlic grew in greenleaf, it's {PRONOUN/p_l/inposs} for the taking.",
+        "decline_text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/have/has} second thoughts about leaving {PRONOUN/p_l/poss} patients behind and {VERB/p_l/decide/decides} to go another day.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
@@ -3791,7 +3791,7 @@
                 ]
             },
             {
-                "text": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/prove\/proves} {PRONOUN\/s_c\/self} right, and it's only an utter and complete pain to dig out the bulbs. Well, at least {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} got them now.",
+                "text": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. {PRONOUN/s_c/subject/CAP} {VERB/s_c/prove/proves} {PRONOUN/s_c/self} right, and it's only an utter and complete pain to dig out the bulbs. Well, at least {PRONOUN/s_c/subject}{VERB/s_c/'ve/'s} got them now.",
                 "exp": 30,
                 "weight": 40,
                 "stat_skill": [
@@ -3805,17 +3805,17 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l searches and searches, but eventually {PRONOUN\/p_l\/subject} {VERB\/p_l\/have\/has} to admit defeat. {PRONOUN\/p_l\/subject\/CAP} can't remember where the garlic grew when the world was warm.",
+                "text": "p_l searches and searches, but eventually {PRONOUN/p_l/subject} {VERB/p_l/have/has} to admit defeat. {PRONOUN/p_l/subject/CAP} can't remember where the garlic grew when the world was warm.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "When p_l arrives back at camp, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless. At least {PRONOUN\/p_l\/poss} den is nice and warm, chasing away the chill.",
+                "text": "When p_l arrives back at camp, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless. At least {PRONOUN/p_l/poss} den is nice and warm, chasing away the chill.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless, and this mistake cost p_l {PRONOUN\/p_l\/poss} life.",
+                "text": "Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless, and this mistake cost p_l {PRONOUN/p_l/poss} life.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
@@ -3826,7 +3826,7 @@
                 }
             },
             {
-                "text": "When p_l arrives back at camp, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless.",
+                "text": "When p_l arrives back at camp, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3890,8 +3890,8 @@
             ]
         },
         "weight": 20,
-        "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, but if {PRONOUN\/p_l\/subject} or app1 can only remember where the wild garlic grew in greenleaf it's theirs for the taking.",
-        "decline_text": "p_l has second thoughts leaving {PRONOUN\/p_l\/poss} patients behind, especially since {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} also bringing {PRONOUN\/p_l\/poss} apprentice, and {VERB\/p_l\/decide\/decides} to go another day.",
+        "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, but if {PRONOUN/p_l/subject} or app1 can only remember where the wild garlic grew in greenleaf it's theirs for the taking.",
+        "decline_text": "p_l has second thoughts leaving {PRONOUN/p_l/poss} patients behind, especially since {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} also bringing {PRONOUN/p_l/poss} apprentice, and {VERB/p_l/decide/decides} to go another day.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
@@ -3948,7 +3948,7 @@
                 ]
             },
             {
-                "text": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/prove\/proves} {PRONOUN\/s_c\/self} right, and it's only an utter and complete pain to dig out the bulbs. Well, at least {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} got them now.",
+                "text": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. {PRONOUN/s_c/subject/CAP} {VERB/s_c/prove/proves} {PRONOUN/s_c/self} right, and it's only an utter and complete pain to dig out the bulbs. Well, at least {PRONOUN/s_c/subject}{VERB/s_c/'ve/'s} got them now.",
                 "exp": 40,
                 "weight": 40,
                 "stat_skill": [
@@ -4049,7 +4049,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, p_l is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless. Luckily, app1 helps to keep p_l's chill from getting worse.",
+                "text": "Lorsque la patrouille échouée revient au camp, p_l grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé. Heureusement, app1 aide à empêcher le froid de p_l d'empirer.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4069,8 +4069,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4092,14 +4092,14 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, it's clear that one member didn't survive the cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was unproductive, senseless, and had cost app1 {PRONOUN\/app1\/poss} life.",
+                "text": "Lorsque la patrouille échouée revient au camp, il est clair qu'un membre n'a pas survécu au froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était inutile, insensé, et a coûté la vie à app1.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4121,14 +4121,14 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, it's clear that one member didn't survive the cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was unproductive, senseless, and had cost p_l {PRONOUN\/p_l\/poss} life.",
+                "text": "Lorsque la patrouille échouée revient au camp, il est clair qu'un membre n'a pas survécu au froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était inutile, insensé, et a coûté la vie à p_l.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4150,7 +4150,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, app1 is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless.",
+                "text": "Lorsque la patrouille échouée revient au camp, app1 grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4170,8 +4170,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4193,7 +4193,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, p_l is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless.",
+                "text": "Lorsque la patrouille échouée revient au camp, p_l grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4213,8 +4213,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4267,12 +4267,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "There's a limited selection of herbs p_l can even look for in leaf-bare, even with a patrol helping {PRONOUN\/p_l\/object}, but if {PRONOUN\/p_l\/subject} can remember where the wild garlic grew in greenleaf, it's {PRONOUN\/p_l\/inposs} for the taking.",
-        "decline_text": "The patrol is stopped before it can leave camp - these warriors are needed elsewhere. p_l's expedition will have to wait.",
+        "intro_text": "Il y a peu d'herbes que p_l peut chercher pendant la mauvaise saison, même avec une patrouille pour l'aider, mais si {PRONOUN/p_l/subject} se souvient où l'ail sauvage poussait pendant la saison verte, il est {PRONOUN/p_l/inposs} à récolter.",
+        "decline_text": "La patrouille est arrêtée avant de quitter le camp – ces guerriers sont nécessaires ailleurs. L'expédition de p_l devra attendre.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "p_l and the patrol return to camp with stone-cold paws and a new hatred for digging, but carrying bulbs of garlic.",
+                "text": "p_l et la patrouille rentrent au camp avec les pattes glacées et une nouvelle haine pour le creusage, mais portent des bulbes d'ail.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -4298,7 +4298,7 @@
                 ]
             },
             {
-                "text": "Something you really don't want in leaf-bare is an infection, and that's exactly what garlic's stinky specialty is. After a long, exhausting day in the cold, p_l manages to bring back a good haul of garlic bulbs for the herb stores with the patrol.",
+                "text": "Ce qu'on ne veut vraiment pas pendant la mauvaise saison, c'est une infection, et c'est justement la spécialité puante de l'ail. Après une longue journée épuisante dans le froid, p_l parvient à ramener une bonne récolte de bulbes d'ail pour la réserve d'herbes avec la patrouille.",
                 "exp": 30,
                 "weight": 5,
                 "herbs": [
@@ -4325,7 +4325,7 @@
                 ]
             },
             {
-                "text": "s_c knows exactly where to go - there was a thick patch of wild garlic that grew in an exposed area. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/prove\/proves} {PRONOUN\/s_c\/self} right, and it's only an utter and complete pain to dig out the bulbs. Well, at least {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} got them now.",
+                "text": "s_c sait exactement où aller – il y avait un épais massif d'ail sauvage qui poussait dans une zone exposée. {PRONOUN/s_c/subject/CAP} {VERB/s_c/prove/proves} {PRONOUN/s_c/self} a raison, et il ne reste plus qu'à creuser péniblement les bulbes. Au moins, {PRONOUN/s_c/subject}{VERB/s_c/'ve/'s} les a maintenant.",
                 "exp": 30,
                 "weight": 40,
                 "stat_skill": [
@@ -4360,7 +4360,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol searches and searches, but eventually has to admit defeat. p_l just can't remember where the garlic grew when the world was warm.",
+                "text": "La patrouille cherche et cherche, mais finit par devoir admettre l'échec. p_l ne se souvient plus où l'ail poussait quand le monde était chaud.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -4383,7 +4383,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, r_c is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless. Thankfully, with r_c's Clanmates by {PRONOUN\/r_c\/poss} side, the chill was prevented from seeping in.",
+                "text": "Lorsque la patrouille échouée revient au camp, r_c grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé. Heureusement, avec les camarades de Clan de r_c à ses côtés, le froid n'a pas pu s'installer.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4403,8 +4403,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4426,7 +4426,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, p_l is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless. Thankfully, with p_l's Clanmates by {PRONOUN\/p_l\/poss} side, the chill was prevented from seeping in.",
+                "text": "Lorsque la patrouille échouée revient au camp, p_l grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé. Heureusement, avec les camarades de Clan de p_l à ses côtés, le froid n'a pas pu s'installer.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4446,8 +4446,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4469,14 +4469,14 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, r_c is frozen stiff, beyond saving. Digging into the leaf-bare ground in a search for bulbs that weren't there was unproductive, senseless, and had cost r_c {PRONOUN\/r_c\/poss} life.",
+                "text": "Lorsque la patrouille échouée revient au camp, r_c est raide de froid, au-delà de tout secours. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était inutile, insensé, et a coûté la vie à r_c.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4498,14 +4498,14 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, p_l is frozen stiff, beyond saving. Digging into the leaf-bare ground in a search for bulbs that weren't there was unproductive, senseless, and had cost p_l {PRONOUN\/p_l\/poss} life.",
+                "text": "Lorsque la patrouille échouée revient au camp, p_l est raide de froid, au-delà de tout secours. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était inutile, insensé, et a coûté la vie à p_l.",
                 "exp": 0,
                 "weight": 5,
                 "dead_cats": [
                     "p_l"
                 ],
                 "history_text": {
-                    "reg_death": "m_c froze to death after searching for herbs in leaf-bare."
+                    "reg_death": "m_c est mort gelé en cherchant des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4527,7 +4527,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, r_c is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless.",
+                "text": "Lorsque la patrouille échouée revient au camp, r_c grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4547,8 +4547,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {
@@ -4570,7 +4570,7 @@
                 ]
             },
             {
-                "text": "When the failed patrol arrives back at camp, p_l is shivering and cold. Digging into the leaf-bare ground in a search for bulbs that weren't there was both unproductive and senseless.",
+                "text": "Lorsque la patrouille échouée revient au camp, p_l grelotte de froid. Creuser dans le sol gelé de la mauvaise saison à la recherche de bulbes inexistants était à la fois inutile et insensé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -4590,8 +4590,8 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by frostbite after searching for herbs in leaf-bare.",
-                    "reg_death": "m_c died of frostbite after searching for herbs in leaf-bare."
+                    "scar": "m_c a été marqué par des engelures après avoir cherché des herbes pendant la mauvaise saison.",
+                    "reg_death": "m_c est mort d'engelures après avoir cherché des herbes pendant la mauvaise saison."
                 },
                 "relationships": [
                     {

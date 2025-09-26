@@ -25,22 +25,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "The patrol wants to hold a training session for app1. They decide to focus on how best to navigate the rocky tide pools.",
-        "decline_text": "They decide to focus on patrolling the territory instead. Training can wait for another day.",
+        "intro_text": "La patrouille veut organiser une séance d'entraînement pour app1. Ils décident de se concentrer sur la meilleure façon de naviguer dans les bassins rocheux.",
+        "decline_text": "Ils décident de se concentrer sur la garde du territoire à la place. L'entraînement peut attendre un autre jour.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "app1 listens carefully as p_l explains where to find the best prey in the rich waters of the pools.",
+                "text": "app1 écoute attentivement pendant que p_l explique où trouver les meilleures proies dans les eaux riches des bassins.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "app1 picks up the instruction quickly and is soon hopping from pool to pool, picking out the tasty morsels from them.",
+                "text": "app1 assimile rapidement l'instruction et bondit bientôt de bassin en bassin, en choisissant les bouchées les plus savoureuses.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "By the end of the patrol, s_c is easily fishing fresh-kill out of the pools without an ounce of hesitation in {PRONOUN\/s_c\/poss} movements.",
+                "text": "À la fin de la patrouille, s_c pêche aisément du frais dans les bassins sans la moindre hésitation dans les mouvements {PRONOUN/s_c/poss}.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -57,12 +57,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 tries to remember the differences between the creatures within the pools but fails to retain any of the information.",
+                "text": "app1 essaie de se souvenir des différences entre les créatures des bassins mais ne retient aucune information.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c struggles to take the lesson seriously, and eventually the training session ends early with no real progress made.",
+                "text": "s_c a du mal à prendre la leçon au sérieux, et finalement la séance d'entraînement se termine tôt sans réel progrès.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -74,7 +74,7 @@
                 ]
             },
             {
-                "text": "app1 pokes around in the pools for potential food. Ouch! Oops, that was a sea urchin. app1 limps the whole way home.",
+                "text": "app1 fouille dans les bassins à la recherche de nourriture. Aïe ! Oups, c'était un oursin. app1 boite tout le chemin du retour.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -91,7 +91,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c got spiked by a sea urchin while training as an apprentice."
+                    "scar": "m_c s'est fait piquer par un oursin pendant un entraînement en tant qu'apprenti."
                 }
             }
         ]
@@ -113,12 +113,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "Trailing behind the patrol, the dune {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} crossing shifts beneath r_c's paws. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/look\/looks} around wildly for safe footing - just as the sand caves in beneath {PRONOUN\/r_c\/object} and the world goes dark.",
-        "decline_text": "Thankfully, {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} on the edge of the obstruction and {VERB\/r_c\/wriggle\/wriggles} {PRONOUN\/r_c\/poss} way clear.",
+        "intro_text": "Suivant la patrouille, la dune sous les pattes de r_c {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} s'effondre. {PRONOUN/r_c/subject/CAP} {VERB/r_c/look/looks} autour de {PRONOUN/r_c/poss} à la recherche d'un appui sûr - juste au moment où le sable cède sous {PRONOUN/r_c/object} et le monde devient noir.",
+        "decline_text": "Heureusement, {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} sur le bord de l'effondrement et {VERB/r_c/wriggle/wriggles} {PRONOUN/r_c/poss} pour se dégager.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "{PRONOUN\/r_c\/poss\/CAP} Clanmates come running at {PRONOUN\/r_c\/poss} yowls, and r_c is soon freed, shaken but unharmed. The patrol settles down as everyone comforts each other.",
+                "text": "Les camarades de Clan accourent aux miaulements de {PRONOUN/r_c/poss}, et r_c est bientôt libéré, secoué mais indemne. La patrouille se calme tandis que tout le monde se réconforte mutuellement.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -146,7 +146,7 @@
                 ]
             },
             {
-                "text": "p_l digs through the sand, helping r_c clear it away enough for the other cat to scramble free.",
+                "text": "p_l creuse dans le sable, aidant r_c à dégager suffisamment pour que l'autre chat puisse se frayer un chemin.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -174,7 +174,7 @@
                 ]
             },
             {
-                "text": "Without letting {PRONOUN\/r_c\/object} panic, s_c carefully assesses the collapsed dune trapping {PRONOUN\/s_c\/poss} Clanmate. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/point\/points} out stable footing for the patrol to dig {PRONOUN\/r_c\/object} out from above, and r_c is recovered, scared but okay.",
+                "text": "Sans laisser {PRONOUN/r_c/object} paniquer, s_c évalue soigneusement la dune effondrée qui emprisonne {PRONOUN/s_c/poss} camarade. {PRONOUN/s_c/subject/CAP} {VERB/s_c/point/points} du pied un appui stable pour que la patrouille creuse depuis le dessus et libère r_c, effrayé mais sain et sauf.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -205,7 +205,7 @@
                 ]
             },
             {
-                "text": "Creeping in as close as possible, s_c purrs to {PRONOUN\/s_c\/poss} Clanmate, keeping {PRONOUN\/r_c\/object} calm as the patrol carefully digs down to {PRONOUN\/r_c\/object}.",
+                "text": "S'approchant au plus près possible, s_c ronronne pour {PRONOUN/s_c/poss} camarade, le gardant calme pendant que la patrouille creuse prudemment jusqu'à {PRONOUN/r_c/object}.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -243,12 +243,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol works all day to free r_c and gets nothing else done.",
+                "text": "La patrouille travaille toute la journée pour libérer r_c et ne fait rien d'autre.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "As s_c rarely has patience for other cats, {PRONOUN\/s_c\/subject} {VERB\/s_c\/tell\/tells} r_c harshly that {PRONOUN\/s_c\/subject} {VERB\/s_c\/don't\/doesn't} have time for some mouse-brain who got stuck, making r_c resentful as {PRONOUN\/s_c\/subject} {VERB\/s_c\/dig\/digs} {PRONOUN\/r_c\/object} out of the sand.",
+                "text": "Comme s_c manque rarement de patience pour les autres chats, {PRONOUN/s_c/subject} {VERB/s_c/tell/tells} r_c sèchement qu'{PRONOUN/s_c/subject} {VERB/s_c/don't/doesn't} n'a pas le temps pour un esprit de souris coincé, rendant r_c rancunier tandis que {PRONOUN/s_c/subject} {VERB/s_c/dig/digs} {PRONOUN/r_c/object} hors du sable.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -263,20 +263,20 @@
                 ]
             },
             {
-                "text": "Hurt and wheezing, r_c hears the patrol panicking as {PRONOUN\/r_c\/subject} {VERB\/r_c\/drift\/drifts} to StarClan.",
+                "text": "Blessé et suffocant, r_c entend la panique de la patrouille alors qu'{PRONOUN/r_c/subject} {VERB/r_c/drift/drifts} vers le Clan des Étoiles.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol.",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille.",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 }
             },
             {
-                "text": "The patrol eventually manages to rescue r_c, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/need\/needs} to be helped back to camp, battered and injured.",
+                "text": "La patrouille finit par réussir à sauver r_c, mais {PRONOUN/r_c/subject} {VERB/r_c/need/needs} d'être ramené au camp, meurtri et blessé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -293,13 +293,13 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol.",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille.",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 }
             },
             {
-                "text": "The patrol can't help r_c in time, and as r_c starts to drift off to StarClan, the eyes of s_c glint malevolently. Was this...? r_c doesn't have a chance to finish {PRONOUN\/r_c\/poss} last thought.",
+                "text": "La patrouille ne peut pas aider r_c à temps, et alors que r_c commence à s'éteindre vers le Clan des Étoiles, les yeux de s_c brillent d'une lueur malveillante. Était-ce...? r_c n'a pas le temps de finir sa dernière pensée.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -313,13 +313,13 @@
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol.",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille.",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 }
             },
             {
-                "text": "Even though r_c made it out, {PRONOUN\/r_c\/subject} {VERB\/r_c\/swear\/swears} someone pushed {PRONOUN\/r_c\/object}, and {VERB\/r_c\/blame\/blames} s_c. s_c denies it and says they should get r_c back to camp to get {PRONOUN\/r_c\/poss} injury looked at.",
+                "text": "Même si r_c s'en est sorti, {PRONOUN/r_c/subject} {VERB/r_c/swear/swears} que quelqu'un l'a poussé, et {VERB/r_c/blame/blames} s_c. s_c nie avoir fait ça et dit qu'il faut ramener r_c au camp pour faire examiner {PRONOUN/r_c/poss} blessure.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -343,9 +343,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol.",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille.",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 }
             }
         ]
@@ -367,12 +367,12 @@
         "max_cats": 2,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As r_c trails behind p_l, the dune {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} crossing shifts beneath r_c's paws. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/look\/looks} around wildly for safe footing - just as the sand caves in beneath {PRONOUN\/r_c\/object} and the world goes dark.",
-        "decline_text": "Thankfully, {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} on the edge of the obstruction and {VERB\/r_c\/wriggle\/wriggles} {PRONOUN\/r_c\/poss} way clear.",
+        "intro_text": "Alors que r_c suit p_l, la dune sous les pattes de r_c {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} s'effondre. {PRONOUN/r_c/subject/CAP} {VERB/r_c/look/looks} autour de {PRONOUN/r_c/poss} à la recherche d'un appui sûr - juste au moment où le sable cède sous {PRONOUN/r_c/object} et le monde devient noir.",
+        "decline_text": "Heureusement, {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} sur le bord de l'effondrement et {VERB/r_c/wriggle/wriggles} {PRONOUN/r_c/poss} pour se dégager.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "p_l comes running at {PRONOUN\/r_c\/poss} yowls, and r_c is soon freed, shaken but unharmed. The cats settle down as they comfort each other.",
+                "text": "p_l accourt aux miaulements de {PRONOUN/r_c/poss}, et r_c est bientôt libéré, secoué mais indemne. Les chats se calment en se réconfortant mutuellement.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -400,7 +400,7 @@
                 ]
             },
             {
-                "text": "p_l digs through the loose sand, helping r_c clear it away enough for the other cat to scramble free.",
+                "text": "p_l creuse dans le sable mouvant, aidant r_c à dégager suffisamment pour que l'autre chat puisse se frayer un chemin.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -428,7 +428,7 @@
                 ]
             },
             {
-                "text": "Without letting {PRONOUN\/r_c\/object} panic, s_c carefully assesses the collapsed dune trapping {PRONOUN\/s_c\/poss} Clanmate. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/find\/finds} stable footing to dig {PRONOUN\/r_c\/object} out from above, and r_c is recovered, scared but okay.",
+                "text": "Sans laisser {PRONOUN/r_c/object} paniquer, s_c évalue soigneusement la dune effondrée qui emprisonne {PRONOUN/s_c/poss} camarade. {PRONOUN/s_c/subject/CAP} {VERB/s_c/find/finds} un appui stable pour creuser depuis le dessus et dégager {PRONOUN/r_c/object}, et r_c est récupéré, effrayé mais sain et sauf.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -459,7 +459,7 @@
                 ]
             },
             {
-                "text": "Creeping in as close as possible, s_c purrs to r_c, keeping {PRONOUN\/r_c\/object} calm as {PRONOUN\/s_c\/subject} carefully {VERB\/s_c\/dig\/digs} down to {PRONOUN\/r_c\/object}. r_c blinks up at {PRONOUN\/s_c\/object}, holding on to {PRONOUN\/s_c\/poss} presence in the scary situation.",
+                "text": "S'approchant au plus près, s_c ronronne pour r_c, gardant {PRONOUN/r_c/object} calme pendant que {PRONOUN/s_c/subject} creuse prudemment jusqu'à {PRONOUN/r_c/object}. r_c cligne des yeux vers {PRONOUN/s_c/object}, se raccrochant à la présence de {PRONOUN/s_c/poss} dans cette situation effrayante.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -497,7 +497,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l works all day to free r_c and gets nothing else done.",
+                "text": "p_l travaille toute la journée pour libérer r_c et ne fait rien d'autre.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -525,7 +525,7 @@
                 ]
             },
             {
-                "text": "As s_c rarely has patience for other cats, {PRONOUN\/s_c\/subject} {VERB\/s_c\/tell\/tells} r_c harshly that {PRONOUN\/s_c\/subject} {VERB\/s_c\/don't\/doesn't} have time for some mouse-brain who got stuck, making r_c resentful as {PRONOUN\/s_c\/subject} {VERB\/s_c\/dig\/digs} {PRONOUN\/r_c\/object} out of the sand.",
+                "text": "Comme s_c manque rarement de patience pour les autres chats, {PRONOUN/s_c/subject} {VERB/s_c/tell/tells} r_c sèchement qu'{PRONOUN/s_c/subject} {VERB/s_c/don't/doesn't} n'a pas le temps pour un esprit de souris coincé, rendant r_c rancunier tandis que {PRONOUN/s_c/subject} {VERB/s_c/dig/digs} {PRONOUN/r_c/object} hors du sable.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -563,16 +563,16 @@
                 ]
             },
             {
-                "text": "Hurt and wheezing, r_c hears p_l panicking as {PRONOUN\/r_c\/subject} {VERB\/r_c\/drift\/drifts} to StarClan.",
+                "text": "Blessé et suffocant, r_c entend p_l paniquer alors qu'{PRONOUN/r_c/subject} {VERB/r_c/drift/drifts} vers le Clan des Étoiles.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 },
                 "relationships": [
                     {
@@ -599,7 +599,7 @@
                 ]
             },
             {
-                "text": "p_l eventually manages to rescue r_c, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/need\/needs} to be helped back to camp, battered and injured.",
+                "text": "p_l finit par réussir à sauver r_c, mais {PRONOUN/r_c/subject} {VERB/r_c/need/needs} d'être ramené au camp, meurtri et blessé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -616,9 +616,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 },
                 "relationships": [
                     {
@@ -665,12 +665,12 @@
         "max_cats": 2,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "As r_c trails behind p_l, the dune {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} crossing shifts beneath r_c's paws. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/look\/looks} around wildly for safe footing - just as the sand caves in beneath {PRONOUN\/r_c\/object} and the world goes dark.",
-        "decline_text": "Thankfully, {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} on the edge of the obstruction and {VERB\/r_c\/wriggle\/wriggles} {PRONOUN\/r_c\/poss} way clear.",
+        "intro_text": "Alors que r_c suit p_l, la dune sous les pattes de r_c {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} s'effondre. {PRONOUN/r_c/subject/CAP} {VERB/r_c/look/looks} autour de {PRONOUN/r_c/poss} à la recherche d'un appui sûr - juste au moment où le sable cède sous {PRONOUN/r_c/object} et le monde devient noir.",
+        "decline_text": "Heureusement, {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} sur le bord de l'effondrement et {VERB/r_c/wriggle/wriggles} {PRONOUN/r_c/poss} pour se dégager.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "p_l comes running at {PRONOUN\/r_c\/poss} yowls, and r_c is soon freed, shaken but unharmed. r_c has never noticed how strong p_l is before.",
+                "text": "p_l accourt aux miaulements de {PRONOUN/r_c/poss}, et r_c est bientôt libéré, secoué mais indemne. r_c n'avait jamais remarqué à quel point p_l était fort.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -692,7 +692,7 @@
                 ]
             },
             {
-                "text": "p_l digs through the loose soil, helping r_c clear it away enough for the other cat to scramble free. r_c admires how smart p_l is.",
+                "text": "p_l creuse dans la terre meuble, aidant r_c à dégager suffisamment pour que l'autre chat puisse se frayer un chemin. r_c admire l'intelligence de p_l.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -714,7 +714,7 @@
                 ]
             },
             {
-                "text": "Without letting {PRONOUN\/r_c\/object} panic, s_c carefully assesses the collapsed dune trapping {PRONOUN\/s_c\/poss} Clanmate. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/find\/finds} stable footing to dig {PRONOUN\/r_c\/object} out from above, and r_c is recovered, scared but okay. r_c finds {PRONOUN\/r_c\/self} seeing s_c in a different light.",
+                "text": "Sans laisser {PRONOUN/r_c/object} paniquer, s_c évalue soigneusement la dune effondrée qui emprisonne {PRONOUN/s_c/poss} camarade. {PRONOUN/s_c/subject/CAP} {VERB/s_c/find/finds} un appui stable pour creuser depuis le dessus et dégager {PRONOUN/r_c/object}, et r_c est récupéré, effrayé mais sain et sauf. r_c voit s_c d'un autre œil.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -742,7 +742,7 @@
                 ]
             },
             {
-                "text": "Creeping in as close as possible, s_c purrs to r_c, keeping {PRONOUN\/r_c\/object} calm as {PRONOUN\/s_c\/subject} carefully {VERB\/s_c\/dig\/digs} down to {PRONOUN\/r_c\/object}. r_c blinks up at {PRONOUN\/s_c\/object}, holding on to {PRONOUN\/s_c\/poss} presence in the scary situation.",
+                "text": "S'approchant au plus près, s_c ronronne pour r_c, gardant {PRONOUN/r_c/object} calme pendant que {PRONOUN/s_c/subject} creuse prudemment jusqu'à {PRONOUN/r_c/object}. r_c cligne des yeux vers {PRONOUN/s_c/object}, se raccrochant à la présence de {PRONOUN/s_c/poss} dans cette situation effrayante.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -777,7 +777,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l works all day to free r_c and gets nothing else done.",
+                "text": "p_l travaille toute la journée pour libérer r_c et ne fait rien d'autre.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -799,7 +799,7 @@
                 ]
             },
             {
-                "text": "As s_c rarely has patience for other cats, {PRONOUN\/s_c\/subject} {VERB\/s_c\/tell\/tells} r_c harshly that {PRONOUN\/s_c\/subject} {VERB\/s_c\/don't\/doesn't} have time for some mouse-brain who got stuck, making r_c resentful as {PRONOUN\/s_c\/subject} {VERB\/s_c\/dig\/digs} {PRONOUN\/r_c\/object} out of the sand.",
+                "text": "Comme s_c manque rarement de patience pour les autres chats, {PRONOUN/s_c/subject} {VERB/s_c/tell/tells} r_c sèchement qu'{PRONOUN/s_c/subject} {VERB/s_c/don't/doesn't} n'a pas le temps pour un esprit de souris coincé, rendant r_c rancunier tandis que {PRONOUN/s_c/subject} {VERB/s_c/dig/digs} {PRONOUN/r_c/object} hors du sable.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -834,16 +834,16 @@
                 ]
             },
             {
-                "text": "Hurt and wheezing, r_c hears p_l panicking as {PRONOUN\/r_c\/subject} {VERB\/r_c\/drift\/drifts} to StarClan.",
+                "text": "Blessé et suffocant, r_c entend p_l paniquer alors qu'{PRONOUN/r_c/subject} {VERB/r_c/drift/drifts} vers le Clan des Étoiles.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 },
                 "relationships": [
                     {
@@ -864,7 +864,7 @@
                 ]
             },
             {
-                "text": "p_l eventually manages to rescue r_c, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/need\/needs} to be helped back to camp, battered and injured.",
+                "text": "p_l finit par réussir à sauver r_c, mais {PRONOUN/r_c/subject} {VERB/r_c/need/needs} d'être ramené au camp, meurtri et blessé.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -881,9 +881,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice d'avoir été piégé en patrouille",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 },
                 "relationships": [
                     {
@@ -922,17 +922,17 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c is training alone out on the coast when suddenly, the dune {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} standing on shifts beneath {PRONOUN\/r_c\/poss} paws. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/look\/looks} around wildly for safe footing - just as the sand caves in beneath {PRONOUN\/r_c\/object} and the world goes dark.",
-        "decline_text": "Thankfully, {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} on the edge of the obstruction and {VERB\/r_c\/wriggle\/wriggles} {PRONOUN\/r_c\/poss} way clear.",
+        "intro_text": "r_c s'entraîne seul sur la côte quand, soudainement, la dune sur laquelle {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} debout cède sous ses pattes. {PRONOUN/r_c/subject/CAP} {VERB/r_c/look/looks} autour de {PRONOUN/r_c/poss} à la recherche d'un appui sûr - juste au moment où le sable cède sous {PRONOUN/r_c/object} et le monde devient noir.",
+        "decline_text": "Heureusement, {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} sur le bord de l'effondrement et {VERB/r_c/wriggle/wriggles} {PRONOUN/r_c/poss} pour se dégager.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "r_c spends the entire day carefully working {PRONOUN\/r_c\/poss} way free and gets nothing else done, but at least {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} unharmed.",
+                "text": "r_c passe toute la journée à se frayer prudemment un chemin et ne fait rien d'autre, mais au moins {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} indemne.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "s_c tries to remain calm, clawing sand away from {PRONOUN\/s_c\/poss} muzzle so {PRONOUN\/s_c\/subject} can breathe. As the shock wears off, {PRONOUN\/s_c\/subject} {VERB\/s_c\/realize\/realizes} the sand seems thinner on one side of {PRONOUN\/s_c\/poss} body. With a surge of energy, {PRONOUN\/s_c\/subject} {VERB\/s_c\/burst\/bursts} through the weak point, terrified and caked in damp sand. {PRONOUN\/s_c\/subject\/CAP} may have a new nightmare to take back with {PRONOUN\/s_c\/object}, but at least {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} alive.",
+                "text": "s_c essaie de rester calme, grattant le sable autour de son museau pour pouvoir respirer. Quand le choc s'estompe, {PRONOUN/s_c/subject} {VERB/s_c/realize/realizes} que le sable semble plus fin d'un côté de {PRONOUN/s_c/poss} corps. Avec un élan d'énergie, {PRONOUN/s_c/subject} {VERB/s_c/burst/bursts} par le point faible, terrifié et couvert de sable humide. {PRONOUN/s_c/subject/CAP} pourra avoir un nouveau cauchemar à ramener avec {PRONOUN/s_c/object}, mais au moins {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} en vie.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -942,25 +942,25 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c tries {PRONOUN\/r_c\/poss} best, but unfortunately, {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} only able to work {PRONOUN\/r_c\/poss} head free. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/yowl\/yowls} until {PRONOUN\/r_c\/poss} voice is hoarse and {PRONOUN\/r_c\/poss} throat is sore, and a patrol passes by after sunhigh has come and gone to free their hapless Clanmate.",
+                "text": "r_c fait de son mieux, mais malheureusement, {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} uniquement capable de libérer sa tête. {PRONOUN/r_c/subject/CAP} {VERB/r_c/yowl/yowls} jusqu'à ce que sa voix soit rauque et sa gorge endolorie, et une patrouille passe après le zénith pour libérer leur camarade malheureux.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Hurt and wheezing, r_c does {PRONOUN\/r_c\/poss} best to hang on and wait for a patrol, but {PRONOUN\/r_c\/subject} {VERB\/r_c\/succumb\/succumbs} to {PRONOUN\/r_c\/poss} injuries and {VERB\/r_c\/drift\/drifts} to StarClan alone.",
+                "text": "Blessé et suffocant, r_c fait de son mieux pour tenir et attendre une patrouille, mais {PRONOUN/r_c/subject} {VERB/r_c/succumb/succumbs} à ses blessures et {VERB/r_c/drift/drifts} vers le Clan des Étoiles seul.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol.",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice après avoir été piégé en patrouille.",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 }
             },
             {
-                "text": "r_c eventually manages to pull {PRONOUN\/r_c\/self} free, but {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} wheezing and injured. It's all {PRONOUN\/r_c\/subject} can do to find some beach grass to shelter in through the night out on the shore, until a patrol finds {PRONOUN\/r_c\/object} the next morning and helps {PRONOUN\/r_c\/object} to the medicine cat den.",
+                "text": "r_c finit par se libérer, mais {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} essoufflé et blessé. Tout ce qu'{PRONOUN/r_c/subject} peut faire est de trouver de l'herbe pour se protéger pendant la nuit sur le rivage, jusqu'à ce qu'une patrouille le trouve le lendemain matin et l'amène à l'antre du guérisseur.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -977,9 +977,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from being trapped on patrol.",
-                    "reg_death": "m_c tragically died after being trapped on patrol.",
-                    "lead_death": "died after being trapped on patrol"
+                    "scar": "m_c porte une cicatrice après avoir été piégé en patrouille.",
+                    "reg_death": "m_c est tragiquement mort après avoir été piégé en patrouille.",
+                    "lead_death": "mort après avoir été piégé en patrouille"
                 }
             }
         ]
@@ -1006,22 +1006,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c heads out along the coast alone, but maybe an apprentice shouldn't try to do a solo patrol.",
-        "decline_text": "r_c turns back to camp, deciding that this is a bad idea.",
+        "intro_text": "r_c part seul le long de la côte — peut-être qu'un apprenti ne devrait pas tenter une patrouille en solo.",
+        "decline_text": "r_c fait demi-tour vers le camp, décidant que c'est une mauvaise idée.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "At least this is a good chance to learn the territory! r_c heads off to map out a field of sand dunes {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} always found confusing.",
+                "text": "Au moins c'est une bonne occasion d'apprendre le territoire ! r_c part cartographier un champ de dunes de sable qu'{PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} toujours trouvé déroutant.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "r_c clambers over a rise in the ground and stumbles across a tiny, sparkling waterfall!",
+                "text": "r_c escalade une butte et tombe sur une minuscule cascade scintillante !",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "There's nothing to worry about! s_c pads confidently through c_n territory, assured of {PRONOUN\/s_c\/poss} safety by the strength of c_n borders.",
+                "text": "Rien à craindre ! s_c avance confiant dans le territoire de c_n, rassuré par la solidité des frontières de c_n.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1041,12 +1041,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c gets lost in the territory and doesn't learn anything.",
+                "text": "r_c se perd dans le territoire et n'apprend rien.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c shivers a little, imagining what could be out there... No, definitely not. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/turn\/turns} around and {VERB\/s_c\/slink\/slinks} straight back to camp.",
+                "text": "s_c frissonne un peu, imaginant ce qui pourrait se trouver dehors... Non, définitivement pas. {PRONOUN/s_c/subject/CAP} {VERB/s_c/turn/turns} et {VERB/s_c/slink/slinks} directement vers le camp.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1059,7 +1059,7 @@
                 ]
             },
             {
-                "text": "The apprentice wanders along obliviously and slips, tumbling right down into a rocky pool. Bruised and sore, r_c has to report to the medicine cat den when {PRONOUN\/r_c\/subject} {VERB\/r_c\/return\/returns} to camp.",
+                "text": "L'apprenti erre sans se rendre compte et glisse, tombant directement dans un bassin rocheux. Amoché et endolori, r_c doit se présenter à l'antre du guérisseur quand {PRONOUN/r_c/subject} {VERB/r_c/return/returns} au camp.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1076,7 +1076,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c got injured as an apprentice while exploring alone."
+                    "scar": "m_c s'est blessé en tant qu'apprenti en explorant seul."
                 }
             }
         ]
@@ -1103,22 +1103,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c heads out along the coast alone, wanting to explore and have some time to {PRONOUN\/r_c\/self}.",
-        "decline_text": "r_c turns back to camp after getting some fresh sea air, deciding that {PRONOUN\/r_c\/poss} duties have to come first.",
+        "intro_text": "r_c part seul le long de la côte, souhaitant explorer et avoir un peu de temps pour {PRONOUN/r_c/self}.",
+        "decline_text": "r_c fait demi-tour vers le camp après avoir pris l'air marin, décidant que ses devoirs doivent passer en premier.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "r_c heads off to map out a field of sand dunes {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} always found confusing. Hunting, fighting, driving off predators - it all requires knowledge of {PRONOUN\/r_c\/poss} home turf. It's always worth making sure {PRONOUN\/r_c\/poss} mental map is up to date.",
+                "text": "r_c part cartographier un champ de dunes de sable qu'{PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} toujours trouvé déroutant. Chasser, combattre, repousser les prédateurs — tout exige la connaissance du terrain. Il vaut toujours la peine de mettre à jour la carte mentale de son territoire.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "r_c rounds a corner and stumbles across a tiny, sparkling waterfall!",
+                "text": "r_c tourne un coin et tombe sur une minuscule cascade scintillante !",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c rounds a corner and stumbles across a tiny, sparkling waterfall! Further investigation shows that it emerges from an equally tiny spring, and s_c purrs. This reliable source of fresh water could be important during times of drought.",
+                "text": "s_c tourne un coin et tombe sur une minuscule cascade scintillante ! Une enquête plus approfondie montre qu'elle jaillit d'une minuscule source, et s_c ronronne. Cette source fiable d'eau douce pourrait être importante en période de sécheresse.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1126,7 +1126,7 @@
                 ]
             },
             {
-                "text": "s_c pads confidently through c_n territory. There's a particular peace in exploring {PRONOUN\/s_c\/poss} beloved home, {PRONOUN\/s_c\/poss} ears pricked up curiously whenever {PRONOUN\/s_c\/subject} {VERB\/s_c\/spot\/spots} how the seasons and weather have reshaped it since {PRONOUN\/s_c\/subject} last passed this way.",
+                "text": "s_c avance confiant dans le territoire de c_n. Il y a une paix particulière à explorer son cher foyer, ses oreilles aux aguets chaque fois que {PRONOUN/s_c/subject} {VERB/s_c/spot/spots} comment les saisons et le temps l'ont remodelé depuis sa dernière visite.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1143,12 +1143,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c gets lost in the territory. Somehow.",
+                "text": "r_c se perd dans le territoire. D'une manière ou d'une autre.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c shivers a little, thinking of the dangers of solo patrols... No, definitely not. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/turn\/turns} around and {VERB\/s_c\/slink\/slinks} straight back to camp.",
+                "text": "s_c frissonne un peu, pensant aux dangers des patrouilles en solo... Non, définitivement pas. {PRONOUN/s_c/subject/CAP} {VERB/s_c/turn/turns} et {VERB/s_c/slink/slinks} directement vers le camp.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1181,22 +1181,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c heads out along the coast alone, wanting to explore and have some time to {PRONOUN\/r_c\/self}.",
-        "decline_text": "r_c turns back to camp after getting some fresh sea air, deciding that {PRONOUN\/r_c\/poss} duties have to come first.",
+        "intro_text": "r_c part seul le long de la côte, souhaitant explorer et avoir un peu de temps pour {PRONOUN/r_c/self}.",
+        "decline_text": "r_c fait demi-tour vers le camp après avoir pris l'air marin, décidant que ses devoirs doivent passer en premier.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "r_c heads off to map out a field of sand dunes {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} always found confusing. Hunting, fighting, driving off predators - it all requires knowledge of {PRONOUN\/r_c\/poss} home turf. It's always worth making sure {PRONOUN\/r_c\/poss} mental map is up to date. It feels like work though, and it isn't the peaceful break {PRONOUN\/r_c\/subject} hoped for.",
+                "text": "r_c part cartographier un champ de dunes de sable qu'{PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} toujours trouvé déroutant. Chasser, combattre, repousser les prédateurs — tout exige la connaissance du terrain. Il vaut toujours la peine de mettre à jour la carte mentale de son territoire. Ça ressemble à du travail, cependant, et ce n'est pas la pause paisible espérée par {PRONOUN/r_c/subject}.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "r_c rounds a corner and stumbles across a tiny, sparkling waterfall! Purring, {PRONOUN\/r_c\/subject} {VERB\/r_c\/take\/takes} the opportunity for a moment of peace, relaxing and enjoying the view.",
+                "text": "r_c tourne un coin et tombe sur une minuscule cascade scintillante ! Ronronnant, {PRONOUN/r_c/subject} {VERB/r_c/take/takes} ce moment de paix, se relaxant et profitant de la vue.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c rounds a corner and stumbles across a tiny, sparkling waterfall! Further investigation shows its origin is an equally tiny spring, and s_c purrs. This reliable source of fresh water could be important during times of drought, and its discovery helps to ease one of the many worries on the deputy's mind.",
+                "text": "s_c tourne un coin et tombe sur une minuscule cascade scintillante ! Une enquête plus approfondie montre son origine dans une minuscule source, et s_c ronronne. Cette découverte d'une source d'eau douce peut être importante en période de sécheresse, et elle aide à apaiser une des nombreuses inquiétudes de l'adjoint.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1204,7 +1204,7 @@
                 ]
             },
             {
-                "text": "s_c pads confidently through c_n territory. There's a particular peace in exploring {PRONOUN\/s_c\/poss} beloved home, {PRONOUN\/s_c\/poss} ears pricked up curiously whenever {PRONOUN\/s_c\/subject} {VERB\/s_c\/spot\/spots} how the seasons and weather have reshaped it since {PRONOUN\/s_c\/subject} last passed this way.",
+                "text": "s_c avance confiant dans le territoire de c_n. Il y a une paix particulière à explorer son cher foyer, ses oreilles aux aguets chaque fois que {PRONOUN/s_c/subject} {VERB/s_c/spot/spots} comment les saisons et le temps l'ont remodelé depuis sa dernière visite.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1221,12 +1221,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c gets lost in the territory. Somehow. {PRONOUN\/r_c\/poss\/CAP} pelt is burning with shame by the time {PRONOUN\/r_c\/subject} finally {VERB\/r_c\/return\/returns}, sneaking back to {PRONOUN\/r_c\/poss} den to avoid any embarrassing questions.",
+                "text": "r_c se perd dans le territoire. D'une manière ou d'une autre. Son pelage brûle de honte quand {PRONOUN/r_c/subject} finit par {VERB/r_c/return/returns}, se faufilant vers sa tanière pour éviter toute question embarrassante.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c wavers in {PRONOUN\/s_c\/poss} decision. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/have\/has} so much work to do and so many other things demanding {PRONOUN\/s_c\/poss} time... No, definitely not. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/turn\/turns} around and {VERB\/s_c\/march\/marches} straight back to camp.",
+                "text": "s_c hésite dans sa décision. {PRONOUN/s_c/subject/CAP} {VERB/s_c/have/has} tant de travail à faire et tant d'autres choses qui exigent son temps... Non, définitivement pas. {PRONOUN/s_c/subject/CAP} {VERB/s_c/turn/turns} et {VERB/s_c/march/marches} directement vers le camp.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1259,22 +1259,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c heads out along the coast alone, wanting to explore and have some time to {PRONOUN\/r_c\/self}.",
-        "decline_text": "r_c turns back to camp after getting some fresh sea air, deciding that {PRONOUN\/r_c\/poss} duties have to come first.",
+        "intro_text": "r_c part seul le long de la côte, souhaitant explorer et avoir un peu de temps pour {PRONOUN/r_c/self}.",
+        "decline_text": "r_c fait demi-tour vers le camp après avoir pris l'air marin, décidant que ses devoirs doivent passer en premier.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "r_c heads off to map out a field of sand dunes {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} always found confusing. Hunting, fighting, driving off predators - it all requires knowledge of {PRONOUN\/r_c\/poss} home turf. It's always worth making sure {PRONOUN\/r_c\/poss} mental map is up to date. It feels like work though, and it isn't the peaceful break {PRONOUN\/r_c\/subject} hoped for.",
+                "text": "r_c part cartographier un champ de dunes de sable qu'{PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} toujours trouvé déroutant. Chasser, combattre, repousser les prédateurs — tout exige la connaissance du terrain. Il vaut toujours la peine de mettre à jour la carte mentale de son territoire. Ça ressemble à du travail, cependant, et ce n'est pas la pause paisible espérée par {PRONOUN/r_c/subject}.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "r_c rounds a corner and stumbles across a tiny, sparkling waterfall! Purring, {PRONOUN\/r_c\/subject} {VERB\/r_c\/take\/takes} the opportunity for a moment of peace, relaxing and enjoying the view.",
+                "text": "r_c tourne un coin et tombe sur une minuscule cascade scintillante ! Ronronnant, {PRONOUN/r_c/subject} {VERB/r_c/take/takes} ce moment de paix, se relaxant et profitant de la vue.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c rounds a corner and stumbles across a tiny, sparkling waterfall! Further investigation shows its origin is an equally tiny spring, and s_c purrs. This reliable source of fresh water could be important during times of drought, and its discovery helps to ease one of the many worries on the leader's mind.",
+                "text": "s_c tourne un coin et tombe sur une minuscule cascade scintillante ! Une enquête plus approfondie montre qu'elle provient d'une minuscule source, et s_c ronronne. Cette source fiable d'eau douce pourrait être importante en période de sécheresse, et sa découverte aide à apaiser l'une des nombreuses préoccupations de la cheffe.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1282,7 +1282,7 @@
                 ]
             },
             {
-                "text": "s_c pads confidently through c_n territory. There's a particular peace in exploring {PRONOUN\/s_c\/poss} beloved home, {PRONOUN\/s_c\/poss} ears pricked up curiously whenever {PRONOUN\/s_c\/subject} {VERB\/s_c\/spot\/spots} how the seasons and weather have reshaped it since {PRONOUN\/s_c\/subject} last passed this way.",
+                "text": "s_c avance confiant dans le territoire de c_n. Il y a une paix particulière à explorer son cher foyer, ses oreilles aux aguets chaque fois que {PRONOUN/s_c/subject} {VERB/s_c/spot/spots} comment les saisons et le temps l'ont remodelé depuis sa dernière visite.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1299,12 +1299,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c gets lost in the territory. Somehow. {PRONOUN\/r_c\/poss\/CAP} pelt is burning with shame by the time {PRONOUN\/r_c\/subject} finally {VERB\/r_c\/return\/returns}, sneaking back to {PRONOUN\/r_c\/poss} den to avoid any embarrassing questions.",
+                "text": "r_c se perd dans le territoire. D'une manière ou d'une autre. Son pelage brûle de honte quand {PRONOUN/r_c/subject} finit par {VERB/r_c/return/returns}, se faufilant vers sa tanière pour éviter toute question embarrassante.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c wavers in {PRONOUN\/s_c\/poss} decision. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/have\/has} so much work to do and so many other things demanding {PRONOUN\/s_c\/poss} time... No, definitely not. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/turn\/turns} around and {VERB\/s_c\/march\/marches} straight back to camp.",
+                "text": "s_c hésite dans sa décision. {PRONOUN/s_c/subject/CAP} {VERB/s_c/have/has} tant de travail à faire et tant d'autres choses qui exigent son temps... Non, définitivement pas. {PRONOUN/s_c/subject/CAP} {VERB/s_c/turn/turns} et {VERB/s_c/march/marches} directement vers le camp.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1341,12 +1341,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l takes app1 out to see a big octopus a patrol spotted in one of c_n's rockpools.",
-        "decline_text": "When they get there, they can't find it, and the lesson fails.",
+        "intro_text": "p_l emmène app1 voir un gros poulpe repéré par une patrouille dans l'un des bassins rocheux de c_n.",
+        "decline_text": "À leur arrivée, ils ne le trouvent pas, et la leçon échoue.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "app1 watches the massive creature the tides have washed in with wide eyes, tail twitching with excitement. p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water.",
+                "text": "app1 observe la massive créature ramenée par la marée, les yeux grands ouverts, la queue frétillante d'excitation. p_l montre le bec crochu pendant que le poulpe agite une tentacule paresseuse juste sous la surface.",
                 "exp": 15,
                 "weight": 20,
                 "relationships": [
@@ -1367,7 +1367,7 @@
                 ]
             },
             {
-                "text": "p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water. app1 flinches backwards as the creature suddenly lunges after a little fish. Once the fish has disappeared into the suddenly frightening beak, the octopus goes back to swaying like harmless kelp.",
+                "text": "p_l montre le bec crochu alors que le poulpe agite une tentacule paresseuse juste sous la surface. app1 sursaute quand la créature se jette soudain sur un petit poisson. Une fois que le poisson disparaît dans le bec effrayant, le poulpe reprend son balancement comme une algue inoffensive.",
                 "exp": 15,
                 "weight": 5,
                 "relationships": [
@@ -1388,7 +1388,7 @@
                 ]
             },
             {
-                "text": "s_c points out the dangers of the creature, explaining how some c_n stories tell of a Dark Forest cat who tried to escape into the ocean, only to be cursed by StarClan into becoming a monster with legs sprouting from each claw. As app1 watches the octopus contort itself, more liquid than animal, {PRONOUN\/app1\/subject} can see how it could be a sea cat.",
+                "text": "s_c souligne les dangers de la créature, expliquant comment certaines histoires de c_n racontent qu'un chat de la Forêt Sombre qui a tenté de s'échapper vers l'océan fut maudit par le Clan des Étoiles et devint un monstre avec des pattes sortant de chaque griffe. En regardant le poulpe se contorsionner, plus liquide qu'animal, {PRONOUN/app1/subject} peut imaginer comment il pourrait être un chat des mers.",
                 "exp": 15,
                 "weight": 20,
                 "stat_skill": [
@@ -1417,7 +1417,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 maintains that octopus are prey, not opponents or weird transformed dead cats or anything like that, just prey. p_l can't get {PRONOUN\/app1\/object} to take the training session seriously.",
+                "text": "app1 soutient que les poulpes sont des proies, pas des adversaires ou des chats morts transformés étrangement, juste des proies. p_l n'arrive pas à faire prendre la séance d'entraînement au sérieux à {PRONOUN/app1/object}.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1465,12 +1465,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l takes app1 out to see a big octopus a patrol spotted in one of c_n's rockpools.",
-        "decline_text": "When they get there, they can't find it, and the lesson fails.",
+        "intro_text": "p_l emmène app1 voir un gros poulpe repéré par une patrouille dans l'un des bassins rocheux de c_n.",
+        "decline_text": "À leur arrivée, ils ne le trouvent pas, et la leçon échoue.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "app1 watches the massive creature the tides have washed in with wide eyes, tail twitching with excitement. p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water.",
+                "text": "app1 observe la massive créature ramenée par la marée, les yeux grands ouverts, la queue frétillante d'excitation. p_l montre le bec crochu pendant que le poulpe agite une tentacule paresseuse juste sous la surface.",
                 "exp": 15,
                 "weight": 20,
                 "relationships": [
@@ -1491,7 +1491,7 @@
                 ]
             },
             {
-                "text": "p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water. app1 flinches backwards as the creature suddenly lunges after a little fish. Once the fish has disappeared into the suddenly frightening beak, the octopus goes back to swaying like harmless kelp.",
+                "text": "p_l montre le bec crochu alors que le poulpe agite une tentacule paresseuse juste sous la surface. app1 sursaute quand la créature se jette soudain sur un petit poisson. Une fois que le poisson disparaît dans le bec effrayant, le poulpe reprend son balancement comme une algue inoffensive.",
                 "exp": 15,
                 "weight": 5,
                 "relationships": [
@@ -1512,7 +1512,7 @@
                 ]
             },
             {
-                "text": "s_c points out the dangers of the creature, showing app1 exactly how the octopus has no direction that it can't move its limbs, as the octopus sways around in the rockpool waiting for the tides to free it. It's dangerous, s_c teaches, and app1 wouldn't be able to predict how it can move in a fight. Something to be careful of.",
+                "text": "s_c explique les dangers de la créature, montrant à app1 exactement comment le poulpe peut bouger ses membres dans toutes les directions — alors que le poulpe ondule dans le bassin en attendant que la marée le libère. C'est dangereux, enseigne s_c, et app1 ne pourrait pas prévoir ses mouvements en combat. À surveiller.",
                 "exp": 15,
                 "weight": 20,
                 "stat_skill": [
@@ -1541,7 +1541,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 cannot believe that the octopus can fit into the tiny crevice that p_l points out and starts an argument about it. ",
+                "text": "app1 ne peut pas croire que le poulpe puisse se glisser dans la petite crevasse que p_l montre et commence une dispute à propos de ça.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1593,12 +1593,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l takes them out to see a big octopus a patrol spotted in one of c_n's rockpools.",
-        "decline_text": "When they get there, they can't find it, and the lesson fails.",
+        "intro_text": "p_l les emmène voir un gros poulpe repéré par une patrouille dans l'un des bassins rocheux de c_n.",
+        "decline_text": "À leur arrivée, ils ne le trouvent pas, et la leçon échoue.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "app1 and app2 watch the massive creature the tides have washed in with wide eyes, tails twitching with excitement. p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water.",
+                "text": "app1 et app2 regardent la massive créature ramenée par la marée, les yeux grands ouverts, les queues frétillantes d'excitation. p_l montre le bec crochu pendant que le poulpe agite une tentacule paresseuse juste sous la surface.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -1619,7 +1619,7 @@
                 ]
             },
             {
-                "text": "p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water. app1 flinches backwards and app2's pelt puffs up as the creature suddenly lunges after a fish. Once the fish has disappeared into the suddenly frightening beak, the octopus goes back to swaying like harmless kelp.",
+                "text": "p_l montre le bec crochu alors que le poulpe agite une tentacule paresseuse juste sous la surface. app1 sursaute et le pelage d'app2 se hérisse quand la créature se jette soudain sur un poisson. Une fois le poisson avalé par le bec effrayant, le poulpe reprend son balancement comme une algue inoffensive.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -1640,7 +1640,7 @@
                 ]
             },
             {
-                "text": "s_c points out the dangers of the creature, explaining how some c_n stories tell of a Dark Forest cat who tried to escape into the ocean, only to be cursed by StarClan into a monster with legs sprouting from each claw. app1 and app2 watch the octopus contort itself, more liquid than animal, and they can see how it could be a sea cat.",
+                "text": "s_c souligne les dangers de la créature, expliquant comment certaines histoires de c_n racontent qu'un chat de la Forêt Sombre maudit tenta de s'échapper vers l'océan et devint un monstre aux pattes à chaque griffe. app1 et app2 regardent le poulpe se contorsionner, plus liquide qu'animal, et comprennent comment il pourrait être un chat marin.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1669,7 +1669,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 maintains that octopus are prey, not opponents or weird transformed dead cats or anything like that, just prey. p_l can't get {PRONOUN\/app1\/object} to take the training session seriously. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/distract\/distracts} app2 as well, and eventually p_l has to give up on teaching.",
+                "text": "app1 maintient que les poulpes sont des proies, pas des adversaires ou des chats morts transformés. p_l n'arrive pas à faire prendre la leçon au sérieux à {PRONOUN/app1/object}. {PRONOUN/app1/subject/CAP} {VERB/app1/distract/distracts} aussi app2, et finalement p_l doit abandonner l'enseignement.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1721,12 +1721,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l takes them out to see a big octopus a patrol spotted in one of c_n's rockpools.",
-        "decline_text": "When they get there, they can't find it, and the lesson fails.",
+        "intro_text": "p_l les emmène voir un gros poulpe repéré par une patrouille dans l'un des bassins rocheux de c_n.",
+        "decline_text": "À leur arrivée, ils ne le trouvent pas, et la leçon échoue.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "app1 and app2 watch the massive creature the tides have washed in with wide eyes, tails twitching with excitement. p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water.",
+                "text": "app1 et app2 regardent la massive créature ramenée par la marée, les yeux grands ouverts, les queues frétillantes d'excitation. p_l montre le bec crochu pendant que le poulpe agite une tentacule paresseuse juste sous la surface.",
                 "exp": 15,
                 "weight": 20,
                 "relationships": [
@@ -1747,7 +1747,7 @@
                 ]
             },
             {
-                "text": "p_l points out the hooked beak as the octopus waves a lazy tentacle ever so temptingly just below the surface of the water. app1 flinches backwards and app2's pelt puffs up as the creature suddenly lunges after a fish. Once the fish has disappeared into the suddenly frightening beak, the octopus goes back to swaying like harmless kelp.",
+                "text": "p_l montre le bec crochu alors que le poulpe agite une tentacule paresseuse juste sous la surface. app1 sursaute et le pelage d'app2 se hérisse quand la créature se jette soudain sur un poisson. Une fois le poisson avalé, le poulpe reprend son balancement comme une algue inoffensive.",
                 "exp": 15,
                 "weight": 5,
                 "relationships": [
@@ -1768,7 +1768,7 @@
                 ]
             },
             {
-                "text": "s_c points out the dangers of the creature, showing app1 exactly how the octopus has no direction that it can't move its limbs, as the octopus sways around in the rockpool waiting for the tides to free it. It's dangerous, s_c teaches, and app2 wouldn't be able to predict how it can move in a fight. Something to be careful of.",
+                "text": "s_c montre à app1 comment le poulpe peut bouger ses membres dans toutes les directions, alors qu'il ondule dans le bassin en attendant la marée. C'est dangereux, enseigne s_c, et app2 ne pourrait pas prévoir ses mouvements en combat. Attention.",
                 "exp": 15,
                 "weight": 20,
                 "stat_skill": [
@@ -1797,7 +1797,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 cannot believe that the octopus can fit into the tiny crevice that p_l points out and starts an argument about it. app2 sides with p_l, and no one learns anything in the squabbling.",
+                "text": "app1 ne peut pas croire que le poulpe puisse rentrer dans la petite crevasse montrée par p_l et commence une dispute. app2 prend le parti de p_l, et personne n'apprend rien à cause des querelles.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1848,12 +1848,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "It's storming in c_n's territory today, and app1 waits for app2 up on one of the cliffs.",
-        "decline_text": "The apprentices are called back to camp to deal with an elder's wet bedding.",
+        "intro_text": "Il fait tempête dans le territoire de c_n aujourd'hui, et app1 attend app2 sur une des falaises.",
+        "decline_text": "Les apprentis sont rappelés au camp pour s'occuper de la literie humide d'un ancien.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "app2 picks {PRONOUN\/app2\/poss} way up the cliff path, asking what app1 wanted to show {PRONOUN\/app2\/object}. app1 brings {PRONOUN\/app2\/object} to a point where the wind hits the land, and app2 gasps, watching the gigantic waves breaking against the cliff. It's thrilling, a little scary, and very cool.",
+                "text": "app2 grimpe le sentier de la falaise en demandant ce qu'app1 voulait montrer. app1 l'amène à un point où le vent frappe la terre, et app2 éclate d'admiration en regardant les énormes vagues se briser contre la falaise. C'est grisant, un peu effrayant, et très impressionnant.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -1875,7 +1875,7 @@
                 ]
             },
             {
-                "text": "When app2 arrives, app1 shows {PRONOUN\/app2\/object} the spot {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} found, where the apprentices can see the gigantic storm waves breaking against the land. Both of them gasp when a lightning bolt strikes the sea, throwing the world into black and white. The apprentices huddle against each other, warmed by the other's pelt.",
+                "text": "Quand app2 arrive, app1 montre l'endroit qu'{PRONOUN/app1/subject}{VERB/app1/'ve/'s} trouvé, où les apprentis peuvent voir les gigantesques vagues de la tempête. Tous deux s'exclament quand un éclair frappe la mer, projetant le monde en noir et blanc. Les apprentis se blottissent l'un contre l'autre, réchauffés par le pelage de l'autre.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -1897,7 +1897,7 @@
                 ]
             },
             {
-                "text": "app2 rounds the top of the cliff and sees s_c, asking why s_c wanted to meet there. Stuttering but determined, s_c explains that {PRONOUN\/s_c\/subject} wondered if, possibly, maybe, app2 would like to hang out... just the two of them? app2 looks away with a purr and mumbles a soft yes to the ground, suddenly unable to make eye contact. They watch the storm together, quietly thrilled.",
+                "text": "app2 contourne le sommet de la falaise et voit s_c, demandant pourquoi s_c voulait se rencontrer là. Bégayant mais déterminé, s_c explique qu'il se demandait si, peut-être, app2 voudrait passer du temps... juste tous les deux ? app2 baisse les yeux en ronronnant et répond timidement oui, incapable de soutenir le regard. Ils regardent la tempête ensemble, silencieusement ravis.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -1934,7 +1934,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app2 rounds the top of the cliff, and seeing app1, asks why app1 wanted to meet there. app1 stutters out some nonsense about hunting and then runs off into the rain.",
+                "text": "app2 contourne le sommet de la falaise et, en voyant app1, demande pourquoi app1 voulait se rencontrer là. app1 bredouille des excuses sur la chasse puis s'enfuit sous la pluie.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1986,12 +1986,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "It's storming in c_n's territory today, and app1 waits for app2 up on one of the cliffs.",
-        "decline_text": "The apprentices are called back to camp to deal with an elder's wet bedding.",
+        "intro_text": "Il fait tempête dans le territoire de c_n aujourd'hui, et app1 attend app2 sur une des falaises.",
+        "decline_text": "Les apprentis sont rappelés au camp pour s'occuper de la literie humide d'un ancien.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "app2 picks {PRONOUN\/app2\/poss} way up the cliff path, asking what app1 wanted to show {PRONOUN\/app2\/object}. app1 brings {PRONOUN\/app2\/object} to a point where the wind hits the land, and app2 gasps, watching the gigantic waves breaking against the cliff. It's thrilling, a little scary, and very cool.",
+                "text": "app2 grimpe le sentier de la falaise en demandant ce qu'app1 voulait montrer. app1 l'amène à un point où le vent frappe la terre, et app2 éclate d'admiration en regardant les énormes vagues se briser contre la falaise. C'est grisant, un peu effrayant, et très impressionnant.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2013,7 +2013,7 @@
                 ]
             },
             {
-                "text": "When app2 arrives, app1 shows {PRONOUN\/app2\/object} the spot {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} found, where the apprentices can see the gigantic storm waves breaking against the land. Both of them gasp when a lightning bolt strikes the sea, throwing the world into black and white. The apprentices huddle against each other, warmed by the other's pelt.",
+                "text": "Quand app2 arrive, app1 montre l'endroit qu'{PRONOUN/app1/subject}{VERB/app1/'ve/'s} trouvé, où les apprentis peuvent voir les gigantesques vagues de la tempête. Tous deux s'exclament quand un éclair frappe la mer, projetant le monde en noir et blanc. Les apprentis se blottissent l'un contre l'autre, réchauffés par le pelage de l'autre.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2035,7 +2035,7 @@
                 ]
             },
             {
-                "text": "app2 rounds the top of the cliff and sees s_c, asking why s_c wanted to meet there. Stuttering but determined, s_c explains that {PRONOUN\/s_c\/subject} wondered if, possibly, maybe, app2 would like to hang out... just the two of them? app2 looks away with a purr and mumbles a soft yes to the ground, suddenly unable to make eye contact. They watch the storm together, quietly thrilled.",
+                "text": "app2 contourne le sommet de la falaise et voit s_c, demandant pourquoi s_c voulait se rencontrer là. Bégayant mais déterminé, s_c explique qu'il se demandait si, peut-être, app2 voudrait passer du temps... juste tous les deux ? app2 baisse les yeux en ronronnant et répond timidement oui. Ils regardent la tempête ensemble, silencieusement ravis.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2072,7 +2072,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app2 refuses to come up the cliff while it's so stormy, and app1 gives up on {PRONOUN\/app1\/poss} idea, disappointed {PRONOUN\/app1\/subject} didn't get to spend time with app2.",
+                "text": "app2 refuse de monter la falaise sous la tempête, et app1 abandonne son idée, déçu de ne pas avoir pu passer du temps avec app2.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2124,12 +2124,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 and app2 wander on a sandy beach near camp.",
-        "decline_text": "The apprentices are called back to camp to help watch camp.",
+        "intro_text": "app1 et app2 se promènent sur une plage de sable près du camp.",
+        "decline_text": "Les apprentis sont rappelés au camp pour aider à la surveillance.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "app2 drapes {PRONOUN\/app1\/object} with a bunch of seaweed and proclaims {PRONOUN\/app1\/subject} {VERB\/app1\/are\/is} clothed like a Twoleg. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/chase\/chases} after app2, who's not as keen to get seaweed slime all over {PRONOUN\/app2\/self}, and the two young cats play on the safe sands all afternoon.",
+                "text": "app2 couvre app1 d'algues et proclame qu'app1 {VERB/app1/are/is} vêtu comme un Deuxpattes. {PRONOUN/app1/subject/CAP} {VERB/app1/chase/chases} après app2, qui n'a pas trop envie d'avoir de la bave d'algues partout, et les deux jeunes chats jouent sur le sable sûr tout l'après-midi.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2151,7 +2151,7 @@
                 ]
             },
             {
-                "text": "app1 finds a gigantic, flawless shell that washed up on the beach with last night's tide and calls app2 over. Both apprentices startle backwards when a hermit crab starts scurrying away from them. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/chase\/chases} it, shouting joyfully, eyes wide and silly. The hermit crab has to wait until {PRONOUN\/app1\/subject} finally {VERB\/app1\/get\/gets} bored to make its escape.",
+                "text": "app1 trouve un coquillage gigantesque et parfait échoué avec la marée de la nuit précédente et appelle app2. Les deux apprentis sursautent quand un bernard-l'ermite s'enfuit. {PRONOUN/app1/subject/CAP} {VERB/app1/chase/chases} après lui en criant de joie, les yeux écarquillés. Le bernard-l'ermite doit attendre que {PRONOUN/app1/subject} cesse de s'amuser pour s'échapper.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2173,7 +2173,7 @@
                 ]
             },
             {
-                "text": "app1 finds a shell with a brilliant internal sheen. Picking it up, {PRONOUN\/app1\/subject} shyly {VERB\/app1\/present\/presents} it to app2, wondering if app2 might like it for {PRONOUN\/app2\/poss} nest. Blushing to the tips of {PRONOUN\/app2\/poss} ears, app2 accepts {PRONOUN\/app1\/poss} gift.",
+                "text": "app1 trouve un coquillage à l'éclat interne brillant. Le prenant, {PRONOUN/app1/subject} offre timidement son cadeau à app2, se demandant si app2 l'aimerait pour son nid. Rougissant jusqu'aux bouts des oreilles, app2 accepte le présent d'{PRONOUN/app1/poss}.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2208,7 +2208,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 tries to give app2 a shell, but {PRONOUN\/app2\/subject} {VERB\/app2\/do\/does}n't want it, and the crestfallen app1 slinks off.",
+                "text": "app1 essaie d'offrir un coquillage à app2, mais {PRONOUN/app2/subject} {VERB/app2/do/does}n't le veut pas, et l'app1 abattu s'en va.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2259,12 +2259,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l approaches r_c, asking if {PRONOUN\/r_c\/subject} wouldn't mind showing p_l {PRONOUN\/r_c\/poss} hunting techniques and perhaps doing some training with {PRONOUN\/p_l\/object}?",
-        "decline_text": "r_c declines gently, explaining that {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} too much work to do.",
+        "intro_text": "p_l aborde r_c, demandant si {PRONOUN/r_c/subject} accepterait de montrer ses techniques de chasse et peut-être de s'entraîner avec {PRONOUN/p_l/object} ?",
+        "decline_text": "r_c décline poliment, expliquant qu'{PRONOUN/r_c/subject} {VERB/r_c/have/has} trop de travail.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The cats go out together in the late of the day, as the gulls fly home to roost. r_c goes through {PRONOUN\/r_c\/poss} tricks, showing p_l how {PRONOUN\/r_c\/subject} {VERB\/r_c\/use\/uses} the direction of the sun to avoid casting a shadow on pools as {PRONOUN\/r_c\/subject} {VERB\/r_c\/fish\/fishes}. p_l watches with eyes that r_c notices are a bit too admiring for what's just a little trick. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/smirk\/smirks}, showing off a little.",
+                "text": "Les chats sortent ensemble en fin de journée, tandis que les mouettes rentrent au rocher. r_c montre ses astuces, expliquant à p_l comment {PRONOUN/r_c/subject} {VERB/r_c/use/uses} la position du soleil pour éviter de projeter une ombre sur les bassins lorsqu'{PRONOUN/r_c/subject} {VERB/r_c/fish/fishes}. p_l regarde avec des yeux que r_c trouve un peu trop admiratifs pour une simple astuce. {PRONOUN/r_c/subject/CAP} {VERB/r_c/smirk/smirks}, se vantant un peu.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2286,7 +2286,7 @@
                 ]
             },
             {
-                "text": "It's a long but satisfying training session, and both cats have ample opportunity to test themselves and work on their skills. It ends with them both sitting on a little outlook, watching the sun go down and catching the last of its rays on their pelts. r_c sees p_l watching {PRONOUN\/r_c\/object} instead of the sun and smiles.",
+                "text": "C'est une longue mais satisfaisante séance d'entraînement, et les deux chats ont amplement l'occasion de se tester et d'améliorer leurs compétences. Elle se termine avec eux assis sur un petit promontoire, regardant le soleil se coucher et attraper les derniers rayons sur leur pelage. r_c remarque p_l le regarder plutôt que le soleil et sourit.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2308,7 +2308,7 @@
                 ]
             },
             {
-                "text": "s_c is a fantastic hunter, and p_l isn't shy about telling {PRONOUN\/s_c\/object} so. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/blush\/blushes} but {VERB\/s_c\/work\/works} through it, showing p_l how to use the scraps of old crowfood from the fresh-kill pile to attract crabs and fish in the rockpools out of their hidey-holes.",
+                "text": "s_c est un chasseur exceptionnel, et p_l n'hésite pas à le lui dire. {PRONOUN/s_c/subject/CAP} {VERB/s_c/blush/blushes} mais {VERB/s_c/work/works} malgré tout, montrant à p_l comment utiliser les restes de nourriture du tas pour attirer crabes et poissons hors de leurs cachettes dans les bassins rocheux.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2336,7 +2336,7 @@
                 ]
             },
             {
-                "text": "p_l marvels at the opportunity to have s_c's time to {PRONOUN\/p_l\/self}. s_c is such a popular cat, so friendly and fun to be around, and yet when the training session draws to a close under the setting sun, s_c looks surprised to be told so.",
+                "text": "p_l se réjouit d'avoir le temps de s'occuper de {PRONOUN/p_l/self}. s_c est si populaire, si amical et agréable, et pourtant quand la séance se termine sous le soleil couchant, s_c paraît surpris d'entendre ces paroles.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2373,7 +2373,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c spots p_l looking at {PRONOUN\/r_c\/object} a little bit too admiringly and ends the training session early with a diplomatic and completely made-up excuse.",
+                "text": "r_c remarque p_l le regarder un peu trop avec admiration et met fin à la séance d'entraînement plus tôt avec une excuse diplomatique et complètement inventée.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2424,12 +2424,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l approaches r_c, asking if {PRONOUN\/r_c\/subject} wouldn't mind showing p_l {PRONOUN\/r_c\/poss} hunting techniques and perhaps doing some training with {PRONOUN\/p_l\/object}?",
-        "decline_text": "r_c declines gently, explaining that {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} too much work to do.",
+        "intro_text": "p_l aborde r_c, demandant si {PRONOUN/r_c/subject} accepterait de montrer ses techniques de chasse et peut-être de s'entraîner avec {PRONOUN/p_l/object} ?",
+        "decline_text": "r_c décline poliment, expliquant qu'{PRONOUN/r_c/subject} {VERB/r_c/have/has} trop de travail.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The cats go out together in the late of the day, as the gulls fly home to roost. r_c goes through {PRONOUN\/r_c\/poss} tricks, showing p_l how {PRONOUN\/r_c\/subject} {VERB\/r_c\/use\/uses} the direction of the sun to avoid casting a shadow on pools as {PRONOUN\/r_c\/subject} {VERB\/r_c\/fish\/fishes}. p_l watches with eyes that r_c notices are a bit too admiring for what's just a little trick. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/smirk\/smirks}, showing off a little.",
+                "text": "Les chats sortent ensemble en fin de journée, tandis que les mouettes rentrent au rocher. r_c montre ses astuces, expliquant à p_l comment {PRONOUN/r_c/subject} {VERB/r_c/use/uses} la position du soleil pour éviter de projeter une ombre sur les bassins lorsqu'{PRONOUN/r_c/subject} {VERB/r_c/fish/fishes}. p_l regarde avec des yeux que r_c trouve un peu trop admiratifs pour une simple astuce. {PRONOUN/r_c/subject/CAP} {VERB/r_c/smirk/smirks}, se vantant un peu.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2451,7 +2451,7 @@
                 ]
             },
             {
-                "text": "It's a long but satisfying training session, and both cats have ample opportunity to test themselves and work on their skills. It ends with them both sitting on a little outlook, watching the sun go down and catching the last of its rays on their pelts. r_c sees p_l watching {PRONOUN\/r_c\/object} instead of the sun and smiles.",
+                "text": "C'est une longue mais satisfaisante séance d'entraînement, et les deux chats ont amplement l'occasion de se tester et d'améliorer leurs compétences. Elle se termine avec eux assis sur un petit promontoire, regardant le soleil se coucher et attraper les derniers rayons sur leur pelage. r_c remarque p_l le regarder plutôt que le soleil et sourit.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2473,7 +2473,7 @@
                 ]
             },
             {
-                "text": "s_c is a fantastic hunter, and p_l isn't shy about telling {PRONOUN\/s_c\/object} so. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/blush\/blushes} but {VERB\/s_c\/work\/works} through it, showing p_l how to use the scraps of old crowfood from the fresh-kill pile to attract crabs and fish in the rockpools out of their hidey-holes.",
+                "text": "s_c est un chasseur exceptionnel, et p_l n'hésite pas à le lui dire. {PRONOUN/s_c/subject/CAP} {VERB/s_c/blush/blushes} mais {VERB/s_c/work/works} malgré tout, montrant à p_l comment utiliser les restes de nourriture du tas pour attirer crabes et poissons hors de leurs cachettes dans les bassins rocheux.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2501,7 +2501,7 @@
                 ]
             },
             {
-                "text": "p_l marvels at the opportunity to have s_c's time to {PRONOUN\/p_l\/self}. s_c is such a popular cat, so friendly and fun to be around, and yet when the training session draws to a close under the setting sun, s_c looks surprised to be told so.",
+                "text": "p_l se réjouit d'avoir le temps de s'occuper de {PRONOUN/p_l/self}. s_c est si populaire, si amical et agréable, et pourtant quand la séance se termine sous le soleil couchant, s_c paraît surpris d'entendre ces paroles.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2538,7 +2538,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c tries, but both the cats are too tired after a long day's work and end up snapping at each other. It's nothing serious, but both agree to take some time to cool off.",
+                "text": "r_c essaie, mais les deux chats sont trop fatigués après une longue journée et finissent par se renvoyer des coups de griffes. Rien de grave, mais ils conviennent de prendre du temps pour se calmer.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2589,12 +2589,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "As p_l and r_c wander across the beach with only the stars to light their way, they notice sparkles of light where the waves break upon the shore.",
-        "decline_text": "A little freaked out, the warriors go to fetch a medicine cat to interpret this omen for them.",
+        "intro_text": "Alors que p_l et r_c se promènent sur la plage à la lueur des étoiles, ils remarquent des scintillements là où les vagues se brisent sur le rivage.",
+        "decline_text": "Un peu effrayés, les guerriers vont chercher un guérisseur pour interpréter cet augure.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "r_c pokes curiously at one of the little lights, bringing {PRONOUN\/r_c\/poss} face down to it. It's a tiny crab, less than the width of one of {PRONOUN\/r_c\/poss} claws! It fascinates {PRONOUN\/r_c\/object} and p_l, and they spend hours on the beach, lapping up mouthfuls of light crabs and crushing them between their teeth, laughing with each other as their mouths start glowing too.",
+                "text": "r_c pique de curiosité un de ces petits brillants, approchant son museau. C'est un minuscule crabe, plus petit que la largeur d'une de ses griffes ! Il fascine r_c et p_l, et ils passent des heures sur la plage à engloutir des poignées de crabes lumineux et à les écraser entre leurs dents, riant tandis que leur bouche commence aussi à luire.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2616,7 +2616,7 @@
                 ]
             },
             {
-                "text": "Stunned, the cats sit back and watch as the waves bring ripples of light. It's a breathless, magical scene, and r_c leans against p_l, their pelts keeping each other warm as they take in the magic of the sea.",
+                "text": "Ébahis, les chats s'assoient et regardent les vagues amener des rideaux de lumière. C'est une scène magique et à couper le souffle, et r_c se blottit contre p_l, leurs fourrures se réchauffant mutuellement alors qu'ils contemplent la magie de la mer.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -2638,7 +2638,7 @@
                 ]
             },
             {
-                "text": "As they watch, quiet and patient, more and more of the sea starts to come alive with tiny, glittering creatures dancing around in the water. With no words other than the occasional quiet gasp, p_l and s_c spend hours watching the magic of the sea swirl, dip, and undulate, their hearts full of wonder.",
+                "text": "Tandis qu'ils regardent, silencieux et patients, de plus en plus de créatures marines commencent à scintiller et danser dans l'eau. Sans autre mot que quelques souffles émus, p_l et s_c passent des heures à observer la mer magique tourbillonner, et leurs cœurs sont pleins d'émerveillement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -2677,7 +2677,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "They continue on their way, not stopping to see the sights.",
+                "text": "Ils continuent leur chemin, ne s'arrêtant pas pour admirer le spectacle.",
                 "exp": 0,
                 "weight": 20
             }
@@ -2707,15 +2707,15 @@
             ]
         },
         "weight": 20,
-        "intro_text": "As p_l pads through the dunes near camp, looking for a good place for a sand bath before {PRONOUN\/p_l\/subject} {VERB\/p_l\/begin\/begins} {PRONOUN\/p_l\/poss} training, {PRONOUN\/p_l\/subject} {VERB\/p_l\/round\/rounds} a corner and {VERB\/p_l\/find\/finds} r_c doing the same thing. p_l allows {PRONOUN\/p_l\/self} a sigh before {PRONOUN\/p_l\/subject} {VERB\/p_l\/join\/joins} {PRONOUN\/r_c\/object}. While Clanmates will do better training together, r_c just rubs {PRONOUN\/p_l\/object} the wrong way.",
-        "decline_text": "...It's fine to train somewhere else, p_l decides. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/don't\/doesn't} really want to interact with r_c.",
+        "intro_text": "Alors que p_l parcourt les dunes près du camp, cherchant un bon endroit pour prendre un bain de sable avant qu'{PRONOUN/p_l/subject} {VERB/p_l/begin/begins} son entraînement, {PRONOUN/p_l/subject} {VERB/p_l/round/rounds} un coin et {VERB/p_l/find/finds} r_c en train de faire la même chose. p_l laisse échapper un soupir avant de {PRONOUN/p_l/subject} {VERB/p_l/join/joins} {PRONOUN/r_c/object}. Bien que les camarades du Clan s'entraînent mieux ensemble, r_c irrite simplement p_l.",
+        "decline_text": "…Mieux vaut s'entraîner ailleurs, décide p_l. {PRONOUN/p_l/subject/CAP} {VERB/p_l/don't/doesn't} ne veut vraiment pas interagir avec r_c.",
         "chance_of_success": 60,
         "relationship_constraint": [
             "dislikes"
         ],
         "success_outcomes": [
             {
-                "text": "r_c shows {PRONOUN\/p_l\/object} a stunningly successful move {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} been working on to rapidly change directions in deep dry sand, and p_l can't let {PRONOUN\/p_l\/self} look bad in comparison, showing off {PRONOUN\/p_l\/poss} battle-backflip with a smug smirk.",
+                "text": "r_c montre à p_l un mouvement étonnamment réussi qu'{PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} travaillé pour changer rapidement de direction dans le sable sec, et p_l ne peut s'empêcher de riposter pour ne pas paraître moins bon, exhibant un salto arrière de combat avec un sourire satisfait.",
                 "exp": 15,
                 "weight": 20,
                 "relationships": [
@@ -2748,7 +2748,7 @@
                 ]
             },
             {
-                "text": "r_c shows off how far {PRONOUN\/r_c\/subject} can pounce, so p_l shows off how fast {PRONOUN\/p_l\/subject} can run, so r_c shows off how sharp {PRONOUN\/r_c\/poss} claws are, so p_l shows off how shiny {PRONOUN\/p_l\/poss} pelt is, so r_c shows off how long {PRONOUN\/r_c\/poss} legs are, so p_l shows off how cool {PRONOUN\/p_l\/poss} scars are - this goes on all afternoon.",
+                "text": "r_c montre jusqu'où {PRONOUN/r_c/subject} peut bondir, alors p_l montre à quel point {PRONOUN/p_l/subject} peut courir vite, alors r_c montre la netteté de ses griffes, puis p_l montre l'éclat de son pelage, et ainsi de suite toute l'après-midi.",
                 "exp": 15,
                 "weight": 5,
                 "relationships": [
@@ -2783,7 +2783,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Both warriors are stiffly polite with each other, and it's a boring and completely unproductive afternoon, though maybe r_c isn't quite the thorn in {PRONOUN\/p_l\/poss} paw p_l thought {PRONOUN\/r_c\/subject} {VERB\/r_c\/were\/was}.",
+                "text": "Les deux guerriers restent poliment distants, et c'est une après-midi ennuyeuse et complètement improductive, bien que peut-être r_c ne soit pas le fouet dans la patte de p_l comme p_l le pensait.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2847,12 +2847,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l sees a pod of dolphins swimming in the distance and considers it a good learning opportunity for the apprentices.",
-        "decline_text": "The weather is turning rough, and p_l makes the decision to teach the apprentices about the dolphins another day. ",
+        "intro_text": "p_l aperçoit un groupe de dauphins nageant au loin et pense que c'est une bonne opportunité d'apprentissage pour les apprentis.",
+        "decline_text": "Le temps se gâte, et p_l décide d'apprendre aux apprentis à propos des dauphins un autre jour.",
         "chance_of_success": 75,
         "success_outcomes": [
             {
-                "text": "p_l tells a mournful and haunting tale of all the cats that were swept out to sea and drowned before the dolphins took pity on one of them. The tiny white and red cat that was saved made the first traditions and bonds with the dolphins, and both the Clan and the dolphins wept at their death when it came.",
+                "text": "p_l raconte une histoire triste et envoûtante sur tous les chats qui furent emportés en mer et noyés avant que les dauphins n'aient pitié d'un d'entre eux. Le petit chat blanc et rouge qui fut sauvé créa les premières traditions et liens avec les dauphins, et le Clan comme les dauphins pleurèrent leur mort quand elle arriva.",
                 "exp": 5,
                 "weight": 20,
                 "relationships": [
@@ -2873,7 +2873,7 @@
                 ]
             },
             {
-                "text": "p_l tells the apprentices about the red and white cat that was saved by the dolphins. They managed to keep afloat long enough for them to be saved by relaxing their entire body and floating on the waves.",
+                "text": "p_l raconte aux apprentis l'histoire du chat blanc et rouge sauvé par les dauphins. Il a réussi à flotter assez longtemps en relâchant tout son corps et en se laissant porter par les vagues.",
                 "exp": 5,
                 "weight": 5,
                 "relationships": [
@@ -2896,7 +2896,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "A sudden storm cuts off p_l's words, and the patrol sprints back to camp to get warm and dry.",
+                "text": "Une tempête soudaine interrompt les paroles de p_l, et la patrouille court au camp pour se mettre au sec et au chaud.",
                 "exp": 0,
                 "weight": 20
             }
@@ -2921,12 +2921,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 15,
-        "intro_text": "As the cats move along the shoreline, they spot something massive moving beneath the water.",
-        "decline_text": "The cats are feeling remarkably incurious today.",
+        "intro_text": "Alors que les chats longent le rivage, ils aperçoivent quelque chose de massif se déplaçant sous l'eau.",
+        "decline_text": "Les chats sont étonnamment peu curieux aujourd'hui.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "It's Nessie! The patrol trots up, exchanging a nice mouse for a nice deep-water fish, trading the respective delicacies that are hard for the other to obtain.",
+                "text": "C'est Nessie ! La patrouille s'approche, échangeant une bonne souris contre un gros poisson abyssal, troquant les délicatesses difficiles à obtenir pour l'autre.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2936,7 +2936,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol is so wrapped up trying to work out what the creature is that r_c topples into the water. It solves the mystery though, as Nessie propels r_c back onto the shoreline with one gentle, immense flipper.",
+                "text": "La patrouille est tellement absorbée à essayer de deviner la créature que r_c bascule dans l'eau. Cela résout le mystère car Nessie propulse r_c sur le rivage d'un coup de palme immense et doux.",
                 "exp": 0,
                 "weight": 20
             }
@@ -2964,18 +2964,18 @@
         "chance_of_success": 50,
         "relationship_constraint": [],
         "pl_skill_constraint": [],
-        "intro_text": "p_l waves r_c over with {PRONOUN\/p_l\/poss} tail. What's <i>that<\/i>?!",
-        "decline_text": "r_c isn't interested, and the patrol continues on their way.",
+        "intro_text": "p_l fait signe à r_c avec sa queue. Qu'est-ce que <i>ça</i> ?!",
+        "decline_text": "r_c n'est pas intéressé, et la patrouille continue sa route.",
         "success_outcomes": [
             {
-                "text": "The massive frog-Twoleg creeps up the rocks, slow and unnatural. The patrol watches, breathless, until it's out of sight. Well, p_l huffs. Maybe toads grow bigger than {PRONOUN\/p_l\/subject} thought. Terrifying.",
+                "text": "La grenouille-Twoleg massive grimpe lentement sur les rochers, lente et étrange. La patrouille observe, haletante, jusqu'à ce qu'elle disparaisse de la vue. Eh bien, grogne p_l. Peut-être que les crapauds grandissent plus que ce que {PRONOUN/p_l/subject} pensait. Terrifiant.",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "fail_outcomes": [
             {
-                "text": "Frozen, the cats watch the massive lumbering frog, the size of a Twoleg and just as bipedal. It halts and, like the rumble of thunder, issues a massive croak that creaks like cracking wood. All r_c can do is shiver.",
+                "text": "Figés, les chats observent la grenouille massive qui marche comme un Twoleg. Elle s'arrête et, comme un tonnerre, pousse un énorme croassement qui grince comme du bois qui craque. r_c ne peut que trembler.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -3018,11 +3018,11 @@
         "pl_skill_constraint": [
             "STORY,1"
         ],
-        "intro_text": "As the patrol takes a break to bask, p_l begins a story. Once upon a time, many seasons ago, there was a strong, sleek-furred warrior, for whom swimming was easier than walking...",
-        "decline_text": "A story is nice, but the patrol has to get back to their training, the rest will wait for another time.",
+        "intro_text": "Alors que la patrouille prend une pause pour se prélasser, p_l commence une histoire. Il y a bien des saisons, il y avait un guerrier fort au pelage lisse, qui nageait mieux qu'il ne marchait...",
+        "decline_text": "Une histoire est agréable, mais la patrouille doit reprendre l'entraînement, la suite attendra.",
         "success_outcomes": [
             {
-                "text": "They slipped into the ocean to feed their Clan, again and again, and each time they had to leave the water their heart broke a little more. Eventually, they didn't leave at all. Their fur grew fluffy and buoyant, and now the sea otter floats, happy and fulfilled with the oceanic world.",
+                "text": "Ils glissaient dans l'océan pour nourrir leur Clan, encore et encore, et chaque fois qu'ils quittaient l'eau leur cœur se brisait un peu plus. Finalement, ils ne quittèrent plus jamais l'eau. Leur fourrure devint duveteuse et flottante, et maintenant la loutre de mer flotte, heureuse et épanouie dans le monde océanique.",
                 "exp": 40,
                 "weight": 20,
                 "art": "gen_hunt_fish",
@@ -3059,7 +3059,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "As r_c settles down eagerly for the tale, {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels} a spike of pain in {PRONOUN\/r_c\/poss} paw pad and {VERB\/r_c\/yelp\/yelps}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/have\/has} to report to the medicine cat den, but p_l reassures {PRONOUN\/r_c\/object} that {PRONOUN\/p_l\/subject}'ll wait to tell this tale until r_c can hear it.",
+                "text": "Alors que r_c s'installe, impatient d'écouter, {PRONOUN/r_c/subject} ressent une douleur dans la coussinet de la patte et {VERB/r_c/yelp/yelps}. {PRONOUN/r_c/subject/CAP} {VERB/r_c/have/has} à se présenter à l'antre du guérisseur, mais p_l rassure {PRONOUN/r_c/object} en promettant de raconter l'histoire lorsque r_c pourra l'entendre.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -3073,9 +3073,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c got a small cut while out training, which has left a scar.",
-                    "reg_death": "m_c died from complications from a small cut.",
-                    "lead_death": "from complications from a small cut"
+                    "scar": "m_c s'est fait une petite coupure pendant l'entraînement, qui a laissé une cicatrice.",
+                    "reg_death": "m_c est mort de complications liées à une petite coupure.",
+                    "lead_death": "de complications liées à une petite coupure"
                 },
                 "relationships": [
                     {
@@ -3126,11 +3126,11 @@
         "pl_skill_constraint": [
             "LORE,1"
         ],
-        "intro_text": "p_l notices app1 fall awkwardly again and calls a halt to the lesson, saying they all need to catch their breath. Instead, p_l will tell the apprentices about the Fox Warrior - have they heard this piece of Clan history?",
-        "decline_text": "app1, surly and embarrassed, stalks off away from the training grounds before p_l can offer the comfort of {PRONOUN\/p_l\/poss} story.",
+        "intro_text": "p_l remarque qu'app1 tombe maladroitement encore une fois et interrompt la leçon, disant qu'ils ont tous besoin de reprendre leur souffle. À la place, p_l racontera aux apprentis l'histoire du Guerrier Renard — l'ont-ils déjà entendue ?",
+        "decline_text": "app1, maussade et embarrassé, s'éloigne des terrains d'entraînement avant que p_l puisse offrir le réconfort de son histoire.",
         "success_outcomes": [
             {
-                "text": "The Fox Warrior was not the biggest, or fastest, or strongest of his Clan. A fox took his eye, a dog weakened his leg, and frostbite almost took his life, yet he took them all without a flinch, never backing down. His only wish was to shield his Clan. Some say he still sneaks down from StarClan to defend c_n on occasion - a true warrior, never forgotten.",
+                "text": "Le Guerrier Renard n'était pas le plus grand, ni le plus rapide, ni le plus fort de son Clan. Un renard lui prit un œil, un chien affaiblit sa patte, et le gel manqua presque de lui coûter la vie, pourtant il affronta tout sans fléchir, ne reculant jamais. Son seul souhait était de protéger son Clan. Certains disent qu'il descend encore de temps en temps du Clan des Étoiles pour défendre c_n — un vrai guerrier, jamais oublié.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_hunt_vision",
@@ -3169,7 +3169,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 can't sit still and listen to p_l's story, not when {PRONOUN\/app1\/poss} ego's smarting from {PRONOUN\/app1\/poss} failures. p_l doesn't push it, instead letting app1 go and run off {PRONOUN\/app1\/poss} energy - there'll be time enough for listening another day, and app1's persistence is as Fox Warrior-like as anyone could wish.",
+                "text": "app1 ne peut pas rester immobile pour écouter l'histoire de p_l, son ego blessé par ses échecs. p_l n'insiste pas et laisse app1 partir courir pour évacuer son énergie — il y aura d'autres moments pour écouter, et la persévérance d'app1 est aussi digne du Guerrier Renard que n'importe qui.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3220,11 +3220,11 @@
         "pl_skill_constraint": [
             "STORY,1"
         ],
-        "intro_text": "After a fishing lesson, the apprentices look soggy and sorry for themselves. p_l waves {PRONOUN\/p_l\/poss} tail to suggest they stop for a moment and take a break. After all, even Maowi had to work hard to fish!",
-        "decline_text": "Taking a break turns into ending the patrol early.",
+        "intro_text": "Après une leçon de pêche, les apprentis ont l'air trempés et penauds. p_l agite sa queue pour suggérer une pause. Après tout, même Maowi a dû travailler dur pour apprendre à pêcher !",
+        "decline_text": "Prendre une pause se transforme en décision de terminer la patrouille tôt.",
         "success_outcomes": [
             {
-                "text": "The great legend Maowi was once a young apprentice, p_l starts the story, who went out fishing with his older, already grown siblings. They had no faith in him, but speaking a great karakia to give StarClan's blessing to his claws, he won a stingray from the ocean that stretched from horizon to horizon and became c_n's territory.",
+                "text": "La grande légende Maowi fut autrefois un jeune apprenti, commence p_l, qui alla pêcher avec ses frères déjà grands. Ils n'avaient aucune foi en lui, mais en invoquant une grande karakia pour bénir ses griffes, il remporta une raie du fond qui s'étendait jusqu'à l'horizon et devint territoire de c_n.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_bord_story",
@@ -3263,7 +3263,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l tries to start a story to entertain the apprentices, but they're tired and sullen, and don't appreciate being told of the magical fishing talents of a Stars-blessed cat when they're finding it so hard to learn themselves.",
+                "text": "p_l tente de raconter une histoire pour divertir les apprentis, mais ils sont fatigués et moroses, et n'apprécient pas d'entendre parler des talents magiques de pêche d'un chat béni par les Étoiles quand ils ont tant de mal à apprendre.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3312,11 +3312,11 @@
         "pl_skill_constraint": [
             "STORY,1"
         ],
-        "intro_text": "The sun splashes orange, yellow, and gold across the sea where it meets the horizon. The seagulls call in the distance, rising on the last thermals of the day, as p_l begins the myth of How Maowi Slowed The Sun.",
-        "decline_text": "A story is nice, but the patrol has to get back to camp, the rest will wait for another time.",
+        "intro_text": "Le soleil projette des éclaboussures d'orange, de jaune et d'or sur la mer à l'horizon. Les mouettes crient au loin, montant sur les derniers thermiques du jour, tandis que p_l commence le mythe de Comment Maowi a Ralenti le Soleil.",
+        "decline_text": "Une histoire est agréable, mais la patrouille doit retourner au camp, la suite attendra.",
         "success_outcomes": [
             {
-                "text": "Once, the sun raced across the sky, each day only lasting a single catnap. The great Maowi, alongside his siblings, said a karakia to StarClan to ask for their help in fighting the sun. They pinned the great flaming sun in a burrow, clawing at it until it gave in and promised to slow, and this is why the sun gives up its race in leaf-bare and slows the day, bringing greenleaf.",
+                "text": "Autrefois, le soleil traversait le ciel à toute vitesse, chaque jour ne durant qu'une sieste. Le grand Maowi, avec ses frères, pria le Clan des Étoiles pour obtenir de l'aide contre le soleil. Ils l'enfermèrent dans un terrier, griffant jusqu'à ce qu'il cède et promette de ralentir, et c'est pourquoi le soleil ralentit en feuille-tombée et prolonge les jours, apportant la verte-feuille.",
                 "exp": 40,
                 "weight": 20,
                 "relationships": [
@@ -3367,7 +3367,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l gets distracted by the glory of the sunset and loses the words {PRONOUN\/p_l\/subject} {VERB\/p_l\/were\/was} forming. Ah well.",
+                "text": "p_l est distrait par la splendeur du coucher de soleil et perd les mots qu'il commençait à former. Tant pis.",
                 "exp": 0,
                 "weight": 20
             }
@@ -3400,11 +3400,11 @@
             "LORE,1",
             "STORY,1"
         ],
-        "intro_text": "The heartbeat of the tides, in and out like breathing, might at first seem connected to the spirit of the land, p_l says. But that's wrong.",
-        "decline_text": "No one seems interested in p_l's story.",
+        "intro_text": "Le battement des marées, comme une respiration, peut sembler au premier abord lié à l'esprit de la terre, dit p_l. Mais c'est faux.",
+        "decline_text": "Personne ne semble intéressé par l'histoire de p_l.",
         "success_outcomes": [
             {
-                "text": "Though they wash over the land, the tides are connected to the moon, p_l meows. At night this becomes obvious - the new moon and the full moon both produce spring tides of unusual strength. And every so often, if the moon is displeased, a spring tide gains twice the height and strength, producing a king tide.",
+                "text": "Bien qu'elles baignent la terre, les marées sont liées à la lune, explique p_l. La nuit, cela devient évident — la nouvelle lune et la pleine lune produisent toutes deux des marées de printemps d'une force inhabituelle. Et de temps à autre, si la lune est mécontente, une marée de printemps double en hauteur et en force, produisant une marée du roi.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_hunt_vision",
@@ -3443,7 +3443,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Learning about the tides is boring - shoving each other into the water, now <i>that's<\/i> training! p_l is not pleased.",
+                "text": "Apprendre sur les marées est ennuyeux — se pousser les uns les autres dans l'eau, voilà un vrai entraînement ! p_l n'est pas content.",
                 "exp": 0,
                 "weight": 20,
                 "art": "gen_train_soggykitty_mad_warrior",

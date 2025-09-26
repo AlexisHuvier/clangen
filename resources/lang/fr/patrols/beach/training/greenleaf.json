@@ -27,12 +27,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l suggests to r_c that it is the perfect weather to go for a swim in the ocean together.",
-        "decline_text": "r_c isn't convinced and suggests they should probably focus on the patrol instead.",
+        "intro_text": "p_l suggère à r_c qu'il fait un temps parfait pour aller nager ensemble dans l'océan.",
+        "decline_text": "r_c n'est pas convaincu et propose qu'ils se concentrent plutôt sur la patrouille.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "p_l flashes r_c a playful look and leaps smoothly into the water. When p_l emerges from the water, {PRONOUN\/p_l\/poss} slicked fur clinging to {PRONOUN\/p_l\/poss} muscles, r_c can't help but admire p_l for {PRONOUN\/p_l\/poss} strength. With the way r_c's heart is fluttering, it may not just be p_l's strength {PRONOUN\/r_c\/subject} {VERB\/r_c\/admire\/admires}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/brush\/brushes} it aside and {VERB\/r_c\/plunge\/plunges} in after {PRONOUN\/p_l\/object}.",
+                "text": "p_l lance à r_c un regard espiègle et plonge avec aisance dans l'eau. Quand p_l ressort, {PRONOUN/p_l/poss} fourrure luisante collée à {PRONOUN/p_l/poss} muscles, r_c ne peut s'empêcher d'admirer p_l pour {PRONOUN/p_l/poss} force. Avec le cœur de r_c qui bat la chamade, ce ne sont peut‑être pas seulement la force de p_l que {PRONOUN/r_c/subject} {VERB/r_c/admire/admires}. {PRONOUN/r_c/subject/CAP} {VERB/r_c/brush/brushes} cela de côté et {VERB/r_c/plunge/plunges} se jette à l'eau après {PRONOUN/p_l/object}.",
                 "exp": 5,
                 "weight": 20,
                 "relationships": [
@@ -52,7 +52,7 @@
                 ]
             },
             {
-                "text": "Silence meets {PRONOUN\/p_l\/poss} question, and just as p_l is about to turn and ask again, r_c shoves {PRONOUN\/p_l\/object} into the water. Spluttering from the cold saltwater, p_l finds it quite difficult to scowl as though {PRONOUN\/p_l\/subject} {VERB\/p_l\/mean\/means} it, captivated by the sound of r_c's joyous laughter and the sunlight catching on {PRONOUN\/r_c\/poss} pelt in just the right way.",
+                "text": "Le silence répond à la question de {PRONOUN/p_l/poss}, et juste au moment où p_l s'apprête à se retourner et à redemander, r_c pousse {PRONOUN/p_l/object} dans l'eau. Éclaboussé par l'eau salée et froide, p_l a bien du mal à faire la moue comme si {PRONOUN/p_l/subject} {VERB/p_l/mean/means} le pensait, captivé par le rire joyeux de r_c et par la façon dont le soleil scintille sur le pelage de {PRONOUN/r_c/poss}.",
                 "exp": 5,
                 "weight": 5,
                 "relationships": [
@@ -74,7 +74,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c dips one paw in the water and hisses, proclaiming that it's much too cold and urging p_l to come back to camp with {PRONOUN\/r_c\/object} instead.",
+                "text": "r_c trempe une patte dans l'eau et siffle, proclamant qu'il fait bien trop froid et exhortant p_l à revenir au camp avec {PRONOUN/r_c/object} à la place.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -94,7 +94,7 @@
                 ]
             },
             {
-                "text": "s_c tries {PRONOUN\/s_c\/poss} best to show off {PRONOUN\/s_c\/poss} swimming skills, but {PRONOUN\/s_c\/poss} companion just isn't paying attention, too focused on {PRONOUN\/r_c\/poss} own swimming to notice. Eventually, s_c gives up for now, discouraged.",
+                "text": "s_c fait de son mieux pour montrer {PRONOUN/s_c/poss} talents de nage, mais {PRONOUN/s_c/poss} compagnon ne prête pas attention, trop concentré sur {PRONOUN/r_c/poss} propre nage pour le remarquer. Finalement, s_c abandonne pour l'instant, découragé.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -147,12 +147,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 notices app2's absence and follows {PRONOUN\/app2\/poss} unobscured trail to the cliff's edge. What in the seven seas is app2 doing out here? There's an eagle nest, app2 explains, {PRONOUN\/app2\/poss} tail swooping up over {PRONOUN\/app2\/poss} back to point - look, the chicks are trying to fly!",
-        "decline_text": "That's lovely, but, like, can app2 watch from a place that isn't a damned cliff edge?",
+        "intro_text": "app1 remarque l'absence d'app2 et suit la piste dégagée de {PRONOUN/app2/poss} jusqu'au bord de la falaise. Que diable app2 fait-il ici ? — Un nid d'aigle, explique app2, {PRONOUN/app2/poss} queue remontant sur le dos pour montrer : regard, les oisillons essaient de s'envoler !",
+        "decline_text": "C'est adorable, mais, genre, app2 peut regarder depuis un endroit qui n'est pas le bord d'une fichue falaise ?",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Wait, like, eagle apprentices? Intrigued, app1 sticks {PRONOUN\/app1\/poss} head out. Down below, two dappled feathered juveniles squabble, beating their wings frantically, clearly gearing up for something. app2 bets on the lighter colored one, but app1 thinks that the smaller dark patterned one has the heart for it, and {PRONOUN\/app1\/subject} {VERB\/app1\/leap\/leaps} to {PRONOUN\/app1\/poss} paws when the darker chick takes to the wing first, throwing {PRONOUN\/app1\/poss} head back and yowling cheers to the sky as the little eagle makes it to the next tree over.",
+                "text": "Hein, des apprentis aigles ? Intrigué, app1 pousse la tête. En bas, deux juvéniles tachetés se chamaillent, battant des ailes frénétiquement, visiblement prêts à tenter quelque chose. app2 mise sur le plus clair, mais app1 pense que le plus petit au plumage sombre a le cœur, et {PRONOUN/app1/subject} {VERB/app1/leap/leaps} se dresse sur {PRONOUN/app1/poss} pattes quand l'oisillon plus sombre prend son envol en premier, rejetant {PRONOUN/app1/poss} tête en arrière et criant des encouragements vers le ciel tandis que le petit aigle atteint l'arbre suivant.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -173,7 +173,7 @@
                 ]
             },
             {
-                "text": "app1 has never seen those before! {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/edge\/edges} over beside app2, both apprentices staring down at the eagle nest in the tree below them, calling down advice. No, beat their wings harder! Harder! They can do it!",
+                "text": "app1 n'en a jamais vu auparavant ! {PRONOUN/app1/subject/CAP} {VERB/app1/edge/edges} se penche à côté d'app2, les deux apprentis fixant le nid d'aigle dans l'arbre en contrebas, criant des conseils. Non, battez plus fort des ailes ! Plus fort ! Vous pouvez y arriver !",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -196,12 +196,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's not app1's thing, but {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} happy to bask a couple tail-lengths away until app2 is done eagle watching.",
+                "text": "Ce n'est pas le truc d'app1, mais {PRONOUN/app1/subject}{VERB/app1/'re/'s} heureux de se prélasser à quelques longueurs de queue pendant qu'app2 regarde les aigles.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c crowds forward, daringly letting {PRONOUN\/s_c\/poss} paws dangle over the edge as {PRONOUN\/s_c\/subject} {VERB\/s_c\/look\/looks} at the chicks - and the ground crumbles. Both apprentices flinch backwards with yelps and yowls, but s_c is too close, on too unstable ground, and {PRONOUN\/s_c\/subject} {VERB\/s_c\/feel\/feels} {PRONOUN\/s_c\/self} losing {PRONOUN\/s_c\/poss} grip. {PRONOUN\/s_c\/poss\/CAP} heart jumps with terror as sudden pain sparks down {PRONOUN\/s_c\/poss} flank. The other apprentice digs fangs into s_c's side, saving {PRONOUN\/s_c\/poss} life, if not {PRONOUN\/s_c\/poss} pelt.",
+                "text": "s_c se pousse en avant, laissant audacieusement pendre {PRONOUN/s_c/poss} pattes au bord pendant que {PRONOUN/s_c/subject} {VERB/s_c/look/looks} les oisillons — et le sol se désagrège. Les deux apprentis sursautent en poussant des glapissements et des miaulements, mais s_c est trop près, sur un terrain trop instable, et {PRONOUN/s_c/subject} {VERB/s_c/feel/feels} {PRONOUN/s_c/self} perdre prise. {PRONOUN/s_c/poss/CAP} cœur bondit de terreur alors qu'une douleur soudaine parcourt {PRONOUN/s_c/poss} flanc. L'autre apprenti enfonce ses crocs dans le côté de s_c, sauvant {PRONOUN/s_c/poss} vie, si ce n'est pas {PRONOUN/s_c/poss} pelage.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -229,7 +229,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "r_c was scarred when another apprentice (violently) saved {PRONOUN\/r_c\/poss} life from a cliff fall during a youthful adventure."
+                    "scar": "r_c a été marqué par une cicatrice quand un autre apprenti (violentement) a sauvé {PRONOUN/r_c/poss} vie d'une chute de falaise lors d'une aventure juvénile."
                 }
             }
         ]
@@ -262,12 +262,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 notices app2's absence and follows {PRONOUN\/app2\/poss} unobscured trail to the cliff's edge. What in the seven seas is app2 doing out here? There's an eagle nest, app2 explains, {PRONOUN\/app2\/poss} tail swooping up over {PRONOUN\/app2\/poss} back to point - look, the chicks are trying to fly!",
-        "decline_text": "That's lovely, but, like, can app2 watch from a place that isn't a damned cliff edge?",
+        "intro_text": "app1 remarque l'absence d'app2 et suit la piste dégagée de {PRONOUN/app2/poss} jusqu'au bord de la falaise. Que diable app2 fait-il ici ? — Un nid d'aigle, explique app2, {PRONOUN/app2/poss} queue remontant sur le dos pour montrer : regard, les oisillons essaient de s'envoler !",
+        "decline_text": "C'est adorable, mais, genre, app2 peut regarder depuis un endroit qui n'est pas le bord d'une fichue falaise ?",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Wait, like, eagle apprentices? Intrigued, app1 sticks {PRONOUN\/app1\/poss} head out. Down below, two dappled feathered juveniles squabble, beating their wings frantically, clearly gearing up for something. app2 bets on the lighter colored one, but app1 thinks that the smaller dark patterned one has the heart for it, and {PRONOUN\/app1\/subject} {VERB\/app1\/leap\/leaps} to {PRONOUN\/app1\/poss} paws when the darker chick takes to the wing first, throwing {PRONOUN\/app1\/poss} head back and yowling cheers to the sky as the little eagle makes it to the next tree over.",
+                "text": "Hein, des apprentis aigles ? Intrigué, app1 pousse la tête. En bas, deux juvéniles tachetés se chamaillent, battant des ailes frénétiquement, visiblement prêts à tenter quelque chose. app2 mise sur le plus clair, mais app1 pense que le plus petit au plumage sombre a le cœur, et {PRONOUN/app1/subject} {VERB/app1/leap/leaps} se dresse sur {PRONOUN/app1/poss} pattes quand l'oisillon plus sombre prend son envol en premier, rejetant {PRONOUN/app1/poss} tête en arrière et criant des encouragements vers le ciel tandis que le petit aigle atteint l'arbre suivant.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -288,7 +288,7 @@
                 ]
             },
             {
-                "text": "app1 has never seen those before! {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/edge\/edges} over beside app2, both apprentices staring down at the eagle nest in the tree below them, calling down advice. No, beat their wings harder! Harder! They can do it!",
+                "text": "app1 n'en a jamais vu auparavant ! {PRONOUN/app1/subject/CAP} {VERB/app1/edge/edges} se penche à côté d'app2, les deux apprentis fixant le nid d'aigle dans l'arbre en contrebas, criant des conseils. Non, battez plus fort des ailes ! Plus fort ! Vous pouvez y arriver !",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -311,12 +311,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's not app1's thing, but {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} happy to bask a couple tail-lengths away until app2 is done eagle watching.",
+                "text": "Ce n'est pas le truc d'app1, mais {PRONOUN/app1/subject}{VERB/app1/'re/'s} heureux de se prélasser à quelques longueurs de queue pendant qu'app2 regarde les aigles.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c crowds forward, daringly letting {PRONOUN\/s_c\/poss} paws dangle over the edge as {PRONOUN\/s_c\/subject} {VERB\/s_c\/look\/looks} at the chicks - and the ground crumbles. Both apprentices flinch backwards with yelps and yowls, but s_c is too close, on too unstable ground, and {PRONOUN\/s_c\/subject} {VERB\/s_c\/feel\/feels} {PRONOUN\/s_c\/self} losing {PRONOUN\/s_c\/poss} grip. {PRONOUN\/s_c\/poss\/CAP} heart jumps with terror as sudden pain sparks down {PRONOUN\/s_c\/poss} flank. The other apprentice digs fangs into s_c's side, saving {PRONOUN\/s_c\/poss} life, if not {PRONOUN\/s_c\/poss} pelt.",
+                "text": "s_c se pousse en avant, laissant audacieusement pendre {PRONOUN/s_c/poss} pattes au bord pendant que {PRONOUN/s_c/subject} {VERB/s_c/look/looks} les oisillons — et le sol se désagrège. Les deux apprentis sursautent en poussant des glapissements et des miaulements, mais s_c est trop près, sur un terrain trop instable, et {PRONOUN/s_c/subject} {VERB/s_c/feel/feels} {PRONOUN/s_c/self} perdre prise. {PRONOUN/s_c/poss/CAP} cœur bondit de terreur alors qu'une douleur soudaine parcourt {PRONOUN/s_c/poss} flanc. L'autre apprenti enfonce ses crocs dans le côté de s_c, sauvant {PRONOUN/s_c/poss} vie, si ce n'est pas {PRONOUN/s_c/poss} pelage.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -344,12 +344,12 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "r_c was scarred when another apprentice (violently) saved {PRONOUN\/r_c\/poss} life from a cliff fall during a youthful adventure.",
-                    "death": "r_c fell from a cliff as an apprentice when {PRONOUN\/r_c\/subject} took a stupid risk, cutting {PRONOUN\/r_c\/poss} life short."
+                    "scar": "r_c a été marqué par une cicatrice quand un autre apprenti (violentement) a sauvé {PRONOUN/r_c/poss} vie d'une chute de falaise lors d'une aventure juvénile.",
+                    "death": "r_c fell from a cliff as an apprentice when {PRONOUN/r_c/subject} took a stupid risk, cutting {PRONOUN/r_c/poss} life short."
                 }
             },
             {
-                "text": "s_c crowds forward, daringly letting {PRONOUN\/s_c\/poss} paws dangle over the edge as {PRONOUN\/s_c\/subject} {VERB\/s_c\/look\/looks} at the chicks - and the ground crumbles. Both apprentices flinch backwards with yelps and yowls, but s_c is too close, on too unstable ground, and {PRONOUN\/s_c\/subject} {VERB\/s_c\/feel\/feels} {PRONOUN\/s_c\/self} losing {PRONOUN\/s_c\/poss} grip, {PRONOUN\/s_c\/poss} claws gripping on nothing as {PRONOUN\/s_c\/subject} {VERB\/s_c\/tumble\/tumbles}, spinning end over end, yowling with terror, until {PRONOUN\/s_c\/poss} flight comes to an abrupt and terrible end.",
+                "text": "s_c se pousse en avant, laissant audacieusement pendre {PRONOUN/s_c/poss} pattes au bord pendant que {PRONOUN/s_c/subject} {VERB/s_c/look/looks} les oisillons — et le sol se désagrège. Les deux apprentis sursautent en poussant des glapissements et des miaulements, mais s_c est trop près, sur un terrain trop instable, et {PRONOUN/s_c/subject} {VERB/s_c/feel/feels} {PRONOUN/s_c/self} perdre prise, {PRONOUN/s_c/poss} griffes ne trouvant rien et {PRONOUN/s_c/subject} {VERB/s_c/tumble/tumbles}, tournant en roulades, miaulant de terreur, jusqu'à ce que {PRONOUN/s_c/poss} vol prenne une fin abrupte et terrible.",
                 "exp": 0,
                 "weight": 10,
                 "stat_trait": [
@@ -367,8 +367,8 @@
                     "s_c"
                 ],
                 "history_text": {
-                    "scar": "r_c was scarred when another apprentice (violently) saved {PRONOUN\/r_c\/poss} life from a cliff fall during a youthful adventure.",
-                    "death": "r_c fell from a cliff as an apprentice when {PRONOUN\/r_c\/subject} took a stupid risk, cutting {PRONOUN\/r_c\/poss} life short."
+                    "scar": "r_c a été marqué par une cicatrice quand un autre apprenti (violentement) a sauvé {PRONOUN/r_c/poss} vie d'une chute de falaise lors d'une aventure juvénile.",
+                    "death": "r_c fell from a cliff as an apprentice when {PRONOUN/r_c/subject} took a stupid risk, cutting {PRONOUN/r_c/poss} life short."
                 }
             }
         ]
@@ -390,12 +390,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "While out training, r_c stumbles upon a bush of red berries.",
-        "decline_text": "r_c decides not to touch the berries.",
+        "intro_text": "En s'entraînant, r_c tombe sur un buisson de baies rouges.",
+        "decline_text": "r_c décide de ne pas toucher aux baies.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Unsure but remembering the kitten-tales of red deathberries, r_c avoids them, and gives the rest of the patrol a heads-up about the potentially dangerous bush.",
+                "text": "Hésitant mais se souvenant des histoires de chatons sur les baies rouges mortelles, r_c les évite et prévient le reste de la patrouille du buisson potentiellement dangereux.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -416,7 +416,7 @@
                 ]
             },
             {
-                "text": "After careful consideration and consulting with the other cats, r_c recognizes them as raspberries and brings the rare berries back to the medicine cat's den.",
+                "text": "Après mûre réflexion et consultation avec les autres chats, r_c les reconnaît comme des framboises et rapporte ces baies rares à la tanière du guérisseur.",
                 "exp": 20,
                 "weight": 5,
                 "herbs": [
@@ -440,7 +440,7 @@
                 ]
             },
             {
-                "text": "Astutely, s_c recognizes the raspberries, and carefully chews off a branch laden with them to bring back to camp - the herb stocks can use this odd fruit.",
+                "text": "Avec perspicacité, s_c reconnaît les framboises et sectionne soigneusement une branche chargée pour la ramener au camp — les réserves d'herbes pourront profiter de ce fruit inhabituel.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -469,7 +469,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Confidently gathering them and prancing back to camp with the patrol, r_c is then informed that redcurrants aren't a useful medicinal herb.",
+                "text": "Les ramassant avec confiance et trottinant vers le camp avec la patrouille, r_c apprend ensuite que les groseilles rouges ne sont pas une plante médicinale utile.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -490,7 +490,7 @@
                 ]
             },
             {
-                "text": "While plucking them from the bush, r_c is surprised to find they taste pretty good. Before anyone can stop {PRONOUN\/r_c\/object}, {PRONOUN\/r_c\/subject} {VERB\/r_c\/eat\/eats} a few, and {VERB\/r_c\/are\/is} rushed back to camp for deathberry poisoning.",
+                "text": "En les cueillant sur le buisson, r_c est surpris de trouver qu'elles ont un goût plutôt agréable. Avant que quiconque puisse arrêter {PRONOUN/r_c/object}, {PRONOUN/r_c/subject} {VERB/r_c/eat/eats} quelques-unes, et {VERB/r_c/are/is} ramené au camp en urgence pour un empoisonnement aux baies mortelles.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -505,8 +505,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c mistook deathberries for something edible.",
-                    "lead_death": "after eating deathberries"
+                    "reg_death": "m_c a confondu les baies mortelles avec quelque chose d'édible.",
+                    "lead_death": "après avoir mangé des baies mortelles"
                 },
                 "relationships": [
                     {
@@ -549,17 +549,17 @@
             ]
         },
         "weight": 20,
-        "intro_text": "Whilst helping to gather herbs, app1 stumbles upon a bush of red berries.",
-        "decline_text": "r_c decides not to touch the berries.",
+        "intro_text": "En aidant à ramasser des herbes, app1 tombe sur un buisson de baies rouges.",
+        "decline_text": "r_c décide de ne pas toucher aux baies.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Unsure but remembering the kitten-tales of red deathberries from the nursery, app1 avoids them and alerts the other apprentices.",
+                "text": "Hésitant mais se souvenant des histoires de chatons sur les baies rouges mortelles, app1 les évite et avertit les autres apprentis.",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "Whatever. Identifying them is medicine cat nonsense and not app1's problem. app1 plucks the berries and brings them back to camp, where it turns out they're called raspberries.",
+                "text": "Peu importe. Identifier ces baies, c'est du délire de guérisseur et pas le problème d'app1. app1 cueille les baies et les ramène au camp, où il s'avère qu'elles s'appellent des framboises.",
                 "exp": 20,
                 "weight": 5,
                 "herbs": [
@@ -569,24 +569,24 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Confidently gathering them and prancing back to camp, app1 is then informed that redcurrants aren't a useful medicinal herb.",
+                "text": "Les ramassant avec assurance et trottinant vers le camp, app1 apprend ensuite que les groseilles rouges ne sont pas une plante médicinale utile.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Whatever. Identifying them is medicine cat nonsense and not app1's problem. app1 plucks the berries, surprised at the pleasant taste, and swallows a few. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/collapse\/collapses} on the way back to camp, and there's nothing any cat can do for {PRONOUN\/app1\/object}, having not identified deathberries before eating them.",
+                "text": "Peu importe. Identifier ces baies, c'est du délire de guérisseur et pas le problème d'app1. app1 cueille les baies, surpris par leur goût agréable, et en avale quelques-unes. {PRONOUN/app1/subject/CAP} {VERB/app1/collapse/collapses} sur le chemin du retour au camp, et aucun chat ne peut rien pour {PRONOUN/app1/object}, n'ayant pas identifié les baies mortelles avant de les manger.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "reg_death": "m_c mistook deathberries for something edible.",
-                    "lead_death": "after eating deathberries"
+                    "reg_death": "m_c a confondu les baies mortelles avec quelque chose d'édible.",
+                    "lead_death": "après avoir mangé des baies mortelles"
                 }
             },
             {
-                "text": "Whatever. Identifying them is medicine cat nonsense and not app1's problem. app1 plucks the tasty berries, swallowing a few, and takes the rest back to camp where {PRONOUN\/app1\/subject} {VERB\/app1\/collapse\/collapses} from deathberry poisoning.",
+                "text": "Peu importe. Identifier ces baies, c'est du délire de guérisseur et pas le problème d'app1. app1 cueille les baies savoureuses, en avale quelques-unes, et ramène le reste au camp où {PRONOUN/app1/subject} {VERB/app1/collapse/collapses} s'effondre à cause d'un empoisonnement aux baies mortelles.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -601,8 +601,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c mistook deathberries for something edible.",
-                    "lead_death": "after eating deathberries"
+                    "reg_death": "m_c a confondu les baies mortelles avec quelque chose d'édible.",
+                    "lead_death": "après avoir mangé des baies mortelles"
                 }
             }
         ]
@@ -633,11 +633,11 @@
         "pl_skill_constraint": [
             "LORE,1"
         ],
-        "intro_text": "p_l leads the patrol out to a promontory of rock, pointing out the Twoleg monsters crowding the sandy shoreline below as they twinkle in the sunlight.",
-        "decline_text": "Clearly there'll be no using this part of their territory today then. The patrol goes to report this back to camp.",
+        "intro_text": "p_l emmène la patrouille sur un promontoire rocheux, montrant les « Deux‑Jambes » qui s'amassent sur le rivage sablonneux en contrebas, scintillant au soleil.",
+        "decline_text": "Clairement, on ne pourra pas utiliser cette partie du territoire aujourd'hui. La patrouille retourne au camp pour le signaler.",
         "success_outcomes": [
             {
-                "text": "This is the history p_l is here to teach - every greenleaf, the Twolegs come to this beach, a great migration in their monsters. They swim in this bay, and occasionally the bays to either side, but no more than that, a constrained invasion. Leave them to their rituals. c_n will return to this beach when the seasons change.",
+                "text": "C'est l'histoire que p_l est venu enseigner : chaque saison verte, les Deux‑Jambes viennent sur cette plage, une grande migration de leurs monstres. Ils nagent dans cette baie, et parfois dans celles adjacentes, mais pas au-delà — une invasion limitée. Laissez-les à leurs rituels. c_n reviendra sur cette plage quand les saisons changeront.",
                 "exp": 30,
                 "weight": 20,
                 "art": "bch_hunt_twolegsobject",
@@ -674,7 +674,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The monsters unnerve the patrol, who don't want to stick around to hear p_l's lesson. p_l disapproves, but lets the patrol end early.",
+                "text": "Les monstres bouleversent la patrouille, qui ne veut pas rester pour écouter la leçon de p_l. p_l désapprouve, mais laisse la patrouille finir plus tôt.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -738,11 +738,11 @@
         "relationship_constraint": [
             "not_mates"
         ],
-        "intro_text": "This is just oppressive. The sand burns the patrol's paws as they dart from one refuge of dune-bush to another, the distant training grounds they were supposed to go to looking more and more out of reach.",
-        "decline_text": "Time to go back home and wait it out.",
+        "intro_text": "C'est tout simplement oppressant. Le sable brûle les pattes de la patrouille tandis qu'ils filent d'un refuge de buissons de dunes à un autre, et l'aire d'entraînement lointaine qu'ils étaient censés atteindre semble de plus en plus hors d'atteinte.",
+        "decline_text": "Il est temps de rentrer chez soi et d'attendre que ça passe.",
         "success_outcomes": [
             {
-                "text": "They all stagger towards the nearest rockpool and flop into it, not hunting, purely there for the water and damp coats. r_c swipes water towards p_l and {PRONOUN\/p_l\/subject} {VERB\/p_l\/laugh\/laughs}, welcoming it and returning the favor. There's nothing like swimming in greenleaf, and the patrol devolves into a waterfight.",
+                "text": "Ils titubent tous vers la flaque rocheuse la plus proche et s'y jettent, sans chasser, juste pour l'eau et leurs fourrures humides. r_c claque de l'eau vers p_l et {PRONOUN/p_l/subject} {VERB/p_l/laugh/laughs}, y répond en riant et rend la pareille. Rien ne vaut une baignade en saison verte, et la patrouille dégénère en bataille d'eau.",
                 "exp": 20,
                 "weight": 10,
                 "art": "gen_train_soggykitty_happy_warrior",
@@ -764,7 +764,7 @@
                 ]
             },
             {
-                "text": "They all stagger towards the nearest rockpool and flop into it, not hunting, purely there for the water and damp coats. r_c swipes water towards p_l and {PRONOUN\/p_l\/subject} {VERB\/p_l\/laugh\/laughs}, welcoming it and returning the favor, batting back in mock splashy fight as the rest of the patrol fades away, just the two of them in their own little world",
+                "text": "Ils titubent tous vers la flaque rocheuse la plus proche et s'y jettent, sans chasser, juste pour l'eau et leurs fourrures humides. r_c claque de l'eau vers p_l et {PRONOUN/p_l/subject} {VERB/p_l/laugh/laughs}, y répond en riant et rend la pareille, renvoyant les éclaboussures dans un combat enjoué tandis que le reste de la patrouille s'estompe, laissant juste les deux dans leur petit monde",
                 "exp": 20,
                 "weight": 10,
                 "art": "fst_train_newleafmatesonadates_70locked1",
@@ -789,7 +789,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's a long walk home, and not a pleasant one. They probably should have drunk more water before going out to train. Or not gone out at all.",
+                "text": "C'est une longue marche vers le camp, et pas agréable. Ils auraient probablement dû boire plus d'eau avant d'aller s'entraîner. Ou ne pas y aller du tout.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -804,8 +804,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c got dehydrated training under the hot greenleaf sun, and it eventually sapped {PRONOUN\/m_c\/poss} life from {PRONOUN\/m_c\/object}.",
-                    "lead_death": "got dehydrated training under the hot greenleaf sun, and it eventually sapped {PRONOUN\/m_c\/poss} life from {PRONOUN\/m_c\/object}"
+                    "reg_death": "m_c s'est déshydraté en s'entraînant sous le soleil brûlant de la saison verte, et cela a finalement ôté {PRONOUN/m_c/poss} vie à {PRONOUN/m_c/object}.",
+                    "lead_death": "s'est déshydraté en s'entraînant sous le soleil brûlant de la saison verte, et cela a finalement ôté {PRONOUN/m_c/poss} vie à {PRONOUN/m_c/object}"
                 }
             }
         ]

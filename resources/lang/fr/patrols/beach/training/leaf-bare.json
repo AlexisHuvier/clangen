@@ -29,11 +29,11 @@
         "pl_skill_constraint": [
             "STORY,1"
         ],
-        "intro_text": "A winter gale howls outside camp - today's apprentice lesson will occur in the shelter of the den. p_l gathers {PRONOUN\/p_l\/poss} audience close. On the longest night of leaf-bare, if a cat is unlucky, they might spot great white islands appearing out of the sea-mist.",
-        "decline_text": "app1 shivers, and goes to close a breach in the den walls before the warmth is driven out. Myths will have to wait.",
+        "intro_text": "Une tempête hivernale hurle hors du camp - la leçon d'apprenti d'aujourd'hui se tiendra à l'abri du terrier. p_l rassemble {PRONOUN/p_l/poss} auditoire près de {PRONOUN/p_l/poss}. Lors de la plus longue nuit sans feuilles, si un chat est malchanceux, il pourrait apercevoir de grandes îles blanches apparaître hors de la brume marine.",
+        "decline_text": "app1 frissonne, et va boucher une brèche dans les murs du terrier avant que la chaleur ne s'échappe. Les mythes devront attendre.",
         "success_outcomes": [
             {
-                "text": "Those who see it are called, like a riptide sucking them out of reach, p_l whispers. None who step foot on the white mist islands are ever seen again... The group shivers with pleasant fear in the warmth of their sheltered nests.",
+                "text": "Ceux qui le voient sont appelés, comme aspirés par un courant qui les éloigne, susurre p_l. Aucun de ceux qui posent le pied sur les îles de brume blanche n'est jamais revu... Le groupe frissonne d'une peur agréable, blotti et au chaud dans leurs nids abrités.",
                 "exp": 40,
                 "weight": 20,
                 "relationships": [
@@ -82,7 +82,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The winds of the gale drown out p_l's voice. Instead, the cats give up on storytelling and cuddle together into a ball, watertight against the world.",
+                "text": "Les vents de la tempête étouffent la voix de p_l. À la place, les chats renoncent au récit et se blottissent en boule, imperméables au monde.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -131,11 +131,11 @@
             "STORY,1",
             "LORE,1"
         ],
-        "intro_text": "The waves crash outside camp, an ever present noise brought into sharp focus by their unusual power and ferocity. The wind is blocked by camp walls, but p_l's Clanmates have their fur puffed out regardless. Now isn't a good time to leave shelter.",
-        "decline_text": "The patrol stays in their nests instead of training.",
+        "intro_text": "Les vagues se fracassent hors du camp, un bruit omniprésent rendu plus net par leur puissance et leur fureur inhabituelles. Le vent est arrêté par les murs du camp, mais les compagnons de clan de p_l ont le pelage hérissé malgré tout. Ce n'est pas un bon moment pour quitter l'abri.",
+        "decline_text": "La patrouille reste dans ses nids au lieu de s'entraîner.",
         "success_outcomes": [
             {
-                "text": "Let us speak of the nursery tales, s_c begins. Of Clans founded amid driftwood and loss, of the moon giving her blessing to warriors who swim under her gaze, of the magic of the sea, currently awful, but just as much awe inspiring. Outside it rages - but here in camp, c_n is safe.",
+                "text": "Parlons des contes de la nourserie, commence s_c. Des Clans fondés au milieu des débris et de la perte, de la lune accordant sa bénédiction aux guerriers qui nagent sous son regard, de la magie de la mer, actuellement terrible mais tout aussi impressionnante. Dehors elle fait rage - mais ici au camp, c_n est en sécurité.",
                 "exp": 40,
                 "weight": 20,
                 "art": "bch_train_stormwaves",
@@ -189,7 +189,7 @@
                 ]
             },
             {
-                "text": "This day will be a day of heroes, s_c whispers, capturing {PRONOUN\/s_c\/poss} Clanmates' attention. Heroes born, or made, or found - such things always appear in c_n's history, a stranger arriving soaked from a storm, a new life brought into the world as winds howl outside, a warrior rising to need. The storms mark it.",
+                "text": "Ce jour sera un jour d'héros, chuchote s_c, captivant l'attention de {PRONOUN/s_c/poss} compagnons de clan. Héros nés, ou forgés, ou trouvés - de telles choses apparaissent toujours dans l'histoire de c_n : un étranger arrivant trempé d'une tempête, une nouvelle vie amenée au monde tandis que les vents hurlent dehors, un guerrier se levant au besoin. Les tempêtes en sont la marque.",
                 "exp": 40,
                 "weight": 20,
                 "art": "bch_train_stormwaves",
@@ -245,7 +245,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Thunder cracks and the wind shifts, throwing ocean spray from the waves on the gathered cats. Time to retreat to drier locations.",
+                "text": "Le tonnerre claque et le vent tourne, projetant des embruns des vagues sur les chats rassemblés. Il est temps de se retirer vers des lieux plus secs.",
                 "exp": 0,
                 "weight": 20,
                 "art": "gen_train_soggykitty_mad_warrior"
