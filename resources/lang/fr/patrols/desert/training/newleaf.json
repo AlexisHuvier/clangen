@@ -21,22 +21,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 crouches low behind some grass, searching for the ideal prey to fall to {PRONOUN\/app1\/poss} deadly claws. In front of the mighty hunter, a brightly colored beetle alights on a rock.",
-        "decline_text": "A beetle is beneath {PRONOUN\/app1\/poss} attention.",
+        "intro_text": "app1 se baisse derrière des brins d'herbe, cherchant la proie idéale qui tombera sous les griffes mortelles de {PRONOUN/app1/poss}. Devant le puissant chasseur, un coléoptère aux couleurs vives se pose sur un rocher.",
+        "decline_text": "Un coléoptère retient l'attention de {PRONOUN/app1/poss}.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Ha! app1 pounces, the pathetic bug crunching underneath {PRONOUN\/app1\/poss} mighty blow, splattering and - ewwwww. Ew, ew ew ew, there's bug juice all over {PRONOUN\/app1\/poss} paws, between {PRONOUN\/app1\/poss} toes, EWWWWW!",
+                "text": "Ha ! app1 bondit, le pauvre insecte s'écrasant sous l'impact puissant de {PRONOUN/app1/poss}, éclaboussant et — beurk. Beurk, beurk beurk, il y a du jus d'insecte partout sur les pattes de {PRONOUN/app1/poss}, entre les orteils de {PRONOUN/app1/poss}, BEURK !",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "Ha! app1 leaps, tail lashing furiously as the beetle buzzes under {PRONOUN\/app1\/poss} forepaws, claws sheathed. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/bat\/bats} the bug off the rock and onto the ground, pouncing after it, jumping and twisting as {PRONOUN\/app1\/poss} colorful prey flits around {PRONOUN\/app1\/poss} head in confused, concussed beetle-behavior, unused to being an apprentice's new favorite toy.",
+                "text": "Ha ! app1 saute, la queue fouettant furieusement tandis que le coléoptère bourdonne sous les pattes avant de {PRONOUN/app1/poss}, griffes rentrées. {PRONOUN/app1/subject/CAP} {VERB/app1/bat/bats} l'insecte du rocher sur le sol, bondissant derrière lui, sautant et se tordant alors que {PRONOUN/app1/poss} proie colorée papillonne autour de {PRONOUN/app1/poss} tête dans un comportement confus et assommé de coléoptère, peu habituée à être le nouveau jouet préféré d'un apprenti.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c pounces, flipping the beetle with soft paws and flopping over onto {PRONOUN\/app1\/poss} back, watching the insect scurry from one paw to the other, so completely entranced by its color and tiny, perfect legs that {PRONOUN\/app1\/subject} {VERB\/app1\/don't\/doesn't} notice {PRONOUN\/app1\/poss} own skill catching and keeping the bug.",
+                "text": "s_c bondit, faisant basculer le coléoptère avec des pattes douces et se laissant retomber sur le dos de {PRONOUN/app1/poss}, regardant l'insecte courir d'une patte à l'autre, si complètement fasciné par sa couleur et ses minuscules pattes parfaites que {PRONOUN/app1/subject} {VERB/app1/don't/doesn't} ne remarque pas la propre habileté de {PRONOUN/app1/poss} à attraper et garder l'insecte.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -46,12 +46,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "While app1 is wiggling {PRONOUN\/app1\/poss} butt into the perfect pouncing position, the beetle flies off. Awwwww.",
+                "text": "Alors qu'app1 remue {PRONOUN/app1/poss} arrière-train pour se mettre en position parfaite de saut, le coléoptère s'envole. Awwwww.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Slimy, yet satisfying! Curiosity completed, app1 wanders off - but has to report to the medicine cat den later, when {PRONOUN\/app1\/poss} stomach reminds {PRONOUN\/app1\/object} why cats don't eat random bugs.",
+                "text": "Glauque, mais satisfaisant ! Curiosité assouvie, app1 s'éloigne - mais devra se rendre plus tard à la tanière du guérisseur, quand l'estomac de {PRONOUN/app1/poss} rappellera à {PRONOUN/app1/object} pourquoi les chats ne mangent pas des insectes pris au hasard.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [

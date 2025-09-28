@@ -33,12 +33,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and r_c head out to look for herbs, discussing the latest news. They tread carefully, searching methodically. Greenleaf has few herbs left for them to gather.",
-        "decline_text": "It seems like some mischievous cat has gotten into the herb storage and they have to sort it all over again.",
+        "intro_text": "p_l et r_c partent chercher des herbes en discutant des dernières nouvelles. Ils avancent prudemment, fouillant méthodiquement. Greenleaf n'a plus beaucoup d'herbes à leur proposer.",
+        "decline_text": "Il semble qu'un chat espiègle se soit introduit dans le stockage d'herbes et qu'ils doivent tout trier de nouveau.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "They have a good discussion while foraging among the dunes and manage to come up with several ideas to discuss with c_n's leadership.",
+                "text": "Ils ont une bonne discussion en fouillant parmi les dunes et parviennent à trouver plusieurs idées à soumettre à la direction de c_n.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -63,7 +63,7 @@
                 ]
             },
             {
-                "text": "Carefully plucking some herbs, they discuss the latest signs from StarClan and ponder what to do about them. They manage to think up some tentative plans and return to camp to discuss them with the leader and deputy.",
+                "text": "En cueillant soigneusement quelques herbes, ils évoquent les derniers signes du Clan des Étoiles et réfléchissent à la marche à suivre. Ils parviennent à élaborer des plans provisoires et retournent au camp pour en discuter avec le chef et le lieutenant.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -90,7 +90,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "They fail to interpret any signs, and are too irritated with each other to discuss any other news. Furthermore, neither cat manages to gather anything, the trip cut short by the hot sun.",
+                "text": "Ils n'arrivent à interpréter aucun signe et sont trop irrités l'un contre l'autre pour discuter d'autres nouvelles. De plus, aucun des deux chats ne parvient à ramasser quoi que ce soit, la sortie écourtée par la chaleur accablante.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -143,12 +143,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and r_c take a look at their supply of herbs and decide to combine their efforts into searching for more. Two sets of trained eyes are better than one!",
-        "decline_text": "Unfortunately they are interrupted by a cat claiming they have an emergency. Runny dirt is not an emergency. Ugh.",
+        "intro_text": "p_l et r_c examinent leur réserve d'herbes et décident d'unir leurs efforts pour en chercher davantage. Deux paires d'yeux entraînés valent mieux qu'une !",
+        "decline_text": "Malheureusement, ils sont interrompus par un chat prétendant avoir une urgence. La terre boueuse n'est pas une urgence. Beurk.",
         "chance_of_success": 20,
         "success_outcomes": [
             {
-                "text": "p_l and r_c decide to search in the slot canyons, where the deep clefts may yet harbor water and plant life. It's a mark of both of their skill and experience that they return home with herbs for c_n, scavenged from the impossible heat.",
+                "text": "p_l et r_c décident de fouiller les canyons étroits, où les fissures profondes peuvent encore abriter de l'eau et de la végétation. C'est le signe de leur compétence et de leur expérience qu'ils rentrent avec des herbes pour c_n, récupérées malgré la chaleur étouffante.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -172,7 +172,7 @@
                 ]
             },
             {
-                "text": "p_l and r_c decide on a little friendly competition - one medicine cat to another, like all those silly bets the warriors make about hunting prey. They reunite when the sun is going down and walk into camp purring and playfully shoving each other with both their mouths full of herbs.",
+                "text": "p_l et r_c décident d'une petite compétition amicale — l'un envers l'autre, comme ces paris ridicules que font les guerriers sur la chasse. Ils se retrouvent au coucher du soleil et rentrent au camp en ronronnant, se poussant joyeusement l'un l'autre, la bouche pleine d'herbes.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -198,7 +198,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Both p_l and r_c are tense and it shows. Even though it should not be this hard to find any herbs they fail to find even a single one. They return to camp frustrated and irritated with each other.",
+                "text": "p_l et r_c sont tous deux tendus et cela se voit. Bien qu'il ne devrait pas être si difficile de trouver des herbes, ils n'en trouvent pas une seule. Ils rentrent au camp frustrés et contrariés l'un contre l'autre.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -219,7 +219,7 @@
                 ]
             },
             {
-                "text": "Even though there should be many herbs they fail to find anything. p_l blames r_c for distracting them and they get into a huge argument.",
+                "text": "Alors qu'il devrait y avoir beaucoup d'herbes, ils ne trouvent rien. p_l reproche à r_c de les avoir distraits et ils se lancent dans une énorme dispute.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [

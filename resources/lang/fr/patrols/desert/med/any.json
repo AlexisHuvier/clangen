@@ -33,15 +33,15 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l sees weird ripples on the water of the underground spring while collecting fresh water.",
-        "decline_text": "p_l is in a hurry and does not stop to look at the ripples.",
+        "intro_text": "p_l voit d'étranges ondulations à la surface de l'eau de la source souterraine en ramassant de l'eau fraîche.",
+        "decline_text": "p_l est pressé·e et ne s'arrête pas pour regarder les ondulations.",
         "chance_of_success": 45,
         "pl_skill_constraint": [
             "PROPHET,1"
         ],
         "success_outcomes": [
             {
-                "text": "As p_l looks into the water of the underground spring {PRONOUN\/p_l\/subject} {VERB\/p_l\/are\/is} greeted by an intense vision. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/drop\/drops} what {PRONOUN\/p_l\/subject} {VERB\/p_l\/are\/is} doing and race back to the camp to tell and consult with {PRONOUN\/p_l\/poss} leader.",
+                "text": "Alors que p_l regarde dans l'eau de la source souterraine, {PRONOUN/p_l/subject} {VERB/p_l/are/is} accueilli·e par une vision intense. {PRONOUN/p_l/subject/CAP} {VERB/p_l/drop/drops} ce que {PRONOUN/p_l/subject} {VERB/p_l/are/is} est en train de faire et se précipite au camp pour en parler et consulter {PRONOUN/p_l/poss} chef.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -63,7 +63,7 @@
                 ]
             },
             {
-                "text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/are\/is} greeted with the vision of a cat {PRONOUN\/p_l\/subject} had failed to save looking content and happy in StarClan, saying that {PRONOUN\/p_l\/subject} {VERB\/p_l\/were\/was} not at fault for their death. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/feel\/feels} unburdened and at peace after receiving that vision.",
+                "text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/are/is} accueilli·e par la vision d'un chat que {PRONOUN/p_l/subject} n'avait pas réussi à sauver, le voyant serein et heureux dans StarClan, qui dit que {PRONOUN/p_l/subject} {VERB/p_l/were/was} n'était pas responsable de sa mort. {PRONOUN/p_l/subject/CAP} {VERB/p_l/feel/feels} soulagé·e et en paix après avoir reçu cette vision.",
                 "exp": 10,
                 "weight": 5,
                 "relationships": [
@@ -87,7 +87,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "{PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/gaze\/gazes} into the water of the underground spring only to see the weird ripples were caused by a small fish flopping around. p_l feels disappointed because {PRONOUN\/p_l\/subject} really could have used some guidance from StarClan.",
+                "text": "{PRONOUN/p_l/subject/CAP} {VERB/p_l/gaze/gazes} dans l'eau de la source souterraine seulement pour découvrir que les étranges ondulations étaient causées par un petit poisson qui se débattait. p_l se sent déçu·e car {PRONOUN/p_l/subject} aurait vraiment pu avoir besoin d'une orientation de StarClan.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -148,12 +148,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l decides it's a good opportunity to show app1 where the most commonly needed herbs are in the territory, both above and underground away from the hot sun.",
-        "decline_text": "As {PRONOUN\/p_l\/subject} {VERB\/p_l\/see\/sees} app1's absent minded gaze, {PRONOUN\/p_l\/subject} {VERB\/p_l\/change\/changes} {PRONOUN\/p_l\/poss} mind. Maybe another day, when app1 is more focused and less liable to get a heatstroke when they go to show {PRONOUN\/app1\/object} the herbs aboveground",
+        "intro_text": "p_l décide que c'est une bonne occasion pour montrer à app1 où se trouvent les herbes les plus utiles sur le territoire, aussi bien au-dessus qu'en dessous du sol, à l'abri du soleil brûlant.",
+        "decline_text": "Alors que {PRONOUN/p_l/subject} {VERB/p_l/see/sees} le regard distrait d'app1, {PRONOUN/p_l/subject} {VERB/p_l/change/changes} d'avis. Peut-être un autre jour, quand app1 sera plus concentré et moins susceptible de subir un coup de chaleur si {PRONOUN/p_l/subject} doit montrer {PRONOUN/app1/object} les herbes en surface.",
         "chance_of_success": 65,
         "success_outcomes": [
             {
-                "text": "app1 is focused and attentive. p_l is confident that next time there is an emergency, app1 will be able to find those herbs both under and above ground without {PRONOUN\/p_l\/object} if needed.",
+                "text": "app1 est concentré·e et attentif·ve. p_l est confiant·e que la prochaine fois qu'il y aura une urgence, app1 saura trouver ces herbes, sous terre comme à la surface, sans {PRONOUN/p_l/object} si nécessaire.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -177,7 +177,7 @@
                 ]
             },
             {
-                "text": "As p_l is explaining why and where the herbs are growing, app1 lets out a shout. To p_l's surprise, {PRONOUN\/app1\/subject} {VERB\/app1\/have\/has} found a previously unknown patch of an uncommon herb. Stunned and filled with pride that {PRONOUN\/app1\/subject} found and recognized the herb, p_l promises {PRONOUN\/app1\/object} the first pick of fresh-kill.",
+                "text": "Alors que p_l explique pourquoi et où les herbes poussent, app1 pousse un cri. À la surprise de p_l, {PRONOUN/app1/subject} {VERB/app1/have/has} trouvé une parcelle jusque-là inconnue d'une plante peu commune. Stupéfait·e et rempli·e de fierté que {PRONOUN/app1/subject} ait trouvé et reconnu l'herbe, p_l promet à {PRONOUN/app1/object} la première cueillette de viande fraîche.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -203,7 +203,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 is constantly distracted and running ahead much to the frustration of p_l. Evidently no new knowledge will be learned that day.",
+                "text": "app1 est constamment distrait·e et court en avant, au grand dam de p_l. De toute évidence, aucune nouvelle connaissance ne sera acquise ce jour-là.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -263,12 +263,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 has been sent out into the desert to try to find some specific herbs alone.",
-        "decline_text": "Nervous and with the hot sun pounding on {PRONOUN\/app1\/poss} back, {PRONOUN\/app1\/subject} {VERB\/app1\/decide\/decides} to go back to camp and try again another day, {PRONOUN\/app1\/poss} tail dragging behind {PRONOUN\/app1\/object}.",
+        "intro_text": "app1 a été envoyé·e dans le désert pour essayer de trouver certaines herbes spécifiques seul·e.",
+        "decline_text": "Nerveux·se et avec le soleil brûlant martelant le dos de {PRONOUN/app1/poss}, {PRONOUN/app1/subject} {VERB/app1/decide/decides} de retourner au camp et d'essayer un autre jour, la queue traînante derrière {PRONOUN/app1/object}.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "app1 is focused and determined to prove {PRONOUN\/app1\/poss} independence. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/find\/finds} the herbs easily, and bring them back to camp with {PRONOUN\/app1\/poss} head held up high, no sweat, no stress, no fuss.",
+                "text": "app1 est concentré·e et déterminé·e à prouver son indépendance. {PRONOUN/app1/subject/CAP} {VERB/app1/find/finds} les herbes facilement, et les rapporte au camp la tête haute, sans sueur ni stress.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -276,7 +276,7 @@
                 ]
             },
             {
-                "text": "app1 goes to a known herb patch - but the plant has died! {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/don't\/doesn't} give up, hunting around in the area until {PRONOUN\/app1\/subject} find a smaller overlooked patch that still has leaves on it.",
+                "text": "app1 se rend à une parcelle d'herbes connue - mais la plante est morte ! {PRONOUN/app1/subject/CAP} {VERB/app1/don't/doesn't} abandonne, fouillant les environs jusqu'à ce que {PRONOUN/app1/subject} trouve une petite parcelle négligée qui a encore des feuilles.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -286,7 +286,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 goes to a known herb patch - but the plant has died! {PRONOUN\/app1\/subject\/CAP} give up and return to camp, feeling terrible.",
+                "text": "app1 se rend à une parcelle d'herbes connue - mais la plante est morte ! {PRONOUN/app1/subject/CAP} abandonne et retourne au camp, se sentant terriblement mal.",
                 "exp": 0,
                 "weight": 20
             }
@@ -330,12 +330,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l, fueled by desperation and unable to leave the Clan because of the heat of greenleaf withering c_n, ingests a piece of sacred cacti hoping to trigger a vision.",
-        "decline_text": "At that exact moment a cat walks into the medicine cat den looking for p_l. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/put\/puts} the piece of cacti back, having to wait for a better time.",
+        "intro_text": "p_l, poussé·e par le désespoir et incapable de quitter le Clan à cause de la chaleur du greenleaf qui fait dépérir c_n, ingère un morceau de cactus sacré en espérant déclencher une vision.",
+        "decline_text": "Au même instant, un chat entre dans la tanière des chats-médecins à la recherche de p_l. {PRONOUN/p_l/subject/CAP} {VERB/p_l/put/puts} le morceau de cactus à sa place, devant attendre un meilleur moment.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "Guided by the visions and dreams sent by StarClan, images of the suffering of greenleaf and the hope for new life flash before {PRONOUN\/p_l\/poss} eyes. p_l awakes relieved and determined. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/know\/knows} now what actions {PRONOUN\/p_l\/subject} should take to save c_n",
+                "text": "Guidé·e par les visions et les rêves envoyés par StarClan, des images de la souffrance du greenleaf et de l'espoir d'une nouvelle vie défilent devant les yeux de {PRONOUN/p_l/poss}. p_l se réveille soulagé·e et déterminé·e. {PRONOUN/p_l/subject/CAP} {VERB/p_l/know/knows} maintenant quelles actions {PRONOUN/p_l/subject} doit entreprendre pour sauver c_n",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -356,7 +356,7 @@
                 ]
             },
             {
-                "text": "strong connection to StarClan",
+                "text": "forte connexion avec StarClan",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -383,7 +383,7 @@
                 ]
             },
             {
-                "text": "faithful",
+                "text": "fidèle",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -412,7 +412,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l wakes up confused and unable to remember if {PRONOUN\/p_l\/subject} have communicated with StarClan. The only thought bouncing around in {PRONOUN\/p_l\/poss} head for some reason is the word quenchy. Frustrated, p_l realizes that StarClan won't help {PRONOUN\/p_l\/object} this time.",
+                "text": "p_l se réveille confus·e et incapable de se rappeler si {PRONOUN/p_l/subject} a communiqué avec StarClan. Le seul mot qui tourne dans la tête de {PRONOUN/p_l/poss} est, pour une raison inexplicable, « quenchy ». Frustré·e, p_l réalise que StarClan n'aidera pas {PRONOUN/p_l/object} cette fois.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -433,14 +433,14 @@
                 ]
             },
             {
-                "text": "r_c has an unexpected severe reaction to the cacti, {PRONOUN\/r_c\/poss} throat swelling shut in seconds. Unable to call for help, {PRONOUN\/p_l\/subject} fade away toward StarClan. c_n will have to mourn one more cat.",
+                "text": "r_c a une réaction sévère et inattendue au cactus, {PRONOUN/r_c/poss} gorge se refermant en quelques secondes. Incapable d'appeler à l'aide, {PRONOUN/p_l/subject} sombre vers StarClan. c_n devra pleurer un chat de plus.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "reg_death": "m_c died trying to communicate with StarClan using a rare and dangerous ritual in an attempt to save {PRONOUN\/m_c\/poss} Clan."
+                    "reg_death": "m_c est mort·e en essayant de communiquer avec StarClan en utilisant un rituel rare et dangereux pour tenter de sauver {PRONOUN/m_c/poss} Clan."
                 },
                 "relationships": [
                     {
@@ -499,12 +499,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and app1 head out for lungwort, and p_l starts a lesson on the value of this rare herb for treating yellowcough.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave. Sighing, the expedition is delayed for another time.",
+        "intro_text": "p_l et app1 partent chercher de la pulmonaire, et p_l commence une leçon sur la valeur de cette herbe rare pour traiter la toux jaune.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse partir. Soupirant, l'expédition est reportée à plus tard.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes them all day, but finally, p_l spots the speckled leaves they've been looking for, so crucial to harvest before the plants die back in the withering heat of greenleaf. For just a second, p_l feels the weight of {PRONOUN\/p_l\/poss} responsibilities lift, and {PRONOUN\/p_l\/subject} {VERB\/p_l\/let\/lets} out a whoop and stop to play with app1.",
+                "text": "Ils y passent toute la journée, mais enfin, p_l repère les feuilles tachetées qu'ils cherchaient, si cruciales à récolter avant que les plantes ne se dessèchent sous la chaleur du greenleaf. Pendant un instant, p_l sent le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, et {PRONOUN/p_l/subject} {VERB/p_l/let/lets} écarter un cri de joie et s'arrête pour jouer avec app1.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -526,7 +526,7 @@
                 ]
             },
             {
-                "text": "app1 listens intently as the hours drift slowly by in their intense search, and then finally spots a bush with leaves sprinkled with white. It's lungwort! p_l showers {PRONOUN\/app1\/object} with praise, app1 feeling like {PRONOUN\/app1\/subject} could burst with accomplishment.",
+                "text": "app1 écoute attentivement tandis que les heures passent lentement dans leur recherche intense, et finit par repérer un buisson dont les feuilles sont saupoudrées de blanc. C'est de la pulmonaire ! p_l couvre {PRONOUN/app1/object} d'éloges, app1 se sentant comme s'il·elle pouvait exploser de fierté.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -548,7 +548,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cats visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, les chats-médecins visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient finalement trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -574,7 +574,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists they keep going - lungwort is the only reliable cure for yellowcough, they can't let c_n go without. Exhausted but determined, the medicine cats persist patiently until they find those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste encore pour qu'ils continuent - la pulmonaire est le seul remède fiable contre la toux jaune, ils ne peuvent pas laisser c_n sans soin. Épuisés mais déterminés, les chats-médecins persistent patiemment jusqu'à trouver ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -605,7 +605,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only do they not find anything, but app1 seems to take in absolutely nothing of what p_l is teaching {PRONOUN\/app1\/object}, and by the time they're back at camp, p_l wants to scream.",
+                "text": "Non seulement ils ne trouvent rien, mais app1 semble ne rien retenir de ce que p_l enseigne à {PRONOUN/app1/object}, et au retour au camp, p_l a envie de hurler.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -658,12 +658,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is on a mission to find lungwort now that greenleaf is on the horizon. As the only reliable cure for yellowcough, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} determined that c_n stock up.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave camp.",
+        "intro_text": "p_l est en mission pour trouver de la pulmonaire maintenant que le greenleaf approche. En tant que seul remède fiable contre la toux jaune, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} déterminé·e à ce que c_n fasse des réserves.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse quitter le camp.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes {PRONOUN\/p_l\/object} all day, but finally, p_l spots the speckled leaves {PRONOUN\/p_l\/subject}{VERB\/p_l\/'ve\/'s} been looking for, so crucial to stock up on before the withering heat of greenleaf. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, the strength of that relief catching {PRONOUN\/p_l\/object} off guard.",
+                "text": "Il faut à {PRONOUN/p_l/object} toute une journée, mais enfin, p_l repère les feuilles tachetées que {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} cherché, si cruciales à stocker avant la chaleur du greenleaf. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, la force de ce soulagement prenant {PRONOUN/p_l/object} au dépourvu.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -683,7 +683,7 @@
                 ]
             },
             {
-                "text": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. Frustratingly, p_l doesn't have the capacity to carry everything back to camp, but {PRONOUN\/p_l\/subject} {VERB\/p_l\/stick\/sticks} the location in {PRONOUN\/p_l\/poss} mind as a place to return to.",
+                "text": "Non seulement la pulmonaire est intacte et pousse bien, mais il y a aussi une belle parcelle de plantain toute proche. Frustrant, p_l n'a pas la capacité de tout porter, mais {PRONOUN/p_l/subject} {VERB/p_l/stick/sticks} l'emplacement dans {PRONOUN/p_l/poss} mémoire comme un endroit où revenir.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -703,7 +703,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, le chat-médecin visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient enfin trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -727,7 +727,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists to {PRONOUN\/s_c\/self} that {PRONOUN\/s_c\/subject} {VERB\/s_c\/need\/needs} to keep going - {PRONOUN\/s_c\/subject} just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until {PRONOUN\/s_c\/subject} {VERB\/s_c\/find\/finds} those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste auprès de {PRONOUN/s_c/self} que {PRONOUN/s_c/subject} {VERB/s_c/need/needs} de continuer - {PRONOUN/s_c/subject} ne peut pas laisser c_n sans remède. Épuisés mais déterminés, les chats-médecins persistent patiemment jusqu'à ce que {PRONOUN/s_c/subject} {VERB/s_c/find/finds} ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -756,7 +756,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l searches until {PRONOUN\/p_l\/poss} pawpads are sore and {PRONOUN\/p_l\/poss} muscles exhausted, but can't find lungwort anywhere. {PRONOUN\/p_l\/subject\/CAP} return to camp disappointed, but determined to try again. It's simply too important to not keep a good supply of.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. {PRONOUN/p_l/subject/CAP} retourne au camp déçu·e, mais déterminé·e à réessayer. C'est tout simplement trop important pour ne pas maintenir un bon stock.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -818,12 +818,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is on a mission to find lungwort now that greenleaf is on the horizon. As the only reliable cure for yellowcough, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} determined that c_n replenish their stocks of it. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/take\/takes} along a warrior escort to help.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave.",
+        "intro_text": "p_l est en mission pour trouver de la pulmonaire maintenant que le greenleaf approche. En tant que seul remède fiable contre la toux jaune, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} déterminé·e à ce que c_n renouvelle leurs réserves. {PRONOUN/p_l/subject/CAP} emmène une escorte guerrière pour aider.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse partir.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes them all day, but finally, p_l spots the speckled leaves they've been looking for, so crucial to stock up on before the withering heat of greenleaf. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, the strength of that relief catching {PRONOUN\/p_l\/object} off guard.",
+                "text": "Ils y passent toute la journée, mais enfin, p_l repère les feuilles tachetées qu'ils cherchaient, si cruciales à récolter avant la chaleur du greenleaf. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, la force de ce soulagement surprenant {PRONOUN/p_l/object}.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -846,7 +846,7 @@
                 ]
             },
             {
-                "text": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. p_l loads up {PRONOUN\/p_l\/poss} mostly-obliging escort and carries the extensive harvest home, tail waving jovially with {PRONOUN\/p_l\/poss} good mood.",
+                "text": "Non seulement la pulmonaire est intacte et pousse bien, mais il y a aussi une belle parcelle de plantain toute proche. p_l charge son escorte en grande partie conciliant et rapporte la récolte abondante au camp, la queue battant joyeusement de bonne humeur.",
                 "exp": 20,
                 "weight": 5,
                 "herbs": [
@@ -871,7 +871,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, le chat-médecin visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -899,7 +899,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists they keep going - they just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until they find those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste pour qu'ils continuent - ils ne peuvent pas laisser c_n sans remède. Épuisés mais déterminés, le chat-médecin persiste patiemment jusqu'à trouver ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -932,7 +932,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "By the time they give up and return to camp, p_l is approaching explosion point with r_c. {PRONOUN\/r_c\/subject\/CAP}{VERB\/r_c\/'ve\/'s} gotten in the way, questioned the use of the gathering mission, and in general been utterly obnoxious today.",
+                "text": "Au moment où ils renoncent et retournent au camp, p_l est sur le point d'exploser contre r_c. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'ve/'s} gêné la mission, remis en question l'utilité de la récolte, et a été en général totalement insupportable aujourd'hui.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -956,7 +956,7 @@
                 ]
             },
             {
-                "text": "p_l searches until {PRONOUN\/p_l\/poss} pawpads are sore and {PRONOUN\/p_l\/poss} muscles exhausted, but can't find lungwort anywhere. They return to camp disappointed, but determined to try again. It's simply too important to not keep a good supply of.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. Ils reviennent au camp déçu·e·s, mais déterminé·e·s à réessayer. C'est tout simplement trop important pour ne pas garder un bon stock.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1026,12 +1026,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and app1 head out for lungwort, and p_l starts a lesson on the value of this rare herb for treating yellowcough.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave. Sighing, the expedition is delayed for another time.",
+        "intro_text": "p_l et app1 partent chercher de la pulmonaire, et p_l commence une leçon sur la valeur de cette herbe rare pour traiter la toux jaune.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse partir. Soupirant, l'expédition est reportée à plus tard.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes them all day, but finally, p_l spots the speckled leaves they've been looking for, so crucial to harvest while the growing season is upon them. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, and they let out a whoop and stop to play with app1.",
+                "text": "Ils y passent toute la journée, mais enfin, p_l repère les feuilles tachetées qu'ils cherchaient, si cruciales à récolter pendant la saison de croissance. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, et {PRONOUN/p_l/subject} pousse un cri de joie et s'arrête pour jouer avec app1.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -1053,7 +1053,7 @@
                 ]
             },
             {
-                "text": "app1 listens intently as the hours drift slowly by in their intense search, and then finally spots a bush with leaves sprinkled with white. It's lungwort! p_l showers {PRONOUN\/app1\/object} with praise, app1 feeling like {PRONOUN\/app1\/subject} could burst with accomplishment.",
+                "text": "app1 écoute attentivement tandis que les heures passent dans leur recherche intense, et finit par repérer un buisson aux feuilles saupoudrées de blanc. C'est de la pulmonaire ! p_l couvre {PRONOUN/app1/object} d'éloges, app1 se sentant comme s'il·elle pouvait exploser de fierté.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -1075,7 +1075,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cats visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, les chats-médecins visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1101,7 +1101,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists they keep going - lungwort is the only reliable cure for yellowcough, they can't let c_n go without. Exhausted but determined, the medicine cats persist patiently until they find those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste pour qu'ils continuent - la pulmonaire est le seul remède fiable contre la toux jaune, ils ne peuvent pas laisser c_n sans soin. Épuisés mais déterminés, les chats-médecins persistent patiemment jusqu'à trouver ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1132,7 +1132,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only do they not find anything, but app1 seems to take in absolutely nothing of what p_l is teaching {PRONOUN\/app1\/object}, and by the time they're back at camp, p_l wants to scream.",
+                "text": "Non seulement ils ne trouvent rien, mais app1 semble ne rien retenir de ce que p_l enseigne à {PRONOUN/app1/object}, et au retour au camp, p_l a envie de hurler.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1185,12 +1185,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is on a mission to find lungwort now that leaf-bare is here. As the only reliable cure for yellowcough, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} determined that c_n stock up on it.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave camp.",
+        "intro_text": "p_l est en mission pour trouver de la pulmonaire maintenant que le leaf-bare est là. En tant que seul remède fiable contre la toux jaune, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} déterminé·e à ce que c_n fasse des réserves.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse quitter le camp.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes {PRONOUN\/p_l\/object} all day, but finally, p_l spots the speckled leaves {PRONOUN\/p_l\/subject}{VERB\/p_l\/'ve\/'s} been looking for, so crucial to harvest while the growing season is upon them. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, the strength of that relief catching {PRONOUN\/p_l\/object} off guard.",
+                "text": "Il faut à {PRONOUN/p_l/object} toute une journée, mais enfin, p_l repère les feuilles tachetées que {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} cherchées, si cruciales à récolter pendant la saison de croissance. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, la force de ce soulagement prenant {PRONOUN/p_l/object} au dépourvu.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -1210,7 +1210,7 @@
                 ]
             },
             {
-                "text": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. Frustratingly, p_l doesn't have the capacity to carry everything back to camp, but they stick the location in {PRONOUN\/p_l\/poss} mind as a place to return to.",
+                "text": "Non seulement la pulmonaire est intacte et pousse bien, mais il y a aussi une belle parcelle de plantain toute proche. Frustrant, p_l n'a pas la capacité de tout porter, mais {PRONOUN/p_l/subject} garde l'emplacement en mémoire comme un endroit où revenir.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -1230,7 +1230,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, le chat-médecin visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1254,7 +1254,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists to {PRONOUN\/s_c\/self} that {PRONOUN\/s_c\/subject} {VERB\/s_c\/need\/needs} to keep going - {PRONOUN\/s_c\/subject} just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until {PRONOUN\/s_c\/subject} {VERB\/s_c\/find\/finds} those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste auprès de {PRONOUN/s_c/self} que {PRONOUN/s_c/subject} {VERB/s_c/need/needs} de continuer - {PRONOUN/s_c/subject} ne peut pas laisser c_n sans remède. Épuisés mais déterminés, le chat-médecin persiste patiemment jusqu'à ce que {PRONOUN/s_c/subject} {VERB/s_c/find/finds} ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1283,7 +1283,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l searches until {PRONOUN\/p_l\/poss} pawpads are sore and {PRONOUN\/p_l\/poss} muscles exhausted, but can't find lungwort anywhere. {PRONOUN\/p_l\/subject\/CAP} return to camp disappointed, but determined to try again. It's simply too important to not keep a good supply of.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. {PRONOUN/p_l/subject/CAP} retourne au camp déçu·e, mais déterminé·e à réessayer. C'est trop important pour ne pas maintenir un bon stock.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1345,12 +1345,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is on a mission to find lungwort now that leaf-bare is here. As the only reliable cure for yellowcough, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} determined that c_n won't run out of it. {PRONOUN\/p_l\/subject\/CAP} take along a warrior escort to help.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave.",
+        "intro_text": "p_l est en mission pour trouver de la pulmonaire maintenant que le leaf-bare est là. En tant que seul remède fiable contre la toux jaune, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} déterminé·e à ce que c_n n'en manque pas. {PRONOUN/p_l/subject/CAP} emmène une escorte guerrière pour aider.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse partir.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes them all day, but finally, p_l spots the speckled leaves they've been looking for, so crucial to harvest while the growing season is upon them. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, the strength of that relief catching {PRONOUN\/p_l\/object} off guard.",
+                "text": "Ils y passent toute la journée, mais enfin, p_l repère les feuilles tachetées qu'ils cherchaient, si cruciales à récolter pendant la saison de croissance. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, la force de ce soulagement surprenant {PRONOUN/p_l/object}.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -1373,7 +1373,7 @@
                 ]
             },
             {
-                "text": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. p_l loads up {PRONOUN\/p_l\/poss} mostly-obliging escort and carries the extensive harvest home, tail waving jovially with {PRONOUN\/p_l\/poss} good mood.",
+                "text": "Non seulement la pulmonaire est intacte et pousse bien, mais il y a aussi une belle parcelle de plantain toute proche. p_l charge son escorte en grande partie conciliant et rapporte la récolte abondante au camp, la queue battant joyeusement de bonne humeur.",
                 "exp": 20,
                 "weight": 5,
                 "herbs": [
@@ -1398,7 +1398,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, le chat-médecin visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -1426,7 +1426,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists they keep going - they just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until they find those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste pour qu'ils continuent - ils ne peuvent pas laisser c_n sans remède. Épuisés mais déterminés, le chat-médecin persiste patiemment jusqu'à trouver ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -1459,7 +1459,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "By the time they give up and return to camp, p_l is approaching explosion point with r_c. {PRONOUN\/r_c\/subject\/CAP}{VERB\/r_c\/'ve\/'s} gotten in the way, questioned the use of the gathering mission, and in general been utterly obnoxious today.",
+                "text": "Au moment où ils renoncent et retournent au camp, p_l est sur le point d'exploser contre r_c. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'ve/'s} gêné la mission, remis en question l'utilité de la récolte, et a été en général totalement insupportable aujourd'hui.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -1483,7 +1483,7 @@
                 ]
             },
             {
-                "text": "p_l searches until {PRONOUN\/p_l\/poss} pawpads are sore and {PRONOUN\/p_l\/poss} muscles exhausted, but can't find lungwort anywhere. {PRONOUN\/p_l\/subject\/CAP} return to camp disappointed, but determined to try again. It's simply too important to not keep a good supply of.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. {PRONOUN/p_l/subject/CAP} retourne au camp déçu·e, mais déterminé·e à réessayer. C'est trop important pour ne pas garder un bon stock.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1553,12 +1553,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and app1 head out for lungwort, and p_l starts a lesson on the value of this rare herb for treating yellowcough.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave. Sighing, the expedition is delayed for another time.",
+        "intro_text": "p_l et app1 partent chercher de la pulmonaire, et p_l commence une leçon sur la valeur de cette herbe rare pour traiter la toux jaune.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse partir. Soupirant, l'expédition est reportée à plus tard.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes them all day, but finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the Clan's stores after the long greenleaf. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, and {PRONOUN\/p_l\/subject} let out a whoop and stop to play with app1.",
+                "text": "Ils y passent toute la journée, mais enfin, p_l repère les feuilles tachetées qu'ils cherchaient, si cruciales pour reconstituer les réserves du Clan après le long greenleaf. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, et {PRONOUN/p_l/subject} pousse un cri de joie et s'arrête pour jouer avec app1.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -1593,7 +1593,7 @@
                 ]
             },
             {
-                "text": "app1 listens intently as the hours drift slowly by in their intense search, and then finally spots a bush with leaves sprinkled with white. It's lungwort! p_l showers {PRONOUN\/app1\/object} with praise, app1 feeling like {PRONOUN\/app1\/subject} could burst with accomplishment.",
+                "text": "app1 écoute attentivement tandis que les heures passent dans leur recherche intense, et finit par repérer un buisson aux feuilles saupoudrées de blanc. C'est de la pulmonaire ! p_l couvre {PRONOUN/app1/object} d'éloges, app1 se sentant comme s'il·elle pouvait exploser de fierté.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -1615,7 +1615,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cats visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, les chats-médecins visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1641,7 +1641,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists they keep going - lungwort is the only reliable cure for yellowcough, they can't let c_n go without. Exhausted but determined, the medicine cats persist patiently until they find those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste pour qu'ils continuent - la pulmonaire est le seul remède fiable contre la toux jaune, ils ne peuvent pas laisser c_n sans soin. Épuisés mais déterminés, les chats-médecins persistent patiemment jusqu'à trouver ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1672,7 +1672,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Not only do they not find anything, but app1 seems to take in absolutely nothing of what p_l is teaching {PRONOUN\/app1\/object}, and by the time they're back at camp, p_l wants to scream.",
+                "text": "Non seulement ils ne trouvent rien, mais app1 semble ne rien retenir de ce que p_l enseigne à {PRONOUN/app1/object}, et au retour au camp, p_l a envie de hurler.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1725,12 +1725,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is on a mission to find lungwort now that leaf-fall is here. As the only reliable cure for yellowcough, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} determined that c_n replenish their stocks of it.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave camp.",
+        "intro_text": "p_l est en mission pour trouver de la pulmonaire maintenant que le leaf-fall est là. En tant que seul remède fiable contre la toux jaune, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} déterminé·e à ce que c_n renouvelle leurs réserves.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse quitter le camp.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes {PRONOUN\/p_l\/object} all day, but finally, p_l spots the speckled leaves {PRONOUN\/p_l\/subject}{VERB\/p_l\/'ve\/'s} been looking for, so crucial to replenishing the Clan's stores after the long greenleaf. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, the strength of that relief catching {PRONOUN\/p_l\/object} off guard.",
+                "text": "Il faut à {PRONOUN/p_l/object} toute une journée, mais enfin, p_l repère les feuilles tachetées que {PRONOUN/p_l/subject}{VERB/p_l/'ve/'s} cherchées, si cruciales pour reconstituer les réserves du Clan après le long greenleaf. Pendant un instant, {PRONOUN/p_l/subject} {VERB/p_l/feel/feels} le poids de {PRONOUN/p_l/poss} responsabilités s'alléger, la force de ce soulagement prenant {PRONOUN/p_l/object} au dépourvu.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -1750,7 +1750,7 @@
                 ]
             },
             {
-                "text": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. Frustratingly, p_l doesn't have the capacity to carry everything back to camp, but they stick the location in {PRONOUN\/p_l\/poss} mind as a place to return to.",
+                "text": "Non seulement la pulmonaire est intacte et pousse bien, mais il y a aussi une belle parcelle de plantain toute proche. Frustrant, p_l n'a pas la capacité de tout porter, mais {PRONOUN/p_l/subject} garde l'emplacement en mémoire comme un endroit où revenir.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -1770,7 +1770,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "Il faut tout le talent considérable de s_c pour dénicher la pulmonaire dans leurs frontières, le chat-médecin visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1794,7 +1794,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists to {PRONOUN\/s_c\/self} that {PRONOUN\/s_c\/subject} {VERB\/s_c\/need\/needs} to keep going - {PRONOUN\/s_c\/subject} just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until {PRONOUN\/s_c\/subject} {VERB\/s_c\/find\/finds} those precious speckled leaves.",
+                "text": "La nuit tombe, et s_c insiste auprès de {PRONOUN/s_c/self} que {PRONOUN/s_c/subject} {VERB/s_c/need/needs} de continuer - {PRONOUN/s_c/subject} ne peut pas laisser c_n sans remède. Épuisés mais déterminés, le chat-médecin persiste patiemment jusqu'à ce que {PRONOUN/s_c/subject} {VERB/s_c/find/finds} ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1823,7 +1823,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l searches until {PRONOUN\/p_l\/poss} pawpads are sore and {PRONOUN\/p_l\/poss} muscles exhausted, but can't find lungwort anywhere. {PRONOUN\/p_l\/subject\/CAP} return to camp disappointed, but determined to try again. It's simply too important to not keep a good supply of.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. {PRONOUN/p_l/subject/CAP} retourne au camp déçu·e, mais déterminé·e à réessayer. C'est trop important pour ne pas garder un bon stock.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1885,12 +1885,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is on a mission to find lungwort now that leaf-fall is here. As the only reliable cure for yellowcough, {PRONOUN\/p_l\/subject}{VERB\/p_l\/'re\/'s} determined that c_n replenish their stocks of it. {PRONOUN\/p_l\/subject\/CAP} take along a warrior escort to help.",
-        "decline_text": "A cat grabs p_l's attention before {PRONOUN\/p_l\/subject} can leave.",
+        "intro_text": "p_l est en mission pour trouver de la pulmonaire maintenant que le leaf-fall est là. En tant que seul remède fiable contre la toux jaune, {PRONOUN/p_l/subject}{VERB/p_l/'re/'s} déterminé·e à ce que c_n renouvelle leurs réserves. {PRONOUN/p_l/subject/CAP} emmène une escorte guerrière pour aider.",
+        "decline_text": "Un chat attire l'attention de p_l avant que {PRONOUN/p_l/subject} ne puisse partir.",
         "chance_of_success": 15,
         "success_outcomes": [
             {
-                "text": "It takes them all day, but finally, p_l spots the speckled leaves they've been looking for, so crucial to replenishing the Clan's stores after the long greenleaf. For just a second, {PRONOUN\/p_l\/subject} {VERB\/p_l\/feel\/feels} the weight of {PRONOUN\/p_l\/poss} responsibilities lift, the strength of that relief catching {PRONOUN\/p_l\/subject} off guard.",
+                "text": "Au moment où ils renoncent et retournent au camp, p_l est sur le point d'exploser contre r_c. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'ve/'s} gêné la mission, remis en question l'utilité de la récolte, et a été en général totalement insupportable aujourd'hui.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -1913,7 +1913,7 @@
                 ]
             },
             {
-                "text": "Not only is the lungwort intact and growing nicely, but there's also a nice patch of plantain growing just nearby. p_l loads up {PRONOUN\/p_l\/poss} mostly-obliging escort and carries the extensive harvest home, tail waving jovially with {PRONOUN\/p_l\/poss} good mood.",
+                "text": "Il faut toute l'habileté considérable de s_c pour dénicher la pulmonaire dans leurs frontières, le chat-médecin visitant chaque recoin probable dans un schéma de recherche soigneusement planifié jusqu'à ce que ces feuilles tachetées soient trouvées.",
                 "exp": 20,
                 "weight": 5,
                 "herbs": [
@@ -1938,7 +1938,7 @@
                 ]
             },
             {
-                "text": "It takes all of s_c's considerable talent for such things to hunt down the lungwort within their borders, the medicine cat visiting each likely nook and cranny in a carefully planned search pattern until finally those telltale speckled leaves are found.",
+                "text": "La nuit tombe, et s_c insiste pour qu'ils continuent - ils ne peuvent pas laisser c_n sans remède. Épuisés mais déterminés, le chat-médecin persiste patiemment jusqu'à trouver ces précieuses feuilles tachetées.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -1966,7 +1966,7 @@
                 ]
             },
             {
-                "text": "Night falls, and still s_c insists they keep going - they just can't let c_n go without. Exhausted but determined, the medicine cat persists patiently until they find those precious speckled leaves.",
+                "text": "Au moment où ils renoncent et retournent au camp, p_l est sur le point d'exploser contre r_c. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'ve/'s} gêné la mission, remis en question l'utilité de la récolte, et a été en général totalement insupportable aujourd'hui.",
                 "exp": 20,
                 "weight": 20,
                 "herbs": [
@@ -1999,7 +1999,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "By the time they give up and return to camp, p_l is approaching explosion point with r_c. {PRONOUN\/r_c\/subject\/CAP}{VERB\/r_c\/'ve\/'s} gotten in the way, questioned the use of the gathering mission, and in general been utterly obnoxious today.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. {PRONOUN/p_l/subject/CAP} retourne au camp déçu·e, mais déterminé·e à réessayer. C'est trop important pour ne pas garder un bon stock.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2023,7 +2023,7 @@
                 ]
             },
             {
-                "text": "p_l searches until {PRONOUN\/p_l\/poss} pawpads are sore and {PRONOUN\/p_l\/poss} muscles exhausted, but can't find lungwort anywhere. {PRONOUN\/p_l\/subject\/CAP} return to camp disappointed, but determined to try again. It's simply too important to not keep a good supply of.",
+                "text": "p_l cherche jusqu'à ce que {PRONOUN/p_l/poss} coussinets soient douloureux et {PRONOUN/p_l/poss} muscles épuisés, mais ne trouve la pulmonaire nulle part. {PRONOUN/p_l/subject/CAP} retourne au camp déçu·e, mais déterminé·e à réessayer. C'est trop important pour ne pas garder un bon stock.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2091,17 +2091,17 @@
             ]
         },
         "weight": 20,
-        "intro_text": "While searching for some specific herbs, p_l is startled by weird sounds and whispers on the wind.",
-        "decline_text": "Unnerved and unable to discern if it is a sign from StarClan or nothing, they go back to c_n to ask for help and guidance.",
+        "intro_text": "En cherchant des herbes spécifiques, p_l est surpris·e par d'étranges bruits et chuchotements portés par le vent.",
+        "decline_text": "Déconcerté·e et incapable de déterminer s'il s'agit d'un signe de StarClan ou de rien, iel retourne à c_n pour demander aide et conseils.",
         "chance_of_success": 35,
         "success_outcomes": [
             {
-                "text": "Sure that it is a sign from StarClan, p_l follows the sounds and whispers on the wind and finds a queen who lost {PRONOUN\/n_c:0\/poss} life in a harsh kitting, {PRONOUN\/n_c:0\/poss} newborn kits clinging to a body that will never move again. p_l instantly wraps {PRONOUN\/p_l\/self} around the kits and orders r_c back to camp to find help and a queen willing to nurse them.",
+                "text": "Sûr·e qu'il s'agit d'un signe de StarClan, p_l suit les sons et chuchotements portés par le vent et trouve une reine qui a perdu la vie lors d'une mise bas difficile, ses nouveau-nés collés à un corps qui ne bougera plus. p_l entoure immédiatement les chatons de son corps et ordonne à r_c de retourner au camp pour chercher de l'aide et une reine prête à les nourrir.",
                 "exp": 10,
                 "weight": 20
             },
             {
-                "text": "p_l follows the strange sounds on the wind and finds a struggling queen with {PRONOUN\/n_c:0\/poss} newborn kits clinging to {PRONOUN\/n_c:0\/object}. r_c sprints back to camp to get help while p_l tries to make the queen eat some strengthening herbs. Thankful for the help, the queen joins c_n with {PRONOUN\/n_c:0\/poss} kits.",
+                "text": "p_l suit les étranges sons portés par le vent et trouve une reine en difficulté avec ses nouveau-nés accrochés à {PRONOUN/n_c:0/object}. r_c part au galop vers le camp pour chercher de l'aide pendant que p_l essaie de faire manger à la reine des herbes fortifiantes. Reconnaissante, la reine rejoint c_n avec ses chatons.",
                 "exp": 10,
                 "weight": 5,
                 "new_cat": [
@@ -2120,7 +2120,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l follows the strange sounds on the wind and finds the bodies of an unknown queen with their kits slowly going cold. r_c goes back to camp to get help to bring their bodies back to camp to pay respects and bury them.",
+                "text": "p_l suit les étranges sons portés par le vent et trouve les corps d'une reine inconnue avec leurs chatons se refroidissant lentement. r_c retourne au camp pour obtenir de l'aide afin de ramener leurs corps et leur rendre hommage en les enterrant.",
                 "exp": 0,
                 "weight": 20,
                 "outsider_rep": -1
@@ -2179,12 +2179,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l goes out with a warrior escort, both for safety as {PRONOUN\/p_l\/subject} {VERB\/p_l\/look\/looks} for newleaf's fresh buds, and for carrying capacity should {PRONOUN\/p_l\/subject} find anything.",
-        "decline_text": "{PRONOUN\/p_l\/poss\/CAP} escort is called away on a different mission, and p_l decides to reorganize the herb store instead.",
+        "intro_text": "p_l sort avec une escorte guerrière, à la fois pour la sécurité pendant que {PRONOUN/p_l/subject} {VERB/p_l/look/looks} les nouvelles pousses du newleaf, et pour la capacité de transport si {PRONOUN/p_l/subject} trouve quelque chose.",
+        "decline_text": "{PRONOUN/p_l/poss/CAP} escorte est appelée ailleurs, et p_l décide de réorganiser la réserve d'herbes à la place.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Surprisingly, r_c actually starts up a conversation with {PRONOUN\/p_l\/object} about the herbs they're looking for. p_l launches into the usual spiel, and to {PRONOUN\/p_l\/poss} astonishment, r_c is actually interested, and it makes {PRONOUN\/p_l\/poss} heart feel lighter getting to share {PRONOUN\/p_l\/poss} knowledge and skills with someone who respects {PRONOUN\/p_l\/object}.",
+                "text": "Surprenamment, r_c entame une conversation avec {PRONOUN/p_l/object} au sujet des herbes qu'ils recherchent. p_l se lance dans le discours habituel, et à la grande surprise de {PRONOUN/p_l/poss}, r_c s'intéresse vraiment, ce qui allège le cœur de p_l de pouvoir partager ses connaissances et compétences avec quelqu'un qui respecte {PRONOUN/p_l/object}.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2206,7 +2206,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than they've felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel a l'impression de ne pas avoir à jouer un rôle. Ce n'est qu'une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2236,7 +2236,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common and the other cat bluntly refuses to talk about boring herbs.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun et l'autre chat refuse catégoriquement de parler d'herbes ennuyeuses.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2258,7 +2258,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2324,12 +2324,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l heads out, leading a patrol of medicine cats to go find the buds of newleaf.",
-        "decline_text": ". . .And they're called back almost immediately, as one of the elders starts hacking up something.",
+        "intro_text": "p_l part, menant une patrouille de chats-médecins pour aller chercher les bourgeons du newleaf.",
+        "decline_text": ". . .Et ils sont rappelés presque immédiatement, car l'un des anciens commence à cracher quelque chose.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The ground is slippery and damp, and as p_l falls, r_c catches {PRONOUN\/p_l\/object}. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+                "text": "Le sol est glissant et humide, et quand p_l tombe, r_c attrape {PRONOUN/p_l/object}. C'est un joli rappel que la responsabilité de veiller sur le Clan est partagée, et le sauvetage fait aussi frissonner agréablement p_l.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2351,7 +2351,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel a l'impression de ne pas avoir à jouer un rôle. Ce n'est qu'une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2381,7 +2381,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2403,7 +2403,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2465,12 +2465,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l goes out with a warrior escort, both for safety as they look to take advantage of the leaf-bare growing season, and for carrying capacity should they find anything.",
-        "decline_text": "{PRONOUN\/p_l\/poss\/CAP} escort is called away on a different mission, and p_l decides to reorganize the herb store instead.",
+        "intro_text": "p_l sort avec une escorte guerrière, à la fois pour la sécurité pendant qu'iel cherche à profiter de la saison de leaf-bare, et pour la capacité de transport en cas de trouvaille.",
+        "decline_text": "{PRONOUN/p_l/poss/CAP} escorte est appelée ailleurs, et p_l décide de réorganiser la réserve d'herbes à la place.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Surprisingly, r_c actually starts up a conversation with {PRONOUN\/p_l\/object} about the herbs they're looking for. p_l launches into the usual spiel, and to {PRONOUN\/p_l\/poss} astonishment, r_c is actually interested, and it makes {PRONOUN\/p_l\/poss} heart feel lighter getting to share {PRONOUN\/p_l\/poss} knowledge and skills with someone who respects {PRONOUN\/p_l\/object}.",
+                "text": "Surprenamment, r_c entame une conversation avec {PRONOUN/p_l/object} au sujet des herbes qu'ils recherchent. p_l se lance dans le discours habituel, et à la grande surprise de {PRONOUN/p_l/poss}, r_c s'intéresse vraiment, ce qui allège le cœur de p_l de pouvoir partager ses connaissances et compétences avec quelqu'un qui respecte {PRONOUN/p_l/object}.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2492,7 +2492,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel se sent comme s'iel n'avait pas à faire d'effort. C'est juste une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2522,7 +2522,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common and the other cat bluntly refuses to talk about boring herbs.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun et l'autre chat refuse catégoriquement de parler d'herbes ennuyeuses.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2544,7 +2544,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2610,12 +2610,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l heads out, leading a patrol of medicine cats to go find some of the bounty of leaf-bare.",
-        "decline_text": ". . .And they're called back almost immediately, as one of the elders starts hacking up something.",
+        "intro_text": "p_l part, menant une patrouille de chats-médecins pour aller chercher une partie de l'abondance du leaf-bare.",
+        "decline_text": ". . .Et ils sont rappelés presque immédiatement, car l'un des anciens commence à cracher quelque chose.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The ground is dusty and slippery, and as p_l falls, r_c catches {PRONOUN\/p_l\/object}. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+                "text": "Le sol est poussiéreux et glissant, et quand p_l tombe, r_c attrape {PRONOUN/p_l/object}. C'est un joli rappel que la responsabilité de veiller sur le Clan est partagée, et le sauvetage fait aussi frissonner agréablement p_l.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2637,7 +2637,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel se sent comme s'iel n'avait pas à faire d'effort. C'est juste une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2667,7 +2667,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2689,7 +2689,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2751,12 +2751,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l goes out with a warrior escort, both for safety as {PRONOUN\/p_l\/subject} {VERB\/p_l\/try\/tries} to stock up under the clear leaf-fall skies, and for carrying capacity should {PRONOUN\/p_l\/subject} find anything.",
-        "decline_text": "{PRONOUN\/p_l\/poss\/CAP} escort is called away on a different mission, and p_l decides to reorganize the herb store instead.",
+        "intro_text": "p_l sort avec une escorte guerrière, à la fois pour la sécurité pendant que {PRONOUN/p_l/subject} {VERB/p_l/try/tries} de faire des réserves sous les ciels clairs du leaf-fall, et pour la capacité de transport si {PRONOUN/p_l/subject} trouve quelque chose.",
+        "decline_text": "{PRONOUN/p_l/poss/CAP} escorte est appelée ailleurs, et p_l décide de réorganiser la réserve d'herbes à la place.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Surprisingly, r_c actually starts up a conversation with {PRONOUN\/p_l\/object} about the herbs they're looking for. p_l launches into the usual spiel, and to {PRONOUN\/p_l\/poss} astonishment, r_c is actually interested, and it makes {PRONOUN\/p_l\/poss} heart feel lighter getting to share {PRONOUN\/p_l\/poss} knowledge and skills with someone who respects {PRONOUN\/p_l\/object}.",
+                "text": "Surprenamment, r_c entame une conversation avec {PRONOUN/p_l/object} au sujet des herbes qu'ils recherchent. p_l se lance dans le discours habituel, et à la grande surprise de {PRONOUN/p_l/poss}, r_c s'intéresse vraiment, ce qui allège le cœur de p_l de pouvoir partager ses connaissances et compétences avec quelqu'un qui respecte {PRONOUN/p_l/object}.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2778,7 +2778,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel se sent comme s'iel n'avait pas à faire d'effort. C'est juste une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2808,7 +2808,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common and the other cat bluntly refuses to talk about boring herbs.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun et l'autre chat refuse catégoriquement de parler d'herbes ennuyeuses.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2830,7 +2830,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -2896,12 +2896,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l heads out, leading a patrol of medicine cats to go stock up on the first harvests available in leaf-fall.",
-        "decline_text": ". . .And they're called back almost immediately, as one of the elders starts hacking up something.",
+        "intro_text": "p_l part, menant une patrouille de chats-médecins pour aller faire des réserves lors des premières récoltes du leaf-fall.",
+        "decline_text": ". . .Et ils sont rappelés presque immédiatement, car l'un des anciens commence à cracher quelque chose.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The ground is slippery and damp, and as p_l falls, r_c catches {PRONOUN\/p_l\/object}. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+                "text": "Le sol est glissant et humide, et quand p_l tombe, r_c attrape {PRONOUN/p_l/object}. C'est un joli rappel que la responsabilité de veiller sur le Clan est partagée, et le sauvetage fait aussi frissonner agréablement p_l.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -2923,7 +2923,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel se sent comme s'iel n'avait pas à faire d'effort. C'est juste une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2953,7 +2953,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2975,7 +2975,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -3037,12 +3037,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l goes out with a warrior escort, both for safety as they look for sorely needed fresh supplies that have survived greenleaf so far, and for carrying capacity should they find anything.",
-        "decline_text": "{PRONOUN\/p_l\/poss\/CAP} escort is called away on a different mission, and p_l decides to reorganize the herb store instead.",
+        "intro_text": "p_l sort avec une escorte guerrière, à la fois pour la sécurité pendant qu'iel cherche des fournitures fraîches dont ils ont désespérément besoin après le greenleaf, et pour la capacité de transport si {PRONOUN/p_l/subject} trouve quelque chose.",
+        "decline_text": "{PRONOUN/p_l/poss/CAP} escorte est appelée ailleurs, et p_l décide de réorganiser la réserve d'herbes à la place.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Surprisingly, r_c actually starts up a conversation with {PRONOUN\/p_l\/object} about the herbs they're looking for. p_l launches into the usual spiel, and to {PRONOUN\/p_l\/poss} astonishment, r_c is actually interested, and it makes {PRONOUN\/p_l\/poss} heart feel lighter getting to share {PRONOUN\/p_l\/poss} knowledge and skills with someone who respects {PRONOUN\/p_l\/object}.",
+                "text": "Surprenamment, r_c entame une conversation avec {PRONOUN/p_l/object} au sujet des herbes qu'ils recherchent. p_l se lance dans le discours habituel, et à la grande surprise de {PRONOUN/p_l/poss}, r_c s'intéresse vraiment, ce qui allège le cœur de p_l de pouvoir partager ses connaissances et compétences avec quelqu'un qui respecte {PRONOUN/p_l/object}.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -3064,7 +3064,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel se sent comme s'iel n'avait pas à faire d'effort. C'est juste une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -3094,7 +3094,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common and the other cat bluntly refuses to talk about boring herbs.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun et l'autre chat refuse catégoriquement de parler d'herbes ennuyeuses.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3116,7 +3116,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -3182,12 +3182,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l heads out, leading a patrol of medicine cats to go find any fresh herbs that have survived greenleaf so far.",
-        "decline_text": "...And they're called back almost immediately, as one of the elders starts hacking up something.",
+        "intro_text": "p_l part, menant une patrouille de chats-médecins pour aller chercher d'éventuelles herbes fraîches qui ont survécu au greenleaf jusqu'ici.",
+        "decline_text": "...Et ils sont rappelés presque immédiatement, car l'un des anciens commence à cracher quelque chose.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The ground is slippery with frost, and as p_l falls, r_c catches {PRONOUN\/p_l\/object}. It's a nice reminder that the responsibility of looking after the Clan is a shared one, and the rescue also makes p_l shiver pleasantly.",
+                "text": "Le sol est glissant à cause du givre, et quand p_l tombe, r_c attrape {PRONOUN/p_l/object}. C'est un joli rappel que la responsabilité de veiller sur le Clan est partagée, et le sauvetage fait aussi frissonner agréablement p_l.",
                 "exp": 10,
                 "weight": 20,
                 "relationships": [
@@ -3209,7 +3209,7 @@
                 ]
             },
             {
-                "text": "s_c has always been good at talking, but chatting with r_c they feel like they don't have to be. It's just an herb gathering patrol, but s_c feels more relaxed than {PRONOUN\/s_c\/subject}{VERB\/s_c\/'ve\/'s} felt in moons when they come back to camp, smiling softly.",
+                "text": "s_c a toujours été doué·e pour parler, mais en discutant avec r_c iel se sent comme s'iel n'avait pas à faire d'effort. C'est juste une patrouille de récolte d'herbes, mais s_c se sent plus détendu·e qu'iel ne l'a été depuis des lunes en revenant au camp, souriant doucement.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -3239,7 +3239,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's an exhausting day. p_l starts chatting with r_c to pass the time, but they have nothing in common.",
+                "text": "C'est une journée épuisante. p_l commence à discuter avec r_c pour passer le temps, mais ils n'ont rien en commun.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3261,7 +3261,7 @@
                 ]
             },
             {
-                "text": "Not only do they not find anything, p_l wants to murder s_c. {PRONOUN\/s_c\/subject\/CAP}{VERB\/s_c\/'re\/'s} obnoxious and troublesome and childish, and simply not someone p_l enjoys interacting with.",
+                "text": "Non seulement ils ne trouvent rien, p_l a envie de tuer s_c. {PRONOUN/s_c/subject/CAP}{VERB/s_c/'re/'s} odieux·se, troublant·e et puéril·e, et tout simplement quelqu'un avec qui p_l n'aime pas interagir.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -3329,19 +3329,19 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l is out to gather a few herbs at the behest of {PRONOUN\/p_l\/poss} mentor. The wind is gently rustling the scrubby grass as {PRONOUN\/p_l\/subject} pad along.",
-        "decline_text": "Just before the apprentice can leave, {PRONOUN\/p_l\/poss} mentor calls for {PRONOUN\/p_l\/poss} attention. Apparently, they have a different task that's more pressing.",
+        "intro_text": "p_l sort cueillir quelques herbes à la demande de {PRONOUN/p_l/poss} mentor. Le vent frôle doucement l'herbe rase pendant que {PRONOUN/p_l/subject} avance en silence.",
+        "decline_text": "Juste avant que l'apprenti puisse partir, {PRONOUN/p_l/poss} mentor appelle son attention. Apparemment, ils ont une tâche différente qui est plus urgente.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "p_l is plucking some rosemary when {PRONOUN\/p_l\/poss} attention is suddenly grabbed by omen_list_sight\/m_c. At the sight, the fur on {PRONOUN\/p_l\/poss} back prickles slightly and {PRONOUN\/p_l\/subject} can hear {PRONOUN\/p_l\/poss} thundering heartbeat. {PRONOUN\/p_l\/subject\/CAP} have to tell {PRONOUN\/p_l\/poss} mentor about this sign right away!",
+                "text": "p_l cueille du romarin quand {PRONOUN/p_l/poss} attention est soudainement attirée par omen_list_sight/m_c. À la vue de cela, le poil sur le dos de {PRONOUN/p_l/poss} se hérisse légèrement et {PRONOUN/p_l/subject} entend son cœur battre la chamade. {PRONOUN/p_l/subject/CAP} doit absolument raconter ce signe à {PRONOUN/p_l/poss} mentor tout de suite !",
                 "exp": 20,
                 "weight": 20
             }
         ],
         "fail_outcomes": [
             {
-                "text": "p_l feels a pit of dread beginning to form in {PRONOUN\/p_l\/poss} belly. {PRONOUN\/p_l\/subject\/CAP} forgot where to find the herb that {PRONOUN\/p_l\/poss} mentor wanted. {PRONOUN\/p_l\/subject\/CAP} scent the air hopefully, but it's useless. {PRONOUN\/p_l\/subject\/CAP}'ll have to swallow {PRONOUN\/p_l\/poss} shame and return to ask for directions.",
+                "text": "p_l ressent un profond malaise qui commence à se former dans son ventre. {PRONOUN/p_l/subject/CAP} a oublié où trouver l'herbe que voulait {PRONOUN/p_l/poss} mentor. {PRONOUN/p_l/subject/CAP} hume l'air avec espoir, mais cela ne sert à rien. {PRONOUN/p_l/subject/CAP} devra avaler sa honte et retourner demander des indications.",
                 "exp": 0,
                 "weight": 20
             }

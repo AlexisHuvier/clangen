@@ -21,22 +21,22 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 crouches low behind some grass, searching for the ideal prey to fall to {PRONOUN\/app1\/poss} deadly claws. In front of the mighty hunter, a brightly colored beetle alights on a rock.",
-        "decline_text": "A beetle is beneath {PRONOUN\/app1\/poss} attention.",
+        "intro_text": "app1 se baisse derrière des touffes d'herbe, cherchant la proie idéale qui tombera sous les griffes mortelles de {PRONOUN/app1/poss}. Devant le puissant chasseur, un coléoptère aux couleurs vives se pose sur un rocher.",
+        "decline_text": "Un coléoptère attire l'attention de {PRONOUN/app1/poss}.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "Ha! app1 pounces, the pathetic bug crunching underneath {PRONOUN\/app1\/poss} mighty blow, splattering and - ewwwww. Ew, ew ew ew, there's bug juice all over {PRONOUN\/app1\/poss} paws, between {PRONOUN\/app1\/poss} toes, EWWWWW!",
+                "text": "Ha ! app1 bondit, le pauvre insecte s'écrase sous le coup puissant de {PRONOUN/app1/poss}, éclaboussant — beurk. Beurk, beurk beurk, il y a du jus d'insecte sur les pattes de {PRONOUN/app1/poss}, entre les orteils de {PRONOUN/app1/poss}, BEURK !",
                 "exp": 20,
                 "weight": 20
             },
             {
-                "text": "Ha! app1 leaps, tail lashing furiously as the beetle buzzes under {PRONOUN\/app1\/poss} forepaws, claws sheathed. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/bat\/bats} the bug off the rock and onto the ground, pouncing after it, jumping and twisting as {PRONOUN\/app1\/poss} colorful prey flits around {PRONOUN\/app1\/poss} head in confused, concussed beetle-behavior, unused to being an apprentice's new favorite toy.",
+                "text": "Ha ! app1 saute, la queue fouettant furieusement tandis que le coléoptère bourdonne sous les pattes avant de {PRONOUN/app1/poss}, griffes rentrées. {PRONOUN/app1/subject/CAP} {VERB/app1/bat/bats} le bug du rocher sur le sol, bondissant après lui, sautant et se tortillant pendant que sa proie colorée voltige autour de la tête de {PRONOUN/app1/poss} dans un comportement de coléoptère confus et sonné, peu habitué à devenir le nouveau jouet préféré d'un apprenti.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c pounces, flipping the beetle with soft paws and flopping over onto {PRONOUN\/app1\/poss} back, watching the insect scurry from one paw to the other, so completely entranced by its color and tiny, perfect legs that {PRONOUN\/app1\/subject} {VERB\/app1\/don't\/doesn't} notice {PRONOUN\/app1\/poss} own skill catching and keeping the bug.",
+                "text": "s_c bondit, faisant basculer le coléoptère avec de douces pattes et se laissant tomber sur le dos de {PRONOUN/app1/poss}, regardant l'insecte courir d'une patte à l'autre, si complètement captivé par sa couleur et ses petites pattes parfaites que {PRONOUN/app1/subject} {VERB/app1/don't/doesn't} ne remarque pas sa propre habileté à attraper et garder l'insecte.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -46,12 +46,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "While app1 is wiggling {PRONOUN\/app1\/poss} butt into the perfect pouncing position, the beetle flies off. Awwwww.",
+                "text": "Alors qu'app1 remue {PRONOUN/app1/poss} arrière-train pour se mettre en position parfaite de bond, le coléoptère s'envole. Awwwww.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "Slimy, yet satisfying! Curiosity completed, app1 wanders off - but has to report to the medicine cat den later, when {PRONOUN\/app1\/poss} stomach reminds {PRONOUN\/app1\/object} why cats don't eat random bugs.",
+                "text": "Gluant, mais satisfaisant ! Curiosité assouvie, app1 s'éloigne — mais devra ensuite se présenter au repaire des guérisseurs, quand l'estomac de {PRONOUN/app1/poss} rappellera à {PRONOUN/app1/object} pourquoi les chats ne mangent pas des insectes au hasard.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -95,11 +95,11 @@
             "STORY,1",
             "LORE,1"
         ],
-        "intro_text": "The coolness of the rain sliding along r_c's pelt is something to be savored, a rare treat as the gentle rain shower washes by c_n. And the ground - it's so green, so alive! Why under the Stars does c_n not call this season greenleaf, when everything around them springs to life?!",
-        "decline_text": "Not every cat on the patrol is such a fan of the damp, and while r_c is given time to live in the moment, they all want to move on soon.",
+        "intro_text": "La fraîcheur de la pluie glissant sur le pelage de r_c est quelque chose à savourer, un rare plaisir tandis que la douce averse lave c_n. Et le sol — il est si vert, si vivant ! Pourquoi, sous les Étoiles, c_n n'appelle-t-iel pas cette saison Feuilles Vertes, alors que tout autour d'eux renaît ?!",
+        "decline_text": "Tous les chats de la patrouille n'aiment pas l'humidité, et tandis qu'on laisse r_c profiter de l'instant, ils veulent tous repartir bientôt.",
         "success_outcomes": [
             {
-                "text": "It's ancient, p_l explains. Older than c_n... maybe older than this land. No one is sure what cursed the desert so dry, but in other places, the sun brings light, warmth that is a relief and not a punishment, and there the dry season when the sun reaches its peak power is also the season of green leaves.",
+                "text": "C'est ancien, explique p_l. Plus ancien que c_n... peut-être plus ancien que cette terre. Personne ne sait ce qui a rendu le désert si sec, mais ailleurs, le soleil apporte de la lumière, une chaleur qui est un soulagement et non une punition, et là-bas la saison sèche, quand le soleil atteint sa puissance maximale, est aussi la saison des Feuilles Vertes.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_bord_story",
@@ -140,7 +140,7 @@
                 ]
             },
             {
-                "text": "There are Clans beyond the desert, p_l instructs. In high places and low, wet and, well, {PRONOUN\/p_l\/subject} {VERB\/p_l\/suppose\/supposes} c_n are the cats from where it is dry. Greenleaf being the name of the dry season is older than the experience of there <i>being<\/i> a dry season. In those distant places, greenleaf is the season of plenty, not the harsh thing it is here.",
+                "text": "Il y a des Clans au-delà du désert, explique p_l. En haut comme en bas, dans les régions humides et, eh bien, {PRONOUN/p_l/subject} {VERB/p_l/suppose/supposes} que c_n sont les chats venus d'endroits où il fait sec. Le fait que « Feuilles Vertes » soit le nom de la saison sèche est plus ancien que l'expérience d'<i>exister</i> d'une saison sèche. Dans ces contrées lointaines, Feuilles Vertes est la saison de l'abondance, pas la dureté qu'elle représente ici.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_bord_story",
@@ -183,7 +183,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "There might be novelty in the patter of rain on fur, but novelty isn't always fun. When the cats try to train, the ground has turned into a slippery, muddy mess that their claws can't grip. No one is seriously hurt, but no one's dignity escapes unscathed either.",
+                "text": "Il peut y avoir de la nouveauté dans le crépitement de la pluie sur le pelage, mais la nouveauté n'est pas toujours plaisante. Quand les chats tentent de s'entraîner, le sol devient glissant et boueux et leurs griffes ne peuvent pas s'accrocher. Personne n'est sérieusement blessé, mais la dignité de personne n'en sort indemne non plus.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -246,11 +246,11 @@
         "pl_skill_constraint": [
             "STORY,1"
         ],
-        "intro_text": "In the beginning of dreams, the land was flat and empty, p_l whispers, setting the stage for a story.",
-        "decline_text": "Storytime is interrupted by a rain shower, not that anyone minds more water in c_n's territory.",
+        "intro_text": "Au commencement des rêves, la terre était plate et vide, chuchote p_l, posant le décor d'une histoire.",
+        "decline_text": "Le récit est interrompu par une averse, pas que cela dérange quelqu'un d'avoir plus d'eau dans le territoire de c_n.",
         "success_outcomes": [
             {
-                "text": "The Goorialla rainbow serpent cut great gouges into the land, searching for life to not be alone. He called forth frogs who spat up the rivers, and animals to populate the land, and laid down the first rules, rules not of the Warrior Code, but of ecosystems and biospheres.",
+                "text": "Le serpent arc-en-ciel Goorialla creusa de grandes entailles dans la terre, cherchant la vie pour ne pas être seul. Il fit surgir des grenouilles qui firent jaillir les rivières, et des animaux pour peupler la terre, et posa les premières règles, des règles qui ne sont pas celles du Code du Guerrier, mais des écosystèmes et des biosphères.",
                 "exp": 30,
                 "weight": 20,
                 "art": "gen_bord_story",
@@ -293,7 +293,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Before dreams? How can you be <i>before dreams<\/i>, app1 asks, and won't just settle down and let p_l tell the tale.",
+                "text": "Avant les rêves ? Comment peut-on être <i>avant les rêves</i>, demande app1, et ne veut tout simplement pas se calmer et laisser p_l raconter l'histoire.",
                 "exp": 0,
                 "weight": 20,
                 "art": "gen_train_argue",

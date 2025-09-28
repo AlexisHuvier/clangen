@@ -33,12 +33,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and r_c head out to look for herbs, discussing the latest news and taking advantage of the rains of leaf-bare.",
-        "decline_text": "It seems like some mischievous cat has gotten into the herb storage and they have to sort it all over again.",
+        "intro_text": "p_l et r_c partent chercher des herbes, discutant des dernières nouvelles et profitant des pluies de la période sans feuilles.",
+        "decline_text": "On dirait qu'un chat espiègle est entré dans la réserve d'herbes et ils doivent tout trier à nouveau.",
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "They have a good discussion while foraging among the dunes and manage to come up with several ideas to discuss with c_n's leadership.",
+                "text": "Ils ont une bonne discussion en cherchant parmi les dunes et parviennent à trouver plusieurs idées à présenter aux dirigeants de c_n.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -63,7 +63,7 @@
                 ]
             },
             {
-                "text": "Carefully plucking some herbs, they discuss the latest signs from StarClan and ponder what to do about them. They manage to think up some tentative plans and return to camp to discuss them with the leader and deputy.",
+                "text": "Cueillant soigneusement des herbes, ils discutent des derniers signes de StarClan et réfléchissent à ce qu'il convient d'en faire. Ils réussissent à imaginer quelques plans provisoires et retournent au camp pour en parler au chef et à l'adjoint.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -90,7 +90,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "They fail to interpret any signs, and are too irritated with each other to discuss any other news. Furthermore, neither cat manages to gather anything, the trip cut short by the ominous looking clouds springing up over the horizon.",
+                "text": "Ils ne parviennent à interpréter aucun signe et sont trop irrités l'un contre l'autre pour discuter d'autres nouvelles. De plus, aucun des deux ne réussit à ramasser quoi que ce soit, la sortie étant écourtée par des nuages menaçants apparaissant à l'horizon.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -143,12 +143,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "p_l and r_c take a look at their supply of herbs and decide to combine their efforts into searching for more. Two sets of trained eyes are better than one!",
-        "decline_text": "Unfortunately they are interrupted by a cat claiming they have an emergency. Runny dirt is not an emergency. Ugh.",
+        "intro_text": "p_l et r_c examinent leur réserve d'herbes et décident d'unir leurs efforts pour en chercher davantage. Deux regards entraînés valent mieux qu'un !",
+        "decline_text": "Malheureusement, ils sont interrompus par un chat prétextant une urgence. De la boue qui coule n'est pas une urgence. Pff.",
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "p_l and r_c decide to search on the normally barren scrublands, where recently fallen rain has brought the desert to life. As the sun rises in the sky, its usual heat is dulled by the welcome defense of the clouds, letting the medicine cats fetch the season's bounty.",
+                "text": "p_l et r_c décident de chercher dans les broussailles normalement arides, où la pluie récente a fait renaître le désert. Au lever du soleil, sa chaleur habituelle est atténuée par la protection bienvenue des nuages, permettant aux chats-médecins de récolter l'abondance de la saison.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -172,7 +172,7 @@
                 ]
             },
             {
-                "text": "p_l and r_c decide on a little friendly competition - one medicine cat to another, like all those silly bets the warriors make about hunting prey. They reunite when the sun is going down and walk into camp purring and playfully shoving each other with both their mouths full of herbs.",
+                "text": "p_l et r_c organisent une petite compétition amicale — un chat-médecin contre l'autre, comme ces paris ridicules que font les guerriers sur la chasse. Ils se rejoignent au coucher du soleil et rentrent au camp en ronronnant, se poussant mutuellement avec la gueule pleine d'herbes.",
                 "exp": 10,
                 "weight": 5,
                 "herbs": [
@@ -198,7 +198,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Both p_l and r_c are tense and it shows. Even though it should not be this hard to find any herbs they fail to find even a single one. They return to camp frustrated and irritated with each other.",
+                "text": "p_l et r_c sont tendus et ça se voit. Bien que cela ne devrait pas être si difficile de trouver des herbes, ils n'en trouvent pas une seule. Ils retournent au camp frustrés et irrités l'un contre l'autre.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -219,7 +219,7 @@
                 ]
             },
             {
-                "text": "Even though there should be many herbs they fail to find anything. p_l blames r_c for distracting them and they get into a huge argument.",
+                "text": "Alors qu'il devrait y avoir beaucoup d'herbes, ils ne trouvent rien. p_l accuse r_c de les distraire et ils se lancent dans une énorme dispute.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -268,12 +268,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "Sniffing for daisies, p_l begins a story. Once, eons ago, during the Long Dawn after the Great Moonrise, cats staggered through the cold wide world, searching for a new home.",
-        "decline_text": "Today isn't the time to linger on old history.",
+        "intro_text": "En reniflant des marguerites, p_l commence une histoire. Il y a des éons, pendant la Longue Aube après la Grande Lune, des chats titubaient à travers le vaste monde froid, en quête d'un nouveau foyer.",
+        "decline_text": "Aujourd'hui n'est pas le moment de s'attarder sur les vieilles histoires.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "Their success was owed to many things - StarClan, the mysterious sun-drown-place, other Clans who helped them on their way. But the humble daisy saved many lives, keeping their strength up for long enough to travel to new territories.",
+                "text": "Leur succès tient à bien des choses — StarClan, le mystérieux endroit englouti par le soleil, d'autres Clans qui les aidèrent en chemin. Mais la modeste marguerite sauva de nombreuses vies, maintenant leur force suffisamment longtemps pour voyager vers de nouveaux territoires.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -312,7 +312,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l gets so distracted telling the old histories that {PRONOUN\/p_l\/poss} daisy gathering mission is forgotten.",
+                "text": "p_l est tellement distrait en racontant les vieilles histoires que {PRONOUN/p_l/poss} mission de récolte de marguerites est oubliée.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -360,12 +360,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "p_l ponders one of life's little ironies with a small smile.",
-        "decline_text": "The joke remains a private one.",
+        "intro_text": "p_l songe à l'une des petites ironies de la vie avec un léger sourire.",
+        "decline_text": "La plaisanterie reste personnelle.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "It's at least a little funny, how elder leaves are so suited for easing the pains of the Clan's elders. The tree isn't named for that - there's an old myth about a medicine cat asking an ancient tree for advice - but sometimes the coincidence amuses p_l.",
+                "text": "C'est au moins un peu drôle, la façon dont les feuilles de sureau conviennent si bien à apaiser les douleurs des anciens du Clan. L'arbre n'est pas nommé pour cela — il existe un vieux mythe d'un chat-médecin demandant conseil à un arbre ancien — mais parfois la coïncidence amuse p_l.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -406,7 +406,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c feels like p_l is finding amusement in {PRONOUN\/r_c\/poss} scrambling attempts to get elder leaves, and {PRONOUN\/r_c\/subject}'d really rather p_l <i>didn't<\/i>.",
+                "text": "r_c a l'impression que p_l se moque des tentatives désespérées de {PRONOUN/r_c/poss} pour obtenir des feuilles de sureau, et {PRONOUN/r_c/subject} préférerait vraiment que p_l <i>ne le fasse pas</i>.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -427,7 +427,7 @@
                 ]
             },
             {
-                "text": "s_c hears p_l chuckling, and can't help but lash {PRONOUN\/s_c\/poss} tail. Why is p_l laughing at {PRONOUN\/s_c\/object} when {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} just trying to help get the herbs?",
+                "text": "s_c entend p_l glousser et ne peut s'empêcher de fouetter {PRONOUN/s_c/poss} queue. Pourquoi p_l se moque-t-il de {PRONOUN/s_c/object} quand {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} simplement en train d'aider à ramasser les herbes ?",
                 "exp": 0,
                 "weight": 20,
                 "can_have_stat": [
@@ -500,12 +500,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "As the patrol sets out, p_l remembers an old saying about searching for juniper.",
-        "decline_text": "The patrol doesn't stop to listen.",
+        "intro_text": "Alors que la patrouille s'en va, p_l se remémore un vieux proverbe sur la recherche du genévrier.",
+        "decline_text": "La patrouille ne s'arrête pas pour écouter.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "If finding juniper is quite a fight, be sensible and look for a height. See - juniper trees grow in dry soil, typically in higher places.",
+                "text": "Si trouver du genévrier est assez difficile, soyez sensé et cherchez en hauteur. Voyez — les genévriers poussent dans un sol sec, généralement sur des terrains élevés.",
                 "exp": 10,
                 "weight": 20,
                 "herbs": [
@@ -544,7 +544,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "There's no time for silly sayings! They're supposed to come back to camp with herbs, not stories!",
+                "text": "Il n'y a pas le temps pour des proverbes ridicules ! Ils sont censés revenir au camp avec des herbes, pas des histoires !",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -593,12 +593,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "Keeping a supply of lungwort is serious business, p_l instructs.",
-        "decline_text": "Yes, the cats all know that, that's why they're here looking for the stuff.",
+        "intro_text": "Maintenir une réserve de pulmonaire est une affaire sérieuse, instruit p_l.",
+        "decline_text": "Oui, tous les chats le savent, c'est pourquoi ils sont là à en chercher.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "Lungwort doesn't help with many ailments. But it is the <b>only<\/b> cure for yellowcough, and Clans have wasted away and died out for want of it, plague sweeping through their ranks, breath rasping in failing lungs till none remained to witness. c_n <i>needs<\/i> a steady supply of lungwort.",
+                "text": "La pulmonaire n'aide pas pour beaucoup de maux. Mais c'est le <b>seul</b> remède contre la toux jaune, et des Clans ont dépéri et disparu par manque de celle-ci, la peste ravageant leurs rangs, le souffle rauque dans des poumons défaillants jusqu'à ce qu'il ne reste plus personne pour en témoigner. c_n a <i>besoin</i> d'un approvisionnement régulier en pulmonaire.",
                 "exp": 20,
                 "weight": 20,
                 "art": "gen_bord_story",
@@ -638,7 +638,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Just thinking of the histories, the Clans lost to plagues that only lungwort can cure - it makes r_c distracted, {PRONOUN\/r_c\/poss} tail lashing agitatedly, and {PRONOUN\/r_c\/subject} {VERB\/r_c\/seem\/seems} to mistake <i>everything<\/i> as lungwort... Once r_c suggests that deathberries are lungwort, p_l decides to call the patrol to a halt.",
+                "text": "Rien qu'en pensant aux histoires des Clans perdus à cause de pestes que seule la pulmonaire peut guérir — cela distrait r_c, {PRONOUN/r_c/poss} queue fouettant avec agitation, et {PRONOUN/r_c/subject} {VERB/r_c/seem/seems} à confondre <i>tout</i> avec de la pulmonaire... Une fois que r_c suggère que les baies mortelles en sont, p_l décide d'arrêter la patrouille.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -700,12 +700,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "As they lift their muzzles to try and catch mallow's sweet scent on the wind, p_l asks the patrol if they know how the herb got its name.",
-        "decline_text": "Before p_l can continue, a messenger arrives from camp - p_l's presence is needed there.",
+        "intro_text": "Alors qu'ils lèvent leurs museaux pour tenter d'attraper le doux parfum de la mauve sur le vent, p_l demande à la patrouille si elle sait comment cette herbe a obtenu son nom.",
+        "decline_text": "Avant que p_l ne puisse continuer, un messager arrive du camp — la présence de p_l est requise là-bas.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "Mallow has a very literal name - it mellows things out, helping calm both the gut and the respiratory system. Perhaps it's not the most powerful herb in their arsenal, but it's excellent at helping in combination with others.",
+                "text": "La mauve a un nom très littéral — elle apaise les choses, aidant à calmer à la fois les intestins et le système respiratoire. Ce n'est peut-être pas l'herbe la plus puissante de leur arsenal, mais elle est excellente en complément d'autres.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -731,12 +731,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Try as they might, no one can sniff out any mallow, and the cats return to camp empty-pawed.",
+                "text": "Malgré tous leurs efforts, personne ne parvient à repérer de la mauve, et les chats rentrent au camp les pattes vides.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "They find mallow... but r_c ends up eating it instead of carrying it back, resulting in the herbs being ruined.",
+                "text": "Ils trouvent de la mauve... mais r_c finit par la manger au lieu de la rapporter, ce qui gâche les herbes.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -785,12 +785,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "Heads crane about, looking for marigold. As they work, p_l offers a story.",
-        "decline_text": "Herb gathering isn't always compatible with conversation, and p_l trails off before {PRONOUN\/p_l\/subject} truly {VERB\/p_l\/start\/starts}.",
+        "intro_text": "Les têtes se dressent, cherchant du souci. Pendant qu'ils travaillent, p_l propose une histoire.",
+        "decline_text": "La récolte d'herbes n'est pas toujours compatible avec la conversation, et p_l s'interrompt avant que {PRONOUN/p_l/subject} ne {VERB/p_l/start/starts} vraiment.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "Once upon a time there was a plant that, unusually, loved not the midday sun's strength, but the sunset's quiet beauty. When it came time to bloom itself, it chose those colors, keeping a hint of the sunset's warmth for itself. When a medicine cat uses marigold to treat stiff joints, that warmth is gifted to their patients.",
+                "text": "Il était une fois une plante qui, de manière inhabituelle, n'aimait pas la force du soleil de midi, mais la beauté tranquille du coucher. Quand vient le temps de fleurir, elle choisit ces couleurs, gardant pour elle un soupçon de la chaleur du coucher. Quand un chat-médecin utilise le souci pour traiter des articulations raides, cette chaleur est offerte à leurs patients.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -829,7 +829,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It's always difficult enough to try and identify marigold without its signature bloom, and though p_l doesn't mean to, {PRONOUN\/p_l\/poss} story distracts from the patrol's efforts.",
+                "text": "Il est déjà assez difficile d'identifier le souci sans sa floraison caractéristique, et même si p_l ne le veut pas, l'histoire de {PRONOUN/p_l/poss} distrait des efforts de la patrouille.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -877,12 +877,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "Looking up at a powerful old oak tree reminds p_l of an old tale.",
-        "decline_text": "Now's not the time to get distracted.",
+        "intro_text": "Lever les yeux vers un puissant vieux chêne rappelle à p_l un ancien conte.",
+        "decline_text": "Ce n'est pas le moment de se laisser distraire.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "It's said that when oak leaves are chewed or mixed into a poultice, their power to prevent infection is the result of the strength of ancient trees being given to the cats using them. The older the tree, the better its leaves are as herbs.",
+                "text": "On dit que lorsque les feuilles de chêne sont mâchées ou mélangées en cataplasme, leur pouvoir à prévenir l'infection vient de la force des arbres anciens donnée aux chats qui les utilisent. Plus l'arbre est vieux, meilleures sont ses feuilles comme herbes.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -921,7 +921,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Whatever tale p_l was reminded of, it does nothing to help {PRONOUN\/p_l\/object} climb the damn tree and fetch the leaves. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/misjudge\/misjudges} a step and {VERB\/p_l\/are\/is} left clinging, claws out and eyes wide. Let's return to the ground. Now.",
+                "text": "Quelle que soit l'histoire qui a traversé l'esprit de p_l, elle n'aide en rien {PRONOUN/p_l/object} à grimper sur ce fichu arbre et à aller chercher les feuilles. {PRONOUN/p_l/subject/CAP} {VERB/p_l/misjudge/misjudges} un pas et {VERB/p_l/are/is} se retrouve agrippé, griffes dehors et yeux écarquillés. Retour au sol. Maintenant.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -973,12 +973,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "app1 is probably not <i>trying<\/i> to be annoying - but {PRONOUN\/app1\/poss} complaints about the taste of ragwort help no one, and it's just slowing the entire patrol down.",
-        "decline_text": "Toughen up, honestly.",
+        "intro_text": "app1 n'essaie probablement pas <i>d'être</i> agaçant — mais les plaintes de {PRONOUN/app1/poss} sur le goût du séneçon n'aident personne, et ralentissent toute la patrouille.",
+        "decline_text": "Sois plus coriace, franchement.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "p_l sighs, holding {PRONOUN\/p_l\/poss} temper. Listen, the strength that ragwort imparts is what gives it such a foul taste. If app1's found a particularly disgusting bunch of leaves, that's success, not failure.",
+                "text": "p_l soupire, maîtrisant {PRONOUN/p_l/poss} tempérament. Écoute, la force que confère le séneçon est ce qui lui donne ce goût si déplaisant. Si app1 a trouvé un bouquet de feuilles particulièrement dégoûtant, c'est une réussite, pas un échec.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -1018,7 +1018,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l calls off the patrol and makes a note to talk to app1's mentor about {PRONOUN\/app1\/poss} behavior.",
+                "text": "p_l annule la patrouille et prend note de parler au mentor d'app1 au sujet du comportement de {PRONOUN/app1/poss}.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1039,7 +1039,7 @@
                 ]
             },
             {
-                "text": "p_l snaps at app1 for complaining so much when {PRONOUN\/app1\/subject} {VERB\/app1\/are\/is} supposed to be helping {PRONOUN\/p_l\/object} gather herbs.",
+                "text": "p_l pique une crise auprès d'app1 pour se plaindre autant alors que {PRONOUN/app1/subject} {VERB/app1/are/is} censé aider {PRONOUN/p_l/object} à ramasser des herbes.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1092,12 +1092,12 @@
             "STORY,1",
             "HEALER,1"
         ],
-        "intro_text": "It's said that the first queen who lost her life in kitting left a blessing to save those who came after her.",
-        "decline_text": "A rainshower disrupts the story, and the herb gathering is called off.",
+        "intro_text": "On raconte que la première reine morte en mettant bas laissa une bénédiction pour sauver celles qui lui succédèrent.",
+        "decline_text": "Une averse interrompt l'histoire, et la récolte d'herbes est annulée.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The jagged edges of the raspberry leaves mark them as a gift from the stars. Their pain relief and ability to reduce bloodloss have saved countless lives, and brought kittens safely into the world.",
+                "text": "Les bords dentelés des feuilles de framboisier les marquent comme un don des étoiles. Leurs propriétés analgésiques et leur capacité à réduire les pertes de sang ont sauvé d'innombrables vies et ont permis la naissance sûre de chatons.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -1123,7 +1123,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Raspberries aren't a blessing, they're a health hazard, r_c grumbles, disentangling {PRONOUN\/r_c\/poss} pelt from the brambles' thorns.",
+                "text": "Les framboisiers ne sont pas une bénédiction, ce sont un danger pour la santé, grogne r_c en démêlant {PRONOUN/r_c/poss} pelage des épines des ronces.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -1140,9 +1140,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred from bramble thorns on a herb gathering patrol.",
-                    "reg_death": "Bramble thorns scratched up m_c, and the wounds eventually festered and killed {PRONOUN\/m_c\/object}.",
-                    "lead_death": "bramble thorns scratched up m_c and the wounds eventually festered and killed {PRONOUN\/m_c\/object}."
+                    "scar": "m_c a été marqué par les épines des ronces lors d'une patrouille de récolte d'herbes.",
+                    "reg_death": "Les épines des ronces ont égratigné m_c, et les blessures ont fini par s'infecter et tuer {PRONOUN/m_c/object}.",
+                    "lead_death": "Les épines des ronces ont égratigné m_c et les blessures ont fini par s'infecter et tuer {PRONOUN/m_c/object}."
                 },
                 "relationships": [
                     {
@@ -1192,12 +1192,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "app1 shovels tansy into {PRONOUN\/app1\/poss} mouth without a care in the world. p_l stops {PRONOUN\/app1\/object}, and tells {PRONOUN\/app1\/object} {PRONOUN\/app1\/subject} really <i>should<\/i> have a care.",
-        "decline_text": "p_l takes {PRONOUN\/app1\/object} down to a stream to clean out {PRONOUN\/app1\/poss} mouth.",
+        "intro_text": "app1 bourre de la tanaisie dans {PRONOUN/app1/poss} bouche sans se soucier du monde. p_l arrête {PRONOUN/app1/object}, et dit à {PRONOUN/app1/object} que {PRONOUN/app1/subject} devrait vraiment <i>faire attention</i>.",
+        "decline_text": "p_l emmène {PRONOUN/app1/object} jusqu'à un ruisseau pour nettoyer {PRONOUN/app1/poss} bouche.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "Tansy isn't mallow or dandelion, to be played with by kits. In high concentrations or potency, it can kill the elderly, pregnant, or compromised, and it will <i>definitely<\/i> make app1 sick if {PRONOUN\/app1\/subject} {VERB\/app1\/don't\/doesn't} respect it.",
+                "text": "La tanaisie n'est ni mauve ni pissenlit à manipuler comme un chaton. À fortes concentrations ou puissance, elle peut tuer les personnes âgées, les gestantes ou les fragiles, et elle rendra <i>certainement</i> app1 malade si {PRONOUN/app1/subject} {VERB/app1/don't/doesn't} la respecte.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -1223,7 +1223,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "p_l spends so much time lecturing app1 on the dangers of tansy that {PRONOUN\/p_l\/subject} {VERB\/p_l\/end\/ends} up failing to collect any of the stars-damned stuff.",
+                "text": "p_l passe tellement de temps à faire la leçon à app1 sur les dangers de la tanaisie que {PRONOUN/p_l/subject} {VERB/p_l/end/ends} finit par ne rien ramasser de ce fichu truc.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1244,7 +1244,7 @@
                 ]
             },
             {
-                "text": "p_l wanders off to do {PRONOUN\/p_l\/poss} own collecting. However, leaving the apprentice alone is a mistake. It takes a <i>lot<\/i> of tansy to poison a cat, but app1 was trying <i>very<\/i> hard to collect as much as possible.",
+                "text": "p_l s'éloigne pour faire sa propre cueillette. Cependant, laisser l'apprenti seul est une erreur. Il faut une <i>grande</i> quantité de tanaisie pour empoisonner un chat, mais app1 s'efforçait <i>très</i> fort d'en ramasser le plus possible.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -1259,8 +1259,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c poisoned {PRONOUN\/m_c\/self} collecting excessive amounts of tansy as an apprentice.",
-                    "lead_death": "after collecting excessive amounts of tansy as an apprentice"
+                    "reg_death": "m_c s'est empoisonné·e en collectant des quantités excessives de tanaisie en tant qu'apprenti.",
+                    "lead_death": "après avoir collecté des quantités excessives de tanaisie en tant qu'apprenti"
                 },
                 "relationships": [
                     {
@@ -1280,7 +1280,7 @@
                 ]
             },
             {
-                "text": "app1 ignores p_l as p_l launches into a story about the dangers of tansy. That's the wrong move though, because by the time {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} back at camp, nausea has well and truly set in.",
+                "text": "app1 ignore p_l alors que p_l se lance dans une histoire sur les dangers de la tanaisie. C'est cependant une mauvaise idée, car au moment où {PRONOUN/app1/subject}{VERB/app1/'re/'s} de retour au camp, la nausée s'est bien et vraiment installée.",
                 "exp": 0,
                 "weight": 20,
                 "injury": [
@@ -1304,8 +1304,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c poisoned {PRONOUN\/m_c\/self} collecting excessive amounts of tansy as an apprentice.",
-                    "lead_death": "after collecting excessive amounts of tansy as an apprentice"
+                    "reg_death": "m_c s'est empoisonné·e en collectant des quantités excessives de tanaisie en tant qu'apprenti.",
+                    "lead_death": "après avoir collecté des quantités excessives de tanaisie en tant qu'apprenti"
                 },
                 "relationships": [
                     {
@@ -1360,12 +1360,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "Listen to the wisdom of the sages, p_l meows. app1 doesn't just need to learn to set bones and clean wounds; being a medicine cat is so much more than blood and bodies.",
-        "decline_text": "They're interrupted by a Clanmate who needs them. It halts the lesson, but also reinforces p_l's point.",
+        "intro_text": "Écoutez la sagesse des anciens, miaule p_l. app1 n'a pas seulement besoin d'apprendre à remettre des os en place et nettoyer des plaies ; être un chat-médecin, c'est bien plus que le sang et les corps.",
+        "decline_text": "Ils sont interrompus par un Clanmate qui a besoin d'eux. Cela arrête la leçon, mais renforce aussi le point de p_l.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "Some sicknesses aren't physical, but live in the mind instead, p_l instructs. That's very normal, and just as a Clanmate with a twisted leg is just as loved and valued as one who can run without pain, an illness that is mental is just as valid of a struggle. Those cats are just as loved and supported in their needs.",
+                "text": "Certaines maladies ne sont pas physiques, mais vivent dans l'esprit, enseigne p_l. C'est tout à fait normal, et tout comme un Clanmate avec une patte tordue est autant aimé et estimé qu'un autre qui peut courir sans douleur, une maladie mentale est tout aussi légitime comme épreuve. Ces chats sont tout autant aimés et soutenus dans leurs besoins.",
                 "exp": 30,
                 "weight": 20,
                 "herbs": [
@@ -1391,7 +1391,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 feels overwhelmed with the responsibility of supporting Clanmates going through mental struggles - physical fights are so much simpler to support them with. p_l halts the lesson to comfort {PRONOUN\/app1\/object}.",
+                "text": "app1 se sent dépassé·e par la responsabilité de soutenir des Clanmates traversant des épreuves mentales — les combats physiques sont tellement plus simples à accompagner. p_l interrompt la leçon pour réconforter {PRONOUN/app1/object}.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [

@@ -16,12 +16,12 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol approaches a very strange Twolegplace. Gigantic metal leaves lie in unnatural rows, shading the desert beneath them, metal tree branches snake straightly across the ground, and a little Twoleg hut sits in one corner, seemingly abandoned.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "La patrouille approche d'un endroit très étrange fréquenté par des Deux‑pattes. D'immenses feuilles métalliques sont alignées en rangées artificielles, faisant de l'ombre sur le désert en dessous, des branches métalliques serpentent droit sur le sol, et une petite cabane de Deux‑pattes se tient dans un coin, apparemment abandonnée.",
+        "decline_text": "La patrouille décide d'aller chasser ailleurs.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The patrol has a successful hunt. While Twolegs seem to have built this metal forest, they've also apparently abandoned it.",
+                "text": "La patrouille réussit sa chasse. Bien que les Deux‑pattes semblent avoir construit cette forêt de métal, ils l'ont apparemment aussi abandonnée.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -29,7 +29,7 @@
                 ]
             },
             {
-                "text": "The shade of the metal forest offers countless desert creatures as possible prey, and the cats have a very successful hunt, hiding from the sunlight under Twoleg leaves.",
+                "text": "L'ombre de la forêt de métal offre d'innombrables créatures du désert comme proies possibles, et les chats font une très bonne chasse en se cachant de la lumière sous les feuilles des Deux‑pattes.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -39,7 +39,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol tries, but the unnatural environment causes everyone to be on edge, and their hunt is unsuccessful.",
+                "text": "La patrouille tente sa chance, mais l'environnement si étrange met tout le monde sur les nerfs, et leur chasse échoue.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -49,14 +49,14 @@
         ],
         "antag_fail_outcomes": [
             {
-                "text": "Your cats try to knock over a metal leaf, but there aren't enough of them to force it over.",
+                "text": "Vos chats essaient de renverser une feuille métallique, mais ils ne sont pas assez nombreux pour la faire tomber.",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "antag_success_outcomes": [
             {
-                "text": "The cats leap onto a Twoleg metal leaf, sending it over with a mighty crash. This is c_n territory, not Twoleg!",
+                "text": "Les chats sautent sur une feuille métallique des Deux‑pattes, la faisant basculer avec un fracas énorme. C'est le territoire de c_n, pas des Deux‑pattes !",
                 "exp": 20,
                 "weight": 20
             }
@@ -79,12 +79,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol approaches a very strange Twolegplace. Gigantic metal leaves lie in unnatural rows, shading the desert beneath them, metal tree branches snake straightly across the ground, and a little Twoleg hut sits in one corner, seemingly abandoned.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "La patrouille approche d'un endroit très étrange fréquenté par des Deux‑pattes. D'immenses feuilles métalliques sont alignées en rangées artificielles, faisant de l'ombre sur le désert en dessous, des branches métalliques serpentent droit sur le sol, et une petite cabane de Deux‑pattes se tient dans un coin, apparemment abandonnée.",
+        "decline_text": "La patrouille décide d'aller chasser ailleurs.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The patrol cats split up, using sentries to ensure that nothing disturbs their hunts.",
+                "text": "Les chats de la patrouille se dispersent, utilisant des sentinelles pour s'assurer que rien ne perturbe leurs chasses.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -92,7 +92,7 @@
                 ]
             },
             {
-                "text": "The shade of the metal forest offers countless desert creatures as possible prey, and the cats have a very successful hunt, hiding from the sunlight under Twoleg leaves. ",
+                "text": "L'ombre de la forêt de métal offre d'innombrables créatures du désert comme proies possibles, et les chats font une très bonne chasse en se cachant de la lumière sous les feuilles des Deux‑pattes. ",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -102,7 +102,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol tries, but the unnatural environment causes everyone to be on edge, and their hunt is unsuccessful.",
+                "text": "La patrouille tente sa chance, mais l'environnement si étrange met tout le monde sur les nerfs, et leur chasse échoue.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -112,14 +112,14 @@
         ],
         "antag_fail_outcomes": [
             {
-                "text": "The cats try to knock over a metal leaf. It works, but several members of the patrol spring backward, yowling in pain - the Twolegs have trapped the leaf, storing fire that does not burn in it!",
+                "text": "Les chats essaient de renverser une feuille métallique. Ça marche, mais plusieurs membres de la patrouille reculent en poussant des miaulements de douleur : les Deux‑pattes ont piégé la feuille, y stockant un feu qui ne brûle pas !",
                 "exp": 0,
                 "weight": 20
             }
         ],
         "antag_success_outcomes": [
             {
-                "text": "The cats leap onto a Twoleg metal leaf, sending it over with a mighty crash. This is c_n territory, not Twoleg!",
+                "text": "Les chats sautent sur une feuille métallique des Deux‑pattes, la faisant basculer avec un fracas énorme. C'est le territoire de c_n, pas des Deux‑pattes !",
                 "exp": 20,
                 "weight": 20
             }
@@ -142,12 +142,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol looks around for something to disguise their scent while hunting.",
-        "decline_text": "On second thought, maybe not.",
+        "intro_text": "La patrouille cherche quelque chose pour masquer leur odeur pendant la chasse.",
+        "decline_text": "Finalement, peut‑être pas.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "{PRONOUN\/r_c\/subject\/CAP} can't think of anything that would work, but {PRONOUN\/r_c\/poss} hunt goes well regardless.",
+                "text": "{PRONOUN/r_c/subject/CAP} ne peut penser à rien qui fonctionnerait, mais {PRONOUN/r_c/poss} chasse se passe bien malgré tout.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -155,7 +155,7 @@
                 ]
             },
             {
-                "text": "A sand bath will do! The plan works, and their hunt goes well.",
+                "text": "Un bain de sable fera l'affaire ! Le plan marche, et leur chasse se passe bien.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -163,7 +163,7 @@
                 ]
             },
             {
-                "text": "s_c leads them to some rabbit droppings in the scrubland - it's not clean, but it's extremely effective, and the patrol hunts well.",
+                "text": "s_c les conduit vers des crottes de lapin dans la broussaille - ce n'est pas propre, mais c'est extrêmement efficace, et la patrouille chasse bien.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -174,7 +174,7 @@
                 ]
             },
             {
-                "text": "s_c tells the patrol to roll in a patch of garlic to disguise their scent, which works perfectly. It's a funny taste to wash off their pelts though.",
+                "text": "s_c dit à la patrouille de se rouler dans un patch d'ail pour masquer leur odeur, ce qui marche parfaitement. C'est un goût drôle à faire partir de leur pelage cependant.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -187,12 +187,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol finds nothing to disguise their scent, and no prey either.",
+                "text": "La patrouille ne trouve rien pour masquer leur odeur, et aucune proie non plus.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "The patrol finds no prey; it seems like all the prey was scared off because of their stench!",
+                "text": "La patrouille ne trouve aucune proie ; il semble que toutes les proies aient été effrayées à cause de leur puanteur !",
                 "exp": 0,
                 "weight": 20
             }
@@ -215,12 +215,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c looks around for something to disguise their scent while hunting.",
-        "decline_text": "On second thought, maybe not.",
+        "intro_text": "r_c cherche quelque chose pour masquer son odeur pendant la chasse.",
+        "decline_text": "Finalement, peut‑être pas.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "{PRONOUN\/r_c\/subject\/CAP} can't think of anything that would work, but {PRONOUN\/r_c\/poss} hunt goes well regardless.",
+                "text": "{PRONOUN/r_c/subject/CAP} ne peut penser à rien qui fonctionnerait, mais {PRONOUN/r_c/poss} chasse se passe bien malgré tout.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -228,7 +228,7 @@
                 ]
             },
             {
-                "text": "s_c finds some rabbit droppings in the scrublands - it's not clean, but it's extremely effective, and the hunt goes well.",
+                "text": "s_c trouve des crottes de lapin dans les broussailles - ce n'est pas propre, mais c'est extrêmement efficace, et la chasse se passe bien.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -239,7 +239,7 @@
                 ]
             },
             {
-                "text": "s_c rolls in a patch of garlic to disguise {PRONOUN\/s_c\/poss} scent, which works perfectly. It's a funny taste to wash off {PRONOUN\/s_c\/poss} pelt, though.",
+                "text": "s_c se roule dans un patch d'ail pour masquer {PRONOUN/s_c/poss} odeur, ce qui marche parfaitement. C'est un goût drôle à faire partir de {PRONOUN/s_c/poss} pelage cependant.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -252,12 +252,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol finds nothing to disguise their scent, and no prey either.",
+                "text": "La patrouille ne trouve rien pour masquer leur odeur, et aucune proie non plus.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "r_c finds no prey; it seems like all the prey was scared off because of their stench!",
+                "text": "r_c ne trouve pas de proie ; il semble que toutes les proies aient été effrayées à cause de leur puanteur !",
                 "exp": 0,
                 "weight": 20
             }
@@ -285,12 +285,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c's mentor assesses them by sending them on a solo hunt.",
-        "decline_text": "r_c asks their mentor to do the assessment some other time.",
+        "intro_text": "Le mentor de r_c l'évalue en l'envoyant en chasse solo.",
+        "decline_text": "r_c demande à son mentor de reporter l'évaluation à un autre moment.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "r_c manages a skillful catch, and brings it back to the camp to show everyone!",
+                "text": "r_c réussit une capture habile et l'apporte au camp pour le montrer à tout le monde !",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -298,7 +298,7 @@
                 ]
             },
             {
-                "text": "r_c focuses completely on {PRONOUN\/r_c\/poss} test, slipping into a clear-eyed, focused routine of catch and stash, catch and stash. Eventually {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} caught enough to need {PRONOUN\/r_c\/poss} mentor's help carrying it back to camp, and the sight of the fresh-kill pile stocked with {PRONOUN\/r_c\/poss} prey - {PRONOUN\/r_c\/subject} {VERB\/r_c\/feel\/feels} ready to burst with happiness!",
+                "text": "r_c se concentre complètement sur {PRONOUN/r_c/poss} épreuve, glissant dans une routine claire et concentrée de saisir et cacher, saisir et cacher. Finalement {PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} attrapé assez pour avoir besoin de l'aide de {PRONOUN/r_c/poss} mentor pour tout ramener au camp, et la vue du tas de prises bien garni de ses proies - {PRONOUN/r_c/subject} {VERB/r_c/feel/feels} prêt à exploser de bonheur !",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -306,7 +306,7 @@
                 ]
             },
             {
-                "text": "It's a terrible day for hunting, the prey running sparse and alert. But s_c takes {PRONOUN\/s_c\/poss} time and doesn't let the conditions discourage {PRONOUN\/s_c\/subject}, until eventually the right opportunity presents itself and {PRONOUN\/s_c\/subject} pull off a perfect catch!",
+                "text": "C'est une terrible journée pour la chasse, les proies étant rares et vigilantes. Mais s_c prend son temps et ne laisse pas les conditions le décourager, jusqu'à ce que l'occasion se présente et que {PRONOUN/s_c/subject} réussisse une capture parfaite !",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -331,12 +331,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Hunting is poor, and while r_c's mentor is disappointed, they don't expect r_c to catch what isn't there.",
+                "text": "La chasse est mauvaise, et bien que le mentor de r_c soit déçu, il ne s'attend pas à ce que r_c attrape ce qui n'est pas là.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c is too hasty, bouncing after first one prey, then another, and it ends with them empty-pawed and exhausted. Their mentor is disappointed - they clearly need more training.",
+                "text": "s_c est trop hâtif, partant après une proie puis une autre, et finit par revenir les pattes vides et épuisé. Leur mentor est déçu - ils ont clairement besoin de plus d'entraînement.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -372,12 +372,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c heads out into the desert alone, wanting to sink their teeth into some prey and have some time to themselves.",
-        "decline_text": "r_c turns back to camp, deciding that a group hunt would be more effective.",
+        "intro_text": "r_c part seul dans le désert, voulant planter ses crocs dans de la proie et avoir un peu de temps pour lui.",
+        "decline_text": "r_c fait demi‑tour vers le camp, décidant qu'une chasse de groupe serait plus efficace.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "r_c heads off to one of their favorite spots in the desert, a dry riverbed with plenty of trees and bushes providing excellent ambush chances. And what do you know, they are bush! Or they were as far as that hare thought.",
+                "text": "r_c se rend à l'un de ses endroits préférés dans le désert, un lit de rivière asséché avec beaucoup d'arbres et de buissons offrant d'excellentes chances d'embuscade. Et que croyez‑vous, ils sont bush ! Ou l'étaient autant que ce lièvre le pensait.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -385,7 +385,7 @@
                 ]
             },
             {
-                "text": "r_c finds a fat, dumb, slow ground squirrel, and they can barely drag the thing back to camp, but great StarClan, it's juicy when they sit down to eat it with their Clanmates.",
+                "text": "r_c trouve un écureuil terrestre gras, stupide et lent, et il peut à peine traîner la chose jusqu'au camp, mais bonne Étoile‑Clan, c'est juteux quand ils s'assoient pour le manger avec leurs camarades de Clan.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -393,7 +393,7 @@
                 ]
             },
             {
-                "text": "s_c gets the chance to try out an idea they've been sitting on for a while. There's a nest of lizards that they've spotted that've chosen a particularly bad home, and they manage to reach down into one of the rock refuges, fishing out small reptiles by the handful.",
+                "text": "s_c a l'occasion d'essayer une idée qu'il murissait depuis un moment. Il y a un nid de lézards qu'ils ont repéré qui a choisi un endroit particulièrement mauvais, et il parvient à attraper de petits reptiles à la poignée.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -404,7 +404,7 @@
                 ]
             },
             {
-                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Clan's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
+                "text": "Les proies sont rares aujourd'hui. Mais s_c a de la patience, et attend sagement l'occasion parfaite au lieu de s'énerver. Il revient au camp avec une bonne contribution aux réserves du Clan, ayant passé une journée relaxante à ruminer ses pensées en attendant les proies.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -426,12 +426,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "You can't catch what isn't there, and the prey today is very not there.",
+                "text": "On ne peut pas attraper ce qui n'est pas là, et les proies aujourd'hui sont vraiment absentes.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c starts the day with seemingly endless energy, but as one hunt fails after another, that energy runs dry. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/return\/returns} to camp, empty-pawed and prickling with frustration.",
+                "text": "s_c commence la journée avec une énergie apparemment infinie, mais à mesure que les chasses échouent les unes après les autres, cette énergie s'épuise. {PRONOUN/s_c/subject/CAP} {VERB/s_c/return/returns} au camp, les pattes vides et frémissant de frustration.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -466,12 +466,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c heads out into the desert alone, wanting to sink their teeth into some prey and have some time to themselves.",
-        "decline_text": "r_c turns back to camp, deciding that a group hunt would be more effective.",
+        "intro_text": "r_c part seul dans le désert, voulant planter ses crocs dans de la proie et avoir un peu de temps pour lui.",
+        "decline_text": "r_c fait demi‑tour vers le camp, décidant qu'une chasse de groupe serait plus efficace.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "r_c heads off to one of their favorite spots in the desert, a dry riverbed with plenty of trees and bushes providing excellent ambush chances. And what do you know, they are bush! Or they were as far as that hare thought. They snicker to themselves as they pad back to camp.",
+                "text": "r_c se rend à l'un de ses endroits préférés dans le désert, un lit de rivière asséché avec beaucoup d'arbres et de buissons offrant d'excellentes chances d'embuscade. Et que croyez‑vous, ils sont bush ! Ou l'étaient autant que ce lièvre le pensait. Il se moque doucement en revenant au pas vers le camp.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -479,7 +479,7 @@
                 ]
             },
             {
-                "text": "r_c finds a fat, dumb, slow ground squirrel, and they can barely drag the thing back to camp, but great StarClan, it's juicy when they sit down to eat it with their Clanmates. Purring, {PRONOUN\/r_c\/subject} {VERB\/r_c\/take\/takes} the opportunity for a moment of peace, relaxing with their friends.",
+                "text": "r_c trouve un écureuil terrestre gras, stupide et lent, et il peut à peine traîner la chose jusqu'au camp, mais bonne Étoile‑Clan, c'est juteux quand ils s'assoient pour le manger avec leurs camarades de Clan. Ronronnant, {PRONOUN/r_c/subject} {VERB/r_c/take/takes} ce moment de paix, se relaxant avec ses amis.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -487,7 +487,7 @@
                 ]
             },
             {
-                "text": "s_c gets the chance to try out an idea they've been sitting on for a while. There's a nest of lizards that they've spotted that've chosen a particularly bad home, and they manage to reach down into one of the rock refuges, fishing out small reptiles by the handful. This is a good spot to remember when c_n hits hard times in greenleaf.",
+                "text": "s_c a l'occasion d'essayer une idée qu'il murissait depuis un moment. Il y a un nid de lézards qu'ils ont repéré qui a choisi un endroit particulièrement mauvais, et il parvient à attraper de petits reptiles à la poignée. C'est un bon endroit à retenir quand c_n traversera des temps difficiles en feuillaison verte.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -498,7 +498,7 @@
                 ]
             },
             {
-                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Clan's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
+                "text": "Les proies sont rares aujourd'hui. Mais s_c a de la patience, et attend sagement l'occasion parfaite au lieu de s'énerver. Il revient au camp avec une bonne contribution aux réserves du Clan, ayant passé une journée relaxante à ruminer ses pensées en attendant les proies.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -520,12 +520,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "You can't catch what isn't there, and the prey today is very not there.",
+                "text": "On ne peut pas attraper ce qui n'est pas là, et les proies aujourd'hui sont vraiment absentes.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c starts the day with endless energy, but as one hunt fails after another, it very quickly runs dry. They give up and return to camp, to try and at least make progress on all the work piling up there.",
+                "text": "s_c commence la journée avec une énergie sans fin, mais à mesure que les chasses échouent les unes après les autres, elle s'épuise très vite. Ils abandonnent et retournent au camp, pour essayer au moins de faire avancer tout le travail qui s'y accumule.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -560,12 +560,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c heads out into the desert alone, wanting to sink their teeth into some prey and have some time to themselves.",
-        "decline_text": "r_c turns back to camp, deciding that a group hunt would be more effective.",
+        "intro_text": "r_c part seul dans le désert, voulant planter ses crocs dans de la proie et avoir un peu de temps pour lui.",
+        "decline_text": "r_c fait demi‑tour vers le camp, décidant qu'une chasse de groupe serait plus efficace.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "r_c heads off to one of their favorite spots in the desert, a dry riverbed with plenty of trees and bushes providing excellent ambush chances. And what do you know, they are bush! Or they were as far as that hare thought. They snicker to themselves as they pad back to camp.",
+                "text": "r_c se rend à l'un de ses endroits préférés dans le désert, un lit de rivière asséché avec beaucoup d'arbres et de buissons offrant d'excellentes chances d'embuscade. Et que croyez‑vous, ils sont bush ! Ou l'étaient autant que ce lièvre le pensait. Il se moque doucement en revenant au pas vers le camp.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -573,7 +573,7 @@
                 ]
             },
             {
-                "text": "r_c finds a fat, dumb, slow ground squirrel, and they can barely drag the thing back to camp, but great StarClan, it's juicy when they sit down to eat it with their Clanmates. Purring, {PRONOUN\/r_c\/subject} {VERB\/r_c\/take\/takes} the opportunity for a moment of peace, relaxing with their friends.",
+                "text": "r_c trouve un écureuil terrestre gras, stupide et lent, et il peut à peine traîner la chose jusqu'au camp, mais bonne Étoile‑Clan, c'est juteux quand ils s'assoient pour le manger avec leurs camarades de Clan. Ronronnant, {PRONOUN/r_c/subject} {VERB/r_c/take/takes} ce moment de paix, se relaxant avec ses amis.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -581,7 +581,7 @@
                 ]
             },
             {
-                "text": "s_c gets the chance to try out an idea they've been sitting on for a while. There's a nest of lizards that they've spotted that've chosen a particularly bad home, and they manage to reach down into one of the rock refuges, fishing out small reptiles by the handful. This is a good spot to remember when c_n hits hard times in greenleaf.",
+                "text": "s_c a l'occasion d'essayer une idée qu'il murissait depuis un moment. Il y a un nid de lézards qu'ils ont repéré qui a choisi un endroit particulièrement mauvais, et il parvient à attraper de petits reptiles à la poignée. C'est un bon endroit à retenir quand c_n traversera des temps difficiles en feuillaison verte.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -592,7 +592,7 @@
                 ]
             },
             {
-                "text": "The prey is running terribly today. But s_c has patience, and wisely waits for the perfect opportunity instead of getting frustrated. They come back to camp with a good contribution to the Clan's stores, having had a relaxing day sitting with their thoughts while waiting for the prey to come to them.",
+                "text": "Les proies sont rares aujourd'hui. Mais s_c a de la patience, et attend sagement l'occasion parfaite au lieu de s'énerver. Il revient au camp avec une bonne contribution aux réserves du Clan, ayant passé une journée relaxante à ruminer ses pensées en attendant les proies.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -614,12 +614,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "You can't catch what isn't there, and the prey today is very not there.",
+                "text": "On ne peut pas attraper ce qui n'est pas là, et les proies aujourd'hui sont vraiment absentes.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "s_c starts the day with endless energy, but as one hunt fails after another, it very quickly runs dry. They give up and return to camp, to try and at least make progress on all the work piling up there.",
+                "text": "s_c commence la journée avec une énergie sans fin, mais à mesure que les chasses échouent les unes après les autres, elle s'épuise très vite. Ils abandonnent et retournent au camp, pour essayer au moins de faire avancer tout le travail qui s'y accumule.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -649,12 +649,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c encounters a swarm of Twolegs, gathered in a dry riverbed.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "r_c tombe sur une nuée de Deux‑pattes rassemblés dans un lit de rivière asséché.",
+        "decline_text": "La patrouille décide d'aller chasser ailleurs.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "r_c immediately turns and heads for home to report this to their leader, alarmed by the sudden presence of Twolegs in their territory.",
+                "text": "r_c se retourne immédiatement et rentre au camp pour prévenir son chef, alarmé par la présence soudaine de Deux‑pattes sur leur territoire.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -662,7 +662,7 @@
                 ]
             },
             {
-                "text": "Slyly, r_c uses the unusual presence of the weird Twolegs to help their hunt, hiding on the outskirts of the area and waiting for the Twolegs to flush prey towards them. It works, and they leave the Twolegs to their business.",
+                "text": "Avec ruse, r_c utilise la présence inhabituelle des étranges Deux‑pattes pour aider leur chasse, se cachant en bordure et attendant que les Deux‑pattes chassent des proies vers eux. Ça marche, et ils laissent les Deux‑pattes à leurs affaires.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -670,7 +670,7 @@
                 ]
             },
             {
-                "text": "s_c spots the Twolegs unloading metal boxes from their monsters, and recognizes that it can't be anything good, leaving immediately.",
+                "text": "s_c aperçoit les Deux‑pattes décharger des boîtes métalliques de leurs monstres, et reconnaît que ça ne peut être que mauvais, ils s'en vont immédiatement.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -681,7 +681,7 @@
                 ]
             },
             {
-                "text": "s_c spits in the Twolegs' direction and picking a different place to hunt.",
+                "text": "s_c crache dans la direction des Deux‑pattes puis choisit un autre endroit pour chasser.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -701,7 +701,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "s_c has heard terrible things about Twolegs, but they still creep closer when one falls and starts yowling with pain. It's a mistake, and a trap snaps shut around them. They're taken out of the desert with the injured Twoleg.",
+                "text": "s_c a entendu de terribles histoires sur les Deux‑pattes, mais il s'approche quand l'un d'eux tombe et commence à brailler de douleur. C'est une erreur, et un piège se referme sur lui. Il est emporté hors du désert avec le Deux‑pattes blessé.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -714,7 +714,7 @@
                 ]
             },
             {
-                "text": "r_c mostly ignores the Twolegs as they hunt, crawling into a metal box to follow the scent of food. But when they try to back up, the way is blocked, and there's nothing they can do - eventually the Twolegs notice, and r_c is taken by them.",
+                "text": "r_c ignore en grande partie les Deux‑pattes pendant qu'il chasse, se glissant dans une boîte métallique pour suivre l'odeur de nourriture. Mais quand il essaie de reculer, le passage est bloqué, et il n'y a rien à faire - finalement les Deux‑pattes s'en aperçoivent, et r_c est emporté par eux.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": [
@@ -740,12 +740,12 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c encounters a swarm of Twolegs, gathered in a dry riverbed.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "r_c tombe sur une nuée de Deux‑pattes rassemblés dans un lit de rivière asséché.",
+        "decline_text": "La patrouille décide d'aller chasser ailleurs.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The patrol immediately turns and heads for home to report this to their leader, alarmed by the sudden presence of Twolegs in their territory.",
+                "text": "La patrouille se retourne immédiatement et rentre au camp pour prévenir son chef, alarmée par la présence soudaine de Deux‑pattes sur leur territoire.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -753,7 +753,7 @@
                 ]
             },
             {
-                "text": "Slyly, the cats use the unusual presence of the weird Twolegs to help their hunt, hiding on the outskirts of the area and waiting for the Twolegs to flush prey towards them. It works, and they leave the Twolegs to their business.",
+                "text": "Avec ruse, les chats utilisent la présence inhabituelle des étranges Deux‑pattes pour aider leur chasse, se cachant en bordure et attendant que les Deux‑pattes chassent des proies vers eux. Ça marche, et ils laissent les Deux‑pattes à leurs affaires.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -761,7 +761,7 @@
                 ]
             },
             {
-                "text": "s_c spots the Twolegs unloading metal boxes from their monsters, and abruptly tells the patrol they need to leave. Now.",
+                "text": "s_c aperçoit les Deux‑pattes décharger des boîtes métalliques de leurs monstres, et dit brusquement à la patrouille qu'ils doivent partir. Maintenant.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -772,7 +772,7 @@
                 ]
             },
             {
-                "text": "s_c stops anyone from going near the Twolegs, repeating that true warriors have nothing to do with Twolegs and their monsters, and the patrol leaves back into the desert.",
+                "text": "s_c empêche quiconque d'approcher des Deux‑pattes, répétant que les vrais guerriers n'ont rien à voir avec les Deux‑pattes et leurs monstres, et la patrouille repart dans le désert.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -792,7 +792,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "s_c has heard terrible things about Twolegs, but they still creep closer when one falls and starts yowling with pain. It's a mistake, and a trap snaps shut around them. They're taken out of the desert with the injured Twoleg.",
+                "text": "s_c a entendu de terribles histoires sur les Deux‑pattes, mais il s'approche quand l'un d'eux tombe et commence à brailler de douleur. C'est une erreur, et un piège se referme sur lui. Il est emporté hors du désert avec le Deux‑pattes blessé.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -805,7 +805,7 @@
                 ]
             },
             {
-                "text": "r_c mostly ignores the Twolegs as they hunt, crawling into a metal box to follow the scent of food. But when they try to back up, the way is blocked, and there's nothing they or the patrol can do - eventually the Twolegs notice, and r_c is taken by them.",
+                "text": "r_c ignore en grande partie les Deux‑pattes pendant qu'il chasse, se glissant dans une boîte métallique pour suivre l'odeur de nourriture. Mais quand il essaie de reculer, le passage est bloqué, et il n'y a rien à faire - finalement les Deux‑pattes s'en aperçoivent, et r_c est emporté par eux, tout comme la patrouille ne peut rien faire.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": [
@@ -831,12 +831,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c encounters a swarm of Twolegs, gathered in a dry riverbed.",
-        "decline_text": "The patrol decides to hunt elsewhere.",
+        "intro_text": "r_c tombe sur une nuée de Deux‑pattes rassemblés dans un lit de rivière asséché.",
+        "decline_text": "La patrouille décide d'aller chasser ailleurs.",
         "chance_of_success": 10,
         "success_outcomes": [
             {
-                "text": "The patrol immediately turns and heads for home to report this to their leader, alarmed by the sudden presence of Twolegs in their territory.",
+                "text": "La patrouille se retourne immédiatement et rentre au camp pour prévenir son chef, alarmée par la présence soudaine de Deux‑pattes sur leur territoire.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -844,7 +844,7 @@
                 ]
             },
             {
-                "text": "Slyly, the cats use the unusual presence of the weird Twolegs to help their hunt, hiding on the outskirts of the area and waiting for the Twolegs to flush prey towards them. It works, and they leave the Twolegs to their business.",
+                "text": "Avec ruse, les chats utilisent la présence inhabituelle des étranges Deux‑pattes pour aider leur chasse, se cachant en bordure et attendant que les Deux‑pattes chassent des proies vers eux. Ça marche, et ils laissent les Deux‑pattes à leurs affaires.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -852,7 +852,7 @@
                 ]
             },
             {
-                "text": "s_c spots the Twolegs unloading metal boxes from their monsters, and abruptly tells the patrol they need to leave. Now.",
+                "text": "s_c aperçoit les Deux‑pattes décharger des boîtes métalliques de leurs monstres, et dit brusquement à la patrouille qu'ils doivent partir. Maintenant.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -863,7 +863,7 @@
                 ]
             },
             {
-                "text": "s_c stops anyone from going near the Twolegs, repeating that true warriors have nothing to do with Twolegs and their monsters, and the patrol leaves back into the desert.",
+                "text": "s_c empêche quiconque d'approcher des Deux‑pattes, répétant que les vrais guerriers n'ont rien à voir avec les Deux‑pattes et leurs monstres, et la patrouille repart dans le désert.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -883,7 +883,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "s_c has heard terrible things about Twolegs, but they still creep closer when one falls and starts yowling with pain. It's a mistake, and a trap snaps shut around them. They're taken out of the desert with the injured Twoleg.",
+                "text": "s_c a entendu de terribles histoires sur les Deux‑pattes, mais il s'approche quand l'un d'eux tombe et commence à brailler de douleur. C'est une erreur, et un piège se referme sur lui. Il est emporté hors du désert avec le Deux‑pattes blessé.",
                 "exp": 0,
                 "weight": 20,
                 "stat_trait": [
@@ -896,7 +896,7 @@
                 ]
             },
             {
-                "text": "r_c mostly ignores the Twolegs as they hunt, crawling into a metal box to follow the scent of food. But when they try to back up, the way is blocked, and there's nothing they or the patrol can do - eventually the Twolegs notice, and r_c is taken by them.",
+                "text": "r_c ignore en grande partie les Deux‑pattes pendant qu'il chasse, se glissant dans une boîte métallique pour suivre l'odeur de nourriture. Mais quand il essaie de reculer, le passage est bloqué, et il n'y a rien à faire - finalement les Deux‑pattes s'en aperçoivent, et r_c est emporté par eux, tout comme la patrouille ne peut rien faire.",
                 "exp": 0,
                 "weight": 10,
                 "lost_cats": [
@@ -922,12 +922,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol comes across a Thunderpath running through the desert.",
-        "decline_text": "They decide it is better not to cross.",
+        "intro_text": "La patrouille tombe sur une Route du Tonnerre qui traverse le désert.",
+        "decline_text": "Ils décident qu'il vaut mieux ne pas traverser.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "The patrol waits until they can hear the wind whistling, not a murmur of a monster, and crosses the Thunderpath to hunt on the other side.",
+                "text": "La patrouille attend d'entendre le vent siffler, et non le murmure d'un monstre, puis traverse la Route du Tonnerre pour chasser de l'autre côté.",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -935,7 +935,7 @@
                 ]
             },
             {
-                "text": "The patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly sandy paws, but a successful haul of prey.",
+                "text": "La patrouille trouve un tuyau passant sous la Route du Tonnerre et l'utilise pour traverser. Ils ont les pattes légèrement sableuses, mais repartent avec une bonne prise.",
                 "exp": 10,
                 "weight": 5,
                 "prey": [
@@ -943,7 +943,7 @@
                 ]
             },
             {
-                "text": "The patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
+                "text": "La patrouille s'arrête au bord de la Route du Tonnerre, et s_c organise une fouille méthodique qui trouve un écureuil aplati. C'est un rappel du danger de la Route du Tonnerre, et une bonne source de viande récupérée.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -954,7 +954,7 @@
                 ]
             },
             {
-                "text": "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across to hunt on the other side. The deserts have so few monsters passing through anyway, there's no need to be hasty.",
+                "text": "s_c est assez patient pour attendre que la Route du Tonnerre soit complètement dégagée, puis traverse au pas pour chasser de l'autre côté. De toute façon, si peu de monstres traversent le désert, il n'y a pas besoin d'être précipité.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -975,21 +975,21 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c hears a monster thundering towards {PRONOUN\/r_c\/object}, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+                "text": "r_c entend un monstre tonner vers {PRONOUN/r_c/object}, mais il freine juste à temps. Ça a été proche ! Peut‑être vaut‑il mieux retourner au camp.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "r_c is hit by a monster while crossing and dies instantly. c_n is shaken by the death, and it's a reminder to every cat that just because their territory contains few Thunderpaths doesn't mean they can forget their dangers.",
+                "text": "r_c est percuté par un monstre en traversant et meurt instantanément. c_n est secoué par la mort, et c'est un rappel pour chaque chat que le fait d'avoir peu de Routes du Tonnerre dans son territoire ne signifie pas qu'on peut en oublier les dangers.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c was heavily injured by a monster, and carries the scars from it.",
-                    "reg_death": "m_c was hit by a monster and killed.",
-                    "lead_death": "{VERB\/m_c\/were\/was} hit by a monster"
+                    "scar": "m_c a été gravement blessé par un monstre, et porte encore les cicatrices de cet incident.",
+                    "reg_death": "m_c a été percuté par un monstre et tué.",
+                    "lead_death": "{VERB/m_c/were/was} percuté par un monstre"
                 }
             }
         ]
@@ -1013,12 +1013,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol comes across a Thunderpath running through the desert.",
-        "decline_text": "They decide it is better not to cross.",
+        "intro_text": "La patrouille tombe sur une Route du Tonnerre qui traverse le désert.",
+        "decline_text": "Ils décident qu'il vaut mieux ne pas traverser.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The patrol waits until they can hear the wind whistling, not a murmur of a monster, and crosses the Thunderpath to hunt on the other side.",
+                "text": "La patrouille attend d'entendre le vent siffler, et non le murmure d'un monstre, puis traverse la Route du Tonnerre pour chasser de l'autre côté.",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -1026,7 +1026,7 @@
                 ]
             },
             {
-                "text": "The patrol finds a pipe running under the Thunderpath and uses it to cross. They end up with slightly sandy paws, but a successful haul of prey.",
+                "text": "La patrouille trouve un tuyau passant sous la Route du Tonnerre et l'utilise pour traverser. Ils ont les pattes légèrement sableuses, mais repartent avec une bonne prise.",
                 "exp": 10,
                 "weight": 5,
                 "prey": [
@@ -1034,7 +1034,7 @@
                 ]
             },
             {
-                "text": "The patrol stops on the edge of the Thunderpath, and s_c organizes a thorough search that finds a flattened squirrel. It's a reminder of the danger of the Thunderpath, and a good source of scavenged meat.",
+                "text": "La patrouille s'arrête au bord de la Route du Tonnerre, et s_c organise une fouille méthodique qui trouve un écureuil aplati. C'est un rappel du danger de la Route du Tonnerre, et une bonne source de viande récupérée.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -1045,7 +1045,7 @@
                 ]
             },
             {
-                "text": "s_c is patient enough to wait until the Thunderpath is completely clear, then trots across to hunt on the other side. The deserts have so few monsters passing through anyway, there's no need to be hasty.",
+                "text": "s_c est assez patient pour attendre que la Route du Tonnerre soit complètement dégagée, puis traverse au pas pour chasser de l'autre côté. De toute façon, si peu de monstres traversent le désert, il n'y a pas besoin d'être précipité.",
                 "exp": 10,
                 "weight": 20,
                 "stat_trait": [
@@ -1066,21 +1066,21 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c hears a monster thundering towards {PRONOUN\/r_c\/object}, but it screeches to a halt just in time. That was close! Maybe it's best to go back to camp.",
+                "text": "r_c entend un monstre tonner vers {PRONOUN/r_c/object}, mais il freine juste à temps. Ça a été proche ! Peut‑être vaut‑il mieux retourner au camp.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "r_c is crossing the Thunderpath and hears a monster thundering towards {PRONOUN\/r_c\/object}. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/freeze\/freezes}. The monster swerves to hit {PRONOUN\/r_c\/object} deliberately, killing {PRONOUN\/r_c\/object} instantly. c_n is shaken by the death: it's a reminder to every cat that just because their territory contains few Thunderpaths doesn't mean they can forget their dangers.",
+                "text": "r_c traverse la Route du Tonnerre et entend un monstre venir vers {PRONOUN/r_c/object}. {PRONOUN/r_c/subject/CAP} {VERB/r_c/freeze/freezes}. Le monstre fait délibérément un écart pour percuter {PRONOUN/r_c/object}, le tuant sur le coup. c_n est bouleversé par la mort : c'est un rappel pour chaque chat que le fait d'avoir peu de Routes du Tonnerre dans son territoire ne signifie pas qu'on peut en oublier les dangers.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "r_c"
                 ],
                 "history_text": {
-                    "scar": "m_c was heavily injured by a monster, and carries the scars from it.",
-                    "reg_death": "m_c was hit by a monster and killed.",
-                    "lead_death": "{VERB\/m_c\/were\/was} hit by a monster"
+                    "scar": "m_c a été gravement blessé par un monstre, et porte encore les cicatrices de cet incident.",
+                    "reg_death": "m_c a été percuté par un monstre et tué.",
+                    "lead_death": "{VERB/m_c/were/was} percuté par un monstre"
                 }
             }
         ]
@@ -1102,12 +1102,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol spots a swift fox in the distance, trotting through the scrubland with a desert hare in its jaws.",
-        "decline_text": "Best not to risk a fight. The patrol watches it go.",
+        "intro_text": "La patrouille aperçoit un renard rapide au loin, trottant dans la broussaille avec un lièvre du désert dans la gueule.",
+        "decline_text": "Mieux vaut ne pas risquer un combat. La patrouille le regarde s'éloigner.",
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "Outraged, your cats charge the poacher, determined to rip its pelt off. No one steals from c_n! The fox jumps, startled, and streaks for the horizon, but with a full patrol your cats chase it until it drops the hare and crosses the border. Hrumph! Though it's only a small haul of prey for a hunting patrol, at least they've gotten rid of the prey thief.",
+                "text": "Furieux, vos chats chargent le voleur, déterminés à lui arracher sa fourrure. Personne ne vole c_n ! Le renard bondit, surpris, et file à l'horizon, mais avec une patrouille complète vos chats le poursuivent jusqu'à ce qu'il lâche le lièvre et dépasse la frontière. Humph ! Même si ce n'est qu'une petite prise, au moins ils ont chassé le voleur.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1131,7 +1131,7 @@
                 ]
             },
             {
-                "text": "With many cats, they're able to catch the swift fox, even though it lives up to its name. It might be swift, but it's not much else, and the patrol manages to pull it down and kill the intruder, protecting c_n's lands. Oh, and they also win that hare too.",
+                "text": "À plusieurs, ils parviennent à attraper le renard, bien qu'il tienne son nom. Il peut être rapide, mais pas plus, et la patrouille réussit à le maîtriser et à tuer l'intrus, protégeant les terres de c_n. Oh, et ils récupèrent aussi le lièvre.",
                 "exp": 30,
                 "weight": 5,
                 "prey": [
@@ -1155,7 +1155,7 @@
                 ]
             },
             {
-                "text": "s_c stops them before the patrol can start haring off after the swift fox. Instead, the cats sneak up on it, not allowing it to deploy its speed to escape. It's a successful strategy, and together they're able to bring down the fox, winning both the prey it poached and the chance to eliminate a thief.",
+                "text": "s_c les arrête avant que la patrouille ne se rue après le renard. Au lieu de cela, les chats s'approchent en silence, ne lui permettant pas d'utiliser sa vitesse pour s'échapper. C'est une stratégie réussie, et ensemble ils abattent le renard, gagnant la proie volée et la possibilité d'éliminer un voleur.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -1182,7 +1182,7 @@
                 ]
             },
             {
-                "text": "s_c leads the charge! Their boldness sends the swift fox running, and though they lose the fox in a tumble of boulders the cats can at least bring the hare home for the fresh-kill pile.",
+                "text": "s_c conduit la charge ! Son audace fait fuir le renard, et bien qu'ils perdent le renard dans une chute de rochers, les chats peuvent au moins ramener le lièvre pour la pile de prise fraîche.",
                 "exp": 30,
                 "weight": 20,
                 "stat_trait": [
@@ -1216,7 +1216,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The swift fox spots the patrol coming and scarpers, tucking tail and fleeing across the horizon in an example of where the small carnivore gets its name.",
+                "text": "Le renard rapide aperçoit la patrouille et file, la queue rentrée, fuyant vers l'horizon, montrant d'où il tient son nom.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1258,12 +1258,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c spots a swift fox in the distance, trotting through the scrubland with a desert hare in its jaws. It's the biggest of the foxes in c_n's territory, the size of a cat, and r_c is alone. Should they try and take it on?",
-        "decline_text": "Best not to risk a fight. r_c watches it go.",
+        "intro_text": "r_c aperçoit un renard rapide au loin, trottant dans la broussaille avec un lièvre du désert dans la gueule. C'est le plus grand des renards du territoire de c_n, de la taille d'un chat, et r_c est seul. Devrait‑il tenter de l'affronter ?",
+        "decline_text": "Mieux vaut ne pas risquer un combat. r_c le regarde s'éloigner.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "r_c charges the fox, puffed up and snarling! The fox turns tail and runs, dropping the hare in the process, and r_c retrieves the poached prey for c_n's fresh-kill pile.",
+                "text": "r_c charge le renard, gonflé et grognant ! Le renard prend la fuite, lâchant le lièvre, et r_c récupère la proie volée pour la pile de prise fraîche de c_n.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -1271,7 +1271,7 @@
                 ]
             },
             {
-                "text": "The swift fox is tired from its hunt, and not capable of living up to its name. r_c catches it in a chase, and claims the hare back for c_n, leaving the fox with a bloodied nose. That'll teach it!",
+                "text": "Le renard est fatigué de sa chasse, et ne tient pas son nom. r_c le rattrape dans une course et récupère le lièvre pour c_n, laissant le renard avec le museau ensanglanté. Ça lui apprendra !",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -1279,7 +1279,7 @@
                 ]
             },
             {
-                "text": "r_c sneaks up on the fox, approaching through the cover of thornbushes. They burst out, snarling with claws extended, and batter the fox as it screams in surprise, dropping its stolen prey and jumping backwards. Only it flinches back into more thornbushes, and r_c picks up the dropped hare and pads back to camp, leaving the thief to struggle out of the thorns by itself.",
+                "text": "r_c s'approche furtivement du renard, passant par le couvert des buissons épineux. Il jaillit, grognant avec les griffes sorties, et terrasse le renard qui pousse un cri, lâchant sa proie. r_c ramasse le lièvre et rentre au camp, laissant le voleur aux prises des ronces.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1291,7 +1291,7 @@
                 ]
             },
             {
-                "text": "It makes r_c's blood boil, watching the fox carry away prey it's stolen from c_n's mouths. They creep between the fox and a ravine, waiting until the perfect moment, until they're able to burst from cover, snatching back the hare as the fox tumbles into the steep gash in the ground.",
+                "text": "La vue du renard emportant une proie volée fait bouillonner le sang de r_c. Il se place entre le renard et un ravin, attendant le bon moment, puis surgit, arrachant le lièvre alors que le renard bascule dans la crevasse.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1309,7 +1309,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The swift fox spots r_c coming and scarpers, tucking tail and fleeing across the horizon in an example of where the small carnivore gets its name.",
+                "text": "Le renard rapide aperçoit r_c et file, la queue rentrée, fuyant vers l'horizon, montrant d'où il tient son nom.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1317,7 +1317,7 @@
                 ]
             },
             {
-                "text": "Puffed up, r_c approaches the swift fox. But there's only one of them, and the fox is their equal in size and weight. Instead of running or giving its prey up, it snarls, and attacks. r_c gives just as good as they get, and both animals end up limping away.",
+                "text": "Gonflé, r_c s'approche du renard. Mais il n'est qu'un seul, et le renard est son égal en taille et poids. Au lieu de fuir ou d'abandonner sa proie, il grogne et attaque. r_c rend coup pour coup, et les deux animaux s'éloignent boitant.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1334,7 +1334,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from fighting with a swift fox."
+                    "scar": "m_c porte une cicatrice d'un combat avec un renard rapide."
                 },
                 "prey": [
                     "very_small"
@@ -1359,12 +1359,12 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol catches the scent of a fox. Tracking it, they find a kit fox feeding on a young collared peccary, a bit too big to be called a piglet. It looks like this youngster got on the wrong side of the dominant boar of its group. The kit fox is barely strong enough to open the carcass.",
-        "decline_text": "The patrol decides the boar is probably coming back, and they don't want to be here when it arrives to feed on its victim.",
+        "intro_text": "La patrouille prend la piste d'un renard. En suivant, ils trouvent un renard juvénile se nourrissant d'un jeune pecari collier, un peu trop gros pour être appelé marcassin. On dirait que ce jeune a froissé le groin du mâle dominant de son groupe. Le renard juvénile est à peine assez fort pour ouvrir la carcasse.",
+        "decline_text": "La patrouille décide que le mâle grognant reviendra probablement, et qu'ils ne veulent pas être là quand il reviendra prendre sa victime.",
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "One tiny kit fox against your cats? No contest, and the fox knows it. As soon as it sees them it trots off, leaving the cats to bring as much of the peccary back to camp as they can possibly carry.",
+                "text": "Un petit renard contre vos chats ? Aucune chance, et le renard le sait. Dès qu'il les voit il s'enfuit, laissant les chats ramener autant de pecari que possible au camp.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -1389,7 +1389,7 @@
                 ]
             },
             {
-                "text": "The kit fox gives way to the bigger cats, melting away into the scrubby dry bush as your cats bring as much of this feast as they can back to the Clan. It knows that the patrol will leave more than enough scraps behind to fill its belly full of pork.",
+                "text": "Le renard juvénile cède devant les plus gros chats, se fonduant dans la broussaille tandis que vos chats ramènent autant de festin que possible au Clan. Il sait que la patrouille laissera assez de restes pour le rassasier.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -1414,7 +1414,7 @@
                 ]
             },
             {
-                "text": "s_c is smart enough to stop anyone from pursuing the kit fox as it melts away before them. There's no point - the peccary carcass is the real prize here, and the patrol should focus on bringing its meat back for the Clan.",
+                "text": "s_c est assez intelligent pour empêcher qu'on poursuive le renard qui disparaît devant eux. À quoi bon - la carcasse du pecari est le vrai prix, et la patrouille doit se concentrer sur le transport de sa viande au Clan.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1442,7 +1442,7 @@
                 ]
             },
             {
-                "text": "The kit fox is irrelevant, and vanishes as soon as it sees the bigger predators coming to claim the carcass. Instead, s_c focuses on maintaining a watch for other challengers, and their vigilance means the patrol sees the boar coming to cannibalize its victim from far off, making off with as much of the carcass as they can carry before it spots them.",
+                "text": "Le renard juvénile est insignifiant et s'évapore dès qu'il voit les plus grands prédateurs venir réclamer la carcasse. s_c se concentre plutôt à monter la garde contre d'autres challengers, et sa vigilance permet à la patrouille d'apercevoir le mâle revenant et d'emporter autant de viande que possible avant qu'il ne les remarque.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1478,7 +1478,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "One tiny kit fox against your cats? No contest. Your cats against the boar coming snuffling back? Also, no contest, and the patrol wisely backs off as the boar begins to cannibalize its victim.",
+                "text": "Un petit renard contre vos chats ? Aucune chance. Vos chats contre le mâle revenant ? Non plus, et la patrouille recule sagement quand le mâle commence à dévorer sa victime.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1503,7 +1503,7 @@
                 ]
             },
             {
-                "text": "One tiny kit fox against your cats? No contest. Your cats against the boar coming snuffling back? Also, no contest, and as the patrol flees, r_c feels something pull painfully in {PRONOUN\/r_c\/poss} leg.",
+                "text": "Un petit renard contre vos chats ? Aucune chance. Vos chats contre le mâle revenant ? Non plus, et alors que la patrouille fuit, r_c sent quelque chose tirer douloureusement à sa jambe.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1557,12 +1557,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol catches the scent of a fox. Tracking it, they find a kit fox feeding on a young collared peccary, a bit too big to be called a piglet. It looks like this youngster got on the wrong side of the dominant boar of its group. The kit fox is barely strong enough to open the carcass.",
-        "decline_text": "The patrol decides the boar is probably coming back, and they don't want to be here when it arrives to feed on its victim.",
+        "intro_text": "La patrouille prend la piste d'un renard. En suivant, ils trouvent un renard juvénile se nourrissant d'un jeune pecari collier, un peu trop gros pour être appelé marcassin. On dirait que ce jeune a froissé le groin du mâle dominant de son groupe. Le renard juvénile est à peine assez fort pour ouvrir la carcasse.",
+        "decline_text": "La patrouille décide que le mâle grognant reviendra probablement, et qu'ils ne veulent pas être là quand il reviendra prendre sa victime.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "One tiny kit fox against your cats? No contest, and the fox knows it. As soon as it sees them it trots off, leaving the cats to bring as much of the peccary back to camp as they can possibly carry.",
+                "text": "Un petit renard contre vos chats ? Aucune chance, et le renard le sait. Dès qu'il les voit il s'enfuit, laissant les chats ramener autant de pecari que possible au camp.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -1587,7 +1587,7 @@
                 ]
             },
             {
-                "text": "The kit fox gives way to the bigger cats, melting away into the scrubby dry bush as your cats bring as much of this feast as they can back to the Clan. It knows that the patrol will leave more than enough scraps behind to fill its belly full of pork.",
+                "text": "Le renard juvénile cède devant les plus gros chats, se fonduant dans la broussaille tandis que vos chats ramènent autant de festin que possible au Clan. Il sait que la patrouille laissera assez de restes pour le rassasier.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -1612,7 +1612,7 @@
                 ]
             },
             {
-                "text": "s_c is smart enough to stop anyone from pursuing the kit fox as it melts away before them. There's no point - the peccary carcass is the real prize here, and the patrol should focus on bringing its meat back for the Clan.",
+                "text": "s_c est assez intelligent pour empêcher qu'on poursuive le renard qui disparaît devant eux. À quoi bon - la carcasse du pecari est le vrai prix, et la patrouille doit se concentrer sur le transport de sa viande au Clan.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1640,7 +1640,7 @@
                 ]
             },
             {
-                "text": "The kit fox is irrelevant, and vanishes as soon as it sees the bigger predators coming to claim the carcass. Instead, s_c focuses on maintaining a watch for other challengers, and their vigilance means the patrol sees the boar coming to cannibalize its victim from far off, making off with as much of the carcass as they can carry before it spots them.",
+                "text": "Le renard juvénile est insignifiant et s'évapore dès qu'il voit les plus grands prédateurs venir réclamer la carcasse. s_c se concentre plutôt à monter la garde contre d'autres challengers, et sa vigilance permet à la patrouille d'apercevoir le mâle revenant et d'emporter autant de viande que possible avant qu'il ne les remarque.",
                 "exp": 20,
                 "weight": 20,
                 "stat_trait": [
@@ -1676,7 +1676,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "One tiny kit fox against your cats? No contest. Your cats against the boar coming snuffling back? Also, no contest, and the patrol wisely backs off as the boar begins to cannibalize its victim.",
+                "text": "Un petit renard contre vos chats ? Aucune chance. Vos chats contre le mâle revenant ? Non plus, et la patrouille recule sagement quand le mâle commence à dévorer sa victime.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1701,7 +1701,7 @@
                 ]
             },
             {
-                "text": "One tiny kit fox against your cats? No contest. Your cats against the boar coming snuffling back? Also, no contest, and as the patrol flees, r_c feels something pull painfully in {PRONOUN\/r_c\/poss} leg.",
+                "text": "Un petit renard contre vos chats ? Aucune chance. Vos chats contre le mâle revenant ? Non plus, et alors que la patrouille fuit, r_c sent quelque chose tirer douloureusement à sa jambe.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1755,12 +1755,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c catches the scent of a fox. Tracking it, {PRONOUN\/r_c\/subject} {VERB\/r_c\/find\/finds} a kit fox feeding on a young collared peccary, a bit too big to be called a piglet. It looks like this youngster got on the wrong side of the dominant boar of its group. The kit fox is barely strong enough to open the carcass.",
-        "decline_text": "r_c decides the boar is probably coming back, and they don't want to be here when it arrives to feed on its victim.",
+        "intro_text": "r_c suit la piste d'un renard. {PRONOUN/r_c/subject} {VERB/r_c/find/finds} un renard juvénile se nourrissant d'un jeune pecari collier, un peu trop gros pour être appelé marcassin. On dirait que ce jeune a froissé le groin du mâle dominant de son groupe. Le renard juvénile est à peine assez fort pour ouvrir la carcasse.",
+        "decline_text": "r_c décide que le mâle reviendra probablement, et qu'il vaut mieux ne pas être là quand il reviendra récupérer sa victime.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "One tiny kit fox? r_c sees it off with a pawswipe, not interested in trying to take the fox as prey when the peccary carcass exists. They try to bring as much of the peccary back to camp as they can possibly carry.",
+                "text": "Un petit renard ? r_c le repousse d'un coup de patte, sans vouloir essayer de le prendre comme proie quand la carcasse existe. Il tente de ramener autant de pecari que possible au Clan.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1783,7 +1783,7 @@
                 ]
             },
             {
-                "text": "The kit fox gives way to the bigger cat, melting away into the scrubby dry bush as r_c brings as much of the feast as they can back to the Clan. It knows that the cat will leave more than enough scraps behind to fill its belly full of pork.",
+                "text": "Le renard juvénile cède devant le plus grand chat, fondant dans la broussaille tandis que r_c ramène autant de festin que possible au Clan. Il sait que le chat laissera assez de restes pour le rassasier.",
                 "exp": 30,
                 "weight": 5,
                 "prey": [
@@ -1806,7 +1806,7 @@
                 ]
             },
             {
-                "text": "s_c is smart enough to stop themselves from pursuing the kit fox as it melts away before them. There's no point - the peccary carcass is the real prize here, and s_c is focused on bringing its meat back for the Clan.",
+                "text": "s_c se retient d'attaquer le renard qui disparaît devant lui. À quoi bon - la carcasse du pecari est le vrai prix, et s_c se concentre sur le transport de la viande au Clan.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -1833,7 +1833,7 @@
                 ]
             },
             {
-                "text": "The kit fox is irrelevant, and vanishes as soon as it sees the bigger predators coming to claim the carcass. Instead, s_c focuses on maintaining a watch for other challengers, and their vigilance means they see the boar coming to cannibalize its victim from far off, making off with as much of the carcass as they can carry before it spots them.",
+                "text": "Le renard juvénile est insignifiant et s'évapore dès qu'il voit les plus grands prédateurs venir réclamer la carcasse. s_c se met en garde contre d'autres challengers, et sa vigilance permet d'apercevoir le mâle revenant et d'emporter autant de viande que possible avant qu'il ne les remarque.",
                 "exp": 30,
                 "weight": 20,
                 "stat_trait": [
@@ -1867,7 +1867,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol fails to drive away the fox, which keeps possession of the food. However, there are no injuries.",
+                "text": "La patrouille échoue à chasser le renard, qui conserve la nourriture. Toutefois, il n'y a pas de blessés.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1887,7 +1887,7 @@
                 ]
             },
             {
-                "text": "One tiny kit fox against r_c? No contest. r_c settles in to open the carcass, but is caught unawares by the boar returning to reclaim it, and is killed and eaten by the boar.",
+                "text": "Un petit renard contre r_c ? Aucune chance. r_c s'installe pour ouvrir la carcasse, mais est surpris par le retour du mâle qui le tue et le dévore.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
@@ -1895,8 +1895,8 @@
                     "all_lives"
                 ],
                 "history_text": {
-                    "reg_death": "m_c fell when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} surprised by a peccary boar.",
-                    "lead_death": "{VERB\/m_c\/were\/was} gored and eaten by a peccary boar"
+                    "reg_death": "m_c est tombé quand {PRONOUN/m_c/subject} {VERB/m_c/were/was} surpris par un mâle de peccary.",
+                    "lead_death": "{VERB/m_c/were/was} encorné et mangé par un mâle de peccary"
                 },
                 "relationships": [
                     {
@@ -1915,7 +1915,7 @@
                 ]
             },
             {
-                "text": "One tiny kit fox against your cats? No contest. r_c against the boar coming snuffling back? Also, no contest, and as the patrol flees, r_c feels something pull painfully in {PRONOUN\/r_c\/poss} leg.",
+                "text": "Un petit renard contre vos chats ? Aucune chance. r_c contre le mâle revenant ? Non plus, et alors que la patrouille fuit, r_c sent quelque chose tirer douloureusement à sa jambe.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1930,8 +1930,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "m_c fell when {PRONOUN\/m_c\/subject} {VERB\/m_c\/were\/was} surprised by a peccary boar.",
-                    "lead_death": "{VERB\/m_c\/were\/was} gored and eaten by a peccary boar"
+                    "reg_death": "m_c est tombé quand {PRONOUN/m_c/subject} {VERB/m_c/were/was} surpris par un mâle de peccary.",
+                    "lead_death": "{VERB/m_c/were/was} encorné et mangé par un mâle de peccary"
                 },
                 "relationships": [
                     {
@@ -1968,12 +1968,12 @@
         "max_cats": 4,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c catches the scent of a fox. Tracking it down, the cats spot a kit fox wandering through their territory, carrying a mouse in its jaws.",
-        "decline_text": "That's an insignificant amount of fresh-kill to start a fight over.",
+        "intro_text": "r_c suit la piste d'un renard. En le retrouvant, les chats aperçoivent un renard juvénile errant dans leur territoire, portant une souris dans la gueule.",
+        "decline_text": "C'est une prise insignifiante pour déclencher un combat.",
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "The hunters melt into the thorny scrubland and surround the smaller predator. By the time it scents them, it's too late. While the hunters will happily accept the mouse it carried, the fox was the prey they were actually after.",
+                "text": "Les chasseurs se fondent dans la broussaille épineuse et encerclent le petit prédateur. Quand il les sent, il est déjà trop tard. Les chasseurs acceptent volontiers la souris, mais le renard était la vraie prise recherchée.",
                 "exp": 15,
                 "weight": 20,
                 "prey": [
@@ -1996,7 +1996,7 @@
                 ]
             },
             {
-                "text": "The kit fox isn't crazy, and immediately drops the mouse, running for its life from the patrol. But the patrol is faster, though it exhausts them, and together they bring down the small fox for the fresh-kill pile.",
+                "text": "Le renard n'est pas fou, et lâche immédiatement la souris en s'enfuyant pour sa vie. Mais la patrouille est plus rapide, même si cela les épuise, et ensemble ils attrapent le petit renard pour la pile de prise fraîche.",
                 "exp": 15,
                 "weight": 5,
                 "prey": [
@@ -2019,7 +2019,7 @@
                 ]
             },
             {
-                "text": "s_c pounces, snarling, and the fox turns tail with a yelp. Only s_c isn't alone, and cats circle the fox as it turns and snarls, darting in to finish it off without mercy. Kit foxes not only steal prey, for c_n, they are prey.",
+                "text": "s_c bondit en grognant, et le renard prend la fuite en poussant un cri. s_c n'est pas seul, et les chats encerclent le renard qui se débat jusqu'à l'achever sans pitié. Les renardeaux ne sont pas seulement des voleurs de proie pour c_n, ils sont de la proie.",
                 "exp": 15,
                 "weight": 20,
                 "stat_skill": [
@@ -2045,7 +2045,7 @@
                 ]
             },
             {
-                "text": "It takes a certain level of swagger to take on another predator, but s_c has that swagger in spades, and they take the lead hunting down the kit fox, fearless as they win not just the mouse it stole, but the kit fox itself for c_n's fresh-kill pile.",
+                "text": "Il faut du cran pour s'attaquer à un autre prédateur, et s_c en a à revendre : il mène la chasse et gagne non seulement la souris volée, mais aussi le renard pour la pile de prise fraîche de c_n.",
                 "exp": 15,
                 "weight": 20,
                 "stat_trait": [
@@ -2086,7 +2086,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol approaches the kit fox, who spots them and sets off at full speed. It's not worth following them, not with the fox having a head start.",
+                "text": "La patrouille s'approche du renard, qui les repère et file à toute vitesse. Ce n'est pas la peine de le poursuivre, avec une telle avance.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2109,7 +2109,7 @@
                 ]
             },
             {
-                "text": "With a massive yowl, r_c charges the fox. It bares its teeth, unwilling to give up its hard-won prey without a fight, and one wrong step puts r_c's pelt in range of those little jaws, as the small kit fox tries to live up to the reputation of its bigger and stronger relatives.",
+                "text": "Avec un énorme miaulement, r_c charge le renard. Il montre ses dents, refusant d'abandonner sa proie sans combat, et un mauvais pas expose la peau de r_c aux mâchoires maigres du renard, qui se défend.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2126,7 +2126,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was scarred by a kit fox."
+                    "scar": "m_c a été marqué par une cicatrice infligée par un renard juvénile."
                 },
                 "relationships": [
                     {
@@ -2166,12 +2166,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c catches the scent of a fox. Tracking it down, they spot a kit fox wandering through their territory, carrying a mouse in its jaws.",
-        "decline_text": "That's an insignificant amount of fresh-kill to start a fight over.",
+        "intro_text": "r_c suit la piste d'un renard. En le retrouvant, il aperçoit un renard juvénile errant dans son territoire, portant une souris dans la gueule.",
+        "decline_text": "C'est une prise insignifiante pour déclencher un combat.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "The hunter melts into the thorny scrubland and sneaks towards the smaller predator. By the time it scents them, it's too late. While r_c will happily accept the mouse it carried, the fox was the prey they were actually after.",
+                "text": "Le chasseur se fond dans la broussaille épineuse et s'approche du petit prédateur. Quand il le sent, il est déjà trop tard. r_c accepte volontiers la souris, mais le renard était la vraie prise recherchée.",
                 "exp": 25,
                 "weight": 20,
                 "prey": [
@@ -2179,7 +2179,7 @@
                 ]
             },
             {
-                "text": "The kit fox locks eyes with r_c as they emerge from the grass, weighing up its options against the bigger cat. r_c doesn't hesitate, leaps to attack it, and with their skill they're able to bring down the kit fox. It should have run from them - trying to keep its mouse means r_c will be able to add both to the fresh-kill pile.",
+                "text": "Le renard croise le regard de r_c alors qu'il sort des herbes, pesant ses options contre le plus grand chat. r_c n'hésite pas, saute pour l'attaquer, et grâce à son habileté il parvient à abattre le renard. Il aurait dû fuir - garder sa souris costerait cher à ce renard.",
                 "exp": 25,
                 "weight": 5,
                 "prey": [
@@ -2187,7 +2187,7 @@
                 ]
             },
             {
-                "text": "s_c pounces, snarling, and the fox turns tail with a yelp. But they're prepared for the fox trying to flee, and leap fast and low to the ground, slamming their teeth into the fox's throat. Kit foxes not only steal prey, for c_n, they are prey.",
+                "text": "s_c bondit en grognant, et le renard s'enfuit en poussant un cri. Mais ils sont prêts à l'empêcher de fuir, sautant bas et vite pour attraper sa gorge. Les renardeaux ne sont pas seulement des voleurs de proie pour c_n, ils sont de la proie.",
                 "exp": 25,
                 "weight": 20,
                 "stat_skill": [
@@ -2198,7 +2198,7 @@
                 ]
             },
             {
-                "text": "It takes a certain level of swagger to take on another predator, but s_c has that swagger in spades, fearless as they win not just the mouse it stole, but the kit fox itself for c_n's fresh-kill pile.",
+                "text": "Il faut du cran pour s'attaquer à un autre prédateur, et s_c en a à revendre: il mène la chasse et gagne non seulement la souris volée, mais aussi le renard pour la pile de prise fraîche.",
                 "exp": 25,
                 "weight": 20,
                 "stat_trait": [
@@ -2224,7 +2224,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol approaches the kit fox, who spots them and sets off at full speed. It's not worth following them, not with the fox having a head start.",
+                "text": "La patrouille s'approche du renard, qui les repère et file à toute vitesse. Ce n'est pas la peine de le poursuivre, avec une telle avance.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2232,7 +2232,7 @@
                 ]
             },
             {
-                "text": "With a massive yowl, r_c charges the fox. It bares its teeth, unwilling to give up its hard-won prey without a fight, and one wrong step puts r_c's pelt in range of those little jaws, as the small kit fox tries to live up to the reputation of its bigger and stronger relatives.",
+                "text": "Avec un énorme miaulement, r_c charge le renard. Il montre ses dents, refusant d'abandonner sa proie sans combat, et un mauvais pas expose la peau de r_c aux mâchoires maigres du renard, qui se défend.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2249,7 +2249,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from a fight with a kit fox."
+                    "scar": "m_c porte une cicatrice d'un combat avec un renard juvénile."
                 },
                 "prey": [
                     "very_small"
@@ -2274,12 +2274,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c catches the scent of a fox. Tracking it down, the cats spot a kit fox wandering through their territory, carrying a mouse in its jaws.",
-        "decline_text": "That's an insignificant amount of fresh-kill to start a fight over.",
+        "intro_text": "r_c suit la piste d'un renard. En le retrouvant, les chats aperçoivent un renard juvénile errant dans leur territoire, portant une souris dans la gueule.",
+        "decline_text": "C'est une prise insignifiante pour déclencher un combat.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "The hunters melt into the thorny scrubland and surround the smaller predator. By the time it scents them, it's too late. While the hunters will happily accept the mouse it carried, the fox was the prey they were actually after.",
+                "text": "Les chasseurs se fondent dans la broussaille épineuse et encerclent le petit prédateur. Quand il les sent, il est déjà trop tard. Les chasseurs acceptent volontiers la souris, mais le renard était la vraie prise recherchée.",
                 "exp": 15,
                 "weight": 20,
                 "prey": [
@@ -2302,7 +2302,7 @@
                 ]
             },
             {
-                "text": "The kit fox isn't crazy, and immediately drops the mouse, running for its life from the patrol. But the patrol is faster, though it exhausts them, and together they bring down the small fox for the fresh-kill pile.",
+                "text": "Le renard n'est pas fou, et lâche immédiatement la souris en s'enfuyant pour sa vie. Mais la patrouille est plus rapide, même si cela les épuise, et ensemble ils attrapent le petit renard pour la pile de prise fraîche.",
                 "exp": 15,
                 "weight": 5,
                 "prey": [
@@ -2325,7 +2325,7 @@
                 ]
             },
             {
-                "text": "s_c pounces, snarling, and the fox turns tail with a yelp. Only s_c isn't alone, and cats circle the fox as it turns and snarls, darting in to finish it off without mercy. Kit foxes not only steal prey, for c_n, they are prey.",
+                "text": "s_c bondit en grognant, et le renard prend la fuite en poussant un cri. s_c n'est pas seul, et les chats encerclent le renard qui se débat jusqu'à l'achever sans pitié. Les renardeaux ne sont pas seulement des voleurs de proie pour c_n, ils sont de la proie.",
                 "exp": 15,
                 "weight": 20,
                 "stat_skill": [
@@ -2351,7 +2351,7 @@
                 ]
             },
             {
-                "text": "It takes a certain level of swagger to take on another predator, but s_c has that swagger in spades, and they take the lead hunting down the kit fox, fearless as they win not just the mouse it stole, but the kit fox itself for c_n's fresh-kill pile.",
+                "text": "Il faut du cran pour s'attaquer à un autre prédateur, et s_c en a à revendre : il mène la chasse et gagne non seulement la souris volée, mais aussi le renard pour la pile de prise fraîche de c_n.",
                 "exp": 15,
                 "weight": 20,
                 "stat_trait": [
@@ -2392,7 +2392,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol approaches the kit fox, who spots them and sets off at full speed. It's not worth following them, not with the fox having a head start.",
+                "text": "La patrouille s'approche du renard, qui les repère et file à toute vitesse. Ce n'est pas la peine de le poursuivre, avec une telle avance.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2438,12 +2438,12 @@
             ]
         },
         "weight": 5,
-        "intro_text": "The patrol catches scent of a mouse nearby.",
-        "decline_text": "The patrol ignores the mouse.",
+        "intro_text": "La patrouille sent une souris toute proche.",
+        "decline_text": "La patrouille ignore la souris.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "r_c locates the mouse and begins to stalk. The mouse nibbles on a seed, unaware of the hunting cat. r_c waggles {PRONOUN\/r_c\/poss} haunches and leaps, pinning the mouse beneath a paw as {PRONOUN\/r_c\/subject} {VERB\/r_c\/make\/makes} the killing bite.",
+                "text": "r_c localise la souris et commence à la traquer. La souris grignote une graine, ignorant le chat chasseur. r_c remue les hanches et bondit, immobilisant la souris sous une patte alors que {PRONOUN/r_c/subject} {VERB/r_c/make/makes} la morsure fatale.",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -2451,7 +2451,7 @@
                 ]
             },
             {
-                "text": "r_c pinpoints the location of the prey and begins creeping forward. {PRONOUN\/r_c\/subject\/CAP}{VERB\/r_c\/'re\/'s} almost within pouncing distance when the mouse bolts. With a lash of {PRONOUN\/r_c\/poss} tail, r_c leaps after the mouse, snagging it just before it reaches a burrow. {PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/purr\/purrs} in satisfaction as prey-blood hits {PRONOUN\/r_c\/poss} tongue.",
+                "text": "r_c repère la proie et commence à s'approcher en rampant. {PRONOUN/r_c/subject/CAP}{VERB/r_c/'re/'s} presque à portée de saut quand la souris s'enfuit. D'un coup de queue, r_c bondit après la souris, la saisissant juste avant qu'elle n'atteigne son terrier. {PRONOUN/r_c/subject/CAP} {VERB/r_c/purr/purrs} de satisfaction quand le sang de la proie touche sa langue.",
                 "exp": 10,
                 "weight": 5,
                 "prey": [
@@ -2461,7 +2461,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol narrowly misses the mouse.",
+                "text": "La patrouille manque de peu la souris.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2496,12 +2496,12 @@
             ]
         },
         "weight": 5,
-        "intro_text": "The patrol comes across a mouse.",
-        "decline_text": "The patrol ignores the mouse.",
+        "intro_text": "La patrouille tombe sur une souris.",
+        "decline_text": "La patrouille ignore la souris.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "r_c pounces on the mouse, with a squeak of surprise from both prey and apprentice.",
+                "text": "r_c bondit sur la souris, avec un petit cri de surprise du côté de la proie et de l'apprenti.",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -2509,7 +2509,7 @@
                 ]
             },
             {
-                "text": "app1 leaps onto the mouse, an easy kill! {PRONOUN\/app1\/subject\/CAP}{VERB\/app1\/'re\/'s} really getting the hang of hunting!",
+                "text": "app1 saute sur la souris, une prise facile ! {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} commence vraiment à maîtriser la chasse !",
                 "exp": 10,
                 "weight": 5,
                 "prey": [
@@ -2519,7 +2519,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol narrowly misses the mouse.",
+                "text": "La patrouille manque de peu la souris.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2545,12 +2545,12 @@
         "max_cats": 3,
         "min_max_status": {},
         "weight": 5,
-        "intro_text": "The patrol comes across a bird that's occupied scratching at the ground for insects.",
-        "decline_text": "The patrol ignores the bird.",
+        "intro_text": "La patrouille tombe sur un oiseau occupé à gratter le sol pour chercher des insectes.",
+        "decline_text": "La patrouille ignore l'oiseau.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "The patrol catches the bird before it flies away!",
+                "text": "La patrouille attrape l'oiseau avant qu'il ne s'envole !",
                 "exp": 15,
                 "weight": 20,
                 "prey": [
@@ -2558,7 +2558,7 @@
                 ]
             },
             {
-                "text": "r_c creeps towards the bird, setting {PRONOUN\/r_c\/poss} paws down gently. The bird notices the cat sneaking towards it and attempts to take off. r_c bounds forward and smacks the bird to the ground with an outstretched paw. Outstanding!",
+                "text": "r_c s'approche de l'oiseau, posant ses pattes doucement. L'oiseau remarque le chat qui s'approche et tente de s'envoler. r_c bondit et frappe l'oiseau au sol d'une patte tendue. Excellent !",
                 "exp": 15,
                 "weight": 5,
                 "prey": [
@@ -2568,7 +2568,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol narrowly misses the bird.",
+                "text": "La patrouille manque de peu l'oiseau.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2594,12 +2594,12 @@
         "max_cats": 4,
         "min_max_status": {},
         "weight": 5,
-        "intro_text": "A rabbit bursts out from cover, startled by the patrol.",
-        "decline_text": "They watch it go, just as startled.",
+        "intro_text": "Un lapin surgit de sa cache, surpris par la patrouille.",
+        "decline_text": "Ils le regardent partir, tout aussi surpris.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "The patrol rallies almost instantly, and manages to corner and catch the rabbit!",
+                "text": "La patrouille se rassemble presque instantanément et parvient à coincer et attraper le lapin !",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -2622,7 +2622,7 @@
                 ]
             },
             {
-                "text": "s_c reacts quickly, tearing off after the rabbit and slamming a paw on its head to bring it down.",
+                "text": "s_c réagit vite, se lançant après le lapin et écrasant une patte sur sa tête pour l'abattre.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2661,7 +2661,7 @@
                 ]
             },
             {
-                "text": "Claws tearing into the ground, s_c bounds after the rabbit, reaching full sprint before the rest of the patrol has worked out what's going on. {PRONOUN\/s_c\/subject\/CAP} {VERB\/s_c\/collide\/collides} with the fleeing prey, bringing it down in a dramatic tangle of kicking legs.",
+                "text": "Les griffes fouillant le sol, s_c bondit après le lapin, atteignant sa vitesse maximale avant que le reste de la patrouille n'ait compris. {PRONOUN/s_c/subject/CAP} {VERB/s_c/collide/collides} avec la proie en fuite, la terrassant dans une tangle dramatique de pattes qui battent.",
                 "exp": 10,
                 "weight": 20,
                 "stat_skill": [
@@ -2702,7 +2702,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The patrol jumps after it, but the rabbit has too great of a head start.",
+                "text": "La patrouille bondit après lui, mais le lapin a trop d'avance.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2725,7 +2725,7 @@
                 ]
             },
             {
-                "text": "s_c is quicker than anyone else, tearing after the rabbit, but in {PRONOUN\/s_c\/poss} haste {PRONOUN\/s_c\/subject} {VERB\/s_c\/put\/puts} a paw wrong and {VERB\/s_c\/stop\/stops} as a sharp twinge of pain shoots up {PRONOUN\/s_c\/poss} leg.",
+                "text": "s_c est plus rapide que les autres, filant après le lapin, mais dans sa précipitation {PRONOUN/s_c/subject} {VERB/s_c/put/puts} une patte de travers et {VERB/s_c/stop/stops} alors qu'une douleur aiguë remonte sa jambe.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -2780,12 +2780,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 5,
-        "intro_text": "A rabbit bursts out from cover, startled by r_c.",
-        "decline_text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/watch\/watches} it go, just as startled.",
+        "intro_text": "Un lapin surgit de sa cache, surpris par r_c.",
+        "decline_text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/watch/watches} le voir partir, tout aussi surpris.",
         "chance_of_success": 40,
         "success_outcomes": [
             {
-                "text": "r_c manages to corner and catch the rabbit!",
+                "text": "r_c parvient à coincer et attraper le lapin !",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -2793,7 +2793,7 @@
                 ]
             },
             {
-                "text": "s_c reacts quickly, tearing off after the rabbit and slamming a paw on its head to bring it down.",
+                "text": "s_c réagit vite, se lançant après le lapin et écrasant une patte sur sa tête pour l'abattre.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -2804,7 +2804,7 @@
                 ]
             },
             {
-                "text": "<b>BAM<\/b>. s_c slams into the rabbit in a tumbling collision of teeth and claws.",
+                "text": "<b>BAM</b>. s_c percute le lapin dans une collision tourbillonnante de dents et de griffes.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -2817,7 +2817,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c jumps after it, but the rabbit has too great of a head start.",
+                "text": "r_c saute après lui, mais le lapin a trop d'avance.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2825,7 +2825,7 @@
                 ]
             },
             {
-                "text": "s_c reacts quickly, tearing after the rabbit, but in {PRONOUN\/s_c\/poss} haste {PRONOUN\/s_c\/subject} {VERB\/s_c\/put\/puts} a paw wrong and {VERB\/s_c\/stop\/stops} as a sharp twinge of pain shoots up {PRONOUN\/s_c\/poss} leg.",
+                "text": "s_c réagit vite, se lançant après le lapin, mais dans sa précipitation {PRONOUN/s_c/subject} {VERB/s_c/put/puts} une patte de travers et {VERB/s_c/stop/stops} alors qu'une douleur aiguë remonte sa jambe.",
                 "exp": 0,
                 "weight": 20,
                 "stat_skill": [
@@ -2865,12 +2865,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 5,
-        "intro_text": "r_c spots a rabbit up ahead, but it seems to be acting strange. The patrol can see its tremors from a few fox-lengths away.",
-        "decline_text": "r_c avoids catching the rabbit and looks for other prey.",
+        "intro_text": "r_c aperçoit un lapin devant, mais il semble se comporter étrangement. La patrouille peut voir ses tremblements à plusieurs longueurs de renard.",
+        "decline_text": "r_c évite d'attraper le lapin et cherche d'autres proies.",
         "chance_of_success": 30,
         "success_outcomes": [
             {
-                "text": "r_c catches the rabbit and it is eaten as normal.",
+                "text": "r_c attrape le lapin et il est mangé normalement.",
                 "exp": 10,
                 "weight": 20,
                 "prey": [
@@ -2878,12 +2878,12 @@
                 ]
             },
             {
-                "text": "r_c catches the rabbit, but when {PRONOUN\/r_c\/subject} {VERB\/r_c\/report\/reports} about the strange incident at camp, the dead rabbit is taken far away and buried.",
+                "text": "r_c attrape le lapin, mais quand {PRONOUN/r_c/subject} {VERB/r_c/report/reports} l'incident étrange au camp, le lapin mort est emporté loin et enterré.",
                 "exp": 20,
                 "weight": 5
             },
             {
-                "text": "s_c stops the patrol from catching the rabbit and takes the opportunity to teach them about illnesses that can pass from prey to cat.",
+                "text": "s_c empêche la patrouille d'attraper le lapin et en profite pour leur enseigner les maladies qui peuvent passer de la proie au chat.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -2909,12 +2909,12 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c leaps for the rabbit but it still manages to slip away, despite its obvious illness.",
+                "text": "r_c bondit sur le lapin mais il réussit encore à s'échapper, malgré sa maladie apparente.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "r_c catches the rabbit, but later {PRONOUN\/r_c\/subject} and the cats who eat it become violently ill.",
+                "text": "r_c attrape le lapin, mais plus tard {PRONOUN/r_c/subject} et les chats qui le mangent tombent gravement malades.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2963,8 +2963,8 @@
                     }
                 ],
                 "history_text": {
-                    "reg_death": "This cat died after eating tainted prey.",
-                    "lead_death": "after eating tainted prey"
+                    "reg_death": "Ce chat est mort après avoir mangé une proie avariée.",
+                    "lead_death": "après avoir mangé une proie avariée"
                 }
             }
         ]
@@ -2991,12 +2991,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c is tempted to eat the prey they just caught.",
-        "decline_text": "r_c decides against breaking the Warrior Code",
+        "intro_text": "r_c est tenté de manger la proie qu'il vient d'attraper.",
+        "decline_text": "r_c décide de ne pas briser le Code du Guerrier",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "They resist the temptation, going on to make a couple of great catches to make sure the elders are fed.",
+                "text": "Ils résistent à la tentation, réalisant ensuite quelques belles prises pour s'assurer que les anciens soient nourris.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3022,7 +3022,7 @@
                 ]
             },
             {
-                "text": "After all, they have caught enough on this solo hunt that they won't be able to carry it all back to camp. They stop for a quick snack and return to camp laden with prey for the fresh-kill pile.",
+                "text": "Après tout, ils ont attrapé assez lors de cette chasse solo pour ne pas pouvoir tout porter. Ils s'arrêtent pour un petit en‑cas et reviennent au camp chargés de proies pour la pile fraîche.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3048,7 +3048,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c gives in to their grumbling belly, reasoning that no one will notice, but when they arrive back at camp empty-pawed and with blood on their lips they feel the stares of the warriors on their pelt. r_c slinks back to the apprentices' den, tail and ears low.",
+                "text": "r_c succombe à son ventre qui gronde, se disant que personne ne remarquera, mais quand il revient au camp les pattes vides et du sang sur les lèvres, il sent les regards des guerriers sur sa fourrure. r_c se faufile vers la tanière des apprentis, queue et oreilles basses.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3095,12 +3095,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c is tempted to eat the prey they just caught.",
-        "decline_text": "r_c decides against breaking the Warrior Code",
+        "intro_text": "r_c est tenté de manger la proie qu'il vient d'attraper.",
+        "decline_text": "r_c décide de ne pas briser le Code du Guerrier",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "They resist the temptation, going on to make a couple of great catches to make sure the elders are fed.",
+                "text": "Ils résistent à la tentation, réalisant ensuite quelques belles prises pour s'assurer que les anciens soient nourris.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3126,7 +3126,7 @@
                 ]
             },
             {
-                "text": "After all, the patrol has caught enough on this hunt that they'll have trouble carrying it all back to camp. They stop for a quick snack and return to camp laden with prey for the fresh-kill pile.",
+                "text": "Après tout, la patrouille a attrapé assez lors de cette chasse pour avoir du mal à tout porter. Ils s'arrêtent pour un petit en‑cas et reviennent au camp chargés de proies pour la pile fraîche.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3154,7 +3154,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "r_c gives in to their grumbling belly, reasoning that no one will notice, but when the patrol reforms and r_c arrives back empty-pawed with blood on their lips they feel the suspicious stares of the other warriors on their pelt.",
+                "text": "r_c succombe à son ventre qui gronde, se disant que personne ne remarquera, mais quand la patrouille se reforme et que r_c revient les pattes vides avec du sang sur les lèvres, il sent les regards suspicieux des autres guerriers sur sa fourrure.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3180,7 +3180,7 @@
                 ]
             },
             {
-                "text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/think\/thinks} {PRONOUN\/r_c\/subject}{VERB\/r_c\/'ve\/'s} gotten away with {PRONOUN\/r_c\/poss} clandestine snacking, but when r_c arrives back at camp, another patrol member pulls the deputy aside for a quiet word, glaring back at r_c. The deputy assigns {PRONOUN\/r_c\/object} to dig a new trench for the Clan's dirtplace, and r_c hears snide remarks when {PRONOUN\/r_c\/subject} slink in to {PRONOUN\/r_c\/poss} nest that night.",
+                "text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/think/thinks} {PRONOUN/r_c/subject}{VERB/r_c/'ve/'s} réussi à voler un en‑cas, mais quand r_c revient au camp, un autre membre de patrouille tire le lieutenant de côté pour un mot discret, lançant des regards noirs vers r_c. Le lieutenant assigne {PRONOUN/r_c/object} à creuser une nouvelle tranchée pour le lieu de latrines du Clan, et r_c entend des remarques méprisantes quand {PRONOUN/r_c/subject} rentre dans sa couche cette nuit.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3229,12 +3229,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "r_c is tempted to eat the prey they just caught.",
-        "decline_text": "r_c decides against breaking the Warrior Code",
+        "intro_text": "r_c est tenté de manger la proie qu'il vient d'attraper.",
+        "decline_text": "r_c décide de ne pas briser le Code du Guerrier",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "They eat the prey without anyone noticing.",
+                "text": "Ils mangent la proie sans que personne ne remarque.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3260,7 +3260,7 @@
                 ]
             },
             {
-                "text": "After all, the patrol has caught enough on this hunt that they'll have trouble carrying it all back to camp. They stop for a quick snack and return to camp laden with prey for the fresh-kill pile.",
+                "text": "Après tout, la patrouille a attrapé assez lors de cette chasse pour avoir du mal à tout porter. Ils s'arrêtent pour un petit en‑cas et reviennent au camp chargés de proies pour la pile fraîche.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3288,7 +3288,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "They think they've gotten away with their clandestine snacking, but when r_c arrives back at camp, another patrol member pulls the deputy aside for a quiet word, glaring back at r_c. The deputy assigns them to dig a new trench for the Clan's dirtplace; r_c prickles with humiliation and terrible smells.",
+                "text": "Ils pensent s'en être tirés avec leur en‑cas secret, mais quand r_c revient au camp, un autre membre de patrouille entraîne le lieutenant pour un mot discret et lance un regard accusateur vers r_c. Le lieutenant l'assigne à creuser une nouvelle tranchée pour le lieu de latrines ; r_c frémit d'humiliation et de mauvaises odeurs.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3345,11 +3345,11 @@
         "pl_skill_constraint": [
             "LORE,1"
         ],
-        "intro_text": "The patrol lies in ambush, concealed around the narrow rocky gully leading to a deep shadowed pool of water. app1 spots a gila monster ambling into range, striped red and black, and purrs with dark amusement as the prey approaches its doom.",
-        "decline_text": "There'll be smaller, easy prey lured into this trap. The patrol lets the monster pass without a fight.",
+        "intro_text": "La patrouille est en embuscade, dissimulée autour du goulet rocheux menant à une mare ombragée. app1 aperçoit un gila marchant dans la zone, rayé de rouge et noir, et ronronne d'un amusement sombre alors que la proie s'approche de son destin.",
+        "decline_text": "Il y aura d'autres proies plus petites attirées par ce piège. La patrouille laisse le monstre passer sans combattre.",
         "success_outcomes": [
             {
-                "text": "p_l waves a tail across app1's path, stopping {PRONOUN\/app1\/object} with a stern stare. Remember the venom in the fangs of that monster. Don't count your prey until it's on the fresh-kill pile. r_c nods, and apologizes. Every hunt deserves respect.",
+                "text": "p_l agite la queue devant le chemin d'app1, le stoppant d'un regard sévère. Rappelez‑vous le venin dans les crocs de ce monstre. Ne comptez pas votre prise tant qu'elle n'est pas sur la pile fraîche. r_c hoche la tête et s'excuse. Chaque chasse mérite du respect.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -3402,7 +3402,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 leaps down in a beautiful ambush that bounces right off the gila's tough hide. The lizard hisses, striking backwards with its fangs, and escapes, leaving app1 to limp home.",
+                "text": "app1 saute dans une magnifique embuscade qui ricoche sur la peau dure du gila. Le lézard siffle, mord en reculant et s'enfuit, laissant app1 boitant de retour.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3437,9 +3437,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c was permanently marked by the bite of a gila monster as an apprentice - but {PRONOUN\/m_c\/subject} survived.",
-                    "reg_death": "m_c died from the bite of a gila monster encountered on a hunt as a foolish apprentice.",
-                    "lead_death": "from the bite of a gila monster encountered on a hunt as a foolish apprentice"
+                    "scar": "m_c a été marqué à vie par la morsure d'un gila en tant qu'apprenti - mais {PRONOUN/m_c/subject} a survécu.",
+                    "reg_death": "m_c est mort de la morsure d'un gila rencontrée en chasse en tant qu'apprenti.",
+                    "lead_death": "de la morsure d'un gila rencontrée en chasse en tant qu'apprenti"
                 }
             }
         ]

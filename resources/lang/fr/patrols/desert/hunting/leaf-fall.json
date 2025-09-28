@@ -25,15 +25,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The two siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Hopefully the first hints of the wet seasons soon to hit c_n will make the hunting a breeze!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Les deux frères et sœurs partent ensemble, déclarant une compétition amicale pour remplir la pile de prises fraîches. Espérons que les premiers signes des saisons humides bientôt sur c_n rendront la chasse facile !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 misses a d_tp_s, and app2 startles a pair of d_tp_p. They don't let it get them down, instead capturing a plump rabbit with a beautiful team ambush! But when they bring it back to camp, app1 tries to take sole credit for the prey, and instead of familial talent, it's familial discord that's displayed, as the apprentices get into a massive argument in the middle of camp.",
+                "text": "app1 rate un d_tp_s, et app2 effraie une paire de d_tp_p. Ils ne se laissent pas abattre et parviennent plutôt à capturer un lapin dodu grâce à une belle embuscade d'équipe ! Mais quand ils le ramènent au camp, app1 essaie de s'attribuer tout le mérite de la proie, et au lieu d'un talent familial, c'est la discorde familiale qui éclate, les apprentis se lançant dans une énorme dispute en plein camp.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "text": "s_c catches a great d_mp_s, and two d_tp_p! But {PRONOUN\/s_c\/poss} sibling comes up empty-pawed. s_c offers to let {PRONOUN\/r_c\/object} claim the smaller prey as {PRONOUN\/r_c\/poss} own, but the insulting suggestion just causes a massive argument.",
+                "text": "s_c attrape un superbe d_mp_s, et deux d_tp_p ! Mais {PRONOUN/s_c/poss} frère ou sœur revient les pattes vides. s_c propose de laisser {PRONOUN/r_c/object} réclamer la plus petite proie comme la sienne, mais cette suggestion insultante provoque juste une massive dispute.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -89,7 +89,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The littermates end up dirty, exhausted, and without much more than a d_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
+                "text": "Les frères et sœurs finissent sales, épuisés, et avec à peine plus qu'un d_tp_s à montrer. Crotte de renard ! Mais au moins ici, même s'ils n'ont pas eu beaucoup de prises, ils peuvent se plaindre de la difficulté de la chasse à un public compatissant.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -113,7 +113,7 @@
                 ]
             },
             {
-                "text": "app1 takes a hard fall while chasing a d_tp_s among the thorns, and the afternoon's hunt is called off as {PRONOUN\/app1\/poss} sibling helps {PRONOUN\/app1\/object} back to camp, chatting reassuringly about how hard their hunting lessons are.",
+                "text": "app1 chute sévèrement en poursuivant un d_tp_s parmi les épines, et la chasse de l'après-midi est annulée pendant que {PRONOUN/app1/poss} frère ou sœur aide {PRONOUN/app1/object} à retourner au camp en le rassurant sur la difficulté des leçons de chasse.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -175,15 +175,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "It's nice to get the chance to go out hunting with app2. app1 knows they're still in the apprentices' den together, but their different mentors and focuses and skills - it's not the same as it was back in the nursery as littermates. And it's raining! What a weird thing to go hunt in!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "C'est agréable d'avoir la chance d'aller chasser avec app2. app1 sait qu'ils sont toujours dans la tanière des apprentis ensemble, mais leurs mentors, leurs axes d'entraînement et leurs compétences diffèrent — ce n'est plus la même chose qu'au nid. Et il pleut ! Quelle drôle d'idée d'aller chasser !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Yeah, it's a relatively okay hunt, with a couple d_tp_p and a dirty d_tp_s. But what app1 is actually going to remember about today is that app2 thinks that {PRONOUN\/app2\/poss} mentor and app1's would make a cute couple!",
+                "text": "Oui, c'est une chasse relativement correcte, avec quelques d_tp_p et un d_tp_s sale. Mais ce dont app1 se souviendra vraiment aujourd'hui, c'est qu'app2 pense que le mentor de {PRONOUN/app2/poss} et celui d'app1 feraient un joli couple !",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -207,7 +207,7 @@
                 ]
             },
             {
-                "text": "It turns out s_c has really been listening to {PRONOUN\/s_c\/poss} mentor's tips for hunting - and {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} willing to pass it on!",
+                "text": "Il s'avère que s_c a vraiment écouté les conseils de {PRONOUN/s_c/poss} mentor pour la chasse — et {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} prêt à les transmettre !",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -236,7 +236,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Together they manage a grand haul of one d_tp_s, and not even a very big d_tp_s at that. They have a lot more to learn before they'll all be ready to take on the responsibility of providing for c_n.",
+                "text": "Ensemble ils ramènent une maigre récolte d'un d_tp_s, et même pas très gros. Ils ont encore beaucoup à apprendre avant d'être prêts à assumer la responsabilité de nourrir c_n.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -271,15 +271,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "There are clouds in the sky - not raining, not yet, but foretelling it! And just like the clouds, app1 and {PRONOUN\/app1\/poss} littermate are everywhere today, sticking their heads into every unexplored corner of the territory. All in the name of hunting, of course!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Il y a des nuages dans le ciel — pas encore la pluie, mais qui l'annoncent ! Et comme les nuages, app1 et {PRONOUN/app1/poss} frère ou sœur sont partout aujourd'hui, fourrant leur nez dans chaque recoin inexploré du territoire. Tout ça au nom de la chasse, bien sûr !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 thinks app2's d_tp_s looks infinitely more delicious than {PRONOUN\/app1\/poss} own contributions of two d_tp_p, while app2 insists that {PRONOUN\/app2\/subject}'d much rather bring back d_tp_p.",
+                "text": "app1 trouve que le d_tp_s d'app2 a l'air infiniment plus délicieux que ses propres contributions de deux d_tp_p, tandis qu'app2 insiste pour dire que {PRONOUN/app2/subject} préférerait rapporter des d_tp_p.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -302,7 +302,7 @@
                 ]
             },
             {
-                "text": "s_c takes charge, setting up the perfect ambush, both impressing and frustrating the sibling trying to keep up with {PRONOUN\/s_c\/object}.",
+                "text": "s_c prend les choses en main, mettant en place l'embuscade parfaite, impressionnant et frustrant le frère ou la sœur qui essaie de suivre {PRONOUN/s_c/object}.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -331,7 +331,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Well, they have a lot of fun exploring, even if it's not that productive of a hunting patrol.",
+                "text": "Eh bien, ils se sont beaucoup amusés à explorer, même si la sortie n'a pas été très productive côté chasse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -366,15 +366,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The three siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Hopefully the first hints of the wet seasons soon to hit c_n will make the hunting a breeze!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Les trois frères et sœurs partent ensemble, déclarant une compétition amicale pour remplir la pile de prises fraîches. Espérons que les premiers signes des saisons humides bientôt sur c_n rendront la chasse facile !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 misses a d_tp_s, and app2 and app3 startle a pair of d_tp_p. They don't let it get them down, instead capturing a plump rabbit with a beautiful team ambush! But when they bring it back to camp, app1 tries to take sole credit for the prey, and instead of familial talent, it's familial discord that's displayed, as the apprentices get into a massive argument in the middle of camp.",
+                "text": "app1 rate un d_tp_s, et app2 et app3 effraient une paire de d_tp_p. Ils ne se laissent pas abattre et capturent plutôt un lapin dodu grâce à une belle embuscade d'équipe ! Mais quand ils le ramènent au camp, app1 essaie de s'attribuer tout le mérite de la proie, et au lieu d'un talent familial, c'est la discorde familiale qui se manifeste, les apprentis se disputant bruyamment en plein camp.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -398,7 +398,7 @@
                 ]
             },
             {
-                "text": "s_c catches a great d_mp_s, and two d_tp_p! But their siblings come up empty-pawed. s_c offers to let them claim the smaller prey as their own, but the insulting suggestion just causes a massive argument.",
+                "text": "s_c attrape un superbe d_mp_s, et deux d_tp_p ! Mais leurs frères et sœurs reviennent les pattes vides. s_c propose de leur laisser revendiquer la plus petite proie comme la leur, mais cette suggestion insultante ne fait qu'envenimer une grosse dispute.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -427,7 +427,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The littermates end up dirty, exhausted, and without much more than a d_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
+                "text": "Les fratries finissent sales, épuisées, et avec à peine plus qu'un d_tp_s à montrer. Crotte de renard ! Mais au moins ici, même sans beaucoup de prises, ils peuvent se plaindre de la dureté de la chasse à un public compatissant.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -451,7 +451,7 @@
                 ]
             },
             {
-                "text": "app1 takes a hard fall while chasing a d_tp_s among the thorns, and the afternoon's hunt is called off as {PRONOUN\/app1\/poss} siblings help {PRONOUN\/app1\/object} back to camp, chatting reassuringly about how hard their hunting lessons are.",
+                "text": "app1 fait une lourde chute en poursuivant un d_tp_s parmi les épines, et la chasse de l'après-midi est annulée pendant que {PRONOUN/app1/poss} frères et sœurs aident {PRONOUN/app1/object} à retourner au camp en le rassurant sur la difficulté des leçons de chasse.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -513,15 +513,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentices' den together, but their different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN\/app1\/poss} littermates. And it's raining! What a weird thing to go hunt in!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "C'est agréable d'avoir la chance d'aller chasser ensemble. app1 sait qu'ils sont encore tous dans la tanière des apprentis, mais leurs mentors, leurs axes et leurs compétences diffèrent — ce n'est plus la même chose qu'au nid avec {PRONOUN/app1/poss} frères et sœurs. Et il pleut ! Quelle étrange idée d'aller chasser sous la pluie !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Yeah, it's a relatively okay hunt, with a couple d_tp_p and a dirty d_tp_s. But what app1 is actually going to remember about today is that app2 thinks that {PRONOUN\/app2\/poss} mentor and app3's would make a cute couple!",
+                "text": "Oui, c'est une chasse assez correcte, avec quelques d_tp_p et un d_tp_s sale. Mais ce dont app1 se souviendra vraiment aujourd'hui, c'est qu'app2 pense que le mentor de {PRONOUN/app2/poss} et celui d'app3 formeraient un joli couple !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -545,7 +545,7 @@
                 ]
             },
             {
-                "text": "It turns out s_c has really been listening to {PRONOUN\/s_c\/poss} mentor's tips for hunting - and {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} willing to pass it on!",
+                "text": "Il s'avère que s_c a vraiment écouté les conseils de {PRONOUN/s_c/poss} mentor pour la chasse — et {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} prêt à les transmettre !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -574,7 +574,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Together they manage a grand haul of one d_tp_s, and not even a very big d_tp_s at that. They have a lot more to learn before they'll all be ready to take on the responsibility of providing for c_n.",
+                "text": "Ensemble ils ramènent une maigre prise d'un d_tp_s, et pas même très gros. Ils ont encore beaucoup à apprendre avant d'être prêts à assumer la responsabilité de nourrir c_n.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -609,15 +609,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "There are clouds in the sky - not raining, not yet, but foretelling it! And just like the clouds, app1 and {PRONOUN\/app1\/poss} littermates are everywhere today, sticking their heads into every unexplored corner of the territory. All in the name of hunting, of course!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Il y a des nuages dans le ciel — pas encore la pluie, mais qui l'annoncent ! Et comme les nuages, app1 et {PRONOUN/app1/poss} frères et sœurs sont partout aujourd'hui, fourrant leur nez dans chaque recoin inexploré du territoire. Tout ça au nom de la chasse, bien sûr !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 thinks app2's d_tp_s looks infinitely more delicious than {PRONOUN\/app1\/poss} own contributions of two d_tp_p, while app3 insists that {PRONOUN\/app3\/subject}'d much rather bring back d_tp_p than the d_mp_s {PRONOUN\/app3\/subject} caught.",
+                "text": "app1 trouve que le d_tp_s d'app2 a l'air infiniment plus délicieux que ses propres contributions de deux d_tp_p, tandis qu'app3 insiste que {PRONOUN/app3/subject} préférerait rapporter des d_tp_p plutôt que le d_mp_s que {PRONOUN/app3/subject} a attrapé.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -640,7 +640,7 @@
                 ]
             },
             {
-                "text": "s_c takes charge, setting up the perfect ambush, both impressing and frustrating the siblings trying to keep up with {PRONOUN\/s_c\/object}.",
+                "text": "s_c prend les commandes, organisant l'embuscade parfaite, impressionnant et frustrant les frères et sœurs qui essaient de suivre {PRONOUN/s_c/object}.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -669,7 +669,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Well, they have a lot of fun exploring, even if it's not that productive of a hunting patrol.",
+                "text": "Eh bien, ils se sont beaucoup amusés à explorer, même si la sortie n'a pas été très productive côté chasse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -704,15 +704,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The four siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Hopefully the first hints of the wet seasons soon to hit c_n will make the hunting a breeze!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Les quatre frères et sœurs partent ensemble, déclarant une compétition amicale pour remplir la pile de prises fraîches. Espérons que les premiers signes des saisons humides bientôt sur c_n rendront la chasse facile !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 misses a d_tp_s, and app2 and app3 startle a pair of d_tp_p. They don't let it get them down, instead capturing a plump rabbit with a beautiful team ambush! But when they bring it back to camp, app1 tries to take sole credit for the prey, and instead of familial talent, it's familial discord that's displayed, as the apprentices get into a massive argument in the middle of camp.",
+                "text": "app1 rate un d_tp_s, et app2 et app3 effraient une paire de d_tp_p. Ils ne se laissent pas abattre et capturent plutôt un lapin dodu grâce à une belle embuscade d'équipe ! Mais quand ils le ramènent au camp, app1 essaie de s'attribuer tout le mérite de la proie, et au lieu d'un talent familial, c'est la discorde familiale qui s'affiche, les apprentis se disputant violemment en plein camp.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -736,7 +736,7 @@
                 ]
             },
             {
-                "text": "s_c catches a great d_mp_s, and two d_tp_p! But their siblings come up empty-pawed. s_c offers to let them claim the smaller prey as their own, but the insulting suggestion just causes a massive argument.",
+                "text": "s_c attrape un superbe d_mp_s, et deux d_tp_p ! Mais leurs frères et sœurs reviennent bredouilles. s_c propose de les laisser revendiquer la plus petite proie comme la leur, mais cette suggestion insultante ne fait qu'engendrer une grosse dispute.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -765,7 +765,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The littermates end up dirty, exhausted, and without much more than a d_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
+                "text": "Les fratries finissent sales, épuisées, et avec à peine plus qu'un d_tp_s à montrer. Crotte de renard ! Mais au moins ici, même sans beaucoup de prises, ils peuvent se plaindre de la difficulté de la chasse à un public compatissant.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -789,7 +789,7 @@
                 ]
             },
             {
-                "text": "app1 takes a hard fall while chasing a d_tp_s among the thorns, and the afternoon's hunt is called off as {PRONOUN\/app1\/poss} siblings help {PRONOUN\/app1\/object} back to camp, chatting reassuringly about how hard their hunting lessons are.",
+                "text": "app1 tombe lourdement en poursuivant un d_tp_s parmi les épines, et la chasse de l'après-midi est annulée pendant que {PRONOUN/app1/poss} frères et sœurs aident {PRONOUN/app1/object} à retourner au camp en le rassurant sur la dureté de leurs leçons de chasse.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -851,15 +851,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentices' den together, but their different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN\/app1\/poss} littermates. And it's raining! What a weird thing to go hunt in!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "C'est agréable d'avoir la chance d'aller chasser ensemble. app1 sait qu'ils sont encore tous dans la tanière des apprentis, mais leurs mentors, leurs axes et leurs compétences diffèrent — ce n'est plus la même chose qu'au nid avec {PRONOUN/app1/poss} frères et sœurs. Et il pleut ! Quelle étrange idée d'aller chasser sous la pluie !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Yeah, it's a relatively okay hunt, with a couple d_tp_p and a dirty d_tp_s. But what app1 is actually going to remember about today is that app2 thinks that {PRONOUN\/app2\/poss} mentor and app3's would make a cute couple!",
+                "text": "Oui, c'est une chasse assez correcte, avec quelques d_tp_p et un d_tp_s sale. Mais ce dont app1 se souviendra vraiment aujourd'hui, c'est qu'app2 pense que le mentor de {PRONOUN/app2/poss} et celui d'app3 formeraient un joli couple !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -883,7 +883,7 @@
                 ]
             },
             {
-                "text": "It turns out s_c has really been listening to {PRONOUN\/s_c\/poss} mentor's tips for hunting - and {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} willing to pass it on!",
+                "text": "Il s'avère que s_c a vraiment écouté les conseils de {PRONOUN/s_c/poss} mentor pour la chasse — et {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} prêt à les transmettre !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -912,7 +912,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Together they manage a grand haul of one d_tp_s, and not even a very big d_tp_s at that. They have a lot more to learn before they'll all be ready to take on the responsibility of providing for c_n.",
+                "text": "Ensemble ils ramènent une maigre prise d'un d_tp_s, et pas même très gros. Ils ont encore beaucoup à apprendre avant d'être prêts à assumer la responsabilité de nourrir c_n.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -947,15 +947,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "There are clouds in the sky - not raining, not yet, but foretelling it! And just like the clouds, app1 and {PRONOUN\/app1\/poss} littermates are everywhere today, sticking their heads into every unexplored corner of the territory. All in the name of hunting, of course!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Il y a des nuages dans le ciel — pas encore la pluie, mais qui l'annoncent ! Et comme les nuages, app1 et {PRONOUN/app1/poss} frères et sœurs sont partout aujourd'hui, fourrant leur nez dans chaque recoin inexploré du territoire. Tout ça au nom de la chasse, bien sûr !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 thinks app2's d_tp_s looks infinitely more delicious than {PRONOUN\/app1\/poss} own contributions of two d_tp_p, while app3 insists that {PRONOUN\/app3\/subject}'d much rather bring back d_tp_p than the d_mp_s {PRONOUN\/app3\/subject} caught.",
+                "text": "app1 trouve que le d_tp_s d'app2 a l'air infiniment plus délicieux que ses propres contributions de deux d_tp_p, tandis qu'app3 insiste que {PRONOUN/app3/subject} préférerait rapporter des d_tp_p plutôt que le d_mp_s que {PRONOUN/app3/subject} a attrapé.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -978,7 +978,7 @@
                 ]
             },
             {
-                "text": "s_c takes charge, setting up the perfect ambush, both impressing and frustrating the siblings trying to keep up with {PRONOUN\/s_c\/object}.",
+                "text": "s_c prend les commandes, organisant l'embuscade parfaite, impressionnant et frustrant les frères et sœurs qui essaient de suivre {PRONOUN/s_c/object}.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1007,7 +1007,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Well, they have a lot of fun exploring, even if it's not that productive of a hunting patrol.",
+                "text": "Eh bien, ils se sont beaucoup amusés à explorer, même si la sortie n'a pas été très productive côté chasse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1042,15 +1042,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The five siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Hopefully the first hints of the wet seasons soon to hit c_n will make the hunting a breeze!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Les cinq frères et sœurs partent ensemble, déclarant une compétition amicale pour remplir la pile de prises fraîches. Espérons que les premiers signes des saisons humides bientôt sur c_n rendront la chasse facile !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 misses a d_tp_s, and app2 and app3 startle a pair of d_tp_p. They don't let it get them down, instead capturing a plump rabbit with a beautiful team ambush! But when they bring it back to camp, app1 tries to take sole credit for the prey, and instead of familial talent, it's familial discord that's displayed, as the apprentices get into a massive argument in the middle of camp.",
+                "text": "app1 rate un d_tp_s, et app2 et app3 effraient une paire de d_tp_p. Ils ne se laissent pas abattre et capturent plutôt un lapin dodu grâce à une belle embuscade d'équipe ! Mais quand ils le ramènent au camp, app1 essaie de s'attribuer tout le mérite de la proie, et au lieu d'un talent familial, c'est la discorde familiale qui éclate, les apprentis se disputant violemment en plein camp.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1074,7 +1074,7 @@
                 ]
             },
             {
-                "text": "s_c catches a great d_mp_s, and two d_tp_p! But their siblings come up empty-pawed. s_c offers to let them claim the smaller prey as their own, but the insulting suggestion just causes a massive argument.",
+                "text": "s_c attrape un superbe d_mp_s, et deux d_tp_p ! Mais leurs frères et sœurs reviennent bredouilles. s_c propose de les laisser revendiquer la plus petite proie comme la leur, mais cette suggestion insultante provoque une grosse dispute.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1103,7 +1103,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The littermates end up dirty, exhausted, and without much more than a d_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
+                "text": "Les fratries finissent sales, épuisées, et avec à peine plus qu'un d_tp_s à montrer. Crotte de renard ! Mais au moins ici, même sans beaucoup de prises, ils peuvent se plaindre de la difficulté de la chasse à un public compatissant.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1127,7 +1127,7 @@
                 ]
             },
             {
-                "text": "app1 takes a hard fall while chasing a d_tp_s among the thorns, and the afternoon's hunt is called off as {PRONOUN\/app1\/poss} siblings help {PRONOUN\/app1\/object} back to camp, chatting reassuringly about how hard their hunting lessons are.",
+                "text": "app1 chute lourdement en poursuivant un d_tp_s parmi les épines, et la chasse de l'après-midi est annulée pendant que {PRONOUN/app1/poss} frères et sœurs aident {PRONOUN/app1/object} à retourner au camp en le rassurant sur la dureté des leçons de chasse.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1189,15 +1189,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentices' den together, but their different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN\/app1\/poss} littermates. And it's raining! What a weird thing to go hunt in!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "C'est agréable d'avoir la chance d'aller chasser ensemble. app1 sait qu'ils sont encore tous dans la tanière des apprentis, mais leurs mentors, leurs axes et leurs compétences diffèrent — ce n'est plus la même chose qu'au nid avec {PRONOUN/app1/poss} frères et sœurs. Et il pleut ! Quelle étrange idée d'aller chasser sous la pluie !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Yeah, it's a relatively okay hunt, with a couple d_tp_p and a dirty d_tp_s. But what app1 is actually going to remember about today is that app2 thinks that {PRONOUN\/app2\/poss} mentor and app3's would make a cute couple!",
+                "text": "Oui, c'est une chasse assez correcte, avec quelques d_tp_p et un d_tp_s sale. Mais ce dont app1 se souviendra vraiment aujourd'hui, c'est qu'app2 pense que le mentor de {PRONOUN/app2/poss} et celui d'app3 formeraient un joli couple !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1221,7 +1221,7 @@
                 ]
             },
             {
-                "text": "It turns out s_c has really been listening to {PRONOUN\/s_c\/poss} mentor's tips for hunting - and {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} willing to pass it on!",
+                "text": "Il s'avère que s_c a vraiment écouté les conseils de {PRONOUN/s_c/poss} mentor pour la chasse — et {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} prêt à les transmettre !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1250,7 +1250,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Together they manage a grand haul of one d_tp_s, and not even a very big d_tp_s at that. They have a lot more to learn before they'll all be ready to take on the responsibility of providing for c_n.",
+                "text": "Ensemble ils ramènent une maigre prise d'un d_tp_s, et pas même très gros. Ils ont encore beaucoup à apprendre avant d'être prêts à assumer la responsabilité de nourrir c_n.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1285,15 +1285,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "There are clouds in the sky - not raining, not yet, but foretelling it! And just like the clouds, app1 and {PRONOUN\/app1\/poss} littermates are everywhere today, sticking their heads into every unexplored corner of the territory. All in the name of hunting, of course!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Il y a des nuages dans le ciel — pas encore la pluie, mais qui l'annoncent ! Et comme les nuages, app1 et {PRONOUN/app1/poss} frères et sœurs sont partout aujourd'hui, fourrant leur nez dans chaque recoin inexploré du territoire. Tout ça au nom de la chasse, bien sûr !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 thinks app2's d_tp_s looks infinitely more delicious than {PRONOUN\/app1\/poss} own contributions of two d_tp_p, while app3 insists that {PRONOUN\/app3\/subject}'d much rather bring back d_tp_p than the d_mp_s {PRONOUN\/app3\/subject} caught.",
+                "text": "app1 trouve que le d_tp_s d'app2 a l'air infiniment plus délicieux que ses propres contributions de deux d_tp_p, tandis qu'app3 insiste que {PRONOUN/app3/subject} préférerait rapporter des d_tp_p plutôt que le d_mp_s que {PRONOUN/app3/subject} a attrapé.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1316,7 +1316,7 @@
                 ]
             },
             {
-                "text": "s_c takes charge, setting up the perfect ambush, both impressing and frustrating the siblings trying to keep up with {PRONOUN\/s_c\/object}.",
+                "text": "s_c prend les commandes, organisant l'embuscade parfaite, impressionnant et frustrant les frères et sœurs qui essaient de suivre {PRONOUN/s_c/object}.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1345,7 +1345,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Well, they have a lot of fun exploring, even if it's not that productive of a hunting patrol.",
+                "text": "Eh bien, ils se sont beaucoup amusés à explorer, même si la sortie n'a pas été très productive côté chasse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1380,15 +1380,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The six siblings head out together, declaring a friendly competition to stock the fresh-kill pile. Hopefully the first hints of the wet seasons soon to hit c_n will make the hunting a breeze!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Les six frères et sœurs partent ensemble, déclarant une compétition amicale pour remplir la pile de prises fraîches. Espérons que les premiers signes des saisons humides bientôt sur c_n rendront la chasse facile !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 misses a d_tp_s, and app2 and app3 startle a pair of d_tp_p. They don't let it get them down, instead capturing a plump rabbit with a beautiful team ambush! But when they bring it back to camp, app1 tries to take sole credit for the prey, and instead of familial talent, it's familial discord that's displayed, as the apprentices get into a massive argument in the middle of camp.",
+                "text": "app1 rate un d_tp_s, et app2 et app3 effraient une paire de d_tp_p. Ils ne se laissent pas abattre et capturent plutôt un lapin dodu grâce à une belle embuscade d'équipe ! Mais quand ils le ramènent au camp, app1 essaie de s'attribuer tout le mérite de la proie, et au lieu d'un talent familial, c'est la discorde familiale qui éclate, les apprentis se disputant violemment en plein camp.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1412,7 +1412,7 @@
                 ]
             },
             {
-                "text": "s_c catches a great d_mp_s, and two d_tp_p! But their siblings come up empty-pawed. s_c offers to let them claim the smaller prey as their own, but the insulting suggestion just causes a massive argument.",
+                "text": "s_c attrape un superbe d_mp_s, et deux d_tp_p ! Mais leurs frères et sœurs reviennent bredouilles. s_c propose de les laisser revendiquer la plus petite proie comme la leur, mais cette suggestion insultante provoque une grosse dispute.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1441,7 +1441,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The littermates end up dirty, exhausted, and without much more than a d_tp_s to show for it. Fox-dung! But at least out here, even if they didn't get much prey, they can complain about how stupidly hard hunting is to a sympathetic audience.",
+                "text": "Les fratries finissent sales, épuisées, et avec à peine plus qu'un d_tp_s à montrer. Crotte de renard ! Mais au moins ici, même sans beaucoup de prises, ils peuvent se plaindre de la difficulté de la chasse à un public compatissant.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1465,7 +1465,7 @@
                 ]
             },
             {
-                "text": "app1 takes a hard fall while chasing a d_tp_s among the thorns, and the afternoon's hunt is called off as {PRONOUN\/app1\/poss} siblings help {PRONOUN\/app1\/object} back to camp, chatting reassuringly about how hard their hunting lessons are.",
+                "text": "app1 chute lourdement en poursuivant un d_tp_s parmi les épines, et la chasse de l'après-midi est annulée pendant que {PRONOUN/app1/poss} frères et sœurs aident {PRONOUN/app1/object} à retourner au camp en le rassurant sur la dureté des leçons de chasse.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -1527,15 +1527,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "It's nice to get the chance to go out hunting together. app1 knows they're all still in the apprentices' den together, but their different mentors and focuses and skills - it's not the same as it was back in the nursery with {PRONOUN\/app1\/poss} littermates. And it's raining! What a weird thing to go hunt in!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "C'est agréable d'avoir la chance d'aller chasser ensemble. app1 sait qu'ils sont encore tous dans la tanière des apprentis, mais leurs mentors, leurs axes et leurs compétences diffèrent — ce n'est plus la même chose qu'au nid avec {PRONOUN/app1/poss} frères et sœurs. Et il pleut ! Quelle étrange idée d'aller chasser sous la pluie !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Yeah, it's a relatively okay hunt, with a couple d_tp_p and a dirty d_tp_s. But what app1 is actually going to remember about today is that app2 thinks that {PRONOUN\/app2\/poss} mentor and app3's would make a cute couple!",
+                "text": "Oui, c'est une chasse assez correcte, avec quelques d_tp_p et un d_tp_s sale. Mais ce dont app1 se souviendra vraiment aujourd'hui, c'est qu'app2 pense que le mentor de {PRONOUN/app2/poss} et celui d'app3 formeraient un joli couple !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1559,7 +1559,7 @@
                 ]
             },
             {
-                "text": "It turns out s_c has really been listening to {PRONOUN\/s_c\/poss} mentor's tips for hunting - and {PRONOUN\/s_c\/subject}{VERB\/s_c\/'re\/'s} willing to pass it on!",
+                "text": "Il s'avère que s_c a vraiment écouté les conseils de {PRONOUN/s_c/poss} mentor pour la chasse — et {PRONOUN/s_c/subject}{VERB/s_c/'re/'s} prêt à les transmettre !",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1588,7 +1588,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Together they manage a grand haul of one d_tp_s, and not even a very big d_tp_s at that. They have a lot more to learn before they'll all be ready to take on the responsibility of providing for c_n.",
+                "text": "Ensemble ils ramènent une maigre prise d'un d_tp_s, et pas même très gros. Ils ont encore beaucoup à apprendre avant d'être prêts à assumer la responsabilité de nourrir c_n.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1623,15 +1623,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "There are clouds in the sky - not raining, not yet, but foretelling it! And just like the clouds, app1 and {PRONOUN\/app1\/poss} littermates are everywhere today, sticking their heads into every unexplored corner of the territory. All in the name of hunting, of course!",
-        "decline_text": "Their mentors hold them back with a gentle word - the warriors have other plans for the apprentices today.",
+        "intro_text": "Il y a des nuages dans le ciel — pas encore la pluie, mais qui l'annoncent ! Et comme les nuages, app1 et {PRONOUN/app1/poss} frères et sœurs sont partout aujourd'hui, fourrant leur nez dans chaque recoin inexploré du territoire. Tout ça au nom de la chasse, bien sûr !",
+        "decline_text": "Leurs mentors les retiennent d'un mot doux — les guerriers ont d'autres plans pour les apprentis aujourd'hui.",
         "chance_of_success": 40,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 thinks app2's d_tp_s looks infinitely more delicious than {PRONOUN\/app1\/poss} own contributions of two d_tp_p, while app3 insists that {PRONOUN\/app3\/subject}'d much rather bring back d_tp_p than the d_mp_s {PRONOUN\/app3\/subject} caught.",
+                "text": "app1 trouve que le d_tp_s d'app2 a l'air infiniment plus délicieux que ses propres contributions de deux d_tp_p, tandis qu'app3 insiste que {PRONOUN/app3/subject} préférerait rapporter des d_tp_p plutôt que le d_mp_s que {PRONOUN/app3/subject} a attrapé.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1654,7 +1654,7 @@
                 ]
             },
             {
-                "text": "s_c takes charge, setting up the perfect ambush, both impressing and frustrating the siblings trying to keep up with {PRONOUN\/s_c\/object}.",
+                "text": "s_c prend les commandes, organisant l'embuscade parfaite, impressionnant et frustrant les frères et sœurs qui essaient de suivre {PRONOUN/s_c/object}.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -1683,7 +1683,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Well, they have a lot of fun exploring, even if it's not that productive of a hunting patrol.",
+                "text": "Eh bien, ils se sont beaucoup amusés à explorer, même si la sortie n'a pas été très productive côté chasse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1722,15 +1722,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "app1 suppresses a yawn, trying not to make a weird expression in front of p_l as {PRONOUN\/app1\/subject} {VERB\/app1\/do\/does}. p_l suggested this as sibling bonding time, but did they <i>really<\/i> have to get up at dawn? Surely with the sun losing its grip on power occasionally app1 should get to sleep in?",
-        "decline_text": "Actually, {PRONOUN\/app1\/subject}'d really rather be back in {PRONOUN\/app1\/poss} nest.",
+        "intro_text": "app1 étouffe un bâillement, essayant de ne pas faire une drôle de tête devant p_l alors que {PRONOUN/app1/subject} {VERB/app1/do/does}. p_l a suggéré ce moment comme un temps de rapprochement fraternel, mais fallait-il vraiment se lever à l'aube ? Sûrement qu'avec le soleil perdant parfois de sa puissance, app1 pourrait rester dormir ?",
+        "decline_text": "En fait, {PRONOUN/app1/subject}'d préfèrerait être de retour dans {PRONOUN/app1/poss} nid.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 collects two d_tp_p, and watches p_l take down a d_mp_s in an astonishing pounce. {PRONOUN\/app1\/subject\/CAP}{VERB\/app1\/'re\/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's d_tp_p, making app1 grimace at what's got to be fake praise.",
+                "text": "app1 ramasse deux d_tp_p, et regarde p_l abattre un d_mp_s d'un bond étonnant. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} sur le point d'aller montrer son admiration à p_l pour la prise quand p_l se retourne et complimente les d_tp_p d'app1, faisant grimacer app1 devant ce qui doit être un faux compliment.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -1753,7 +1753,7 @@
                 ]
             },
             {
-                "text": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN\/app1\/subject}'ll never be able to do that?",
+                "text": "Regarder les démonstrations d'athlétisme de s_c fait sentir app1 petit — sûrement que {PRONOUN/app1/subject}'ll n'y arrivera jamais ?",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1787,7 +1787,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 yawns {PRONOUN\/app1\/poss} way through the not overly successful hunting patrol.",
+                "text": "app1 bâille tout le long de la patrouille de chasse pas très fructueuse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -1826,15 +1826,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "Settling into a fantastic perch above the scrublands, hidden both from prey and from the sun, p_l awkwardly asks app1 how {PRONOUN\/app1\/subject} {VERB\/app1\/think\/thinks} {PRONOUN\/app1\/poss} training is going.",
-        "decline_text": "app1 carefully talks around the subject, telling p_l nothing of importance.",
+        "intro_text": "Installé sur un perchoir fantastique au-dessus des broussailles, caché à la fois des proies et du soleil, p_l demande maladroitement à app1 comment {PRONOUN/app1/subject} {VERB/app1/think/thinks} que se passe son entraînement.",
+        "decline_text": "app1 évite soigneusement le sujet, ne disant rien d'important à p_l.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Giving in and accepting that {PRONOUN\/app1\/subject}{VERB\/app1\/'re\/'s} just going to look stupid in front of {PRONOUN\/app1\/poss} cool older sibling, app1 tells p_l about the trouble {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} been having with {PRONOUN\/app1\/poss} pounce. It's such a simple thing - {PRONOUN\/app1\/subject} should have it by now! But p_l is actually super helpful and reassuring about it - it's nice.",
+                "text": "Abandonnant et acceptant que {PRONOUN/app1/subject}{VERB/app1/'re/'s} juste voué à avoir l'air stupide devant {PRONOUN/app1/poss} grand frère ou grande sœur cool, app1 raconte à p_l les difficultés qu'{PRONOUN/app1/subject}{VERB/app1/'ve/'s} avec {PRONOUN/app1/poss} bond. C'est si simple — {PRONOUN/app1/subject} devrait y arriver maintenant ! Mais p_l est en fait super utile et rassurant — c'est agréable.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -1858,7 +1858,7 @@
                 ]
             },
             {
-                "text": "If app1 ever wanted help - s_c knows they're not littermates, but they're still siblings, and s_c is totally here for {PRONOUN\/app1\/object} if app1 ever wants extra training. It's still an awkward offer. But it's nice.",
+                "text": "Si jamais app1 voulait de l'aide — s_c sait qu'ils ne sont pas frères et sœurs de portée, mais ce sont quand même des frères et sœurs, et s_c est totalement là pour {PRONOUN/app1/object} si app1 veut un entraînement supplémentaire. C'est encore une offre maladroite. Mais c'est gentil.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -1893,7 +1893,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 doesn't want to talk about it. Like. At all. {PRONOUN\/app1\/subject\/CAP} {VERB\/app1\/stalk\/stalks} off in a huff.",
+                "text": "app1 ne veut pas en parler. Pas du tout. {PRONOUN/app1/subject/CAP} {VERB/app1/stalk/stalks} s'éloigne boudeur.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -1948,15 +1948,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "app1 bounds out of camp, determined to show off to p_l!",
-        "decline_text": "And both are immediately recalled - the camp needs new nesting materials, not more prey.",
+        "intro_text": "app1 jaillit du camp, déterminé à en mettre plein la vue à p_l !",
+        "decline_text": "Et les deux sont immédiatement rappelés — le camp a besoin de nouveaux matériaux de nidification, pas de plus de proies.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Taking down a d_mp_s all by {PRONOUN\/app1\/self}, app1 feels twice {PRONOUN\/app1\/poss} actual size showing it to p_l.",
+                "text": "En abattant un d_mp_s tout seul, {PRONOUN/app1/self}, app1 se sent deux fois plus grand que {PRONOUN/app1/poss} taille réelle en le montrant à p_l.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -1980,7 +1980,7 @@
                 ]
             },
             {
-                "text": "s_c, so physically strong and impressive, shows app1 exactly how to pull off one of {PRONOUN\/s_c\/poss} moves, and app1 trots back to camp with a d_mp_s to prove it!",
+                "text": "s_c, si physiquement fort et impressionnant, montre à app1 exactement comment exécuter un des mouvements de {PRONOUN/s_c/poss}, et app1 rentre au camp avec un d_mp_s pour preuve !",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -2015,7 +2015,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 knows {PRONOUN\/app1\/poss} patrol is still bringing back a little prey for the fresh-kill pile, but... it's so disappointing. {PRONOUN\/app1\/subject\/CAP} really wanted to prove how much {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} grown to p_l.",
+                "text": "app1 sait que sa patrouille ramène quand même un peu de proies pour la pile fraiche, mais... c'est si décevant. {PRONOUN/app1/subject/CAP} voulait vraiment montrer à quel point {PRONOUN/app1/subject}{VERB/app1/'ve/'s} grandi à p_l.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2070,15 +2070,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "app1 suppresses a yawn, trying not to make a weird expression in front of p_l as {PRONOUN\/app1\/subject} {VERB\/app1\/do\/does}. p_l suggested this as sibling bonding time, but did they <i>really<\/i> have to get up at dawn? Surely with the sun losing its grip on power occasionally app1 should get to sleep in?",
-        "decline_text": "Actually, {PRONOUN\/app1\/subject}'d really rather be back in {PRONOUN\/app1\/poss} nest.",
+        "intro_text": "app1 étouffe un bâillement, essayant de ne pas faire une drôle de tête devant p_l alors que {PRONOUN/app1/subject} {VERB/app1/do/does}. p_l a suggéré ce moment comme un temps de rapprochement fraternel, mais fallait-il vraiment se lever à l'aube ? Sûrement qu'avec le soleil perdant parfois de sa puissance, app1 pourrait rester dormir ?",
+        "decline_text": "En fait, {PRONOUN/app1/subject} préférerait être de retour dans {PRONOUN/app1/poss} nid.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "app1 collects two d_tp_p, and watches p_l take down a d_mp_s in an astonishing pounce and the rest of {PRONOUN\/app1\/poss} older siblings bring down two d_mp_p. {PRONOUN\/app1\/subject\/CAP}{VERB\/app1\/'re\/'s} about to trot up to p_l to express admiration over the kill when p_l turns around and compliments app1's d_tp_p, making app1 grimace at what's got to be fake praise.",
+                "text": "app1 collecte deux d_tp_p, et regarde p_l abattre un d_mp_s d'un bond étonnant pendant que le reste de {PRONOUN/app1/poss} frères et sœurs ramènent deux d_mp_p. {PRONOUN/app1/subject/CAP}{VERB/app1/'re/'s} sur le point d'aller exprimer son admiration à p_l pour la prise quand p_l se retourne et complimente les d_tp_p d'app1, faisant grimacer app1 devant ce qui doit être un compliment faux.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -2101,7 +2101,7 @@
                 ]
             },
             {
-                "text": "Watching s_c's displays of athleticism makes app1 feel small - surely {PRONOUN\/app1\/subject}'ll never be able to do that?",
+                "text": "Regarder les démonstrations d'athlétisme de s_c fait sentir app1 petit — sûrement que {PRONOUN/app1/subject}'ll n'y arrivera jamais ?",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -2135,7 +2135,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 yawns {PRONOUN\/app1\/poss} way through the not overly successful hunting patrol.",
+                "text": "app1 bâille tout le long de la patrouille de chasse pas très fructueuse.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2174,15 +2174,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "app1 bounds out of camp, determined to show off to {PRONOUN\/app1\/poss} older siblings!",
-        "decline_text": "And everyone is immediately recalled - the camp needs new nesting materials, not more prey.",
+        "intro_text": "app1 jaillit du camp, déterminé à en mettre plein la vue à {PRONOUN/app1/poss} frères et sœurs aînés !",
+        "decline_text": "Et tout le monde est immédiatement rappelé — le camp a besoin de nouveaux matériaux de nidification, pas de plus de proies.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Taking down a d_mp_s all by {PRONOUN\/app1\/self}, app1 feels twice {PRONOUN\/app1\/poss} actual size showing it to {PRONOUN\/app1\/poss} older, fully-named warrior siblings.",
+                "text": "En abattant un d_mp_s tout seul, {PRONOUN/app1/self}, app1 se sent deux fois plus grand que {PRONOUN/app1/poss} taille réelle en le montrant à ses frères et sœurs guerriers âgés et complètement nommés.",
                 "exp": 30,
                 "weight": 20,
                 "prey": [
@@ -2206,7 +2206,7 @@
                 ]
             },
             {
-                "text": "s_c, so physically strong and impressive, shows app1 exactly how to pull off one of {PRONOUN\/s_c\/poss} moves, and app1 trots back to camp with a d_mp_s to prove it!",
+                "text": "s_c, si physiquement fort et impressionnant, montre à app1 exactement comment exécuter un des mouvements de {PRONOUN/s_c/poss}, et app1 rentre au camp avec un d_mp_s pour preuve !",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -2241,7 +2241,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "app1 knows {PRONOUN\/app1\/poss} patrol is still bringing back a little prey for the fresh-kill pile, but... it's so disappointing. {PRONOUN\/app1\/subject\/CAP} really wanted to prove how much {PRONOUN\/app1\/subject}{VERB\/app1\/'ve\/'s} grown to {PRONOUN\/app1\/poss} family.",
+                "text": "app1 sait que sa patrouille ramène quand même un peu de proies pour la pile fraiche, mais... c'est si décevant. {PRONOUN/app1/subject/CAP} voulait vraiment prouver combien {PRONOUN/app1/subject}{VERB/app1/'ve/'s} grandi à sa famille.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2288,15 +2288,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The days are getting shorter, the sun weaker and less dangerous, and p_l is out on a hunting patrol with r_c.",
-        "decline_text": "Actually, {PRONOUN\/p_l\/subject}'d rather try fishing for prey. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/wave\/waves} {PRONOUN\/p_l\/poss} sibling off with a flick of {PRONOUN\/p_l\/poss} tail and {VERB\/p_l\/settle\/settles} down at the watering hole.",
+        "intro_text": "Les jours raccourcissent, le soleil est plus faible et moins dangereux, et p_l est en patrouille de chasse avec r_c.",
+        "decline_text": "En fait, {PRONOUN/p_l/subject} préférerait essayer de pêcher des proies. {PRONOUN/p_l/subject/CAP} {VERB/p_l/wave/waves} {PRONOUN/p_l/poss} frère ou sœur d'un coup de queue et {VERB/p_l/settle/settles} s'installe au point d'eau.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "A d_mp_s and two d_tp_p is nothing to sniff at, as a hunting success, but stars above, being alone with r_c makes p_l feel like a kitten again. And not in the cute way either; in the chewing on tails, whiny, petty, immature way. Ugh.",
+                "text": "Un d_mp_s et deux d_tp_p, ce n'est pas rien côté succès de chasse, mais mon dieu, être seul avec r_c fait remonter p_l à l'état de chaton. Et pas de la façon mignonne ; plutôt en mode se mordiller la queue, râleur, puéril et mesquin. Beurk.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -2319,7 +2319,7 @@
                 ]
             },
             {
-                "text": "The hunting patrol is perfectly successful and it matters not a whit to either of the warriors, because p_l makes a joke that {PRONOUN\/p_l\/subject} {VERB\/p_l\/think\/thinks} is funny but that's always gotten on r_c's nerves and suddenly they're both acting like apprentices again, snippy, immature, and irritable.",
+                "text": "La patrouille est parfaitement réussie et cela n'a aucune importance pour aucun des guerriers, parce que p_l fait une blague que {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} et qui énerve toujours r_c, et soudain ils agissent tous les deux comme des apprentis, grincheux, immatures et irritables.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -2342,7 +2342,7 @@
                 ]
             },
             {
-                "text": "s_c nets them two healthy d_mp_p to take back to camp, but it only irritates {PRONOUN\/s_c\/poss} sibling. r_c never even got the chance to even try for a pounce - {VERB\/r_c\/are\/is} {PRONOUN\/r_c\/subject} only there to carry around s_c's prey?",
+                "text": "s_c leur rapporte deux d_mp_p en bonne santé à ramener au camp, mais cela n'irrite que {PRONOUN/s_c/poss} frère ou sœur. r_c n'a même pas eu la chance d'essayer un bond — {VERB/r_c/are/is} {PRONOUN/r_c/subject} seulement là pour porter la proie de s_c ?",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -2373,7 +2373,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It isn't a very successful hunt - they'll have to head out again for more soon.",
+                "text": "Ce n'est pas une chasse très fructueuse — ils devront repartir bientôt pour en obtenir plus.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2404,15 +2404,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "Sometimes, it's just nice to hang out with {PRONOUN\/r_c\/poss} sibling. Especially when they hear thunder rolling across the desert, ears pricked up, noses pointed upwards as the cats try to sniff for the smell of rain.",
-        "decline_text": "But sometimes, you get called back to camp instead. Ah well, another time!",
+        "intro_text": "Parfois, il est simplement agréable de traîner avec {PRONOUN/r_c/poss} frère ou sœur. Surtout quand ils entendent le tonnerre rouler à travers le désert, oreilles dressées, nez pointés vers le ciel tandis que les chats cherchent l'odeur de la pluie.",
+        "decline_text": "Mais parfois, on vous rappelle au camp à la place. Tant pis, une autre fois !",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "A scruffy d_mp_s, a bundle of d_tp_p, and a patrol spent retreading all their favorite in-jokes... It's a good day.",
+                "text": "Un d_mp_s râpeux, un tas de d_tp_p, et une patrouille passée à se remémorer toutes leurs vieilles blagues... C'est une bonne journée.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -2436,7 +2436,7 @@
                 ]
             },
             {
-                "text": "There's just something nice about hanging out with another warrior who'll always be there for {PRONOUN\/r_c\/object}, regardless of their similarities and differences. And they also bring back a good-sized d_mp_s with some d_tp_p on the side for the fresh-kill pile.",
+                "text": "Il y a quelque chose de réconfortant à traîner avec un autre guerrier qui sera toujours là pour {PRONOUN/r_c/object}, malgré leurs similitudes et différences. Et ils ramènent aussi un bon d_mp_s avec quelques d_tp_p pour la pile de prises fraîches.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -2460,7 +2460,7 @@
                 ]
             },
             {
-                "text": "r_c is proud of s_c, watching s_c fish prey from seemingly barren lands through talent and wit.",
+                "text": "r_c est fier de s_c, regardant s_c pêcher des proies dans des terres apparemment stériles par le talent et l'ingéniosité.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -2491,7 +2491,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "They don't manage anything like the number of catches they were both expecting to get - a bit disappointing, even if they're not entirely empty-pawed.",
+                "text": "Ils n'obtiennent pas autant de prises qu'ils l'espéraient — un peu décevant, même s'ils ne rentrent pas complètement bredouilles.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2499,7 +2499,7 @@
                 ]
             },
             {
-                "text": "Thunder and lightning - but no rain, and r_c gets too close investigating it. These clouds bring fire, not life.",
+                "text": "Tonnerre et éclairs — mais pas de pluie, et r_c s'approche trop près en l'explorant. Ces nuages apportent le feu, pas la vie.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2517,9 +2517,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries the scars of escaping a wildfire, brought on by lightning strikes in leaf-fall.",
-                    "reg_death": "m_c was killed by the damage {PRONOUN\/m_c\/subject} took escaping a wildfire out in the territory with {PRONOUN\/m_c\/poss} sibling.",
-                    "lead_death": "was killed by the damage {PRONOUN\/m_c\/subject} took escaping a wildfire out in the territory with {PRONOUN\/m_c\/poss} sibling"
+                    "scar": "m_c porte les cicatrices d'avoir échappé à un incendie provoqué par des éclairs en automne.",
+                    "reg_death": "m_c a été tué par les blessures subies en fuyant un incendie dans le territoire avec {PRONOUN/m_c/poss} frère ou sœur.",
+                    "lead_death": "a été tué par les blessures subies en fuyant un incendie dans le territoire avec {PRONOUN/m_c/poss} frère ou sœur"
                 },
                 "prey": [
                     "very_small"
@@ -2549,15 +2549,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The first scattered clouds are here, and while they don't look heavy enough to bring rain, the relief from the sun still helps. r_c has been assigned a moderately tolerable hunting partner - {PRONOUN\/r_c\/poss} sibling!",
-        "decline_text": "Cancel that - a border patrol needs backup.",
+        "intro_text": "Les premiers nuages épars sont là, et même s'ils ne semblent pas assez lourds pour apporter la pluie, l'ombre qu'ils offrent soulage du soleil. r_c s'est vu assigner un partenaire de chasse modérément tolérable — {PRONOUN/r_c/poss} frère ou sœur !",
+        "decline_text": "Annulez ça — une patrouille de frontière a besoin de renforts.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Watching r_c execute a fantastic leap to bring down a d_mp_s, p_l smiles. Does r_c remember the time {PRONOUN\/r_c\/subject} tried to do that as a kitten, and stood on {PRONOUN\/r_c\/poss} own tail? The siblings laugh about it as they move on to the next hunting ground.",
+                "text": "En regardant r_c exécuter un saut fantastique pour abattre un d_mp_s, p_l sourit. Est-ce que r_c se souvient de la fois où {PRONOUN/r_c/subject} a essayé ça en tant que chaton, et s'est retrouvé debout sur sa propre queue ? Les frères et sœurs en rient en se dirigeant vers le prochain terrain de chasse.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -2581,7 +2581,7 @@
                 ]
             },
             {
-                "text": "It's been a while since they've been on a patrol alone together, and after they catch a d_mp_s for the fresh-kill pile r_c spends a bit just chasing p_l around the forest, batting at each other in a moment of silliness.",
+                "text": "Ça faisait longtemps qu'ils n'avaient pas été en patrouille seuls ensemble, et après avoir attrapé un d_mp_s pour la pile fraiche, r_c passe un moment à poursuivre p_l dans la forêt, se battant affectueusement comme des gamins.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -2605,7 +2605,7 @@
                 ]
             },
             {
-                "text": "r_c jokes that {PRONOUN\/r_c\/subject} can't possibly be related to s_c - clearly s_c was born from vultures, not cats, with the way {PRONOUN\/s_c\/subject} {VERB\/s_c\/spot\/spots} opportunities no one else picks up on.",
+                "text": "r_c plaisante en disant que {PRONOUN/r_c/subject} ne peut certainement pas être apparenté à s_c — clairement s_c est né de vautours, pas de chats, avec la façon dont {PRONOUN/s_c/subject} {VERB/s_c/spot/spots} des opportunités que personne d'autre ne voit.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -2635,7 +2635,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Sometimes, the prey just doesn't run, and today is one of those times.",
+                "text": "Parfois, la proie ne bouge tout simplement pas, et aujourd'hui est l'un de ces jours.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2643,7 +2643,7 @@
                 ]
             },
             {
-                "text": "r_c sees a ground squirrel {PRONOUN\/r_c\/subject}'d like for the fresh-kill pile, but the chase goes badly - {PRONOUN\/r_c\/subject} {VERB\/r_c\/throw\/throws} out a front paw to stop {PRONOUN\/r_c\/poss} fall, claws digging into dirt, and it works, but it wrenches {PRONOUN\/r_c\/poss} foreleg out of socket. Fleas and ticks!",
+                "text": "r_c voit un écureuil terrestre qui plairait à {PRONOUN/r_c/subject} pour la pile fraiche, mais la chasse tourne mal — {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} une patte avant pour empêcher la chute, les griffes s'enfonçant dans la terre, et ça fonctionne, mais ça déboîte {PRONOUN/r_c/poss} avant-bras. Puces et tiques !",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2685,15 +2685,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The hunting patrol heads out early, before the sun can rise to pelt-scorching heights.",
-        "decline_text": "They encounter a dawn patrol on their way back to camp and join up with them instead.",
+        "intro_text": "La patrouille de chasse part tôt, avant que le soleil ne monte et ne devienne brûlant.",
+        "decline_text": "Ils rencontrent une patrouille à l'aube en revenant au camp et la rejoignent à la place.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "p_l grabs a massive d_mp_s that {PRONOUN\/p_l\/subject} can barely carry, and r_c congratulates {PRONOUN\/p_l\/object}, secretly wondering if {PRONOUN\/r_c\/subject}'ll ever manage to surpass {PRONOUN\/r_c\/poss} sibling's achievements.",
+                "text": "p_l attrape un énorme d_mp_s qu'{PRONOUN/p_l/subject} peut à peine porter, et r_c félicite {PRONOUN/p_l/object}, se demandant secrètement si {PRONOUN/r_c/subject}'ll surpassera un jour les réalisations de {PRONOUN/r_c/poss} frère ou sœur.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -2716,7 +2716,7 @@
                 ]
             },
             {
-                "text": "r_c always feels like {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} padding in p_l's footsteps, especially today, watching {PRONOUN\/p_l\/object} haul back such a good catch of prey for the Clan, a contribution that more than makes up for r_c's meager offerings.",
+                "text": "r_c se sent toujours comme si {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} dans l'ombre de p_l, surtout aujourd'hui, en regardant {PRONOUN/p_l/object} ramener une si bonne prise pour le Clan, une contribution qui compense largement les maigres apports de r_c.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -2741,7 +2741,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Sometimes, the prey just doesn't run, and today is one of those times.",
+                "text": "Parfois, la proie ne court tout simplement pas, et aujourd'hui en est un exemple.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -2764,7 +2764,7 @@
                 ]
             },
             {
-                "text": "r_c comes down with a debilitating headache, making {PRONOUN\/r_c\/object} stagger, dizzy and weak, as {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} helped back to camp.",
+                "text": "r_c est pris d'un terrible mal de tête, le faisant tituber, étourdi et faible, tandis que {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} aidé pour retourner au camp.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2821,15 +2821,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The siblings head out to one of the further hunting grounds of the desert, where a lone early rain shower has dropped life onto the arid plains - worth the long walk.",
-        "decline_text": "They decide to bask for a bit instead of making the long walk.",
+        "intro_text": "Les frères et sœurs partent pour l'un des terrains de chasse les plus éloignés du désert, où une averse matinale isolée a apporté de la vie sur les plaines arides — le détour en valait la peine.",
+        "decline_text": "Ils décident de se prélasser un peu plutôt que de faire la longue marche.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Together, they collect an old d_mp_s and two d_mp_p. It should be a great patrol, returning with so much prey - but r_c is acting obnoxious and {PRONOUN\/r_c\/poss} sibling has little time or patience for it.",
+                "text": "Ensemble, ils ramènent un vieux d_mp_s et deux d_mp_p. Cela aurait dû être une excellente patrouille, revenant avec tant de prises — mais r_c se comporte de manière odieuse et {PRONOUN/r_c/poss} frère ou sœur a peu de patience pour ça.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -2852,7 +2852,7 @@
                 ]
             },
             {
-                "text": "r_c makes a dumb comment that accidentally cuts deep. {PRONOUN\/r_c\/poss\/CAP} sibling works with {PRONOUN\/r_c\/object} long enough to bring back a good haul of prey - but no longer.",
+                "text": "r_c fait un commentaire stupide qui blesse involontairement. {PRONOUN/r_c/poss/CAP} frère ou sœur travaille encore avec {PRONOUN/r_c/object} assez longtemps pour ramener une bonne quantité de prises — mais pas plus.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -2877,7 +2877,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Today is just not their day.",
+                "text": "Aujourd'hui n'est tout simplement pas leur jour.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -2885,7 +2885,7 @@
                 ]
             },
             {
-                "text": "The patrol tries to hunt, but r_c keeps stopping to duck behind bushes, until it's obvious that something is actually wrong. Eww.",
+                "text": "La patrouille essaie de chasser, mais r_c n'arrête pas de se cacher derrière des buissons, jusqu'à ce qu'il soit évident que quelque chose ne va vraiment pas. Beurk.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -2927,15 +2927,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The days are getting shorter, the sun weaker and less dangerous, and p_l is out on a hunting patrol with {PRONOUN\/p_l\/poss} siblings.",
-        "decline_text": "Actually, {PRONOUN\/p_l\/subject}'d rather try fishing for prey. {PRONOUN\/p_l\/subject\/CAP} {VERB\/p_l\/wave\/waves} {PRONOUN\/p_l\/poss} siblings off with a flick of {PRONOUN\/p_l\/poss} tail and {VERB\/p_l\/settle\/settles} down at the watering hole.",
+        "intro_text": "Les jours raccourcissent, le soleil est plus faible et moins dangereux, et p_l est en patrouille de chasse avec {PRONOUN/p_l/poss} frères et sœurs.",
+        "decline_text": "En fait, {PRONOUN/p_l/subject} préférerait essayer la pêche. {PRONOUN/p_l/subject/CAP} {VERB/p_l/wave/waves} {PRONOUN/p_l/poss} frères et sœurs d'un coup de queue et {VERB/p_l/settle/settles} se pose au point d'eau.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "A d_mp_s, three d_tp_p, and a couple d_mp_p are nothing to sniff at, as a hunting success, but stars above, being alone with {PRONOUN\/p_l\/poss} siblings makes p_l feel like a kitten again. And not in the cute way either; in the chewing on tails, whiny, petty, immature way. Ugh.",
+                "text": "Un d_mp_s, trois d_tp_p, et quelques d_mp_p ne sont pas à négliger côté succès de chasse, mais mon dieu, être seul avec {PRONOUN/p_l/poss} frères et sœurs laisse p_l comme un chaton. Et pas dans le bon sens ; plutôt en mode se tirer la queue, râleur, puéril et mesquin. Beurk.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -2958,7 +2958,7 @@
                 ]
             },
             {
-                "text": "The hunting patrol is perfectly successful and it matters not a whit to any of the warriors, because p_l makes a joke that {PRONOUN\/p_l\/subject} {VERB\/p_l\/think\/thinks} is funny but that's always gotten on r_c's nerves and suddenly everyone's acting like apprentices again, snippy, immature, and irritable.",
+                "text": "La patrouille est parfaitement réussie et cela n'a aucune importance pour aucun des guerriers, parce que p_l fait une blague que {PRONOUN/p_l/subject} {VERB/p_l/think/thinks} et qui énerve toujours r_c, et soudain tout le monde se comporte comme des apprentis, grincheux, immatures et irritables.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -2981,7 +2981,7 @@
                 ]
             },
             {
-                "text": "s_c nets them four healthy d_mp_p to take back to camp, but it only irritates {PRONOUN\/s_c\/poss} siblings. r_c never even got the chance to even try for a pounce - {VERB\/r_c\/are\/is} {PRONOUN\/r_c\/subject} only there to carry around s_c's prey?",
+                "text": "s_c leur rapporte quatre d_mp_p en bonne santé à ramener au camp, mais cela n'irrite que {PRONOUN/s_c/poss} frères et sœurs. r_c n'a même pas eu la chance d'essayer un bond — {VERB/r_c/are/is} {PRONOUN/r_c/subject} seulement là pour porter la proie de s_c ?",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -3012,7 +3012,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "It isn't a very successful hunt - they'll have to head out again for more soon.",
+                "text": "Ce n'est pas une chasse très fructueuse — ils devront repartir bientôt pour en obtenir plus.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -3043,15 +3043,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "Sometimes, it's just nice to hang out with {PRONOUN\/r_c\/poss} siblings. Especially when they hear thunder rolling across the desert, ears pricked up, noses pointed upwards as the cats try to sniff for the smell of rain.",
-        "decline_text": "But sometimes, you get called back to camp instead. Ah well, another time!",
+        "intro_text": "Parfois, il est simplement agréable de traîner avec {PRONOUN/r_c/poss} frères et sœurs. Surtout quand ils entendent le tonnerre rouler à travers le désert, oreilles dressées, nez pointés vers le ciel tandis que les chats cherchent l'odeur de la pluie.",
+        "decline_text": "Mais parfois, on vous rappelle au camp à la place. Tant pis, une autre fois !",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "A scruffy d_mp_s, a bundle of d_tp_p, and a patrol spent retreading all their favorite in-jokes... It's a good day.",
+                "text": "Un d_mp_s râpeux, un tas de d_tp_p, et une patrouille passée à se remémorer toutes leurs vieilles blagues... C'est une bonne journée.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3075,7 +3075,7 @@
                 ]
             },
             {
-                "text": "There's just something nice about hanging out with other warriors who'll always be there for {PRONOUN\/r_c\/object}, regardless of their similarities and differences. And they also bring back a good-sized d_mp_s with some d_tp_p on the side for the fresh-kill pile.",
+                "text": "Il y a quelque chose de réconfortant à traîner avec d'autres guerriers qui seront toujours là pour {PRONOUN/r_c/object}, malgré leurs similitudes et différences. Et ils ramènent aussi un bon d_mp_s avec quelques d_tp_p pour la pile de prises fraîches.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3099,7 +3099,7 @@
                 ]
             },
             {
-                "text": "The siblings are proud of s_c, watching s_c fish prey from seemingly barren lands through talent and wit.",
+                "text": "Les frères et sœurs sont fiers de s_c, regardant s_c pêcher des proies dans des terres apparemment stériles par le talent et l'ingéniosité.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -3130,7 +3130,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "They don't manage anything like the number of catches they were all expecting to get - a bit disappointing, even if they're not entirely empty-pawed.",
+                "text": "Ils n'obtiennent pas autant de prises qu'ils l'espéraient — un peu décevant, même s'ils ne rentrent pas complètement bredouilles.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -3138,7 +3138,7 @@
                 ]
             },
             {
-                "text": "Thunder and lightning - but no rain, and r_c gets too close investigating it. These clouds bring fire, not life.",
+                "text": "Tonnerre et éclairs — mais pas de pluie, et r_c s'approche trop près en l'explorant. Ces nuages apportent le feu, pas la vie.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3156,9 +3156,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries the scars of escaping a wildfire, brought on by lightning strikes in leaf-fall.",
-                    "reg_death": "m_c was killed by the damage {PRONOUN\/m_c\/subject} took escaping a wildfire out in the territory with {PRONOUN\/m_c\/poss} siblings.",
-                    "lead_death": "was killed by the damage {PRONOUN\/m_c\/subject} took escaping a wildfire out in the territory with {PRONOUN\/m_c\/poss} siblings"
+                    "scar": "m_c porte les cicatrices d'avoir échappé à un incendie provoqué par des éclairs en automne.",
+                    "reg_death": "m_c a été tué par les blessures subies en fuyant un incendie dans le territoire avec {PRONOUN/m_c/poss} frères et sœurs.",
+                    "lead_death": "a été tué par les blessures subies en fuyant un incendie dans le territoire avec {PRONOUN/m_c/poss} frères et sœurs"
                 },
                 "prey": [
                     "very_small"
@@ -3188,15 +3188,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The first scattered clouds are here, and while they don't look heavy enough to bring rain, the relief from the sun still helps. r_c has been assigned a moderately tolerable hunting patrol - {PRONOUN\/r_c\/poss} siblings!",
-        "decline_text": "Cancel that - a border patrol needs backup.",
+        "intro_text": "Les premiers nuages épars sont là, et même s'ils ne semblent pas assez lourds pour apporter la pluie, l'ombre qu'ils offrent soulage du soleil. r_c s'est vu assigner une patrouille de chasse modérément tolérable — {PRONOUN/r_c/poss} frères et sœurs !",
+        "decline_text": "Annulez ça — une patrouille de frontière a besoin de renforts.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Watching r_c execute a fantastic leap to bring down a d_mp_s, p_l smiles. Does r_c remember the time {PRONOUN\/r_c\/subject} tried to do that as a kitten, and stood on {PRONOUN\/r_c\/poss} own tail? The siblings laugh about it together as they move on to the next hunting ground.",
+                "text": "En regardant r_c exécuter un saut fantastique pour abattre un d_mp_s, p_l sourit. Est-ce que r_c se souvient de la fois où {PRONOUN/r_c/subject} a essayé ça en tant que chaton, et s'est retrouvé debout sur sa propre queue ? Les frères et sœurs en rient ensemble en se dirigeant vers le prochain terrain de chasse.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3220,7 +3220,7 @@
                 ]
             },
             {
-                "text": "It's been a while since they've been on a patrol alone together, and after they catch a couple d_tp_p and a d_mp_s for the fresh-kill pile, r_c spends a bit just chasing {PRONOUN\/r_c\/poss} siblings around the forest, batting at each other in a moment of silliness.",
+                "text": "Ça faisait longtemps qu'ils n'avaient pas été en patrouille seuls ensemble, et après avoir attrapé quelques d_tp_p et un d_mp_s pour la pile fraiche, r_c passe un moment à poursuivre {PRONOUN/r_c/poss} frères et sœurs dans la forêt, se battant affectueusement.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3244,7 +3244,7 @@
                 ]
             },
             {
-                "text": "r_c jokes that {PRONOUN\/r_c\/subject} can't possibly be related to s_c - clearly s_c was born from vultures, not cats, with the way {PRONOUN\/s_c\/subject} {VERB\/s_c\/spot\/spots} opportunities no one else picks up on.",
+                "text": "r_c plaisante en disant que {PRONOUN/r_c/subject} ne peut certainement pas être apparenté à s_c — clairement s_c est né de vautours, pas de chats, avec la façon dont {PRONOUN/s_c/subject} {VERB/s_c/spot/spots} des opportunités que personne d'autre ne voit.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -3274,7 +3274,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Sometimes, the prey just doesn't run, and today is one of those times.",
+                "text": "Parfois, la proie ne bouge tout simplement pas, et aujourd'hui est l'un de ces jours.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -3282,7 +3282,7 @@
                 ]
             },
             {
-                "text": "r_c sees a ground squirrel {PRONOUN\/r_c\/subject}'d like for the fresh-kill pile, but the chase goes badly - {PRONOUN\/r_c\/subject} {VERB\/r_c\/throw\/throws} out a front paw to stop {PRONOUN\/r_c\/poss} fall, claws digging into dirt, and it works, but it wrenches {PRONOUN\/r_c\/poss} foreleg out of socket. Fleas and ticks!",
+                "text": "r_c voit un écureuil terrestre qui plairait à {PRONOUN/r_c/subject} pour la pile fraiche, mais la chasse tourne mal — {PRONOUN/r_c/subject} {VERB/r_c/throw/throws} une patte avant pour empêcher la chute, les griffes s'enfonçant dans la terre, et ça fonctionne, mais ça déboîte {PRONOUN/r_c/poss} avant-bras. Puces et tiques !",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3324,15 +3324,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The hunting patrol heads out early, before the sun can rise to pelt-scorching heights.",
-        "decline_text": "They encounter a dawn patrol on their way back to camp and join up with them instead.",
+        "intro_text": "La patrouille de chasse part tôt, avant que le soleil ne monte et ne devienne brûlant.",
+        "decline_text": "Ils rencontrent une patrouille à l'aube en revenant au camp et la rejoignent à la place.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "p_l grabs a massive d_mp_s that {PRONOUN\/p_l\/subject} can barely carry, and r_c congratulates {PRONOUN\/p_l\/object}, secretly wondering if {PRONOUN\/r_c\/subject}'ll ever manage to surpass {PRONOUN\/r_c\/poss} sibling's achievements.",
+                "text": "p_l attrape un énorme d_mp_s qu'{PRONOUN/p_l/subject} peut à peine porter, et r_c félicite {PRONOUN/p_l/object}, se demandant secrètement si {PRONOUN/r_c/subject}'ll surpassera un jour les réalisations de {PRONOUN/r_c/poss} frère ou sœur.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3355,7 +3355,7 @@
                 ]
             },
             {
-                "text": "r_c always feels like {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} padding in p_l's footsteps, especially today, watching {PRONOUN\/p_l\/object} haul back such a good catch of prey for the Clan, a contribution that more than makes up for r_c's meager offerings.",
+                "text": "r_c se sent toujours comme si {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} dans l'ombre de p_l, surtout aujourd'hui, en regardant {PRONOUN/p_l/object} ramener une si bonne prise pour le Clan, une contribution qui compense largement les maigres apports de r_c.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3380,7 +3380,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Sometimes, the prey just doesn't run, and today is one of those times.",
+                "text": "Parfois, la proie ne court tout simplement pas, et aujourd'hui en est un exemple.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3403,7 +3403,7 @@
                 ]
             },
             {
-                "text": "r_c comes down with a debilitating headache, making {PRONOUN\/r_c\/object} stagger, dizzy and weak, as {PRONOUN\/r_c\/subject}{VERB\/r_c\/'re\/'s} helped back to camp.",
+                "text": "r_c est pris d'un terrible mal de tête, le faisant tituber, étourdi et faible, tandis que {PRONOUN/r_c/subject}{VERB/r_c/'re/'s} aidé pour retourner au camp.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3460,15 +3460,15 @@
             ]
         },
         "weight": 40,
-        "intro_text": "The siblings head out to one of the further hunting grounds of the desert, where a lone early rain shower has dropped life onto the arid plains - worth the long walk.",
-        "decline_text": "They decide to bask for a bit instead of making the long walk.",
+        "intro_text": "Les frères et sœurs partent pour l'un des terrains de chasse les plus éloignés du désert, où une averse matinale isolée a apporté de la vie sur les plaines arides — le détour en valait la peine.",
+        "decline_text": "Ils décident de se prélasser un peu plutôt que de faire la longue marche.",
         "chance_of_success": 50,
         "relationship_constraint": [
             "siblings"
         ],
         "success_outcomes": [
             {
-                "text": "Together, they collect an old d_mp_s and two d_mp_p. It should be a great patrol, returning with so much prey - but r_c is acting obnoxious and {PRONOUN\/r_c\/poss} siblings have little time or patience for it.",
+                "text": "Ensemble, ils ramènent un vieux d_mp_s et deux d_mp_p. Cela aurait dû être une excellente patrouille, revenant avec tant de prises — mais r_c se comporte de manière odieuse et {PRONOUN/r_c/poss} frères et sœurs ont peu de patience pour ça.",
                 "exp": 20,
                 "weight": 20,
                 "prey": [
@@ -3491,7 +3491,7 @@
                 ]
             },
             {
-                "text": "r_c makes a dumb comment that accidentally cuts deep. {PRONOUN\/r_c\/poss\/CAP} siblings work with {PRONOUN\/r_c\/object} long enough to bring back a good haul of prey - but no longer.",
+                "text": "r_c fait un commentaire stupide qui blesse involontairement. {PRONOUN/r_c/poss/CAP} frères et sœurs travaillent encore avec {PRONOUN/r_c/object} assez longtemps pour ramener une bonne quantité de prises — mais pas plus.",
                 "exp": 20,
                 "weight": 5,
                 "prey": [
@@ -3516,7 +3516,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Today is just not their day.",
+                "text": "Aujourd'hui n'est tout simplement pas leur jour.",
                 "exp": 0,
                 "weight": 20,
                 "prey": [
@@ -3524,7 +3524,7 @@
                 ]
             },
             {
-                "text": "The patrol tries to hunt, but r_c keeps stopping to duck behind bushes, until it's obvious that something is actually wrong. Eww.",
+                "text": "La patrouille essaie de chasser, mais r_c n'arrête pas de se cacher derrière des buissons, jusqu'à ce qu'il soit évident que quelque chose ne va vraiment pas. Beurk.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3570,12 +3570,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "The sun beats down on the desert, driving every creature away from its gaze with blinding heat.",
-        "decline_text": "Giving up on the hunt, r_c finds a burrow to wait out the heat of the day until they can return back to camp.",
+        "intro_text": "Le soleil tape sur le désert, chassant chaque créature de son regard par une chaleur aveuglante.",
+        "decline_text": "Abandonnant la chasse, r_c trouve un terrier pour attendre la chaleur du jour jusqu'à pouvoir retourner au camp.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "r_c considers pushing through to try to find a catch, but it's not worth it. They find a burrow to wait out the heat of the day - except this burrow seems occupied. The tortoise inside puts up a fight, but r_c manages to flip their positions and drive it out into the heat, which slowly kills it.",
+                "text": "r_c envisage de pousser plus loin pour tenter une prise, mais ce n'est pas la peine. Ils trouvent un terrier pour attendre la chaleur — sauf que ce terrier semble occupé. La tortue à l'intérieur oppose une résistance, mais r_c parvient à inverser les positions et à la chasser au soleil, qui la tue lentement.",
                 "exp": 15,
                 "weight": 5,
                 "prey": [
@@ -3583,7 +3583,7 @@
                 ]
             },
             {
-                "text": "Anticipating the heat of the sun, s_c has positioned themselves in the shadowed depths around a shaded tiny pool in the rocks. As predicted, it's not long until the water draws in a Thunderpath-runner, and the bird is dispatched neatly and quietly.",
+                "text": "Anticipant la chaleur du soleil, s_c s'est placé à l'ombre près d'une petite mare rocheuse. Comme prévu, ce n'est pas long avant que l'eau n'attire un coureur de la Thunderpath, et l'oiseau est abattu proprement et silencieusement.",
                 "exp": 15,
                 "weight": 20,
                 "stat_skill": [
@@ -3594,7 +3594,7 @@
                 ]
             },
             {
-                "text": "s_c watches from the shade of a large rock formation. Eventually their wait pays off, and they spot a lizard searching for shelter from the sun. It finds shelter, but also s_c, and they settle back down to wait until it's cooler to try and bring their catch back to c_n.",
+                "text": "s_c observe depuis l'ombre d'une grande formation rocheuse. Finalement, leur attente paye, et ils repèrent un lézard cherchant un abri contre le soleil. Il trouve un abri, mais aussi s_c, et ils se replient pour attendre qu'il fasse plus frais avant d'essayer de ramener la prise à c_n.",
                 "exp": 15,
                 "weight": 20,
                 "stat_trait": [
@@ -3613,7 +3613,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Making the smart choice, r_c doesn't move from the shade, taking a good long nap in the heat.",
+                "text": "Faisant le choix intelligent, r_c ne bouge pas de l'ombre et fait une bonne sieste à l'abri de la chaleur.",
                 "exp": 0,
                 "weight": 20
             }
@@ -3641,12 +3641,12 @@
             ]
         },
         "weight": 20,
-        "intro_text": "The sun beats down on the desert, driving every creature away from its gaze with blinding heat.",
-        "decline_text": "Giving up on the hunt, app1 finds a burrow to wait out the heat of the day until they can return back to camp.",
+        "intro_text": "Le soleil tape sur le désert, chassant chaque créature de son regard par une chaleur aveuglante.",
+        "decline_text": "Abandonnant la chasse, app1 trouve un terrier pour attendre la chaleur du jour jusqu'à pouvoir retourner au camp.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "app1 considers pushing through to try to find a catch, but it's not worth it. They find a burrow to wait out the heat of the day - except their burrow is occupied, and app1 instead has to wait out the heat in the uncomfortable shade of a cactus.",
+                "text": "app1 envisage de pousser plus loin pour tenter une prise, mais ce n'est pas la peine. Ils trouvent un terrier pour attendre la chaleur — sauf que leur terrier est occupé, et app1 doit plutôt attendre l'ombre inconfortable d'un cactus.",
                 "exp": 15,
                 "weight": 5,
                 "prey": [
@@ -3654,7 +3654,7 @@
                 ]
             },
             {
-                "text": "s_c watches from the shade of a large rock formation. Eventually their wait pays off, and they spot a lizard searching for shelter from the sun. It finds shelter, but sadly not in the place s_c waits.",
+                "text": "s_c observe depuis l'ombre d'une grande formation rocheuse. Finalement, leur attente paye, et ils repèrent un lézard cherchant un abri contre le soleil. Il trouve un abri, mais malheureusement pas là où s_c attendait.",
                 "exp": 15,
                 "weight": 20,
                 "stat_trait": [
@@ -3676,25 +3676,25 @@
         ],
         "fail_outcomes": [
             {
-                "text": "Making the smart choice, app1 doesn't move from the shade, taking a good long nap in the heat.",
+                "text": "Faisant le choix intelligent, app1 ne bouge pas de l'ombre et fait une bonne sieste à l'abri de la chaleur.",
                 "exp": 0,
                 "weight": 20
             },
             {
-                "text": "app1 doesn't make it back to camp. A patrol sent out for them find their body, collapsed in a shadeless part of the territory and already starting to dry out and mummify.",
+                "text": "app1 ne revient pas au camp. Une patrouille envoyée à sa recherche trouve son corps, effondré dans une zone sans ombre du territoire et déjà en train de se dessécher et de se momifier.",
                 "exp": 0,
                 "weight": 10,
                 "dead_cats": [
                     "app1"
                 ],
                 "history_text": {
-                    "scar": "This cat got heatstroke while on a patrol.",
-                    "reg_death": "This cat died from heat stroke.",
-                    "lead_death": "died from heat stroke"
+                    "scar": "Ce chat a eu un coup de chaleur pendant une patrouille.",
+                    "reg_death": "Ce chat est mort d'un coup de chaleur.",
+                    "lead_death": "mort d'un coup de chaleur"
                 }
             },
             {
-                "text": "app1 collapses from heat exhaustion while trying to position themselves for a hunt. They're able to move to the shade, but the hunt is over, and it's only when a Clanmate finds them that they're able to totter home shakily.",
+                "text": "app1 s'effondre d'épuisement dû à la chaleur en essayant de se positionner pour une chasse. Ils parviennent à se déplacer à l'ombre, mais la chasse est finie, et ce n'est que lorsqu'un camarade de Clan les trouve qu'ils peuvent rentrer chancelants.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3709,9 +3709,9 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "This cat got heatstroke while on a patrol.",
-                    "reg_death": "This cat died from heat stroke.",
-                    "lead_death": "died from heat stroke"
+                    "scar": "Ce chat a eu un coup de chaleur pendant une patrouille.",
+                    "reg_death": "Ce chat est mort d'un coup de chaleur.",
+                    "lead_death": "mort d'un coup de chaleur"
                 }
             }
         ]
@@ -3733,12 +3733,12 @@
         "max_cats": 6,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "The patrol spots a swift fox in the distance, behaving weirdly.",
-        "decline_text": "Best not to risk a fight. The patrol watches it go.",
+        "intro_text": "La patrouille repère un renard swift au loin, qui se comporte étrangement.",
+        "decline_text": "Mieux vaut ne pas risquer un combat. La patrouille le laisse partir.",
         "chance_of_success": 70,
         "success_outcomes": [
             {
-                "text": "Anticipating the coming rains, this fox is checking for a suitable burrow for her litter. And that burrow will not be in c_n's territory. The patrol makes that clear, screaming and charging at her until the fox flees beyond their borders, away from where her cubs could threaten the Clan.",
+                "text": "Anticipant les pluies à venir, cette renarde cherche un terrier pour sa portée. Et ce terrier ne sera pas sur le territoire de c_n. La patrouille fait clairement comprendre cela, en criant et en chargeant jusqu'à ce que le renard s'enfuie au-delà de leurs frontières, loin d'où ses petits pourraient menacer les chatons du Clan.",
                 "exp": 30,
                 "weight": 20,
                 "relationships": [
@@ -3759,7 +3759,7 @@
                 ]
             },
             {
-                "text": "She's looking for a place to den, and the patrol sets up an ambush. She crossed their borders, but she won't cross back over them again, and with her life ends the threat her cubs would have posed to c_n's kits.",
+                "text": "Elle cherche un endroit pour se mettre bas, et la patrouille prépare une embuscade. Elle a traversé leurs frontières, mais elle ne reviendra pas — et avec sa vie s'éteint la menace que sa portée aurait constituée pour c_n.",
                 "exp": 30,
                 "weight": 5,
                 "prey": [
@@ -3783,7 +3783,7 @@
                 ]
             },
             {
-                "text": "s_c holds the patrol back until the swift fox's yips bring her mate, then the patrol strikes. While the vixen flees, her mate fights, and against warriors he doesn't stand a chance.",
+                "text": "s_c retient la patrouille jusqu'à ce que les jappements de la renarde attirent son compagnon, puis la patrouille frappe. La femelle fuit, mais son mâle se bat, et face à des guerriers il n'a aucune chance.",
                 "exp": 30,
                 "weight": 20,
                 "stat_skill": [
@@ -3812,7 +3812,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The swift fox spots the patrol coming and scarpers, tucking tail and fleeing across the horizon in an example of where the small carnivore gets its name.",
+                "text": "Le renard aperçoit la patrouille et file, la queue rentrée, disparaissant à l'horizon, illustrant bien d'où lui vient son nom.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3854,12 +3854,12 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c spots a swift fox in the distance, behaving weirdly. It's the biggest of the foxes in c_n's territory, the size of a cat, and r_c is alone. Should they try and take it on?",
-        "decline_text": "Best not to risk a fight. r_c watches it go.",
+        "intro_text": "r_c repère un renard swift au loin, qui se comporte étrangement. C'est le plus grand des renards du territoire de c_n, de la taille d'un chat, et r_c est seul. Doit-il essayer de l'affronter ?",
+        "decline_text": "Mieux vaut ne pas risquer un combat. r_c le laisse partir.",
         "chance_of_success": 60,
         "success_outcomes": [
             {
-                "text": "She's scouting out potential dens for leaf-bare, r_c realizes, and rushes to warn her off. Forget about hunting, driving off this vixen before she sets up a den within c_n's borders is more important.",
+                "text": "Elle sonde des terriers potentiels pour l'hiver, r_c le réalise, et se précipite pour la chasser. Oubliez la chasse — chasser cette renarde avant qu'elle n'installe un terrier dans les limites de c_n est plus important.",
                 "exp": 20,
                 "weight": 20,
                 "relationships": [
@@ -3879,7 +3879,7 @@
                 ]
             },
             {
-                "text": "She's scouting out potential dens for leaf-bare, r_c realizes. This could be bad, and r_c gives up on the hunt, instead following the vixen and using tall rocks to bounce their yowls around her, convincing her this patch of desert contains a  thousand cats and warning her off from try to live in it.",
+                "text": "Elle recherche des terriers pour l'hiver, comprend r_c. Cela pourrait être grave, et r_c abandonne la chasse pour suivre la renarde et utiliser des rochers pour amplifier ses hurlements autour d'elle, lui faisant croire que mille chats occupent déjà la zone.",
                 "exp": 20,
                 "weight": 5,
                 "relationships": [
@@ -3899,7 +3899,7 @@
                 ]
             },
             {
-                "text": "s_c positions {PRONOUN\/s_c\/self} down a burrow in the vixen's path, and as the swift fox approaches s_c bursts from it, pinning her down and using surprise to get in a crucial blow to her throat.",
+                "text": "s_c se positionne en embuscade dans un terrier sur le chemin de la renarde, et lorsque celle-ci approche s_c jaillit, la cloue au sol et assène un coup fatal à la gorge grâce à la surprise.",
                 "exp": 20,
                 "weight": 20,
                 "stat_skill": [
@@ -3928,7 +3928,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "The swift fox spots r_c coming and scarpers, tucking tail and fleeing across the horizon in an example of where the small carnivore gets its name.",
+                "text": "Le renard aperçoit r_c et file, la queue rentrée, disparaissant à l'horizon comme l'indique son nom.",
                 "exp": 0,
                 "weight": 20,
                 "relationships": [
@@ -3951,7 +3951,7 @@
                 ]
             },
             {
-                "text": "Puffed up, r_c approaches the swift fox. But there's only one of {PRONOUN\/r_c\/object}, and the fox is {PRONOUN\/r_c\/poss} equal in size and weight. Instead of running or giving up, it snarls and attacks. r_c gives just as good as {PRONOUN\/r_c\/subject} {VERB\/r_c\/get\/gets}, and both animals end up limping away.",
+                "text": "Gonflé d'orgueil, r_c s'approche du renard. Mais il n'y a qu'un seul renard et il est égal en taille et en poids. Au lieu de fuir ou d'abandonner, il grogne et attaque. r_c riposte et tous deux s'en tirent boitant.",
                 "exp": 0,
                 "weight": 10,
                 "injury": [
@@ -3968,7 +3968,7 @@
                     }
                 ],
                 "history_text": {
-                    "scar": "m_c carries a scar from fighting with a swift fox."
+                    "scar": "m_c porte une cicatrice d'un combat contre un renard swift."
                 },
                 "relationships": [
                     {
