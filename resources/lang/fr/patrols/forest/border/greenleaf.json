@@ -16,17 +16,17 @@
         "max_cats": 1,
         "min_max_status": {},
         "weight": 20,
-        "intro_text": "r_c looks at the small stream {PRONOUN\/r_c\/subject} {VERB\/r_c\/have\/has} to cross to continue marking the border, and {VERB\/r_c\/debate\/debates} stopping for a quick swim to cool off.",
-        "decline_text": "r_c decides to continue with the patrol instead.",
+        "intro_text": "r_c regarde le petit ruisseau que {PRONOUN/r_c/subject} {VERB/r_c/have/has} à traverser pour continuer à marquer la frontière, et {VERB/r_c/debate/debates} s'arrêter pour une brève baignade afin de se rafraîchir.",
+        "decline_text": "r_c décide plutôt de poursuivre la patrouille.",
         "chance_of_success": 50,
         "success_outcomes": [
             {
-                "text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/stop\/stops} to swim for a few moments, and soon {VERB\/r_c\/feel\/feels} rejuvenated, cooled, and ready to carry on marking the border.",
+                "text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/stop/stops} pour nager quelques instants, et bientôt {VERB/r_c/feel/feels} revigoré, rafraîchi et prêt à reprendre le marquage de la frontière.",
                 "exp": 5,
                 "weight": 20
             },
             {
-                "text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/stick\/sticks} to {PRONOUN\/r_c\/poss} task, although instead of leaping the little stream, r_c wades through it. The water cools {PRONOUN\/r_c\/poss} paws pleasantly.",
+                "text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/stick/sticks} à {PRONOUN/r_c/poss} tâche, mais au lieu de sauter par-dessus le petit ruisseau, r_c le traverse à gué. L'eau rafraîchit agréablement {PRONOUN/r_c/poss} pattes.",
                 "exp": 5,
                 "weight": 20,
                 "stat_trait": [
@@ -41,7 +41,7 @@
         ],
         "fail_outcomes": [
             {
-                "text": "{PRONOUN\/r_c\/subject\/CAP} {VERB\/r_c\/get\/gets} distracted while splashing in the water. r_c swears {PRONOUN\/r_c\/subject} saw a fish, but it derails {PRONOUN\/r_c\/poss} border patrol completely, and {PRONOUN\/r_c\/subject} {VERB\/r_c\/get\/gets} nothing done.",
+                "text": "{PRONOUN/r_c/subject/CAP} {VERB/r_c/get/gets} distrait en s'ébrouant dans l'eau. r_c jure que {PRONOUN/r_c/subject} a vu un poisson, mais cela fait dérailler complètement la patrouille de {PRONOUN/r_c/poss}, et {PRONOUN/r_c/subject} {VERB/r_c/get/gets} rien.",
                 "exp": 0,
                 "weight": 20
             }
